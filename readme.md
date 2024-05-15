@@ -69,7 +69,7 @@ MIC (gut microbes and related pathways)
 Note that primary MR analysis must be performed first to conduct mediation analysis.
 (i.e. --pheMR should contain IEU for all mediation analysis; --pheMR should contain IME for mediation analysis choosing IME; --pheMR should contain MIC for mediation analysis choosing MIC;)
 
---IEUaccess This is required if you want to perform mediation analysis.
+--IEUaccess: This is required if you want to perform mediation analysis.
 IEU access can be accessed at https://api.opengwas.io/
 
 --sensitivity: Whether to conduct sensitivity analysis: YES or NO
