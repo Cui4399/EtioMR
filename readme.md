@@ -32,7 +32,7 @@ remotes::install_github("MRCIEU/TwoSampleMR")
 
 (3) Run test data:
 
-cd ./EtioMR
+'''cd ./EtioMR
 
 Rscript RunEtioMR.R \
 --sumstats test.txt.gz \
@@ -41,7 +41,7 @@ Rscript RunEtioMR.R \
 --mediation IME#MIC \
 --IEUaccess Your IEU access \
 --out result_test \
---test YES
+--test YES'''
 
 
 
