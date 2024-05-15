@@ -94,7 +94,8 @@ if("MIC" %in% inputmediation){
    }
 }
 
-if(inputmediation != "NO"){
+if("NO" %in% inputmediation){
+}else{
   if(inputaccess == "NO"){
     print("Can not perform mediation analysis without IEU access")
     q()
