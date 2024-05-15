@@ -1,6 +1,7 @@
+# EtioMR
 The package "EtioMR" are used for exploring phenome-wide causal associations and mediation factors, which could significantly enhance the understanding of the etiology and pathogenesis of any disease, particularly rare diseases with unclear etiology, utilizing only GWAS summary statistics as input dataset. This package enables the phenome-wide MR analysis among health factors, biological traits, and molecular features; MR Mediation analysis for disease causing health factors; as well as sensitivity analysis including six MR methods, pleiotropy, and heterogeneity.
 
-(1) Prepare for GWAS summary statistics files:
+***(1) Prepare for GWAS summary statistics files:***
 
 The file can be in formats including comma-separated, tab-separated, or space-separated. 
 
@@ -18,7 +19,7 @@ ncase_col = "ncase",
 samplesize_col = "samplesize",
 phenotype_col = "Phenotype"
 
-(2) Prepare package needed:
+***(2) Prepare package needed:***
 data.table
 optparse
 TwoSampleMR
@@ -30,8 +31,8 @@ install.packages("ieugwasr")
 install.packages("remotes")
 remotes::install_github("MRCIEU/TwoSampleMR")
 
-(3) Run test data:
-
+***(3) Run test data:***
+```
 cd ./EtioMR
 
 Rscript RunEtioMR.R \
@@ -42,10 +43,9 @@ Rscript RunEtioMR.R \
 --IEUaccess Your IEU access \
 --out result_test \
 --test YES
+```
 
-
-
-(4) options:
+***(4) options:***
 
 --sumstats: Path to summary statistics [required]
 
@@ -79,3 +79,5 @@ default: NO
 default: NO
 Be sure to include "--test YES" when using the test dataset (test.txt.gz)
 The test sets of exposure are a small set of exposures including all categories in the --phenMR option. It is only used for a fast test of the package.
+***Citation***
+
