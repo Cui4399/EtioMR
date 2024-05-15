@@ -79,5 +79,6 @@ default: NO
 default: NO
 Be sure to include "--test YES" when using the test dataset (test.txt.gz)
 The test sets of exposure are a small set of exposures including all categories in the --phenMR option. It is only used for a fast test of the package.
-***Citation***
+
+***(4) Citation***
 
