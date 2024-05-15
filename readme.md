@@ -47,11 +47,11 @@ Rscript RunEtioMR.R \
 
 ***(4) Options:***
 
---sumstats: Path to summary statistics [required]
+**--sumstats**: Path to summary statistics [required]
 
---out: Path to output files [required]
+**--out**: Path to output files [required]
 
---phenMR: Choose exposure datasets:[required]
+**--phenMR**: Choose exposure datasets:[required]
 options:
 IEU (2115 phenotypes from IEU-UK Biobank, including IEU analysis of UK Biobank phenotypes, Neale lab analysis of UK Biobank phenotypes round 1 and 2)
 UKB (3400 phenotypes from UK Biobank)
@@ -63,16 +63,16 @@ deCODE (proteins from deCODE genetics)
 GEN (gene expression in 12 immune cells from DICE project by single-cell RNA-sequencing)
 Multiple traits should be separated by # 
 
---mediation: Choose mediator datasets:
+**--mediation**: Choose mediator datasets:
 IME (immune cell traits)
 MIC (gut microbes and related pathways)
 Note that primary MR analysis must be performed first to conduct mediation analysis.
 (i.e. --pheMR should contain IEU for all mediation analysis; --pheMR should contain IME for mediation analysis choosing IME; --pheMR should contain MIC for mediation analysis choosing MIC;)
 
---IEUaccess: This is required if you want to perform mediation analysis.
+**--IEUaccess**: This is required if you want to perform mediation analysis.
 IEU access can be accessed at https://api.opengwas.io/
 
---sensitivity: Whether to conduct sensitivity analysis: YES or NO
+**--sensitivity**: Whether to conduct sensitivity analysis: YES or NO
 default: NO
 
 --test: Whether to perform test sets of exposure: YES or NO
