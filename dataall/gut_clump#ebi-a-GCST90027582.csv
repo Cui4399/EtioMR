@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,21530659,-0.0818261,0.0169698,1.42226e-06,7738,ebi-a-GCST90027582,rs60960031,A,G,0.400586,PWY.6519..8.amino.7.oxononanoate.biosynthesis.I,TRUE,reported,igd
+4,25813070,-0.0793088,0.0173543,4.87798e-06,7738,ebi-a-GCST90027582,rs936232,A,G,0.354711,PWY.6519..8.amino.7.oxononanoate.biosynthesis.I,TRUE,reported,igd
+5,149528418,-0.169484,0.0369058,4.38319e-06,7738,ebi-a-GCST90027582,rs17110951,C,G,0.0679397,PWY.6519..8.amino.7.oxononanoate.biosynthesis.I,TRUE,reported,igd
+7,130009353,-0.0847983,0.0178449,2.01442e-06,7738,ebi-a-GCST90027582,rs17164872,T,G,0.346663,PWY.6519..8.amino.7.oxononanoate.biosynthesis.I,TRUE,reported,igd
+19,53441061,0.0997311,0.0213437,2.97379e-06,7738,ebi-a-GCST90027582,rs10408553,A,G,0.205165,PWY.6519..8.amino.7.oxononanoate.biosynthesis.I,TRUE,reported,igd

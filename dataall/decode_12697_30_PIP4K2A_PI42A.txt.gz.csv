@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,22888542,rs11013176,G,A,-0.1246,1.836e-44,0.008907,35356,0.28369,PIP4K2A_PI42A,TRUE,reported,PIP4K2A_PI42A

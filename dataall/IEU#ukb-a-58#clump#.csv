@@ -1,0 +1,5 @@
+"beta.exposure","pval.exposure","se.exposure","chr.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00158201,1.7374e-11,0.000235181,"11",89017961,337159,"ukb-a-58","rs1126809","A","G",0.304801,"Cancer code  self-reported: malignant melanoma || id:ukb-a-58",TRUE,"reported","igd"
+0.00427043,1.10713e-32,0.000358654,"16",89736157,337159,"ukb-a-58","rs35063026","T","C",0.102365,"Cancer code  self-reported: malignant melanoma || id:ukb-a-58",TRUE,"reported","igd"
+0.0025518,2.09315e-11,0.000380887,"16",89977745,337159,"ukb-a-58","rs11538871","T","C",0.0881749,"Cancer code  self-reported: malignant melanoma || id:ukb-a-58",TRUE,"reported","igd"
+0.00240072,5.92789e-11,0.000366758,"20",32505658,337159,"ukb-a-58","rs62209647","C","G",0.105055,"Cancer code  self-reported: malignant melanoma || id:ukb-a-58",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,34420185,rs8136132,G,A,-0.1419,1.945e-08,0.025263,35365,0.02669,HMOX1_HO_1,TRUE,reported,HMOX1_HO_1
+22,35091549,rs73168076,C,A,-0.2639,8.83e-16,0.032815,35367,0.01606,HMOX1_HO_1,TRUE,reported,HMOX1_HO_1
+22,35266245,rs192162197,G,A,-0.6203,3.049e-42,0.045544,35366,0.00801,HMOX1_HO_1,TRUE,reported,HMOX1_HO_1
+22,35376664,rs75689278,G,A,-0.1332,9.958e-10,0.0218,35367,0.03753,HMOX1_HO_1,TRUE,reported,HMOX1_HO_1
+22,36341658,rs11913874,G,C,-0.2221,1.776e-09,0.036912,35377,0.01246,HMOX1_HO_1,TRUE,reported,HMOX1_HO_1

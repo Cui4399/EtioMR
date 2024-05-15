@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,139210698,A,G,0.308682,0.0861743,0.0187543,4.32953e-06,rs62173529,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+5,7377879,T,C,0.0676839,-0.162212,0.0343623,2.35106e-06,rs16878604,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+5,18845597,C,T,0.0860484,-0.150704,0.0318478,2.22313e-06,rs987948,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+7,21828898,A,G,0.0848021,0.143026,0.0311893,4.52379e-06,rs78172873,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+8,136026690,G,A,0.0548873,0.191849,0.0377429,3.71447e-07,rs116906641,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+11,62242139,T,C,0.191296,0.10494,0.0217861,1.45853e-06,rs2232946,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+13,87909811,C,T,0.335388,-0.0855982,0.0186574,4.47729e-06,rs9518832,6674,S-methylmethionine levels,TRUE,reported,EjvDC6
+21,39138770,A,G,0.115979,-0.130067,0.0271771,1.70212e-06,rs2205127,6674,S-methylmethionine levels,TRUE,reported,EjvDC6

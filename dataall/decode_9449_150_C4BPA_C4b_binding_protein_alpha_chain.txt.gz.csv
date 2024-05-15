@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,206104967,rs28694580,C,A,-0.669,1.216e-09,0.110067,35362,0.00169,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206641455,rs10633836,ATATATAT,ATAT,0.3408,1.114e-19,0.037545,35374,0.01186,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206729092,rs55712453,G,A,0.2016,1.078e-11,0.029666,35374,0.01964,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206732454,rs3813961,G,C,0.1912,1.003e-08,0.033367,35374,0.01487,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206823039,rs142860569,T,C,0.1271,7.403e-13,0.017722,35374,0.05869,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206918653,rs10652847,GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG,GTGTGTGTGTGTGTGTGTGTGTGTGTGTG,0.1284,1.229e-08,0.022544,35374,0.03457,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,206941343,rs114199706,T,C,0.2919,1.379e-24,0.028519,35374,0.02172,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207084913,rs139286467,C,T,-0.201,2.524e-09,0.033725,35369,0.01576,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207107358,rs2808468,G,A,0.492,1e-200,0.010957,35368,0.11149,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207117838,rs77414073,A,T,0.2706,1.272e-27,0.024846,35369,0.02799,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207153447,rs10864091,A,G,-0.0818,2.478e-21,0.008626,35369,0.36228,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207514208,rs115075067,G,A,-0.1353,8.426e-10,0.022048,35369,0.03776,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207683877,rs41314532,A,G,0.2264,4.749e-22,0.023453,35370,0.03285,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207911167,rs55864664,G,C,0.1812,4.049e-13,0.02498,35369,0.02833,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain
+1,207985952,rs140647224,C,A,0.2193,1.042e-08,0.038314,35368,0.01117,C4BPA_C4b_binding_protein_alpha_chain,TRUE,reported,C4BPA_C4b_binding_protein_alpha_chain

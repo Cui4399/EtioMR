@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","beta.exposure","pval.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000213947,463010,0.00133164,4.79999e-10,"1",109817838,"ukb-b-16662","rs660240","C","T",0.784825,"Diagnoses - secondary ICD10: I25.2 Old myocardial infarction || id:ukb-b-16662",TRUE,"reported","igd"
+0.000237793,463010,0.00187902,2.70023e-15,"6",161089307,"ukb-b-16662","rs56393506","T","C",0.171301,"Diagnoses - secondary ICD10: I25.2 Old myocardial infarction || id:ukb-b-16662",TRUE,"reported","igd"
+0.000175531,463010,0.00161388,3.80014e-20,"9",22100176,"ukb-b-16662","rs1556516","C","G",0.500982,"Diagnoses - secondary ICD10: I25.2 Old myocardial infarction || id:ukb-b-16662",TRUE,"reported","igd"

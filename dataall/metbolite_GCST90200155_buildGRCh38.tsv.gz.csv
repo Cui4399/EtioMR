@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,38506362,C,T,0.928904,-0.164862,0.034228,1.46038e-06,rs9369064,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+6,148134317,C,G,0.0148684,-0.364498,0.0722487,4.53422e-07,rs3813673,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+6,160260282,C,T,0.379975,-0.0847879,0.0176911,1.64567e-06,rs316023,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+12,12581986,A,G,0.0260951,0.258469,0.0549098,2.512e-06,rs17758249,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+14,99122665,T,C,0.234419,0.101282,0.0210841,1.55759e-06,rs1257512,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+15,74735539,T,C,0.253808,0.0929646,0.0199014,2.99372e-06,rs2472297,6448,2-furoylcarnitine levels,TRUE,reported,N3apev
+20,15602871,A,G,0.02127,-0.280089,0.0606092,3.8148e-06,rs16996107,6448,2-furoylcarnitine levels,TRUE,reported,N3apev

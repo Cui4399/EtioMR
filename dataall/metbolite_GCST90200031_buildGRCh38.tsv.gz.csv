@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,74971148,C,T,0.0144965,0.399707,0.0656099,1.11388e-09,rs149556176,7669,Nonanoylcarnitine (C9) levels,TRUE,reported,RqMTvC
+1,75758325,T,C,0.302297,-0.379035,0.0163653,1.13056e-118,rs2185152,7669,Nonanoylcarnitine (C9) levels,TRUE,reported,RqMTvC
+4,158708662,C,A,0.261665,-0.201561,0.0176917,4.53275e-30,rs17843966,7669,Nonanoylcarnitine (C9) levels,TRUE,reported,RqMTvC
+16,16033378,A,G,0.61212,0.0925924,0.0163841,1.59176e-08,rs2062541,7669,Nonanoylcarnitine (C9) levels,TRUE,reported,RqMTvC

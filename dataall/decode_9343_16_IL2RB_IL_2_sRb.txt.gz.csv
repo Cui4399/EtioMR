@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,37135396,rs228953,A,G,0.0968,4.594e-32,0.008213,35372,0.47515,IL2RB_IL_2_sRb,TRUE,reported,IL2RB_IL_2_sRb

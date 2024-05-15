@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"13",51335402,"rs626711","G","A",3.26861084502e-10,-0.907831776491,0.14443337182281,89,"B_CELL_NAIVE#DLEU7-AS1",TRUE,"reported","AxhINF",NA

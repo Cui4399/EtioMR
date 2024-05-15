@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233689179,A,T,0.378291,-0.114547,0.0184296,5.11947e-10,rs10179094,6163,5-hydroxyindole sulfate levels,TRUE,reported,gAFMCY
+16,28551158,T,C,0.0188465,0.359877,0.0648911,2.92519e-08,rs111875922,6163,5-hydroxyindole sulfate levels,TRUE,reported,gAFMCY
+16,28560684,T,C,0.0367241,0.28735,0.0474107,1.35387e-09,rs34413922,6163,5-hydroxyindole sulfate levels,TRUE,reported,gAFMCY

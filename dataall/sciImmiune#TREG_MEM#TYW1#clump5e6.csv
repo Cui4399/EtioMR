@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"7",66620364,"rs73140561","C","T",3.65730506181e-07,1.50119112976,0.295162546812462,89,"TREG_MEM#TYW1",TRUE,"reported","HUBlax",NA

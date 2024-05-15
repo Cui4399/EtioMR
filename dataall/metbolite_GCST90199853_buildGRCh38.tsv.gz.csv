@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31953683,T,C,0.4433,0.105069,0.0157424,2.4838e-11,rs62142079,7772,"5alpha-pregnan-3beta,20beta-diol monosulfate (1) levels",TRUE,reported,EOQeDu
+5,35967898,A,C,0.150026,0.511472,0.0211274,1.79091e-129,rs10491431,7772,"5alpha-pregnan-3beta,20beta-diol monosulfate (1) levels",TRUE,reported,EOQeDu
+7,99477415,C,T,0.0336861,-0.300374,0.0430871,3.13987e-12,rs148982377,7772,"5alpha-pregnan-3beta,20beta-diol monosulfate (1) levels",TRUE,reported,EOQeDu
+10,5204162,T,C,0.148088,-0.125689,0.0221361,1.36273e-08,rs77697233,7772,"5alpha-pregnan-3beta,20beta-diol monosulfate (1) levels",TRUE,reported,EOQeDu
+12,21208114,TTTC,T,0.158218,0.163796,0.0212827,1.40188e-14,rs151231052,7772,"5alpha-pregnan-3beta,20beta-diol monosulfate (1) levels",TRUE,reported,EOQeDu

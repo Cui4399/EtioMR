@@ -1,0 +1,7 @@
+"chr.exposure","pos.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"4",97434093,-0.00165764,0.000331424,5.69994e-07,463010,"ukb-b-6223","rs6532613","A","G",0.542173," || id:ukb-b-6223",TRUE,"reported","igd"
+"7",98082137,0.00454355,0.000808997,2e-08,463010,"ukb-b-6223","rs36023578","A","G",0.043169," || id:ukb-b-6223",TRUE,"reported","igd"
+"10",21633195,0.0025574,0.000522428,9.80009e-07,463010,"ukb-b-6223","rs2360046","C","G",0.111796," || id:ukb-b-6223",TRUE,"reported","igd"
+"10",20550832,0.00344013,0.000735401,2.90001e-06,463010,"ukb-b-6223","rs117610369","C","T",0.05296," || id:ukb-b-6223",TRUE,"reported","igd"
+"13",39331325,-0.00442815,0.000937249,2.30001e-06,463010,"ukb-b-6223","rs34442115","A","T",0.031962," || id:ukb-b-6223",TRUE,"reported","igd"
+"13",110236414,-0.00159737,0.000343392,3.29997e-06,463010,"ukb-b-6223","rs7330139","T","A",0.371617," || id:ukb-b-6223",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,53453207,rs181627238,GTTTTGTTTTTT,GTTTTTTTTTTT,-0.4765,6.191e-09,0.081992,35374,0.00276,C12orf10_MYG1,TRUE,reported,C12orf10_MYG1

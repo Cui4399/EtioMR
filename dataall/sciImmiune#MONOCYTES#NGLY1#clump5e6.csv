@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"3",25671778,"rs3736605","C","T",1.99779867278e-07,-0.768193520175,0.147742527487605,89,"Classical monocyte#NGLY1",TRUE,"reported","FQsod9",NA

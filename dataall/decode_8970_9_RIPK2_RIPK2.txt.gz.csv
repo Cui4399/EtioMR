@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,89643912,rs160438,G,A,0.0844,8.951e-13,0.011811,35346,0.1329,RIPK2_RIPK2,TRUE,reported,RIPK2_RIPK2

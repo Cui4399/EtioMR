@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,69783226,C,A,0.223133,0.102057,0.0185564,3.80153e-08,rs55947901,8259,3beta-hydroxy-5-cholestenoate levels,TRUE,reported,b3pRSM
+8,64649429,C,T,0.0125061,0.440277,0.0698164,2.85952e-10,rs79531664,8259,3beta-hydroxy-5-cholestenoate levels,TRUE,reported,b3pRSM
+11,110377073,T,C,0.315688,0.320993,0.016547,7.87946e-84,rs1573558,8259,3beta-hydroxy-5-cholestenoate levels,TRUE,reported,b3pRSM
+11,110543638,G,A,0.0304633,-0.440178,0.0445444,4.99372e-23,rs78762835,8259,3beta-hydroxy-5-cholestenoate levels,TRUE,reported,b3pRSM

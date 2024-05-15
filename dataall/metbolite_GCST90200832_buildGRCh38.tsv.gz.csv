@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,38202032,G,T,0.485197,0.0968511,0.0208004,3.22076e-06,rs898978,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+2,234191055,C,A,0.0287407,0.290033,0.0619948,2.89194e-06,rs80332390,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+3,118567183,T,C,0.0839585,-0.169559,0.0367675,3.99452e-06,rs142622373,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+7,119632797,A,G,0.172076,-0.138425,0.0272793,3.88827e-07,rs10236510,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+8,100846652,G,T,0.156197,-0.149903,0.0298937,5.31593e-07,rs7829662,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+9,29378733,G,A,0.705863,0.107804,0.0230583,2.93515e-06,rs12003375,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+12,5278207,T,C,0.0190831,-0.370494,0.0753009,8.64638e-07,rs117717775,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+12,43770886,A,G,0.272687,-0.109065,0.0232828,2.80845e-06,rs1461567,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+12,76187259,C,T,0.018388,-0.362207,0.0767876,2.39346e-06,rs118110285,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+13,42889995,T,C,0.330719,0.103891,0.0219284,2.16118e-06,rs9533291,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo
+17,17424179,A,G,0.297659,0.10577,0.0229459,4.03542e-06,rs11652787,4567,Adenosine 5'-diphosphate (ADP) to citrate ratio,TRUE,reported,lzBaPo

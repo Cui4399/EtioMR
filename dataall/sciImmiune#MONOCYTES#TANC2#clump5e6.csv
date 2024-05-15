@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",61121961,"rs28510567","A","G",5.34253065897e-10,0.820160713965,0.132098659925371,89,"Classical monocyte#TANC2",TRUE,"reported","BexlDN",NA

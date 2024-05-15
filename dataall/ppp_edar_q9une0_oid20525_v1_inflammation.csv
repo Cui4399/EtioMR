@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,108074396,rs6542750,A,G,-0.063615,2.95256862172897e-16,0.00778141,33657,0.351821,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108330879,rs74561880,T,A,0.183936,6.76721539584089e-10,0.0298044,33657,0.0166286,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108527847,rs35423184,A,G,-0.226645,4.55092837084954e-11,0.0344187,33657,0.0123147,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108775185,rs72833190,T,C,0.152513,1.8543854028468e-28,0.0137834,33657,0.0785084,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108936005,rs113279050,A,G,-0.758183,1.08143395129795e-108,0.034232,33657,0.0119649,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108948866,rs114131032,T,C,1.4251,1e-200,0.0312688,33657,0.0140793,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108972629,rs260696,T,C,-0.378803,1e-200,0.00905526,33657,0.21223,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108982030,rs115064799,T,C,0.170213,1.44810482305137e-12,0.0240436,33657,0.0273334,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,108982341,rs140808218,C,G,-0.312984,3.68637914097398e-22,0.0323348,33657,0.0135111,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,109167043,rs72822655,T,C,-0.235492,1.47163463356571e-17,0.0276096,33657,0.0194021,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,109313932,rs75857218,T,C,0.172792,5.45757861091271e-16,0.0213301,33657,0.0331017,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis
+2,109665344,rs113715348,A,T,-0.0652554,3.01439388427947e-11,0.00981896,33657,0.189986,edar_q9une0_oid20525_v1_inflammation,TRUE,reported,edar_q9une0_oid20525_v1_inflammation,chr2,108989372,cis

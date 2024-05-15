@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.313551,0.219408,0.0179333,2.02945e-34,rs1047891,7100,Isovalerylglycine levels,TRUE,reported,4Vs44p
+4,88322666,T,C,0.450655,0.0925183,0.0169223,4.57077e-08,rs10022462,7100,Isovalerylglycine levels,TRUE,reported,4Vs44p

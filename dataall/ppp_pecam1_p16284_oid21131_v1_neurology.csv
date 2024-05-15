@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,64313313,rs1962147,G,C,0.0456722,1.98289628905472e-10,0.00717817,33687,0.539586,pecam1_p16284_oid21131_v1_neurology,TRUE,reported,pecam1_p16284_oid21131_v1_neurology,chr17,64413844,cis

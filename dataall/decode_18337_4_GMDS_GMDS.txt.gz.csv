@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,1718742,rs9392325,G,A,-0.0606,5.554e-10,0.00977,35326,0.20025,GMDS_GMDS,TRUE,reported,GMDS_GMDS

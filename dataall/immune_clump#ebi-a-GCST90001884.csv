@@ -1,0 +1,9 @@
+se.exposure,samplesize.exposure,pos.exposure,beta.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.02745,3113,161508763,-0.2555,1,2.40381e-20,ebi-a-GCST90001884,rs10919544,C,T,0.5475,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.07427,3113,111848073,-0.5632,11,4.45246e-14,ebi-a-GCST90001884,rs111579151,T,C,0.0323,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.04932,3113,112710664,0.2856,11,7.71294e-09,ebi-a-GCST90001884,rs117533070,T,C,0.0816,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.03832,3113,112749800,-1.076,11,6.93426e-155,ebi-a-GCST90001884,rs77291736,T,C,0.1086,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.157,3113,110491411,-0.9029,11,9.71695e-09,ebi-a-GCST90001884,rs182003559,T,A,0.0072,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.07632,3113,110737507,-0.4696,11,8.58697e-10,ebi-a-GCST90001884,rs17504675,A,G,0.0308,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.02878,3113,112830782,0.3221,11,1.59294e-28,ebi-a-GCST90001884,rs11214436,T,G,0.3055,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd
+0.1208,3113,113153223,-0.7822,11,1.109e-10,ebi-a-GCST90001884,rs148849191,T,C,0.0124,CD16-CD56 on Natural Killer || id:ebi-a-GCST90001884,TRUE,reported,igd

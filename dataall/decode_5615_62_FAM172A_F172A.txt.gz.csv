@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,93755721,rs13165400,A,G,0.0968,1.343e-12,0.013653,35342,0.09572,FAM172A_F172A,TRUE,reported,FAM172A_F172A

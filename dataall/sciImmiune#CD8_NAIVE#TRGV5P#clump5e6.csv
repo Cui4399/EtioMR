@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"7",38394831,"rs56085620","G","A",4.17170266323e-08,-0.690381788962,0.125903399210549,89,"CD8_NAIVE#TRGV5P",TRUE,"reported","MOUNzI",NA

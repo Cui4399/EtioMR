@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,6718574,-0.0878362,0.0188258,3.07503e-06,7738,ebi-a-GCST90027779,rs13393033,T,C,0.338139,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis,TRUE,reported,igd
+11,28702277,-0.0860419,0.0178153,1.36767e-06,7738,ebi-a-GCST90027779,rs7944200,T,C,0.595764,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis,TRUE,reported,igd
+12,89922621,0.141409,0.029828,2.12848e-06,7738,ebi-a-GCST90027779,rs56168514,G,A,0.0982975,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis,TRUE,reported,igd
+14,86046850,-0.09121,0.0186142,9.58208e-07,7738,ebi-a-GCST90027779,rs7155195,C,T,0.572076,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis,TRUE,reported,igd
+18,56945042,0.0903404,0.0195139,3.66488e-06,7738,ebi-a-GCST90027779,rs13381162,T,G,0.319755,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_senegalensis,TRUE,reported,igd

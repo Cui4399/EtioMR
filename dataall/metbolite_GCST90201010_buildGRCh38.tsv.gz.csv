@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88279855,G,T,0.484328,-0.114888,0.0153375,6.85045e-14,rs7661312,8142,Alpha-ketobutyrate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,sGaBGj

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+8,2109507,rs2280897,T,C,-0.0794548,3.12679925637612e-13,0.0109009,32862,0.141061,myom2_p54296_oid30131_v1_cardiometabolic_ii,TRUE,reported,myom2_p54296_oid30131_v1_cardiometabolic_ii,chr8,2045042,cis

@@ -1,0 +1,3 @@
+"pos.exposure","samplesize.exposure","pval.exposure","se.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+138647663,76334,4.74329e-08,0.00171309,0.00935557,"3","ukb-d-22612_2","rs76212286","A","G",0.0333927,"Worked with materials containing asbestos: Often || id:ukb-d-22612_2",TRUE,"reported","igd"
+115693209,76334,2.04254e-08,0.00258448,0.0144962,"9","ukb-d-22612_2","rs75487599","C","T",0.0175948,"Worked with materials containing asbestos: Often || id:ukb-d-22612_2",TRUE,"reported","igd"

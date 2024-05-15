@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,160164570,T,A,0.0526137,-0.168258,0.0362762,3.51393e-06,rs12751488,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+1,182214489,C,A,0.71847,0.0880844,0.0177964,7.43779e-07,rs2243457,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+1,244752507,C,T,0.0107865,-0.36955,0.0783904,2.42632e-06,rs148036987,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+7,138603118,T,C,0.369266,-0.0787763,0.0168496,2.93588e-06,rs963280,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+10,28911037,C,T,0.0941304,0.12828,0.02761,3.38197e-06,rs11596869,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+10,89186860,A,G,0.0209315,0.262652,0.0566201,3.50367e-06,rs145086629,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+13,73026542,G,A,0.220102,0.0903327,0.0195157,3.67938e-06,rs78261830,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+14,31633033,A,C,0.150553,-0.104117,0.0225337,3.82791e-06,rs73271265,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+16,31823285,C,A,0.292332,0.0828752,0.0176303,2.59219e-06,rs2261745,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X
+19,1256206,T,G,0.0169515,-0.298531,0.0635456,2.62841e-06,rs112211582,7484,"1,2,3-benzenetriol sulfate (2) levels",TRUE,reported,JsaF1X

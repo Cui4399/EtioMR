@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",5006365,"rs7074155","G","A",1.04356047538e-08,0.884824138064,0.15459513672837,89,"Classical monocyte#AKR1C1",TRUE,"reported","Q7FHKb",NA

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,91867898,rs61990134,T,C,-0.0859633,7.46792589930884e-29,0.0077123,33853,0.345406,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,91879086,rs17127683,T,C,0.11661,1.44807147958947e-08,0.0205748,33853,0.0325949,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,91888773,rs2430353,A,C,-0.0670606,6.14610534719525e-15,0.00859651,33853,0.240709,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,91981179,rs187353969,T,C,0.353792,1.35331844170592e-25,0.0338314,33853,0.0125502,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92073710,rs55656743,G,A,-0.306859,1e-200,0.00849727,33853,0.244708,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92134563,rs138558966,A,G,0.180611,1.97938374750048e-08,0.0321728,33853,0.0149336,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92162012,rs11546877,C,T,0.186101,7.77499288015972e-21,0.019877,33853,0.0350043,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92178767,rs75322460,A,G,0.187264,8.80035111687326e-22,0.0195268,33853,0.0365611,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92247218,rs10873419,A,G,-0.0467572,1.98061470897174e-08,0.00832914,33853,0.740119,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92347461,rs11624651,C,T,0.0671776,1.1956112697043e-10,0.0104315,33853,0.147726,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis
+14,92358163,rs79544202,T,G,-0.111061,1.26066588352444e-11,0.0163973,33853,0.053999,atxn3_p54252_oid31149_v1_neurology_ii,TRUE,reported,atxn3_p54252_oid31149_v1_neurology_ii,chr14,92106621,cis

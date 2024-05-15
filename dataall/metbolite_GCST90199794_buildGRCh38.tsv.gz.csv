@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39956146,G,C,0.2525,0.119866,0.0177373,1.40049e-11,rs1492701,8283,1-oleoyl-GPE (18:1) levels,TRUE,reported,2mPYSl
+3,142940519,G,A,0.354459,0.0934471,0.0159729,4.90535e-09,rs6440123,8283,1-oleoyl-GPE (18:1) levels,TRUE,reported,2mPYSl
+15,58388444,T,G,0.349571,0.0954371,0.0161066,3.11648e-09,rs35853021,8283,1-oleoyl-GPE (18:1) levels,TRUE,reported,2mPYSl

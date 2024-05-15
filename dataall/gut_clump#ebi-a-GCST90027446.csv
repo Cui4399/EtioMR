@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,105722581,-0.102927,0.021032,9.88917e-07,7738,ebi-a-GCST90027446,rs17194003,G,A,0.201727,ANAEROFRUCAT.PWY..homolactic.fermentation,TRUE,reported,igd

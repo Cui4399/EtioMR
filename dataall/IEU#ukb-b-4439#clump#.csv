@@ -1,0 +1,3 @@
+"pval.exposure","samplesize.exposure","beta.exposure","chr.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.80003e-09,102471,0.0525402,"2",0.0090222,71982787,"ukb-b-4439","rs146077968","T","C",0.019273,"Ever had eye surgery || id:ukb-b-4439",TRUE,"reported","igd"
+2.80001e-08,102471,-0.0141809,"17",0.00255489,79617871,"ukb-b-4439","rs8908","G","A",0.378897,"Ever had eye surgery || id:ukb-b-4439",TRUE,"reported","igd"

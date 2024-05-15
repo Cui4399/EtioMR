@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,213511657,T,A,0.0286531,-0.230618,0.0456834,4.46042e-07,rs76298092,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+1,231956735,T,C,0.181268,0.0984924,0.0208315,2.26696e-06,rs701160,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+2,85647428,C,T,0.0100429,-0.366551,0.0769667,1.91239e-06,rs112674146,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+2,103830618,A,G,0.0204144,-0.271992,0.053921,4.55248e-07,rs78388659,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+4,78401056,T,C,0.125903,0.112833,0.0230018,9.32301e-07,rs77094229,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+4,117082146,G,A,0.0758506,-0.147544,0.0287701,2.92209e-07,rs17049001,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+6,2513713,C,A,0.396571,0.0711555,0.0155412,4.68317e-06,rs58425201,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+7,157057769,G,A,0.215273,-0.0875806,0.0186619,2.69222e-06,rs28649708,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+8,132749336,A,G,0.0301168,0.208462,0.0443893,2.65011e-06,rs77021114,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+9,3088774,G,A,0.758194,-0.0820513,0.0179347,4.76183e-06,rs10813363,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+12,32877340,T,C,0.0110231,0.336121,0.072527,3.57922e-06,rs117865287,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+14,75058224,A,G,0.0270734,-0.21508,0.0466214,3.96248e-06,rs187296814,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+16,29821629,G,C,0.0476132,-0.171949,0.0361549,1.97556e-06,rs112549897,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+19,33778372,T,C,0.197551,-0.0894623,0.0195515,4.74568e-06,rs12975670,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+20,53107440,G,A,0.129246,0.106104,0.0225143,2.4439e-06,rs6126757,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8
+22,27095027,CAATG,C,0.0853359,-0.125519,0.0274422,4.78586e-06,rs143806263,8226,Carotenoid levels (cryptoxanthin),TRUE,reported,Z8SBh8

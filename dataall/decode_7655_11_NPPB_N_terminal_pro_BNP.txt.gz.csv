@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,11430687,rs10864508,G,T,0.0465,1.569e-08,0.008224,35388,0.48014,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11724194,rs45550733,T,C,0.1709,5.005e-16,0.021069,35380,0.03887,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11759515,rs60148251,CTTTTGTTTTGTTTTGTTTTGTTTT,CTTTTGTTTTGTTTTGTTTTGTTTC,-0.0615,2.004e-11,0.009171,35381,0.27963,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11763099,rs10864535,G,A,0.0685,1.513e-14,0.008912,35382,0.30919,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11769678,rs70983593,TTTT,T,0.3831,3.379e-105,0.017587,35387,0.05775,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11859214,rs198389,G,A,0.2592,1e-200,0.008263,35388,0.39969,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11903228,rs112884141,GAA,GA,0.2929,8.27e-98,0.013955,35387,0.09536,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,11998134,rs141692260,G,A,0.2981,4.575e-63,0.017784,35387,0.05721,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,12117277,rs11569901,C,T,0.1377,7.571e-09,0.023833,35381,0.03119,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP
+1,12686451,rs145554409,T,C,0.1626,8.887e-12,0.02383,35383,0.03027,NPPB_N_terminal_pro_BNP,TRUE,reported,NPPB_N_terminal_pro_BNP

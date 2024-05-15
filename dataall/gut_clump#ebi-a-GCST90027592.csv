@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,92948938,0.171802,0.0368172,3.0657e-06,7738,ebi-a-GCST90027592,rs34631763,T,C,0.0525127,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+2,127501263,0.0835176,0.017267,1.31923e-06,7738,ebi-a-GCST90027592,rs13016472,T,C,0.365216,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+3,195923985,-0.142819,0.0299741,1.89104e-06,7738,ebi-a-GCST90027592,rs112214356,C,T,0.081092,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+4,63097935,-0.0821104,0.0175353,2.83302e-06,7738,ebi-a-GCST90027592,rs10026887,T,C,0.309497,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+4,177241136,0.125303,0.0260045,1.44644e-06,7738,ebi-a-GCST90027592,rs2305506,T,C,0.121951,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+10,125640380,-0.0949316,0.0188646,4.84741e-07,7738,ebi-a-GCST90027592,rs7909120,T,C,0.293419,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+17,59558679,0.0963108,0.0208168,3.71723e-06,7738,ebi-a-GCST90027592,rs73334581,T,C,0.184125,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd
+19,52779460,0.128883,0.0282085,4.90219e-06,7738,ebi-a-GCST90027592,rs12976953,T,C,0.0983496,PWY66.422..D.galactose.degradation.V..Leloir.pathway.,TRUE,reported,igd

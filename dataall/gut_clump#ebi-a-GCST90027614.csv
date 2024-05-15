@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,180324166,-0.137282,0.0294165,3.05872e-06,7738,ebi-a-GCST90027614,rs35057482,T,C,0.0887948,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+4,182457155,-0.087888,0.0174997,5.10658e-07,7738,ebi-a-GCST90027614,rs62338928,G,A,0.324931,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+5,9947612,-0.0779739,0.0166369,2.77517e-06,7738,ebi-a-GCST90027614,rs1428949,T,C,0.433176,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+9,18801018,-0.162287,0.0354614,4.72988e-06,7738,ebi-a-GCST90027614,rs34848869,G,C,0.0629004,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+11,59726765,-0.085927,0.0168713,3.52265e-07,7738,ebi-a-GCST90027614,rs7108080,A,G,0.508635,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+14,92980553,-0.203901,0.0423462,1.47126e-06,7738,ebi-a-GCST90027614,rs71430764,A,C,0.050561,PWY.7219..adenosine.ribonucleotides.de.novo.biosynthesis,TRUE,reported,igd

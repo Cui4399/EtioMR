@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88128874,A,C,0.110238,0.518013,0.0236354,1.79428e-106,rs74904971,8216,4-hydroxychlorothalonil levels,TRUE,reported,kNhuXY
+5,104917707,G,T,0.224647,0.100532,0.0182401,3.5559e-08,rs74319256,8216,4-hydroxychlorothalonil levels,TRUE,reported,kNhuXY

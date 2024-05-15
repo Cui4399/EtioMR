@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119711883,G,A,0.581234,0.182917,0.0153145,6.97391e-33,rs561931,8271,Serine levels,TRUE,reported,mpL0jN
+2,210675783,A,C,0.309908,0.205086,0.016246,1.56139e-36,rs1047891,8271,Serine levels,TRUE,reported,mpL0jN
+7,56103796,T,C,0.501395,-0.148474,0.0150358,5.35888e-23,rs816411,8271,Serine levels,TRUE,reported,mpL0jN

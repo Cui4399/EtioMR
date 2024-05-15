@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61829740,T,C,0.130983,0.236014,0.0222227,2.39529e-26,rs174570,8261,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (p-18:0/18:2) levels,TRUE,reported,HmMqbp
+19,44908822,T,C,0.0836665,0.218185,0.0275265,2.25637e-15,rs7412,8261,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (p-18:0/18:2) levels,TRUE,reported,HmMqbp
+19,55226813,A,G,0.182364,-0.117239,0.0198652,3.59768e-09,rs3826884,8261,1-(1-enyl-stearoyl)-2-linoleoyl-GPE (p-18:0/18:2) levels,TRUE,reported,HmMqbp

@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00164218,161010118,6.49681e-11,361194,0.000251405,"6","ukb-d-I9_PAD","rs10455872","G","A",0.0807558,"Peripheral artery disease || id:ukb-d-I9_PAD",TRUE,"reported","igd"
+0.000760927,22112241,2.90215e-08,361194,0.000137169,"9","ukb-d-I9_PAD","rs7341786","C","A",0.514789,"Peripheral artery disease || id:ukb-d-I9_PAD",TRUE,"reported","igd"

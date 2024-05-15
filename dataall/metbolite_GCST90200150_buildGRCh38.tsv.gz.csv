@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132384573,A,G,0.294075,0.246663,0.0160037,1.34096e-53,rs635619,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+6,110438805,G,A,0.237234,-0.466221,0.0165826,6.4145e-174,rs12210538,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+10,45519419,GT,G,0.0667603,0.30052,0.0293965,1.5645e-24,rs35611625,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+10,59709780,C,T,0.770986,0.159195,0.0179704,8.09034e-19,rs1171614,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+11,61818856,CT,C,0.334357,-0.269817,0.0155038,7.79258e-68,rs35473591,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+11,68794860,T,C,0.0700598,0.237725,0.0287409,1.3248e-16,rs2229738,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+12,21208114,TTTC,T,0.155576,0.139414,0.0202988,6.50778e-12,rs151231052,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+16,15046354,T,C,0.310309,-0.0924316,0.0159299,6.53755e-09,rs4500751,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF
+20,34834811,A,G,0.618403,-0.0923412,0.0153559,1.81671e-09,rs2024635,8202,Arachidonoylcarnitine (C20:4) levels,TRUE,reported,GxooDF

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,155118470,0.235877,0.0420321,2.00198e-08,7738,ebi-a-GCST90027494,rs36182340,T,G,0.903211,P105.PWY..TCA.cycle.IV..2.oxoglutarate.decarboxylase.,TRUE,reported,igd
+10,95941459,0.200658,0.0429821,3.03557e-06,7738,ebi-a-GCST90027494,rs72814612,C,A,0.107888,P105.PWY..TCA.cycle.IV..2.oxoglutarate.decarboxylase.,TRUE,reported,igd
+15,91307410,0.134971,0.026959,5.5423e-07,7738,ebi-a-GCST90027494,rs2518968,G,C,0.539119,P105.PWY..TCA.cycle.IV..2.oxoglutarate.decarboxylase.,TRUE,reported,igd

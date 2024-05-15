@@ -1,0 +1,3 @@
+"pos.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+136707982,360806,0.000493232,"2",0.00305445,5.91998e-10,"ukb-d-1418_6","rs6754311","C","T",0.246313,"Milk type used: Never/rarely have milk || id:ukb-d-1418_6",TRUE,"reported","igd"
+153103297,360806,0.000422042,"5",-0.00239464,1.39659e-08,"ukb-d-1418_6","rs6876451","T","C",0.430481,"Milk type used: Never/rarely have milk || id:ukb-d-1418_6",TRUE,"reported","igd"

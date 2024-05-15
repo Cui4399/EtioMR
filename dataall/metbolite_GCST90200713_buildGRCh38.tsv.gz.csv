@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.349322,0.1005,0.017266,5.8609e-09,rs3811444,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+2,52917149,A,G,0.030937,-0.224439,0.0478698,2.75184e-06,rs59066200,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+3,56815721,C,T,0.613058,0.0793118,0.0170032,3.09312e-06,rs1354034,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+4,7229623,A,G,0.0139707,0.332543,0.0702254,2.18657e-06,rs78708293,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+5,138772560,G,A,0.0100482,-0.415662,0.0830786,5.6377e-07,rs148665639,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+11,254869,C,G,0.356344,0.0909111,0.0172797,1.4316e-07,rs2178798,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+16,67577329,G,A,0.0147584,-0.323745,0.0675203,1.62859e-06,rs141586656,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa
+16,76376973,G,A,0.0221536,-0.258433,0.0562104,4.27399e-06,rs79121515,7309,Spermidine to ornithine ratio,TRUE,reported,Hh1KGa

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,174600551,0.203012,0.0407635,6.35053e-07,7738,ebi-a-GCST90027791,rs10014686,A,G,0.0943997,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd
+7,78170494,0.172603,0.0376243,4.48518e-06,7738,ebi-a-GCST90027791,rs62468608,C,A,0.116486,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd
+10,124457906,-0.111962,0.0235768,2.04607e-06,7738,ebi-a-GCST90027791,rs2901343,T,C,0.430528,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd
+12,20588382,-0.144302,0.0309629,3.15457e-06,7738,ebi-a-GCST90027791,rs6487088,T,C,0.819447,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd
+22,37367536,-0.180458,0.0357931,4.61456e-07,7738,ebi-a-GCST90027791,rs17749540,T,C,0.148921,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd
+22,50940762,-0.140422,0.029329,1.68616e-06,7738,ebi-a-GCST90027791,rs73443336,G,A,0.219245,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_hallii,TRUE,reported,igd

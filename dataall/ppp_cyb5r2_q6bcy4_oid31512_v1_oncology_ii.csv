@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+11,6926908,rs1491823,G,T,0.110514,7.0518002186208e-44,0.00795508,33438,0.336638,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7125738,rs56327118,A,T,0.130916,1.40863994636126e-17,0.0153398,33438,0.0644007,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7464186,rs34089754,C,T,-0.0942566,7.12853030126522e-20,0.0103287,33438,0.155183,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7540784,rs10839801,A,G,-0.0469106,3.36806139907544e-09,0.00793404,33438,0.353366,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7564304,rs10839812,C,T,-0.141229,7.11868867262285e-78,0.00756018,33438,0.471907,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7624292,rs74513057,A,T,0.125931,7.66655048689175e-13,0.017571,33438,0.0493035,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7632332,rs113450912,C,G,0.124124,1.57133939925128e-09,0.020561,33438,0.0424378,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7636391,rs55691602,G,A,0.165959,9.66718433834456e-11,0.0256424,33438,0.0225054,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7665627,rs61683338,G,C,-0.38536,1e-200,0.0119064,33438,0.111914,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis
+11,7683399,rs77173755,A,G,-0.159381,4.24619563946313e-29,0.0142351,33438,0.0747893,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,TRUE,reported,cyb5r2_q6bcy4_oid31512_v1_oncology_ii,chr11,7678569,cis

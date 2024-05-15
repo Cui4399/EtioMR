@@ -1,0 +1,4 @@
+"beta.exposure","se.exposure","pval.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0037034,0.000239736,8.11895e-54,361194,32561370,"6","ukb-d-M13_POLYARTHROPATHIES","rs35139284","T","C",0.320002,"#Polyarthropathies || id:ukb-d-M13_POLYARTHROPATHIES",TRUE,"reported","igd"
+0.00198942,0.000302238,4.63874e-11,361194,32629497,"6","ukb-d-M13_POLYARTHROPATHIES","rs41270903","G","A",0.192874,"#Polyarthropathies || id:ukb-d-M13_POLYARTHROPATHIES",TRUE,"reported","igd"
+0.00434929,0.000406901,1.15878e-26,361194,32545392,"6","ukb-d-M13_POLYARTHROPATHIES","rs35511257","C","G",0.0951488,"#Polyarthropathies || id:ukb-d-M13_POLYARTHROPATHIES",TRUE,"reported","igd"

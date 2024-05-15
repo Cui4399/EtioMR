@@ -1,0 +1,8 @@
+"samplesize.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+455420,0.00169289,"1",0.00956607,1.6e-08,97037083,"ukb-b-5593","rs10783050","C","T",0.359664,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00169886,"3",-0.00973346,1e-08,85525323,"ukb-b-5593","rs12637791","G","T",0.647446,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00195097,"4",-0.01166,2.30001e-09,2314673,"ukb-b-5593","rs73203389","A","G",0.224863,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00384442,"6",-0.0231382,1.79999e-09,152436506,"ukb-b-5593","rs79783156","T","C",0.051521,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00207684,"11",-0.011502,3.09999e-08,27679916,"ukb-b-5593","rs6265","T","C",0.188563,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00344536,"12",0.0190478,3.2e-08,1424279,"ukb-b-5593","rs111973110","A","G",0.06106,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"
+455420,0.00553642,"17",-0.0305242,3.50002e-08,80979096,"ukb-b-5593","rs117995577","G","A",0.021635,"Number of full sisters || id:ukb-b-5593",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,31044772,rs73406153,G,C,0.1184,3.743e-09,0.020084,35363,0.04167,SELM_SELM,TRUE,reported,SELM_SELM
+22,31387620,rs71319187,CTTTTTTTTTTTTTTTTTTTG,CTTTTTTTTTTTTTTTTTG,-0.0924,2.058e-08,0.016479,35364,0.06655,SELM_SELM,TRUE,reported,SELM_SELM
+22,31696540,rs5753760,T,C,0.1041,4.544e-10,0.016698,35366,0.0632,SELM_SELM,TRUE,reported,SELM_SELM

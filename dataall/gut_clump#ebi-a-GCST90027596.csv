@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,231419306,0.2225,0.0396483,2.00184e-08,7738,ebi-a-GCST90027596,rs11898768,G,A,0.117282,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd
+3,193676416,0.251351,0.0542266,3.56599e-06,7738,ebi-a-GCST90027596,rs2636908,C,T,0.0742992,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd
+6,26378681,-0.123387,0.0253516,1.13297e-06,7738,ebi-a-GCST90027596,rs1624064,C,T,0.43238,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd
+8,50694780,-0.172648,0.0371575,3.378e-06,7738,ebi-a-GCST90027596,rs12550124,T,A,0.87165,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd
+10,13741632,0.124154,0.0265636,2.95617e-06,7738,ebi-a-GCST90027596,rs3750879,A,C,0.34867,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd
+13,81704666,-0.272739,0.05958,4.70121e-06,7738,ebi-a-GCST90027596,rs113976504,T,C,0.0528666,PWY.6708..ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd

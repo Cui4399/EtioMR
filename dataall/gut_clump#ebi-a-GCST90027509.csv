@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,218294448,-0.164494,0.035505,3.60454e-06,7738,ebi-a-GCST90027509,rs76729673,G,A,0.0906577,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd
+4,141777137,0.159308,0.0342961,3.39938e-06,7738,ebi-a-GCST90027509,rs7673044,T,C,0.0978928,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd
+5,75038901,0.0975198,0.0209483,3.23586e-06,7738,ebi-a-GCST90027509,rs258495,A,T,0.61976,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd
+14,22449161,-0.18225,0.0379274,1.54568e-06,7738,ebi-a-GCST90027509,rs11627731,G,A,0.0802933,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd
+16,86235980,0.219027,0.0450389,1.15579e-06,7738,ebi-a-GCST90027509,rs58529279,T,C,0.0581069,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd
+19,8626031,-0.123803,0.0249048,6.65856e-07,7738,ebi-a-GCST90027509,rs4566305,G,A,0.684957,POLYAMINSYN3.PWY..superpathway.of.polyamine.biosynthesis.II,TRUE,reported,igd

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,112337567,rs7619941,G,A,0.128,5.183e-16,0.015789,35359,0.0677,CD200_OX2G,TRUE,reported,CD200_OX2G
+3,112348591,rs2399418,G,C,0.0698,2.22e-08,0.012478,35359,0.11366,CD200_OX2G,TRUE,reported,CD200_OX2G

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+16,276817,rs3809655,A,C,0.0572613,4.2993222667877e-14,0.00758268,33307,0.550309,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,426775,rs141550143,T,C,0.15972,4.65436030487778e-09,0.0272602,33307,0.0202025,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,492425,rs8051171,T,C,0.0679585,3.19447872420869e-10,0.0108059,33307,0.181608,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,553884,rs11539618,G,C,0.0737694,6.16311114741983e-19,0.0082989,33307,0.254176,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,563344,rs116903998,A,G,0.519063,2.88336750678029e-69,0.0295072,33307,0.0148768,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,563729,rs45619831,G,T,-0.301855,4.2111431043632e-46,0.0211763,33307,0.0328121,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,581715,rs193017570,A,G,-0.279742,2.80478773734921e-25,0.0269288,33307,0.0192185,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,619708,rs55798945,G,T,0.277795,1e-200,0.00807564,33307,0.304382,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,622284,rs147570330,A,G,-0.245886,1.0069316688518e-15,0.0306361,33307,0.0151239,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis
+16,739199,rs183944482,C,T,-0.188071,3.09100708126162e-12,0.0269693,33307,0.02039,wfikkn1_q96nz8_oid20939_v1_neurology,TRUE,reported,wfikkn1_q96nz8_oid20939_v1_neurology,chr16,631011,cis

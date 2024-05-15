@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,111235631,C,T,0.145134,0.194399,0.0221848,1.90641e-18,rs12206654,8252,Tyrosine levels,TRUE,reported,Eo7pDY
+16,71591928,C,G,0.0149281,0.441054,0.0639261,5.22075e-12,rs150851429,8252,Tyrosine levels,TRUE,reported,Eo7pDY

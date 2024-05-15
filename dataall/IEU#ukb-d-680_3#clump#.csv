@@ -1,0 +1,3 @@
+"se.exposure","pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000586344,8.01272e-09,0.00338223,356340,"1",44002957,"ukb-d-680_3","rs2819330","A","G",0.287982,"Own or rent accommodation lived in: Rent - from local authority, local council, housing association || id:ukb-d-680_3",TRUE,"reported","igd"
+0.000551799,1.52293e-08,0.00312268,356340,"2",60484507,"ukb-d-680_3","rs359255","C","T",0.637643,"Own or rent accommodation lived in: Rent - from local authority, local council, housing association || id:ukb-d-680_3",TRUE,"reported","igd"

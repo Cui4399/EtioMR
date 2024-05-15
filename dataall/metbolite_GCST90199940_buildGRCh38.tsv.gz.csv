@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,9387821,A,G,0.123838,-0.113071,0.0237463,1.9204e-06,rs113951858,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+1,244885364,C,T,0.0274372,0.214924,0.0468548,4.49617e-06,rs116229131,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+5,15891872,A,G,0.0437248,-0.174586,0.0375909,3.41102e-06,rs77561631,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+5,39743852,G,A,0.277125,-0.0827863,0.0172236,1.53545e-06,rs72745623,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+6,30883824,A,G,0.0272595,-0.228873,0.0470476,1.1462e-06,rs74689782,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+6,42976402,G,A,0.540623,0.071271,0.0153278,3.32272e-06,rs9471987,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+6,147982071,G,A,0.0160509,0.29796,0.0605958,8.78068e-07,rs118087581,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+7,17244953,C,T,0.62623,0.0773461,0.0158471,1.05676e-06,rs4410790,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+7,156462105,C,T,0.194527,-0.0923905,0.0194823,2.11323e-06,rs7795670,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+11,76656763,C,G,0.0144636,0.295582,0.0647275,4.95769e-06,rs77001736,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+12,7383532,T,G,0.0492488,-0.168887,0.0351339,1.53245e-06,rs12423602,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+12,72233750,A,G,0.0112791,0.334184,0.0722257,3.71114e-06,rs147037696,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+15,74735539,T,C,0.250061,0.0856507,0.0175738,1.09488e-06,rs2472297,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+17,762364,T,C,0.0848816,-0.134446,0.0274124,9.36244e-07,rs56134773,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L
+21,16457169,G,T,0.014039,-0.341016,0.0656355,2.04063e-07,rs143550070,8262,Guaiacol sulfate levels,TRUE,reported,hLxq6L

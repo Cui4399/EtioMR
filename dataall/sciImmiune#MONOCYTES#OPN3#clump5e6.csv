@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",241790148,"rs587640","A","G",2.51761613371e-09,0.813090944779,0.136417585480001,89,"Classical monocyte#OPN3",TRUE,"reported","PaquSW",NA

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,68959471,-0.0891075,0.0184003,1.2808e-06,7738,ebi-a-GCST90027854,rs7590468,G,A,0.338112,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd
+3,177893936,0.0807293,0.0175514,4.23311e-06,7738,ebi-a-GCST90027854,rs35004779,T,C,0.421728,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd
+12,2719297,-0.11075,0.0240367,4.07502e-06,7738,ebi-a-GCST90027854,rs215996,C,G,0.152519,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd
+14,83605637,-0.0894148,0.0188625,2.13354e-06,7738,ebi-a-GCST90027854,rs2225380,C,A,0.688409,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd
+16,13933400,-0.103384,0.0220121,2.64405e-06,7738,ebi-a-GCST90027854,rs722241,G,T,0.778849,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd
+17,34354883,0.0827355,0.0171553,1.41605e-06,7738,ebi-a-GCST90027854,rs854661,T,C,0.477202,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_hominis,TRUE,reported,igd

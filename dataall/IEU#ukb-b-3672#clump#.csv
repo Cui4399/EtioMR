@@ -1,0 +1,5 @@
+"pval.exposure","samplesize.exposure","pos.exposure","beta.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.29997e-10,463010,56048944,0.00332968,"2",0.00052987,"ukb-b-3672","rs75439645","A","G",0.133177,"Diagnoses - secondary ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene || id:ukb-b-3672",TRUE,"reported","igd"
+3.89996e-08,463010,70918938,0.0021513,"3",0.000391356,"ukb-b-3672","rs1403202","A","T",0.310326,"Diagnoses - secondary ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene || id:ukb-b-3672",TRUE,"reported","igd"
+2.5e-10,463010,4977446,-0.00426653,"5",0.000674151,"ukb-b-3672","rs42202","G","A",0.921081,"Diagnoses - secondary ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene || id:ukb-b-3672",TRUE,"reported","igd"
+9.69996e-09,463010,18787981,-0.00206877,"19",0.000360625,"ukb-b-3672","rs2891698","A","G",0.5312,"Diagnoses - secondary ICD10: K44.9 Diaphragmatic hernia without obstruction or gangrene || id:ukb-b-3672",TRUE,"reported","igd"

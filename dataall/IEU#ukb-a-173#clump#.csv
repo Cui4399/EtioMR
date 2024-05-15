@@ -1,0 +1,6 @@
+"beta.exposure","pval.exposure","pos.exposure","se.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000776998,6.28391e-10,23344815,0.00012566,"6",337159,"ukb-a-173","rs12529002","T","C",0.103903,"Treatment/medication code: co-amilofruse || id:ukb-a-173",TRUE,"reported","igd"
+0.00150733,2.01632e-08,70115259,0.000268652,"8",337159,"ukb-a-173","rs148616087","T","C",0.0212145,"Treatment/medication code: co-amilofruse || id:ukb-a-173",TRUE,"reported","igd"
+0.00182529,3.70109e-08,51736061,0.000331588,"12",337159,"ukb-a-173","rs113486837","T","C",0.0146798,"Treatment/medication code: co-amilofruse || id:ukb-a-173",TRUE,"reported","igd"
+0.00264145,3.28889e-09,26627800,0.000446444,"21",337159,"ukb-a-173","rs77333315","C","A",0.00746888,"Treatment/medication code: co-amilofruse || id:ukb-a-173",TRUE,"reported","igd"
+0.00168193,6.50804e-09,50489401,0.000289822,"22",337159,"ukb-a-173","rs71316581","A","G",0.0189339,"Treatment/medication code: co-amilofruse || id:ukb-a-173",TRUE,"reported","igd"

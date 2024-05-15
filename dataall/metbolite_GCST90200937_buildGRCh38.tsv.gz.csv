@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,35800075,T,C,0.0546336,-0.213497,0.0338893,2.97969e-10,rs3761097,8272,Alpha-ketoglutarate to trans-4-hydroxyproline ratio,TRUE,reported,AnJ7VD

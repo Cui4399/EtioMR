@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,136007504,G,C,0.148337,0.118469,0.0209639,1.59439e-08,rs1964459,8202,Ornithine to glutamate ratio,TRUE,reported,fB5WZZ
+5,36638487,A,G,0.0316169,0.25016,0.042679,4.58887e-09,rs62354638,8202,Ornithine to glutamate ratio,TRUE,reported,fB5WZZ

@@ -1,0 +1,4 @@
+"beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00651079,221697,1.89998e-08,0.00115741,152562271,"6","ukb-b-6445","rs58415480","G","C",0.152029,"Ever had hysterectomy (womb removed) || id:ukb-b-6445",TRUE,"reported","igd"
+0.00494688,221697,2.1e-08,0.000882273,21821274,"10","ukb-b-6445","rs7084454","A","G",0.322513,"Ever had hysterectomy (womb removed) || id:ukb-b-6445",TRUE,"reported","igd"
+-0.00734192,221697,4.39997e-10,0.00117651,30226356,"11","ukb-b-6445","rs11031005","C","T",0.144298,"Ever had hysterectomy (womb removed) || id:ukb-b-6445",TRUE,"reported","igd"

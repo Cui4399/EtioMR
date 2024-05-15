@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,164891445,G,A,0.142805,-0.0872322,0.01893,4.06299e-06,rs1339135,8239,Creatinine levels,TRUE,reported,jg0Cd7
+5,39402545,T,C,0.326469,-0.0655226,0.0142954,4.57307e-06,rs6882168,8239,Creatinine levels,TRUE,reported,jg0Cd7
+5,80925178,C,T,0.137736,-0.0892216,0.0194535,4.50966e-06,rs555470,8239,Creatinine levels,TRUE,reported,jg0Cd7
+7,99427887,T,A,0.0854075,0.119015,0.023755,5.44048e-07,rs28419687,8239,Creatinine levels,TRUE,reported,jg0Cd7
+11,113180763,G,A,0.0191957,-0.235754,0.0475743,7.21465e-07,rs118162901,8239,Creatinine levels,TRUE,reported,jg0Cd7
+12,59860742,C,T,0.573319,-0.0640119,0.0137006,2.97977e-06,rs7308622,8239,Creatinine levels,TRUE,reported,jg0Cd7
+13,113772763,G,A,0.0213296,0.217038,0.0460139,2.39584e-06,rs76171931,8239,Creatinine levels,TRUE,reported,jg0Cd7
+16,20381010,A,G,0.192428,-0.0992923,0.0171397,6.90866e-09,rs77924615,8239,Creatinine levels,TRUE,reported,jg0Cd7
+18,11096297,A,G,0.250154,0.0722652,0.0155823,3.52374e-06,rs2902932,8239,Creatinine levels,TRUE,reported,jg0Cd7
+21,45942333,T,C,0.0109396,-0.288528,0.0627287,4.23266e-06,rs117340666,8239,Creatinine levels,TRUE,reported,jg0Cd7

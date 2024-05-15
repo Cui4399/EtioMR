@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,16033378,A,G,0.610657,0.128506,0.0158859,6.00064e-16,rs2062541,8214,Cysteinylglycine levels,TRUE,reported,P0vJ4r
+16,89615942,G,A,0.612547,-0.240429,0.0157096,7.12342e-53,rs409170,8214,Cysteinylglycine levels,TRUE,reported,P0vJ4r
+19,52059338,C,A,0.11107,0.132753,0.0240243,3.28031e-08,rs188711067,8214,Cysteinylglycine levels,TRUE,reported,P0vJ4r

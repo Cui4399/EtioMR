@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,204380940,A,G,0.0307603,0.26588,0.0568061,2.86192e-06,rs11806311,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+2,48841715,T,A,0.0670531,0.179026,0.0386632,3.64966e-06,rs55671226,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+3,162676935,T,G,0.062669,0.190584,0.0404085,2.39999e-06,rs76894499,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+4,42867920,G,T,0.514445,0.102591,0.0197019,1.91734e-07,rs10023065,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+5,103826404,G,A,0.132439,0.133345,0.0283851,2.63087e-06,rs17155877,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+6,152335743,A,G,0.130077,0.153243,0.0290507,1.32751e-07,rs9383616,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+12,131640948,A,C,0.0974936,-0.152128,0.0331665,4.50142e-06,rs74923546,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+14,59511748,A,C,0.0140314,0.386102,0.0832194,3.4915e-06,rs118023850,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+14,61081953,G,A,0.188276,0.114538,0.0246252,3.29941e-06,rs12890803,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+14,94897532,T,C,0.124903,0.139455,0.0293474,2.01528e-06,rs17091567,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn
+16,81175642,T,C,0.0326507,-0.277332,0.0538763,2.63872e-07,rs1869349,5189,"(2,4 or 2,5)-dimethylphenol sulfate levels",TRUE,reported,7NaqFn

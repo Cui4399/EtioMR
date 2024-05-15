@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46020298,C,T,0.714468,-0.0912009,0.0168454,6.16379e-08,rs946527,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+1,159395139,T,A,0.0100037,0.356443,0.0773341,4.04353e-06,rs114899947,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+2,27508073,C,T,0.587097,0.0859873,0.0155434,3.16464e-08,rs1260326,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+4,10275163,T,G,0.234063,-0.0912246,0.0179817,3.91185e-07,rs11729685,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+4,165573716,C,T,0.0118755,-0.329294,0.0712055,3.75389e-06,rs143772773,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+5,61333669,T,C,0.0181452,-0.265264,0.057373,3.77313e-06,rs140017489,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+6,31281955,C,T,0.376198,0.0756127,0.0159801,2.22681e-06,rs2853940,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+6,33391959,G,C,0.0111327,0.330757,0.0718753,4.18818e-06,rs45521935,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+11,120968306,T,C,0.591125,-0.0711663,0.0155227,4.54691e-06,rs7943727,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+14,24836371,T,C,0.309232,0.0774982,0.0164473,2.45394e-06,rs854394,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+14,95450513,C,A,0.238236,0.0866414,0.0180642,1.61613e-06,rs55746827,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+17,10017346,C,G,0.225962,0.0868978,0.0187882,3.74366e-06,rs72807387,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+17,49433834,G,A,0.416491,-0.071201,0.0155198,4.48024e-06,rs7207617,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt
+21,35964996,G,T,0.543142,-0.081227,0.0153449,1.20061e-07,rs2845729,8233,Histidine to alanine ratio,TRUE,reported,SYr1Pt

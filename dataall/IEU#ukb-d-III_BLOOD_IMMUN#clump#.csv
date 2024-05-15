@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",0.00391764,361194,1.01368e-14,0.000506296,32622621,"ukb-d-III_BLOOD_IMMUN","rs117804693","T","C",0.220959,"Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism || id:ukb-d-III_BLOOD_IMMUN",TRUE,"reported","igd"
+"6",0.00267493,361194,1.26797e-10,0.000415934,32557606,"ukb-d-III_BLOOD_IMMUN","rs17211105","A","G",0.526409,"Diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism || id:ukb-d-III_BLOOD_IMMUN",TRUE,"reported","igd"

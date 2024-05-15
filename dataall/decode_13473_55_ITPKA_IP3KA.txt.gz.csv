@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,41503702,rs316617,C,T,0.0715,4.243e-18,0.008245,35358,0.37787,ITPKA_IP3KA,TRUE,reported,ITPKA_IP3KA

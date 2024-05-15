@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,6707118,rs7485433,T,G,-0.0659593,1.99159028905762e-12,0.00937577,33592,0.771153,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis
+12,6714045,rs113821807,A,G,-0.292893,3.41900707902069e-19,0.0327097,33592,0.0144125,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis
+12,6787380,rs73053728,G,A,-0.359292,1e-200,0.0080763,33592,0.302319,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis
+12,6800807,rs146111161,T,C,0.188505,5.3740289295035e-12,0.0273382,33592,0.0196526,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis
+12,6805994,rs28920471,A,T,0.209634,2.87673594553854e-22,0.0216011,33592,0.0308304,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis
+12,6833659,rs4963512,G,A,0.0486193,1.3401703334845e-10,0.0075701,33592,0.588664,cd4_p01730_oid20584_v1_inflammation,TRUE,reported,cd4_p01730_oid20584_v1_inflammation,chr12,6789471,cis

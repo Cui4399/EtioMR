@@ -1,0 +1,5 @@
+"samplesize.exposure","chr.exposure","pval.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+457547,"5",1.89998e-08,0.0028898,547858,0.000514501,"ukb-b-11605","rs4957070","G","A",0.374779,"Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol) || id:ukb-b-11605",TRUE,"reported","igd"
+457547,"11",1.7e-08,0.00375747,6286156,0.000666488,"ukb-b-11605","rs1112716","A","G",0.179341,"Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol) || id:ukb-b-11605",TRUE,"reported","igd"
+457547,"12",6.4e-09,-0.00289323,111910219,0.000498373,"ukb-b-11605","rs10774625","G","A",0.503785,"Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol) || id:ukb-b-11605",TRUE,"reported","igd"
+457547,"19",1.09999e-08,0.00443897,18746437,0.000776727,"ukb-b-11605","rs74598573","A","G",0.11819,"Medication for pain relief, constipation, heartburn: Omeprazole (e.g. Zanprol) || id:ukb-b-11605",TRUE,"reported","igd"

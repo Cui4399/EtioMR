@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,84406996,rs317949,CTCTCCCTCTCTCTCTCTCTCTCTCTATATATATATATATACACACACACACTCACACACACACACACACACAAAC,CTCTCCCTCTCTCTCTCTCTCTCTATATATATATATATATACACACACACACTCACACACACACACACACACAAAC,-0.1696,8.467e-79,0.009024,35337,0.2582,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,84424505,rs317935,G,A,0.0879,2.532e-28,0.007964,35348,0.46526,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,84450775,rs711011,C,G,0.0532,1.695e-10,0.00833,35348,0.34728,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,84863011,rs189084392,A,G,0.1474,4.504e-08,0.026948,35348,0.02223,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,84953619,rs4266652,A,G,-0.1592,1.024e-67,0.009156,35349,0.24556,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,85178979,rs4150844,C,T,0.1708,5.554e-11,0.026055,35349,0.0238,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,85216055,rs28377260,T,G,0.3153,1e-200,0.00692,35349,0.32842,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,85382322,rs151282408,A,G,0.1233,1.055e-10,0.01909,35349,0.04624,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,85412750,rs2466765,A,T,0.3021,6.658e-179,0.010593,35349,0.16461,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,85644902,rs7388011,C,T,-0.0763,8.742e-24,0.007588,35347,0.48829,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,86059517,rs79826875,A,T,0.0568,4.198e-09,0.009666,35348,0.21011,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII
+8,86230578,rs6986633,TTAAAAAAAA,TTTAAAAAAA,0.0642,6.569e-09,0.011066,35350,0.15102,CA13_Carbonic_anhydrase_XIII,TRUE,reported,CA13_Carbonic_anhydrase_XIII

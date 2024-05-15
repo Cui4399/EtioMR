@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,88322681,rs35889496,G,A,-0.0699,1.367e-14,0.009079,35349,0.25554,MMP16_MMP_16,TRUE,reported,MMP16_MMP_16

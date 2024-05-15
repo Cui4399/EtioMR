@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,102861843,A,G,0.244952,0.107865,0.0173894,5.54253e-10,rs10860932,8294,Phenylalanine to phosphate ratio,TRUE,reported,FtHsQ7

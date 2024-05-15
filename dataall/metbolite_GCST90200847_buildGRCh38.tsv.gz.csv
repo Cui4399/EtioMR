@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21493549,G,A,0.400251,0.0878098,0.0150502,5.39665e-09,rs12132412,8206,Phosphate to tryptophan ratio,TRUE,reported,r1HcwN
+6,111589401,C,T,0.164188,-0.111874,0.0196636,1.27468e-08,rs403667,8206,Phosphate to tryptophan ratio,TRUE,reported,r1HcwN

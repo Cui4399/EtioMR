@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,21214699,A,G,0.175625,0.170554,0.0223731,2.47494e-14,rs57743625,6622,Glycoursodeoxycholic acid sulfate (1) levels,TRUE,reported,qKDk4S
+19,47871693,A,C,0.149886,-0.188185,0.0241899,7.28304e-15,rs62129966,6622,Glycoursodeoxycholic acid sulfate (1) levels,TRUE,reported,qKDk4S

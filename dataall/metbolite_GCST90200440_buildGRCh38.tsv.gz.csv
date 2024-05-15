@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,40443035,C,A,0.162648,0.0958297,0.020764,3.92737e-06,rs11681856,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+2,168906638,C,T,0.706539,0.0846925,0.016843,4.94717e-07,rs560887,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+2,237643540,G,C,0.3648,0.074896,0.0160457,3.04655e-06,rs13036096,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+4,53897767,A,G,0.0286652,0.227045,0.0459839,7.91347e-07,rs116236143,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+5,137179699,C,T,0.556554,0.0743179,0.0155148,1.6668e-06,rs6866652,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+6,163221651,A,G,0.211461,-0.09129,0.0192737,2.17433e-06,rs9458755,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+7,44189469,T,C,0.170672,0.103379,0.0203658,3.85241e-07,rs1799884,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+13,47858226,C,G,0.359315,0.0797881,0.01622,8.69385e-07,rs12871654,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+13,62177080,A,T,0.0100667,0.388026,0.0775635,5.65346e-07,rs145375738,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+15,87886480,A,G,0.0373042,-0.193451,0.0409487,2.30996e-06,rs8041505,8123,Blood sugar levels,TRUE,reported,Yqk2hp
+16,50253273,G,T,0.956471,0.19838,0.0385789,2.71552e-07,rs11076525,8123,Blood sugar levels,TRUE,reported,Yqk2hp

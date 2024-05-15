@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,99318162,rs1229984,C,T,0.4338,3.531e-12,0.062374,35344,0.00414,ADH1B_ADH1B,TRUE,reported,ADH1B_ADH1B

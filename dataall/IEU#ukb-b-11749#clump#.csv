@@ -1,0 +1,8 @@
+"chr.exposure","pval.exposure","se.exposure","beta.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",4.30002e-08,0.00312302,-0.0171107,100165648,462837,"ukb-b-11749","rs74906728","T","C",0.025515,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"3",3.69999e-08,0.00172432,-0.00949522,185897317,462837,"ukb-b-11749","rs9861201","C","T",0.090849,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"5",1.2e-08,0.00427404,-0.0243419,22633838,462837,"ukb-b-11749","rs142309213","C","T",0.014473,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"10",8.40001e-09,0.00104838,0.0060385,21830104,462837,"ukb-b-11749","rs11012732","G","A",0.331672,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"12",1.79999e-10,0.00125185,0.00797893,89767237,462837,"ukb-b-11749","rs797267","G","A",0.192477,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"13",7.00003e-09,0.001111,0.0064328,59802066,462837,"ukb-b-11749","rs1359905","G","A",0.728387,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"
+"17",2.39999e-09,0.00102553,-0.00612091,35964663,462837,"ukb-b-11749","rs35344140","T","C",0.635675,"Destinations on discharge from hospital (recoded): Usual Place of residence || id:ukb-b-11749",TRUE,"reported","igd"

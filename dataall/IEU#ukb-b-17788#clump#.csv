@@ -1,0 +1,5 @@
+"beta.exposure","pval.exposure","se.exposure","pos.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00181819,2.99999e-09,0.000306596,13221747,"4",462933,"ukb-b-17788","rs6843953","T","C",0.138533,"Operation code: carpal tunnel surgery || id:ukb-b-17788",TRUE,"reported","igd"
+0.00139752,5.19996e-09,0.000239303,31440651,"6",462933,"ukb-b-17788","rs3828889","C","T",0.733753,"Operation code: carpal tunnel surgery || id:ukb-b-17788",TRUE,"reported","igd"
+0.00209584,4.49997e-10,0.000336088,100692953,"15",462933,"ukb-b-17788","rs72755233","A","G",0.111474,"Operation code: carpal tunnel surgery || id:ukb-b-17788",TRUE,"reported","igd"
+0.00122386,1.6e-08,0.000216436,74655710,"15",462933,"ukb-b-17788","rs12912592","T","G",0.59597,"Operation code: carpal tunnel surgery || id:ukb-b-17788",TRUE,"reported","igd"

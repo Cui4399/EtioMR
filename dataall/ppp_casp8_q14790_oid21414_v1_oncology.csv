@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,201251084,rs80201352,C,T,-0.118299,1.8521237466581e-09,0.0196827,33848,0.0377424,casp8_q14790_oid21414_v1_oncology,TRUE,reported,casp8_q14790_oid21414_v1_oncology,chr2,201233442,cis
+2,201271291,rs35342474,T,G,-0.0912257,2.61547154809485e-08,0.0163916,33848,0.0541834,casp8_q14790_oid21414_v1_oncology,TRUE,reported,casp8_q14790_oid21414_v1_oncology,chr2,201233442,cis
+2,201286417,rs34841024,G,T,0.310055,5.28445251775196e-183,0.0107477,33848,0.136282,casp8_q14790_oid21414_v1_oncology,TRUE,reported,casp8_q14790_oid21414_v1_oncology,chr2,201233442,cis
+2,201315047,rs138352040,G,T,-0.124898,1.02730641483868e-13,0.0167933,33848,0.05162,casp8_q14790_oid21414_v1_oncology,TRUE,reported,casp8_q14790_oid21414_v1_oncology,chr2,201233442,cis
+2,201696387,rs72613730,A,G,0.0736086,2.68862356018597e-08,0.0132376,33848,0.0851906,casp8_q14790_oid21414_v1_oncology,TRUE,reported,casp8_q14790_oid21414_v1_oncology,chr2,201233442,cis

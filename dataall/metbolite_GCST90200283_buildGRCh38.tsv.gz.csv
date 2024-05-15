@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,24512384,G,A,0.590903,0.125201,0.0153699,3.76552e-16,rs140330,7543,3-ureidopropionate levels,TRUE,reported,kjWwUF

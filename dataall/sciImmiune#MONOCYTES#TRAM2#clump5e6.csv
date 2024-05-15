@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",52458678,"rs9367489","C","G",5.52207025845e-14,-1.02157087403,0.135866281476929,89,"Classical monocyte#TRAM2",TRUE,"reported","HFXIcs",NA

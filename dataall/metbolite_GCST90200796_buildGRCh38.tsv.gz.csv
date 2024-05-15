@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,150840547,A,G,0.300617,0.108996,0.0178509,1.02235e-09,rs62492368,7287,Spermidine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,t0d52B
+10,133382797,A,C,0.714386,0.130396,0.0182841,9.91633e-13,rs4838735,7287,Spermidine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,t0d52B
+22,50168985,T,G,0.0184497,-0.494526,0.0604415,2.79428e-16,rs140283535,7287,Spermidine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,t0d52B

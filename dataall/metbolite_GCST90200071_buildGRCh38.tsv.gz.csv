@@ -1,0 +1,20 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119665492,A,C,0.168184,-0.0956202,0.0207114,3.89722e-06,rs9659196,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+1,177105662,T,C,0.0544092,0.172109,0.0338593,3.71399e-07,rs74814187,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+6,6858646,G,T,0.449782,-0.0728675,0.0155577,2.81751e-06,rs6916313,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+7,101999557,A,C,0.0165813,-0.275887,0.0603604,4.862e-06,rs74739396,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+8,82484617,A,T,0.149579,0.103947,0.0215007,1.3343e-06,rs62512856,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+9,81569783,A,G,0.0503125,-0.160314,0.0349047,4.37104e-06,rs72745600,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+9,113940486,G,T,0.23681,0.0855373,0.018286,2.90029e-06,rs34075683,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+10,28999366,T,C,0.0638702,0.143734,0.0311993,4.0859e-06,rs2016129,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+10,71569896,T,A,0.125143,-0.111117,0.0239412,3.46344e-06,rs735122,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+11,122733590,G,A,0.020563,0.271889,0.0538952,4.54067e-07,rs141767821,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+12,27560832,C,T,0.0136868,-0.312626,0.0659501,2.13356e-06,rs112526079,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+13,77603467,A,G,0.160356,-0.0996958,0.0209426,1.93175e-06,rs7331503,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+14,68172250,A,T,0.965927,0.203791,0.0426052,1.72499e-06,rs1555942,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+15,59840593,C,A,0.959856,0.192285,0.0409489,2.65644e-06,rs1437468,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+16,21199718,T,C,0.0156728,-0.294821,0.0616468,1.73186e-06,rs16971219,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+16,88591822,A,T,0.0133989,-0.314275,0.0668252,2.56436e-06,rs113336809,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+17,1658986,A,G,0.0134121,0.323125,0.0671331,1.48536e-06,rs116934369,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+19,2176404,A,G,0.428335,-0.0710266,0.0153967,3.96702e-06,rs11880992,8209,Palmitoylcholine levels,TRUE,reported,lCOidg
+20,35083338,C,A,0.191775,-0.0961919,0.0194243,7.33999e-07,rs6120825,8209,Palmitoylcholine levels,TRUE,reported,lCOidg

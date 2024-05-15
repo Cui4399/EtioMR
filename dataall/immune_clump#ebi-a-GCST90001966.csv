@@ -1,0 +1,3 @@
+chr.exposure,pval.exposure,se.exposure,beta.exposure,samplesize.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,3.44985e-38,0.03413,0.4475,2850,92408370,ebi-a-GCST90001966,rs445,T,C,0.1975,FSC-A on granulocyte || id:ebi-a-GCST90001966,TRUE,reported,igd
+7,2.298e-09,0.03236,-0.194,2850,92237396,ebi-a-GCST90001966,rs42031,T,A,0.2495,FSC-A on granulocyte || id:ebi-a-GCST90001966,TRUE,reported,igd

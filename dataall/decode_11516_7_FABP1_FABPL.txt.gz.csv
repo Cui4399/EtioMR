@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,88124547,rs2241883,C,T,-0.1095,4.039e-37,0.008602,35342,0.32536,FABP1_FABPL,TRUE,reported,FABP1_FABPL

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,35083802,rs10972306,T,C,0.2161,7.419e-13,0.030133,35351,0.01747,CD72_CD72,TRUE,reported,CD72_CD72
+9,35362794,rs13287106,TGTCTCAAAAAAAAAAAAAAAAAAAATC,CGTCTCAAAAAAAAAAAAAAAAAAAATC,0.1044,2.591e-09,0.01753,35348,0.05465,CD72_CD72,TRUE,reported,CD72_CD72
+9,35612981,rs34791102,A,G,0.2264,6.05e-47,0.015734,35351,0.06974,CD72_CD72,TRUE,reported,CD72_CD72

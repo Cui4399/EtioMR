@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,54128006,rs45513391,A,G,-0.0502598,1.00709398014172e-10,0.00777308,33628,0.356382,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54196064,rs289177,A,G,-0.104181,7.29088083474897e-10,0.0169135,33628,0.927919,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54242776,rs201900075,A,G,-0.192451,1.09698325929919e-17,0.0224739,33628,0.0359902,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54245684,rs11668692,T,C,-0.144567,5.10622561629959e-28,0.0131738,33628,0.0884375,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54272809,rs11673379,A,C,-0.150636,8.93511198605213e-39,0.011566,33628,0.116345,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54278882,rs41308750,C,T,0.294792,2.01326062609718e-12,0.0419122,33628,0.0106029,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54283564,rs3848620,T,C,0.14893,1.02848982615266e-84,0.00763611,33628,0.377472,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54299381,rs73055464,A,G,0.159108,1.88234836010337e-12,0.0225911,33628,0.0273433,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis
+19,54301977,rs431001,A,G,-0.360353,1e-200,0.00787006,33628,0.329183,lilra5_a6ni73_oid20209_v1_cardiometabolic,TRUE,reported,lilra5_a6ni73_oid20209_v1_cardiometabolic,chr19,54313139,cis

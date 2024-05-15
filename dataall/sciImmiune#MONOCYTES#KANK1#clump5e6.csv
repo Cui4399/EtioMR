@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"9",689233,"rs1359058","A","T",2.52675714318e-06,-0.711652476203,0.15122369885717,89,"Classical monocyte#KANK1",TRUE,"reported","SUIB98",NA
+"9",712060,"rs4465020","G","C",1.19916522634e-13,0.934551999883,0.126003481174643,89,"Classical monocyte#KANK1",TRUE,"reported","SUIB98",NA

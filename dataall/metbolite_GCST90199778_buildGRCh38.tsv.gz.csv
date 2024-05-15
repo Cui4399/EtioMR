@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,134978078,C,T,0.200785,-0.112293,0.0191818,4.79574e-09,rs59621444,8177,N-methyl-2-pyridone-5-carboxamide levels,TRUE,reported,2ezILd

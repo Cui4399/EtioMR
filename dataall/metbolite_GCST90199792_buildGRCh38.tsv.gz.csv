@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39952958,T,G,0.251826,0.147805,0.0175583,3.8308e-17,rs7515857,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK
+2,27508073,C,T,0.587683,-0.086921,0.0155185,2.1298e-08,rs1260326,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK
+12,21208653,G,T,0.165698,0.122449,0.0203319,1.71731e-09,rs12318075,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK
+15,43464986,C,T,0.0267619,0.294778,0.0472984,4.59614e-10,rs190543502,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK
+15,58387979,C,T,0.344043,0.188167,0.0159901,5.72473e-32,rs261291,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK
+15,58446224,T,C,0.697107,-0.141397,0.0167325,2.90257e-17,rs12914626,8276,1-palmitoyl-GPE (16:0) levels,TRUE,reported,gilaEK

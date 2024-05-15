@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",113329522,"rs13395779","T","C",1.54722729727e-17,1.29588081919,0.152035163353764,89,"Classical monocyte#POLR1B",TRUE,"reported","COvPrI",NA

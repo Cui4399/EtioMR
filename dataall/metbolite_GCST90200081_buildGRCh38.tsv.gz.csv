@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,10978785,C,T,0.451381,-0.103813,0.0147669,2.06378e-12,rs66464172,8267,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) levels,TRUE,reported,srxtaS
+11,75743976,A,C,0.161499,-0.117253,0.0198957,3.78332e-09,rs499974,8267,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) levels,TRUE,reported,srxtaS
+11,116778201,C,G,0.86875,-0.119699,0.0218633,4.37752e-08,rs964184,8267,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) levels,TRUE,reported,srxtaS
+17,17574533,T,C,0.526591,-0.0926168,0.0146081,2.29594e-10,rs11871667,8267,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) levels,TRUE,reported,srxtaS
+19,19635342,T,G,0.0785347,-0.165954,0.0276051,1.8357e-09,rs2304128,8267,1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) levels,TRUE,reported,srxtaS

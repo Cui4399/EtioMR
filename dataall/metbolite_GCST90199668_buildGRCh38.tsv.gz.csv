@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,74971148,C,T,0.0140408,0.49122,0.0634609,9.90147e-15,rs149556176,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA
+1,75758325,T,C,0.30837,-0.4316,0.0153412,3.83431e-174,rs2185152,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA
+5,132369766,G,C,0.522736,0.104741,0.0149388,2.35995e-12,rs2631367,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA
+5,151343594,A,C,0.012084,-0.452358,0.0682548,3.41446e-11,rs77010315,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA
+6,160143444,G,C,0.175323,-0.133922,0.0196516,9.4375e-12,rs662138,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA
+10,59707424,T,G,0.768951,0.152178,0.0180475,3.39535e-17,rs1171617,8242,Hexanoylcarnitine levels (Biocrates platform),TRUE,reported,XFUaMA

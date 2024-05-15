@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,81047030,rs11629917,G,A,0.0463,1.984e-08,0.008248,35356,0.37119,MESDC2_MESD2,TRUE,reported,MESDC2_MESD2

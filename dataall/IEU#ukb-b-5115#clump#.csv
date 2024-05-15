@@ -1,0 +1,4 @@
+"se.exposure","pval.exposure","pos.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000555742,2.39999e-09,136463019,0.00331612,463010,"9","ukb-b-5115","rs113382419","A","C",0.110608,"Diagnoses - secondary ICD10: Z72.0 Tobacco use || id:ukb-b-5115",TRUE,"reported","igd"
+0.000356497,3.50002e-09,106454672,-0.00210603,463010,"10","ukb-b-5115","rs11599236","C","T",0.41117,"Diagnoses - secondary ICD10: Z72.0 Tobacco use || id:ukb-b-5115",TRUE,"reported","igd"
+0.000348923,3.09999e-08,84030787,0.00193182,463010,"12","ukb-b-5115","rs1603574","C","T",0.460183,"Diagnoses - secondary ICD10: Z72.0 Tobacco use || id:ukb-b-5115",TRUE,"reported","igd"

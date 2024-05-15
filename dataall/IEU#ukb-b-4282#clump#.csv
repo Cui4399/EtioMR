@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","pos.exposure","se.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.79999e-08,152605,103188709,0.00359494,0.0202372,"4","ukb-b-4282","rs13107325","T","C",0.074241,"Prospective memory result || id:ukb-b-4282",TRUE,"reported","igd"
+7.19996e-09,152605,28712247,0.00247911,-0.0143453,"6","ukb-b-4282","rs1233578","G","A",0.174735,"Prospective memory result || id:ukb-b-4282",TRUE,"reported","igd"
+3.19963e-11,152605,83215134,0.00222333,-0.0147583,"15","ukb-b-4282","rs62009918","T","C",0.233662,"Prospective memory result || id:ukb-b-4282",TRUE,"reported","igd"

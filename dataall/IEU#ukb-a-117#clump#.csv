@@ -1,0 +1,7 @@
+"pos.exposure","beta.exposure","samplesize.exposure","pval.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+244969749,0.0096724,337159,1.73528e-08,0.00171598,"1","ukb-a-117","rs111607948","A","G",0.0247258,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"
+168227973,0.0190025,337159,3.43851e-08,0.00344396,"4","ukb-a-117","rs140531107","T","C",0.00636123,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"
+81164723,0.00353687,337159,4.01504e-10,0.000565572,"4","ukb-a-117","rs1458038","T","C",0.293018,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"
+161005610,0.00534562,337159,1.19942e-08,0.000937836,"6","ukb-a-117","rs55730499","T","C",0.081655,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"
+100610546,0.00331162,337159,9.90855e-09,0.000577698,"11","ukb-a-117","rs604723","C","T",0.724339,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"
+75061929,-0.0031503,337159,1.03383e-08,0.000550249,"15","ukb-a-117","rs12909307","G","A",0.673482,"Treatment/medication code: ramipril || id:ukb-a-117",TRUE,"reported","igd"

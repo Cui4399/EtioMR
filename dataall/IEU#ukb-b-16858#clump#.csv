@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","pos.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+112583,0.0137968,39355501,"4",2e-08,0.00246006,"ukb-b-16858","rs13142220","A","G",0.095102,"Cough on most days || id:ukb-b-16858",TRUE,"reported","igd"
+112583,0.00895535,1133367,"11",1.09999e-08,0.00156857,"ukb-b-16858","rs11602802","A","C",0.689761,"Cough on most days || id:ukb-b-16858",TRUE,"reported","igd"
+112583,0.0131809,61322018,"20",4.60002e-10,0.00211506,"ukb-b-16858","rs6062847","T","C",0.134874,"Cough on most days || id:ukb-b-16858",TRUE,"reported","igd"

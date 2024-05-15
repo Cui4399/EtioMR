@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,12463090,T,C,0.942469,0.196659,0.0375802,1.66734e-07,rs62125203,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+2,37324893,C,T,0.0548935,0.185969,0.037936,9.47785e-07,rs112750723,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+2,52140771,C,G,0.414941,0.0898172,0.0176856,3.8035e-07,rs11897733,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+13,23186971,A,G,0.0336301,-0.265009,0.0489143,6.03269e-08,rs75973684,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+13,85084320,G,C,0.0809439,0.151544,0.032521,3.16404e-06,rs12869141,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+19,44164141,A,G,0.0422502,-0.211752,0.043665,1.23796e-06,rs79372342,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+19,54175180,A,G,0.0252525,-0.269897,0.0566107,1.86435e-06,rs62132542,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+21,19982565,G,A,0.0860061,-0.147348,0.0308425,1.7754e-06,rs7283263,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3
+22,24705531,T,A,0.0174297,0.304846,0.0667649,4.97205e-06,rs111976170,6307,Fructose to maltose ratio,TRUE,reported,UEEyv3

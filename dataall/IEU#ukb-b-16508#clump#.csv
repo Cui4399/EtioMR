@@ -1,0 +1,3 @@
+"se.exposure","pval.exposure","chr.exposure","pos.exposure","samplesize.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000394856,4.20001e-09,"6",32560749,462933,0.00232027,"ukb-b-16508","rs36083025","T","A",0.105552,"Treatment/medication code: alendronate sodium || id:ukb-b-16508",TRUE,"reported","igd"
+0.000223627,2.90001e-16,"13",42988546,462933,-0.00182834,"ukb-b-16508","rs7328203","G","T",0.448411,"Treatment/medication code: alendronate sodium || id:ukb-b-16508",TRUE,"reported","igd"

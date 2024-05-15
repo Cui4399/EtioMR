@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,66241892,rs12050854,T,C,0.0935,6.579e-09,0.016117,35367,0.06649,MAP2K1_MEK1,TRUE,reported,MAP2K1_MEK1
+15,66364765,rs34591673,A,G,0.1122,5.712e-12,0.016292,35367,0.06492,MAP2K1_MEK1,TRUE,reported,MAP2K1_MEK1
+15,66371206,rs200596294,CAAAAAAAAAAAAAAAAAG,CAAAAAAAAAAAAAAAG,0.093,1.268e-09,0.015318,35363,0.07517,MAP2K1_MEK1,TRUE,reported,MAP2K1_MEK1

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,133373302,rs10466126,G,A,-0.0586,9.102e-11,0.009042,35286,0.25271,ECHS1_Enoyl_CoA_hydratase,TRUE,reported,ECHS1_Enoyl_CoA_hydratase

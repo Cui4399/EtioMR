@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39941043,T,C,0.248808,0.155691,0.0177282,1.60456e-18,rs77692382,8257,1-oleoyl-GPC (18:1) levels,TRUE,reported,REHp2D

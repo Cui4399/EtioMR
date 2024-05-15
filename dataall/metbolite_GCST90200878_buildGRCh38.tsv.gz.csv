@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,299687,T,C,0.0773342,-0.138248,0.0298417,3.60882e-06,rs139751888,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+6,55735891,A,G,0.104348,0.122684,0.0260291,2.4372e-06,rs74753045,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+7,86324818,C,A,0.0680116,-0.151837,0.0316889,1.65559e-06,rs73199406,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+9,27561802,T,C,0.2358,0.0889819,0.0186437,1.81718e-06,rs2453554,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+10,28211107,CT,C,0.163574,0.107627,0.0212426,4.05107e-07,rs61524219,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+10,79302795,A,G,0.181379,0.099163,0.0206518,1.57345e-06,rs6480930,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+12,100770975,G,C,0.421661,0.07935,0.0162276,1.00938e-06,rs6538971,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+14,63045801,G,A,0.0562434,0.166068,0.034395,1.3772e-06,rs58507671,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+17,64664702,A,G,0.821864,0.0960497,0.020925,4.42827e-06,rs11656546,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+17,68583773,G,C,0.760852,0.0901677,0.0186408,1.3174e-06,rs2952307,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+19,14800506,C,T,0.17449,-0.100353,0.0208621,1.50694e-06,rs35360071,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV
+20,19585027,A,G,0.0859016,-0.145628,0.028455,3.09043e-07,rs17293432,7685,Glutarate (C5-DC) to caprylate (8:0) ratio,TRUE,reported,EcMyFV

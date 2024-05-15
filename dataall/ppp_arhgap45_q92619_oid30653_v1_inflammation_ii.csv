@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,1083557,rs34593562,G,A,-0.0712126,3.8904514499428e-21,0.00754728,33187,0.449393,arhgap45_q92619_oid30653_v1_inflammation_ii,TRUE,reported,arhgap45_q92619_oid30653_v1_inflammation_ii,chr19,1065922,cis

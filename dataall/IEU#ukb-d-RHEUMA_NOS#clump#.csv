@@ -1,0 +1,6 @@
+"se.exposure","samplesize.exposure","chr.exposure","pos.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000538067,361194,"1",85719434,4.09789e-09,0.00316401,"ukb-d-RHEUMA_NOS","rs189070938","A","T",0.0178799,"Other/unspecified rheumatoid arthritis || id:ukb-d-RHEUMA_NOS",TRUE,"reported","igd"
+0.000230343,361194,"1",114303808,1.65044e-15,0.0018348,"ukb-d-RHEUMA_NOS","rs6679677","A","C",0.102468,"Other/unspecified rheumatoid arthritis || id:ukb-d-RHEUMA_NOS",TRUE,"reported","igd"
+0.000255152,361194,"6",32545392,5.95251e-61,0.00420334,"ukb-d-RHEUMA_NOS","rs35511257","C","G",0.0951488,"Other/unspecified rheumatoid arthritis || id:ukb-d-RHEUMA_NOS",TRUE,"reported","igd"
+0.000189037,361194,"6",32608478,2.78612e-103,0.00408069,"ukb-d-RHEUMA_NOS","rs34141382","C","T",0.179666,"Other/unspecified rheumatoid arthritis || id:ukb-d-RHEUMA_NOS",TRUE,"reported","igd"
+0.000193746,361194,"6",32560711,6.18871e-13,-0.0013943,"ukb-d-RHEUMA_NOS","rs28366293","C","T",0.155746,"Other/unspecified rheumatoid arthritis || id:ukb-d-RHEUMA_NOS",TRUE,"reported","igd"

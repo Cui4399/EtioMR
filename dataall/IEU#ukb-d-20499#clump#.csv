@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","pos.exposure","se.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+117677,-0.0109284,73283837,0.0019854,3.71193e-08,"1","ukb-d-20499","rs1852233","T","C",0.51412,"Ever sought or received professional help for mental distress || id:ukb-d-20499",TRUE,"reported","igd"
+117677,-0.0165101,29274136,0.00301284,4.26383e-08,"6","ukb-d-20499","rs3117427","C","T",0.121855,"Ever sought or received professional help for mental distress || id:ukb-d-20499",TRUE,"reported","igd"
+117677,0.0139329,12277442,0.00204964,1.06782e-11,"7","ukb-d-20499","rs13234970","C","T",0.412052,"Ever sought or received professional help for mental distress || id:ukb-d-20499",TRUE,"reported","igd"

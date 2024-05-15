@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,242301,A,G,0.54595,0.128639,0.0154882,9.93102e-17,rs11613331,7776,Imidazole propionate levels,TRUE,reported,UYASsa

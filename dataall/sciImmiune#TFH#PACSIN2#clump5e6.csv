@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"22",43410447,"rs9611985","C","T",2.74438480139e-10,-0.911586441165,0.144408121854877,89,"TFH#PACSIN2",TRUE,"reported","NNIK4S",NA
+"22",43604773,"rs86625","G","A",2.5631191219e-06,1.10739588407,0.235463675415007,89,"TFH#PACSIN2",TRUE,"reported","NNIK4S",NA

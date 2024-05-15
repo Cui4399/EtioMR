@@ -1,0 +1,4 @@
+"samplesize.exposure","pos.exposure","pval.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337199,32247045,6.83754e-19,"6",0.00522748,0.00058881,"ukb-a-553","rs145568234","G","T",0.0271473,"Diagnoses - main ICD10: K51 Ulcerative colitis || id:ukb-a-553",TRUE,"reported","igd"
+337199,32434716,2.18509e-09,"6",0.00153673,0.000256825,"ukb-a-553","rs28377109","A","C",0.118525,"Diagnoses - main ICD10: K51 Ulcerative colitis || id:ukb-a-553",TRUE,"reported","igd"
+337199,40463283,5.56801e-12,"21",-0.00132207,0.000191868,"ukb-a-553","rs9977672","A","G",0.259329,"Diagnoses - main ICD10: K51 Ulcerative colitis || id:ukb-a-553",TRUE,"reported","igd"

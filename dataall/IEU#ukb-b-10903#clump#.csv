@@ -1,0 +1,4 @@
+"chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.0017543,1e-11,462933,0.000257986,22465820,"ukb-b-10903","rs61768001","C","T",0.156522,"Non-cancer illness code, self-reported: endometriosis || id:ukb-b-10903",TRUE,"reported","igd"
+"4",-0.00132899,2e-10,462933,0.000208852,55995061,"ukb-b-10903","rs9992737","T","C",0.280266,"Non-cancer illness code, self-reported: endometriosis || id:ukb-b-10903",TRUE,"reported","igd"
+"11",-0.00162446,1.5e-09,462933,0.000268619,30226356,"ukb-b-10903","rs11031005","C","T",0.142679,"Non-cancer illness code, self-reported: endometriosis || id:ukb-b-10903",TRUE,"reported","igd"

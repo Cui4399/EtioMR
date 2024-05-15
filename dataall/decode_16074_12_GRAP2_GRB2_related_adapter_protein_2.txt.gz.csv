@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,39946989,rs148328786,G,A,0.1496,1.149e-15,0.018677,35366,0.04808,GRAP2_GRB2_related_adapter_protein_2,TRUE,reported,GRAP2_GRB2_related_adapter_protein_2

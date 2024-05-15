@@ -1,0 +1,4 @@
+"chr.exposure","beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"5",-0.000627209,463010,4.39997e-08,0.00011462,1287194,"ukb-b-5421","rs2853677","A","G",0.576131,"Diagnoses - main ICD10: C67.9 Bladder, unspecified || id:ukb-b-5421",TRUE,"reported","igd"
+"8",0.000641253,463010,1.79999e-08,0.000113814,128718068,"ukb-b-5421","rs9642880","T","G",0.449203,"Diagnoses - main ICD10: C67.9 Bladder, unspecified || id:ukb-b-5421",TRUE,"reported","igd"
+"8",0.000630039,463010,3.29997e-08,0.000114036,143776668,"ukb-b-5421","rs2717562","C","T",0.44321,"Diagnoses - main ICD10: C67.9 Bladder, unspecified || id:ukb-b-5421",TRUE,"reported","igd"

@@ -1,0 +1,7 @@
+"se.exposure","pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000530669,1.1221e-08,337199,"7",112640771,0.00303081,"ukb-a-524","rs78091559","A","G",0.0121634,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"
+0.00012156,1.21983e-11,337199,"9",100556109,0.000823946,"ukb-a-524","rs965513","G","A",0.668344,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"
+0.000132826,5.69246e-15,337199,"15",49741071,0.0010375,"ukb-a-524","rs17400427","C","T",0.246013,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"
+0.000145086,3.86447e-09,337199,"16",51172677,0.000854562,"ukb-a-524","rs11645288","A","G",0.191816,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"
+0.000823427,1.28165e-08,337199,"16",15811209,0.00468417,"ukb-a-524","rs183176702","A","G",0.00597718,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"
+0.00013899,3.35429e-12,337199,"20",22585484,-0.000967684,"ukb-a-524","rs1203921","G","T",0.784335,"Diagnoses - main ICD10: E04 Other non-toxic goitre || id:ukb-a-524",TRUE,"reported","igd"

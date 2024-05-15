@@ -1,0 +1,5 @@
+"pval.exposure","beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.5826e-08,0.000894278,5406493,"5",337159,0.000158209,"ukb-a-60","rs62338630","C","T",0.0794249,"Cancer code  self-reported: squamous cell carcinoma || id:ukb-a-60",TRUE,"reported","igd"
+2.85338e-08,0.0016236,143733856,"6",337159,0.000292523,"ukb-a-60","rs77529239","C","T",0.0211641,"Cancer code  self-reported: squamous cell carcinoma || id:ukb-a-60",TRUE,"reported","igd"
+3.9404e-08,0.00472084,20926669,"9",337159,0.000859331,"ukb-a-60","rs188483350","G","C",0.00265274,"Cancer code  self-reported: squamous cell carcinoma || id:ukb-a-60",TRUE,"reported","igd"
+4.50091e-09,0.00188775,95363098,"10",337159,0.000321877,"ukb-a-60","rs117061060","G","A",0.0186448,"Cancer code  self-reported: squamous cell carcinoma || id:ukb-a-60",TRUE,"reported","igd"

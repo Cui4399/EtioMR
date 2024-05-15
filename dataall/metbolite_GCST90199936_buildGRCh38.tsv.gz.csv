@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,156214143,C,T,0.0416006,-0.203935,0.0443259,4.20838e-06,rs13406778,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+2,239077306,A,G,0.0177463,-0.301658,0.0660801,4.99406e-06,rs111282759,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+4,125085932,G,A,0.0102348,-0.403519,0.0867179,3.2676e-06,rs75166338,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+5,148559962,G,C,0.0132461,0.381847,0.0767932,6.61258e-07,rs144745734,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+6,94506777,T,C,0.154587,0.111984,0.0243441,4.2237e-06,rs9363215,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+6,132769262,G,A,0.0111483,0.389174,0.0833682,3.03955e-06,rs186372130,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+6,149042290,A,C,0.618811,0.0840433,0.018224,3.99401e-06,rs1317171,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+7,95712838,T,C,0.0192246,0.301118,0.0639875,2.52754e-06,rs143561190,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+9,11855521,G,A,0.150159,0.116475,0.0244092,1.82622e-06,rs146949948,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+10,132304496,T,C,0.756104,-0.0985001,0.0210924,3.01288e-06,rs2492651,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+11,68224292,G,A,0.022274,-0.27459,0.059501,3.93307e-06,rs138694315,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+12,114014141,G,A,0.0346622,-0.234051,0.0477618,9.56557e-07,rs77763039,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+15,74525348,G,A,0.318834,0.0926319,0.0189886,1.07005e-06,rs35107470,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D
+17,35429981,A,T,0.142022,0.123035,0.0251509,9.98863e-07,rs12940181,6320,3-methyl catechol sulfate (2) levels,TRUE,reported,m55l4D

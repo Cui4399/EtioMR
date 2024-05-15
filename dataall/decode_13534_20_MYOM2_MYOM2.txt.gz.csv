@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,1973246,rs73184720,T,C,-0.1513,2.78e-09,0.025454,35277,0.0266,MYOM2_MYOM2,TRUE,reported,MYOM2_MYOM2
+8,2111213,rs4876226,T,C,0.0533,8.371e-09,0.009252,35281,0.26386,MYOM2_MYOM2,TRUE,reported,MYOM2_MYOM2
+8,2164884,rs74455617,T,C,-0.2778,1.148e-17,0.032461,35283,0.01605,MYOM2_MYOM2,TRUE,reported,MYOM2_MYOM2

@@ -1,0 +1,4 @@
+"samplesize.exposure","chr.exposure","pos.exposure","se.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,"2",44066247,0.0021989,0.0193252,1.5216e-18,"ukb-d-XI_DIGESTIVE","rs11887534","C","G",0.0654274,"Diseases of the digestive system || id:ukb-d-XI_DIGESTIVE",TRUE,"reported","igd"
+361194,"2",56093204,0.00159989,0.0103988,8.05935e-11,"ukb-d-XI_DIGESTIVE","rs1802575","C","G",0.133549,"Diseases of the digestive system || id:ukb-d-XI_DIGESTIVE",TRUE,"reported","igd"
+361194,"6",32677016,0.00116458,0.007153,8.15042e-10,"ukb-d-XI_DIGESTIVE","rs9275554","T","C",0.534087,"Diseases of the digestive system || id:ukb-d-XI_DIGESTIVE",TRUE,"reported","igd"

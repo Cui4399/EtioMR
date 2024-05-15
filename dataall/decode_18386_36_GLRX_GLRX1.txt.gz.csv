@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,95825737,rs6556885,A,G,-0.0845,1.33e-20,0.00908,35349,0.25611,GLRX_GLRX1,TRUE,reported,GLRX_GLRX1

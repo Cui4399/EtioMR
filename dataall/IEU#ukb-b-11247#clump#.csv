@@ -1,0 +1,4 @@
+"samplesize.exposure","chr.exposure","pos.exposure","se.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+461137,"6",160997118,0.00041435,0.00376681,9.79941e-20,"ukb-b-11247","rs74617384","T","A",0.078762,"Main speciality of consultant (recoded): Cardiothoracic surgery || id:ukb-b-11247",TRUE,"reported","igd"
+461137,"9",22065002,0.000226062,0.00218368,4.49987e-22,"ukb-b-11247","rs10811647","G","C",0.422944,"Main speciality of consultant (recoded): Cardiothoracic surgery || id:ukb-b-11247",TRUE,"reported","igd"
+461137,"11",69501890,0.000254329,0.00139917,3.79997e-08,"ukb-b-11247","rs72938101","A","G",0.268469,"Main speciality of consultant (recoded): Cardiothoracic surgery || id:ukb-b-11247",TRUE,"reported","igd"

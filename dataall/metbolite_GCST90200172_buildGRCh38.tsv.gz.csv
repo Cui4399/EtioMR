@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233672032,C,T,0.0146558,0.617646,0.0631631,1.39146e-22,rs72551330,8234,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP) levels,TRUE,reported,btIdbm
+7,76213744,A,G,0.156128,-0.12145,0.0208395,5.61447e-09,rs11489553,8234,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP) levels,TRUE,reported,btIdbm
+10,95041116,C,T,0.282341,0.201407,0.0168568,6.64301e-33,rs1341164,8234,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP) levels,TRUE,reported,btIdbm
+10,99849162,A,G,0.0597106,0.201183,0.0322895,4.64662e-10,rs113513789,8234,3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP) levels,TRUE,reported,btIdbm

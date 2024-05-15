@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,78939258,rs78959569,T,C,0.185174,7.51795981512005e-11,0.0284448,33415,0.0179161,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79000149,rs7565256,G,T,-0.0780585,2.28454648855183e-13,0.0106478,33415,0.140149,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79010401,rs13030552,T,C,-0.159675,2.11154334065884e-26,0.0150181,33415,0.0641235,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79067162,rs72814698,C,T,0.153726,6.61530694635821e-09,0.0265026,33415,0.0229236,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79096762,rs11126696,G,A,0.251008,1e-200,0.00755,33415,0.618127,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79136125,rs6721752,T,C,-0.219604,5.14043651582424e-121,0.00938794,33415,0.186338,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79165161,rs112406348,G,A,0.119292,3.53826209571368e-09,0.0202038,33415,0.0371603,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79168007,rs116344400,T,C,0.17354,1.50175815854127e-14,0.0225747,33415,0.0269789,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79174749,rs148370113,A,G,0.152789,2.41295931880854e-08,0.0273843,33415,0.0204025,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79191376,rs17016486,A,G,0.232446,1.32464651121269e-44,0.0165896,33415,0.0517602,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis
+2,79327564,rs17016879,G,A,-0.0797159,2.21156648582988e-15,0.0100539,33415,0.16192,reg1a_p05451_oid20415_v1_cardiometabolic,TRUE,reported,reg1a_p05451_oid20415_v1_cardiometabolic,chr2,79120457,cis

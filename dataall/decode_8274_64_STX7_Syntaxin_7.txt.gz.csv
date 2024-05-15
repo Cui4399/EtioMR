@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,132513379,rs3813356,T,C,-0.1171,7.987e-46,0.008241,35364,0.37468,STX7_Syntaxin_7,TRUE,reported,STX7_Syntaxin_7

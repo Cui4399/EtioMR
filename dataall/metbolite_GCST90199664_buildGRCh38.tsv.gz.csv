@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,58718562,T,C,0.0778439,0.447662,0.0265192,6.2441e-64,rs11076256,8235,Phenyllactate (PLA) levels in elite athletes,TRUE,reported,7E4DOS
+16,58781671,T,C,0.0478586,-0.194762,0.0339985,1.01287e-08,rs143277630,8235,Phenyllactate (PLA) levels in elite athletes,TRUE,reported,7E4DOS

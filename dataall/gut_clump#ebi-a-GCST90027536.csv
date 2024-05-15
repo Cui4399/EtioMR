@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,34193735,0.105095,0.0221999,2.2013e-06,7738,ebi-a-GCST90027536,rs608108,C,T,0.303646,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+2,147940493,-0.101046,0.0206887,1.03877e-06,7738,ebi-a-GCST90027536,rs778115,C,T,0.579362,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+4,139888284,-0.187124,0.0400277,2.94144e-06,7738,ebi-a-GCST90027536,rs73852710,G,T,0.0695707,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+5,75748115,0.109305,0.0236336,3.74636e-06,7738,ebi-a-GCST90027536,rs9765093,A,G,0.265378,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+7,151641278,0.0985581,0.021308,3.73869e-06,7738,ebi-a-GCST90027536,rs17569415,A,G,0.340946,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+14,50958256,0.158942,0.0341622,3.27831e-06,7738,ebi-a-GCST90027536,rs113053719,A,C,0.100986,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+17,64917033,0.125699,0.0235802,9.78205e-08,7738,ebi-a-GCST90027536,rs17645023,T,A,0.245424,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd
+20,62817662,-0.143298,0.0309319,3.60936e-06,7738,ebi-a-GCST90027536,rs6062355,T,G,0.144955,PWY.5005..biotin.biosynthesis.II,TRUE,reported,igd

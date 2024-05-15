@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61820833,G,A,0.337395,-0.270612,0.0160231,5.43349e-64,rs174564,7650,1-arachidonylglycerol (20:4) levels,TRUE,reported,2Fun4N
+11,115733516,T,C,0.0372577,0.221077,0.0402002,3.81076e-08,rs11215670,7650,1-arachidonylglycerol (20:4) levels,TRUE,reported,2Fun4N

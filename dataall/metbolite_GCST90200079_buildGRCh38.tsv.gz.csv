@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,156960126,C,G,0.637761,0.0901934,0.0162766,3.00251e-08,rs6878680,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+11,61824890,G,A,0.344891,-0.123363,0.016301,3.79437e-14,rs174566,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+11,116754011,G,C,0.929383,-0.233933,0.0302266,9.99457e-15,rs7930786,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+15,58255679,A,G,0.139031,0.14739,0.0224536,5.23192e-11,rs12904367,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+15,58391167,G,A,0.62153,-0.358021,0.0156177,2.67276e-116,rs1532085,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+15,58431280,C,T,0.217497,0.37044,0.0185641,1.36663e-88,rs1077834,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU
+19,44893408,T,G,0.204106,0.117492,0.019163,8.72078e-10,rs59007384,8121,1-oleoyl-2-arachidonoyl-GPE (18:1/20:4) levels,TRUE,reported,JlxkOU

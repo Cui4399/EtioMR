@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27519736,C,T,0.59698,0.0936549,0.0157802,2.93897e-09,rs780093,8222,Glutamine to alanine ratio,TRUE,reported,waEBL1
+12,56471554,G,A,0.196139,-0.191336,0.0193119,3.85519e-23,rs2657879,8222,Glutamine to alanine ratio,TRUE,reported,waEBL1

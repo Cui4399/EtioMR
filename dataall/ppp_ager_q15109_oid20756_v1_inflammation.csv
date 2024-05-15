@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+6,31303210,rs7746336,G,C,-0.145686,4.89778819368448e-24,0.0144075,33578,0.0951234,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,31379152,rs9266633,G,T,-0.0699462,2.56153326408795e-21,0.00737889,33578,0.48434,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,31927315,rs9332733,G,A,0.218494,2.33184672315709e-13,0.0298153,33578,0.0154714,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32160617,rs9267812,T,C,-0.133243,6.62216503701759e-35,0.0108106,33578,0.134365,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32187804,rs204993,G,A,-0.16995,2.50610925303212e-103,0.00787367,33578,0.319897,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32216552,rs80074882,G,A,0.156821,3.8937673575868e-08,0.0285358,33578,0.0170647,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32561329,rs28848198,G,A,0.0828676,1.81551566277314e-17,0.00974336,33578,0.23649,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32650413,rs185774696,T,C,-0.0541717,8.23531091272053e-09,0.00939898,33578,0.296407,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32651121,rs145380601,G,C,-0.141768,1.83780741736415e-47,0.00979646,33578,0.215098,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32662319,rs9274063,A,G,-0.116468,3.84237722998907e-30,0.0102099,33578,0.237013,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32665861,rs281861363,A,G,-0.0975949,5.82639601623575e-13,0.0135464,33578,0.0988164,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis
+6,32890024,rs241414,G,T,-0.0516061,5.01302649539806e-12,0.0074735,33578,0.417416,ager_q15109_oid20756_v1_inflammation,TRUE,reported,ager_q15109_oid20756_v1_inflammation,chr6,32184380,cis

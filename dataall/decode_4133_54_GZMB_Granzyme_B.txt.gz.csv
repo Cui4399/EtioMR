@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,24689939,rs78564162,G,A,0.1596,2.307e-23,0.016026,35378,0.06551,GZMB_Granzyme_B,TRUE,reported,GZMB_Granzyme_B

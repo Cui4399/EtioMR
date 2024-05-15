@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,156586529,rs10796961,A,G,0.5361,1.814e-79,0.028402,35363,0.01945,APOA1BP_AIBP,TRUE,reported,APOA1BP_AIBP
+1,156643140,rs3795736,C,T,-0.0476,4.859e-08,0.008724,35357,0.30311,APOA1BP_AIBP,TRUE,reported,APOA1BP_AIBP

@@ -1,0 +1,5 @@
+"chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",-0.000743085,5.60003e-09,462933,0.000127497,171360896,"ukb-b-2953","rs4668267","T","C",0.692728,"Operation code: radical prostatectomy || id:ukb-b-2953",TRUE,"reported","igd"
+"8",-0.000719622,4.79999e-09,462933,0.000122926,128101331,"ukb-b-2953","rs62529913","G","A",0.642127,"Operation code: radical prostatectomy || id:ukb-b-2953",TRUE,"reported","igd"
+"10",-0.000850332,1.10002e-12,462933,0.000119536,51549496,"ukb-b-2953","rs10993994","C","T",0.607569,"Operation code: radical prostatectomy || id:ukb-b-2953",TRUE,"reported","igd"
+"17",-0.000655361,2.1e-08,462933,0.000116925,69110923,"ukb-b-2953","rs7217073","G","A",0.532139,"Operation code: radical prostatectomy || id:ukb-b-2953",TRUE,"reported","igd"

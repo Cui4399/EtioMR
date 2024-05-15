@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,188062464,A,G,0.0165108,0.431129,0.0921001,2.85344e-06,rs183464939,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+1,219697270,T,G,0.305774,-0.126885,0.0253771,5.7339e-07,rs1415995,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+2,70261338,T,C,0.138865,0.201905,0.0343131,3.99973e-09,rs2706762,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+2,149345454,T,C,0.016049,-0.457501,0.0949777,1.45783e-06,rs185616171,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+3,155319217,T,C,0.590208,-0.113007,0.024307,3.33338e-06,rs7643746,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+4,7400879,A,G,0.663206,0.122132,0.0253059,1.39149e-06,rs7666482,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+5,59794557,C,T,0.0249781,0.360996,0.0759663,2.01359e-06,rs113311036,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+5,142211721,G,A,0.110267,-0.189824,0.0387373,9.56898e-07,rs55725639,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+8,86017940,A,C,0.172816,-0.151839,0.0315272,1.4637e-06,rs34084341,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+9,85822975,G,A,0.0137467,0.505165,0.101373,6.25281e-07,rs138943240,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+11,11392597,T,C,0.107549,0.180594,0.0385877,2.86732e-06,rs73419800,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+12,132755776,C,G,0.0545189,0.237807,0.0520151,4.83344e-06,rs61951309,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+19,41055695,A,G,0.0212518,-0.382922,0.0829099,3.86458e-06,rs144176888,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm
+20,43842629,C,T,0.0218091,0.401078,0.0809523,7.25155e-07,rs147998606,3441,Adenosine 5'-diphosphate (ADP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,tFqkRm

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210678331,C,T,0.306727,-0.150822,0.0139745,3.72823e-27,rs715,8293,Glutamine degradant levels,TRUE,reported,dnHQQ1
+3,45772602,A,G,0.0990947,0.238955,0.0212722,2.80074e-29,rs17279437,8293,Glutamine degradant levels,TRUE,reported,dnHQQ1
+5,151313145,T,G,0.0118372,-0.497256,0.0592585,4.80772e-17,rs146767775,8293,Glutamine degradant levels,TRUE,reported,dnHQQ1
+12,240132,T,C,0.651764,0.147532,0.0135304,1.10603e-27,rs10774021,8293,Glutamine degradant levels,TRUE,reported,dnHQQ1
+15,45351645,G,T,0.364603,-0.0805078,0.0134064,1.91134e-09,rs2467862,8293,Glutamine degradant levels,TRUE,reported,dnHQQ1

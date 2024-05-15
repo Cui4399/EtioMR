@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,126217029,T,A,0.966585,-0.215637,0.0469829,4.43898e-06,rs1160496,6990,Cytosine levels,TRUE,reported,bANkG7
+4,67871875,A,G,0.21033,-0.0977723,0.0203932,1.63205e-06,rs17577246,6990,Cytosine levels,TRUE,reported,bANkG7
+6,13335554,C,A,0.0631718,-0.162604,0.0348817,3.13791e-06,rs147461700,6990,Cytosine levels,TRUE,reported,bANkG7
+7,7802650,T,G,0.410609,0.0808492,0.0169567,1.86092e-06,rs12671658,6990,Cytosine levels,TRUE,reported,bANkG7
+9,100361913,C,T,0.0946279,0.134058,0.0287656,3.15648e-06,rs72733378,6990,Cytosine levels,TRUE,reported,bANkG7
+9,121812735,T,G,0.0140815,0.332671,0.0714537,3.22788e-06,rs117318016,6990,Cytosine levels,TRUE,reported,bANkG7
+10,64375114,T,G,0.0192919,-0.28614,0.061007,2.72836e-06,rs117083795,6990,Cytosine levels,TRUE,reported,bANkG7
+20,9474795,T,C,0.0153989,0.317306,0.0681739,3.24981e-06,rs118074678,6990,Cytosine levels,TRUE,reported,bANkG7

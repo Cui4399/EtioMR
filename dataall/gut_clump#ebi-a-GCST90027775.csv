@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,112076856,-0.108937,0.0236079,3.94158e-06,7738,ebi-a-GCST90027775,rs12028677,T,C,0.158462,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii,TRUE,reported,igd
+6,1263359,0.112476,0.0238178,2.33136e-06,7738,ebi-a-GCST90027775,rs12192901,A,G,0.170872,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii,TRUE,reported,igd
+10,131571972,0.0813715,0.0171055,1.96454e-06,7738,ebi-a-GCST90027775,rs10829629,T,C,0.442907,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii,TRUE,reported,igd
+12,87292283,-0.0956743,0.0206046,3.42799e-06,7738,ebi-a-GCST90027775,rs7962165,G,T,0.770098,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii,TRUE,reported,igd
+19,30131562,0.088168,0.0178406,7.73339e-07,7738,ebi-a-GCST90027775,rs10407049,C,G,0.533488,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_finegoldii,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,87802058,rs2616262,T,G,-0.0944,3.592e-31,0.00813,35364,0.48757,IBSP_BSP,TRUE,reported,IBSP_BSP

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75734132,T,C,0.336628,0.124184,0.0155279,1.26976e-15,rs7541058,8227,3-hydroxyhexanoylcarnitine (1) levels,TRUE,reported,Nvg1ol
+2,151379884,G,A,0.136732,0.119147,0.021356,2.41763e-08,rs1046675,8227,3-hydroxyhexanoylcarnitine (1) levels,TRUE,reported,Nvg1ol
+10,59707424,T,G,0.768598,0.173188,0.0178359,2.731e-22,rs1171617,8227,3-hydroxyhexanoylcarnitine (1) levels,TRUE,reported,Nvg1ol

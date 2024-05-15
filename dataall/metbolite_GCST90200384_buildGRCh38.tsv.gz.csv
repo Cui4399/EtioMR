@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,131576138,T,C,0.158736,0.121725,0.0199615,1.07418e-09,rs2781668,8238,Guanidinoacetate levels,TRUE,reported,q9fHR7
+11,65376421,A,G,0.033471,-0.349215,0.0404895,6.41973e-18,rs34400381,8238,Guanidinoacetate levels,TRUE,reported,q9fHR7
+12,239619,C,T,0.655088,0.127499,0.0155718,2.66035e-16,rs11062102,8238,Guanidinoacetate levels,TRUE,reported,q9fHR7
+14,100351992,T,C,0.0260594,0.314735,0.0461449,9.06686e-12,rs111245176,8238,Guanidinoacetate levels,TRUE,reported,q9fHR7
+20,63521166,G,C,0.144309,0.164008,0.0210294,6.24055e-15,rs72629024,8238,Guanidinoacetate levels,TRUE,reported,q9fHR7

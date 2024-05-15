@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61802358,T,C,0.339156,-0.182852,0.0159898,2.77835e-30,rs174546,8279,Adrenate (22:4n6) levels,TRUE,reported,YIv2aT

@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+60300,-0.0867745,0.0183054,0.00000213805,"2",109079294,"C","T","rs373260740",0.947682,0.013908,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"
+60300,0.0666201,0.0145138,0.00000443903,"12",85207937,"A","T","rs78125200",0.951508,0.0202094,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"
+60300,0.018767,0.00406451,0.00000389596,"13",84781908,"G","A","rs2774061",1,0.495195,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"
+60300,-0.0211375,0.00453555,0.0000031625,"14",29915103,"T","C","rs9324120",0.859396,0.359628,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"
+60300,-0.0248125,0.00505481,0.000000919276,"15",69450404,"A","G","rs12591358",0.93687,0.220219,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"
+60300,0.0449503,0.00921883,0.00000108578,"16",79365779,"A","T","rs7204581",0.977125,0.947737,NA,"Number of spontaneous miscarriages",TRUE,"reported","QdTcPI","Pregnancy complications","ukb2366"

@@ -1,0 +1,3 @@
+"samplesize.exposure","chr.exposure","beta.exposure","pval.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+220207,"6",0.0227832,1.5e-08,98887788,0.00402328,"ukb-b-3502","rs2088088","T","C",0.320809,"Frequency of other exercises in last 4 weeks || id:ukb-b-3502",TRUE,"reported","igd"
+220207,"10",0.0231186,7.29995e-10,126712615,0.00375351,"ukb-b-3502","rs3781415","T","C",0.490053,"Frequency of other exercises in last 4 weeks || id:ukb-b-3502",TRUE,"reported","igd"

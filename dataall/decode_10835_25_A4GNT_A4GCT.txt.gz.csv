@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,138140323,rs2251550,G,A,-0.0651,2.273e-14,0.008527,35350,0.30063,A4GNT_A4GCT,TRUE,reported,A4GNT_A4GCT

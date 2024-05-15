@@ -1,0 +1,6 @@
+"pval.exposure","se.exposure","samplesize.exposure","pos.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.3725e-08,0.000341115,335546,127459552,"6",-0.00186768,"ukb-a-439","rs9482773","C","G",0.480289,"Fractured bone site(s): Wrist || id:ukb-a-439",TRUE,"reported","igd"
+2.12726e-08,0.000342265,335546,38149932,"7",-0.00191718,"ukb-a-439","rs10280461","A","C",0.545389,"Fractured bone site(s): Wrist || id:ukb-a-439",TRUE,"reported","igd"
+6.47888e-27,0.000388534,335546,120966790,"7",-0.0041739,"ukb-a-439","rs3779381","G","A",0.259261,"Fractured bone site(s): Wrist || id:ukb-a-439",TRUE,"reported","igd"
+1.14206e-09,0.000354718,335546,41801246,"17",-0.00215964,"ukb-a-439","rs7217502","C","A",0.38114,"Fractured bone site(s): Wrist || id:ukb-a-439",TRUE,"reported","igd"
+9.84011e-11,0.000354467,335546,13722308,"18",0.00229326,"ukb-a-439","rs1941749","G","A",0.357741,"Fractured bone site(s): Wrist || id:ukb-a-439",TRUE,"reported","igd"

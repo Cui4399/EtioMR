@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,1287310,T,C,0.0409447,0.191671,0.0399986,1.65168e-06,rs115316182,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+1,77161913,C,T,0.0156155,0.300567,0.061204,9.0659e-07,rs74685719,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+2,119377432,C,G,0.0336202,0.196732,0.0427778,4.24689e-06,rs150371005,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+2,175638904,T,C,0.0164305,0.27979,0.0606058,3.90173e-06,rs140774329,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+2,208049665,T,C,0.0171974,-0.287873,0.0589226,1.03103e-06,rs74720175,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+3,24193427,G,A,0.0225728,-0.246411,0.0514848,1.70069e-06,rs862246,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+3,193179437,G,T,0.0708068,0.136525,0.0297854,4.57001e-06,rs73196836,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+5,73646471,G,A,0.713469,0.0866154,0.0168858,2.90565e-07,rs970305,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+12,132314213,G,T,0.038021,-0.198915,0.0402366,7.6683e-07,rs77633892,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+15,58432643,A,G,0.28158,0.0843034,0.0173195,1.1299e-06,rs8033940,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+17,77694923,T,C,0.0461519,-0.181024,0.0372763,1.1962e-06,rs117713991,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS
+22,17104918,C,G,0.172445,0.0979794,0.020911,2.79215e-06,rs721930,8251,"2,4-di-tert-butylphenol levels",TRUE,reported,0E40lS

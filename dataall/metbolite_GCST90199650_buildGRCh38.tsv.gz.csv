@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,26547368,A,G,0.0147347,0.321487,0.0589415,4.91562e-08,rs145909629,8233,Indolelactate levels,TRUE,reported,rq0Wxs
+9,128818465,T,C,0.709362,0.185074,0.0156931,4.22481e-32,rs2997922,8233,Indolelactate levels,TRUE,reported,rq0Wxs
+16,58736977,A,C,0.0790114,0.212473,0.0262875,6.33765e-16,rs11647808,8233,Indolelactate levels,TRUE,reported,rq0Wxs

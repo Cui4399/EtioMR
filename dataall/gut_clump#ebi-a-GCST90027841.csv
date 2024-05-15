@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,85710312,-0.113617,0.0243498,3.07029e-06,7738,ebi-a-GCST90027841,rs11161562,G,C,0.260616,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd
+5,173534877,0.124402,0.0268351,3.55574e-06,7738,ebi-a-GCST90027841,rs4457100,G,A,0.230483,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd
+8,138933940,-0.161229,0.0334158,1.40055e-06,7738,ebi-a-GCST90027841,rs17696544,G,A,0.142327,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd
+8,84262265,-0.189805,0.0411906,4.06631e-06,7738,ebi-a-GCST90027841,rs61213519,T,A,0.0721578,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd
+11,18743180,-0.112605,0.0220272,3.18632e-07,7738,ebi-a-GCST90027841,rs10832975,G,C,0.414205,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd
+20,16019700,-0.100685,0.0219053,4.29893e-06,7738,ebi-a-GCST90027841,rs775133,G,C,0.481109,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__Ruminococcus_torques,TRUE,reported,igd

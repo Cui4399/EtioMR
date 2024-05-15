@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,15414434,rs78880003,T,C,-0.2027,5.619e-31,0.017514,35382,0.06114,CELA2A_ELA2A,TRUE,reported,CELA2A_ELA2A
+1,15719614,rs1006147,T,C,-0.0496,3.899e-08,0.009026,35385,0.30674,CELA2A_ELA2A,TRUE,reported,CELA2A_ELA2A
+1,15756481,rs35609485,T,C,-0.0872,9.899e-10,0.014269,35384,0.09364,CELA2A_ELA2A,TRUE,reported,CELA2A_ELA2A

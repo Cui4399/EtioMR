@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,86584460,rs2150719,C,T,-0.0734,8.579e-19,0.008292,35351,0.48296,GAS1_GAS1,TRUE,reported,GAS1_GAS1
+9,87072939,rs4878043,T,C,0.0843,7.196e-24,0.008368,35357,0.42268,GAS1_GAS1,TRUE,reported,GAS1_GAS1

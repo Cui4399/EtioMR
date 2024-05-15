@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,2585609,-0.102206,0.0217496,2.61174e-06,7738,ebi-a-GCST90027603,rs73001914,G,A,0.182174,PWY.6901..superpathway.of.glucose.and.xylose.degradation,TRUE,reported,igd
+4,43582603,0.170007,0.0352783,1.44258e-06,7738,ebi-a-GCST90027603,rs114537104,G,T,0.0602476,PWY.6901..superpathway.of.glucose.and.xylose.degradation,TRUE,reported,igd
+6,3629689,-0.0852001,0.0179529,2.0773e-06,7738,ebi-a-GCST90027603,rs6596989,G,A,0.660013,PWY.6901..superpathway.of.glucose.and.xylose.degradation,TRUE,reported,igd
+10,133603287,0.117953,0.0237137,6.55632e-07,7738,ebi-a-GCST90027603,rs12782517,T,C,0.152274,PWY.6901..superpathway.of.glucose.and.xylose.degradation,TRUE,reported,igd
+16,27919526,-0.153964,0.0325341,2.21896e-06,7738,ebi-a-GCST90027603,rs57238953,A,G,0.0675283,PWY.6901..superpathway.of.glucose.and.xylose.degradation,TRUE,reported,igd

@@ -1,0 +1,3 @@
+"se.exposure","chr.exposure","beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0122704,"4",0.0681226,64133220,64949,2.80001e-08,"ukb-b-139","rs143788580","T","C",0.014286,"Other sweets intake || id:ukb-b-139",TRUE,"reported","igd"
+0.00267871,"9",-0.0151237,24788197,64949,1.6e-08,"ukb-b-139","rs10732346","C","T",0.542833,"Other sweets intake || id:ukb-b-139",TRUE,"reported","igd"

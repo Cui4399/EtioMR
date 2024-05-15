@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,72340884,rs9416018,A,G,-0.0833,7.088e-22,0.008666,35373,0.33152,DNAJB12_DJB12,TRUE,reported,DNAJB12_DJB12

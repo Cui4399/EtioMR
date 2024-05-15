@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132374707,C,A,0.521331,0.124988,0.0150915,1.21113e-16,rs200838,8268,Carnitine C18:2 levels,TRUE,reported,SOmPmS
+6,110438805,G,A,0.239215,-0.300546,0.0173208,1.91337e-67,rs12210538,8268,Carnitine C18:2 levels,TRUE,reported,SOmPmS
+10,45508364,T,C,0.318545,0.0941272,0.0162175,6.47355e-09,rs964686,8268,Carnitine C18:2 levels,TRUE,reported,SOmPmS
+10,59706183,C,T,0.374797,0.0970579,0.0156949,6.24757e-10,rs1171618,8268,Carnitine C18:2 levels,TRUE,reported,SOmPmS
+12,21208114,TTTC,T,0.155118,0.125723,0.020743,1.35279e-09,rs151231052,8268,Carnitine C18:2 levels,TRUE,reported,SOmPmS

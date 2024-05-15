@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",33561164,"rs210163","C","T",5.3738264285e-10,-1.06984067863,0.172338687426499,89,"Classical monocyte#ITPR3",TRUE,"reported","ddfq6q",NA

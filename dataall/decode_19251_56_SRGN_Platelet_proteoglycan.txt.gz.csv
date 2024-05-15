@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,68823793,rs71483923,TCCATTTCAA,TCCATCTCA,-0.0707,8.828e-10,0.011535,35363,0.14301,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69097096,rs2229498,A,G,0.223,1.707e-94,0.010813,35362,0.16514,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69097207,rs67852477,G,C,-0.965,3.284e-112,0.042869,35361,0.00795,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69154884,rs61868358,CGCACACGCGCACGTGCGTGCACATATATATATTTT,CGCGCACGCGCACGTGCGTGCACATATATATATTTT,0.0745,2.541e-14,0.009777,35355,0.32578,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69294557,rs2394543,G,A,0.0599,1.474e-10,0.009348,35356,0.24576,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69383865,rs12264809,C,T,-0.1235,4.825e-12,0.017871,35363,0.05054,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69467793,rs72811732,T,A,-0.1324,3.418e-14,0.017464,35365,0.05276,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan
+10,69659001,rs143964554,A,G,-0.1804,5.555e-13,0.025017,35365,0.02553,SRGN_Platelet_proteoglycan,TRUE,reported,SRGN_Platelet_proteoglycan

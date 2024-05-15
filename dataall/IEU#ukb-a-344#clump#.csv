@@ -1,0 +1,5 @@
+"beta.exposure","pval.exposure","se.exposure","chr.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.174223,4.3472e-08,0.0318043,"3",82393990,23332,"ukb-a-344","rs142691596","A","G",0.0180843,"Difficulty not smoking for 1 day || id:ukb-a-344",TRUE,"reported","igd"
+-0.0542617,3.40236e-08,0.00982784,"7",32373398,23332,"ukb-a-344","rs215637","A","G",0.764851,"Difficulty not smoking for 1 day || id:ukb-a-344",TRUE,"reported","igd"
+0.0861556,8.08165e-12,0.0125948,"9",136459543,23332,"ukb-a-344","rs3025316","C","T",0.115651,"Difficulty not smoking for 1 day || id:ukb-a-344",TRUE,"reported","igd"
+0.0892469,2.14981e-25,0.00856019,"15",78911181,23332,"ukb-a-344","rs8040868","C","T",0.392476,"Difficulty not smoking for 1 day || id:ukb-a-344",TRUE,"reported","igd"

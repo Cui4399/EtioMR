@@ -1,0 +1,21 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,202216668,G,A,0.0730391,-0.16326,0.0342519,1.87507e-06,rs112286689,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+2,47153995,A,G,0.0349797,-0.232205,0.0481071,1.38716e-06,rs78501213,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+2,109491995,C,T,0.111907,0.127078,0.0278214,4.9325e-06,rs150532509,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+3,11980610,G,T,0.54155,0.093067,0.0174481,9.60988e-08,rs9841769,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+3,190191239,A,G,0.0242877,0.265218,0.0572261,3.57701e-06,rs75777653,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+5,7960258,A,G,0.0221253,0.287379,0.0593691,1.29479e-06,rs78554850,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+5,178160826,T,C,0.0117078,0.381832,0.0814522,2.76147e-06,rs188529802,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+6,16562560,G,T,0.0434202,0.197957,0.0433226,4.89197e-06,rs75076424,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+7,45679041,A,G,0.028074,0.252837,0.0538357,2.64708e-06,rs77682771,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+7,152954038,G,A,0.0302134,0.259538,0.0514085,4.45211e-07,rs113666856,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+8,10756765,G,T,0.297812,0.0942338,0.0197574,1.84636e-06,rs718742,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+10,123035030,G,A,0.482823,-0.0819217,0.0177884,4.1178e-06,rs56959125,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+11,32142669,T,G,0.0142857,0.349536,0.0740248,2.3367e-06,rs140145918,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+13,61407504,C,G,0.297119,-0.0988084,0.0194795,3.92759e-07,rs9570568,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+15,101167747,C,A,0.0211268,0.286106,0.0620406,3.9961e-06,rs60365179,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+17,27822305,G,A,0.017263,0.315306,0.0668543,2.40152e-06,rs189196332,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+18,10279253,C,T,0.410896,-0.0852027,0.0182482,3.02536e-06,rs9960247,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+19,6572821,A,C,0.39739,0.0828802,0.0180051,4.16152e-06,rs2642213,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+19,19747831,T,C,0.0153713,-0.334391,0.0721986,3.62958e-06,rs35921908,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um
+19,44928379,G,A,0.0953561,0.148234,0.0309252,1.64047e-06,rs113345881,6432,1-palmitoleoylglycerol (16:1) levels,TRUE,reported,35c7um

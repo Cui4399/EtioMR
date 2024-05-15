@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,43455236,rs35681564,A,G,0.1413,7.508e-45,0.010056,35350,0.20779,LYPD3_LYPD3,TRUE,reported,LYPD3_LYPD3
+19,43568977,rs34220562,TAA,TA,-0.0948,5.886e-11,0.014481,35363,0.08842,LYPD3_LYPD3,TRUE,reported,LYPD3_LYPD3
+19,43587547,rs11671427,A,G,-0.1289,4.48e-09,0.021976,35363,0.03622,LYPD3_LYPD3,TRUE,reported,LYPD3_LYPD3

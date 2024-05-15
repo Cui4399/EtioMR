@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,186204370,T,C,0.815573,0.213838,0.0191665,6.62923e-29,rs4997685,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+4,186211877,T,A,0.47656,0.119333,0.014961,1.50794e-15,rs1053094,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+7,76159946,C,T,0.30076,0.0985258,0.0163329,1.61586e-09,rs1859792,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+12,20979253,G,A,0.0536625,0.292454,0.0329988,7.81929e-19,rs7306128,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+12,20979640,G,A,0.0536625,0.292454,0.0329988,7.81929e-19,rs11829410,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+12,21162039,T,A,0.716306,0.198496,0.0167178,1.6284e-32,rs4762697,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+12,21178615,C,T,0.158107,0.524674,0.0196894,1.90983e-156,rs4149056,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+14,73559459,A,G,0.224815,-0.126732,0.0181225,2.68973e-12,rs72738356,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo
+19,15879621,T,C,0.296554,-0.177705,0.0162276,6.58629e-28,rs2108622,8049,Octadecanedioylcarnitine (C18-DC) levels,TRUE,reported,Ugnixo

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+5,90668171,rs10805870,C,A,0.0549871,4.30625754321173e-12,0.00793836,33017,0.405013,lysmd3_q7z3d4_oid30950_v1_neurology_ii,TRUE,reported,lysmd3_q7z3d4_oid30950_v1_neurology_ii,chr5,90529616,cis

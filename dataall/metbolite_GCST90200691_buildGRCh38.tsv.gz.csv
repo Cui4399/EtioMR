@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73098605,T,C,0.0556876,-0.26206,0.0339198,1.1109e-14,rs76814801,8259,N-delta-acetylornithine levels,TRUE,reported,ILaHe5
+2,73534319,G,C,0.228863,-0.907478,0.0151701,1e-200,rs10199224,8259,N-delta-acetylornithine levels,TRUE,reported,ILaHe5
+2,73539537,T,C,0.131096,0.144514,0.0224665,1.25587e-10,rs11689767,8259,N-delta-acetylornithine levels,TRUE,reported,ILaHe5

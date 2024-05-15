@@ -1,0 +1,6 @@
+"samplesize.exposure","pval.exposure","chr.exposure","se.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+108706,1.97815e-09,"1",0.00440957,47953054,0.0264578,"ukb-d-30500_irnt","rs6665323","C","T",0.622863,"Microalbumin in urine || id:ukb-d-30500_irnt",TRUE,"reported","igd"
+108706,1.826e-21,"4",0.0109065,190769223,0.103792,"ukb-d-30500_irnt","rs4109437","A","G",0.0402324,"Microalbumin in urine || id:ukb-d-30500_irnt",TRUE,"reported","igd"
+108706,4.26197e-08,"6",0.00520406,31377793,0.0285184,"ukb-d-30500_irnt","rs6938453","A","T",0.219639,"Microalbumin in urine || id:ukb-d-30500_irnt",TRUE,"reported","igd"
+108706,7.08419e-09,"10",0.0150026,17105769,0.086856,"ukb-d-30500_irnt","rs45566640","C","T",0.0218681,"Microalbumin in urine || id:ukb-d-30500_irnt",TRUE,"reported","igd"
+108706,2.33668e-21,"10",0.00665762,16928301,0.0631862,"ukb-d-30500_irnt","rs74942409","C","T",0.114877,"Microalbumin in urine || id:ukb-d-30500_irnt",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,104105483,G,C,0.13021,-0.231559,0.0225607,1.02566e-24,rs2282377,8188,Adenosine 5'-monophosphate (AMP) to asparagine ratio,TRUE,reported,WoH838

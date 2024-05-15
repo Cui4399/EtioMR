@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46020298,C,T,0.714364,-0.0767965,0.0167051,4.28248e-06,rs946527,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+1,230291712,C,A,0.0440835,-0.170102,0.0367801,3.74904e-06,rs12030266,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+3,56781823,G,A,0.0388225,0.181273,0.0391345,3.62042e-06,rs12632887,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+5,35707759,G,A,0.601268,-0.0722568,0.0153772,2.61471e-06,rs10079528,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+5,151452428,G,A,0.443062,-0.0738375,0.0152939,1.37983e-06,rs918421,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+6,33748127,A,C,0.0701231,-0.142168,0.0296721,1.65694e-06,rs9469581,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+7,112580220,A,G,0.0286255,-0.232536,0.0460203,4.35154e-07,rs151325649,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+7,128178895,C,G,0.381361,-0.0742056,0.0155116,1.71935e-06,rs13311337,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+7,139465102,T,C,0.204291,0.0872458,0.0187808,3.39277e-06,rs11765257,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+13,83190884,T,G,0.370131,0.0739094,0.015705,2.525e-06,rs9546322,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+17,2958049,G,A,0.0136146,-0.303586,0.0658561,4.02984e-06,rs138320524,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+18,48849637,G,A,0.456163,0.0765167,0.015266,5.37976e-07,rs8088527,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+21,35958434,T,C,0.354901,-0.079045,0.0160454,8.37815e-07,rs7281493,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC
+22,27922044,G,A,0.0555556,0.151923,0.0328568,3.76772e-06,rs5752658,8230,Phosphate to alanine ratio,TRUE,reported,QDhWMC

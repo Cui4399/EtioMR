@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,65770031,0.0795887,0.0165053,1.42125e-06,7738,ebi-a-GCST90027581,rs6705904,G,T,0.607331,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+4,36459051,-0.122536,0.0264795,3.6999e-06,7738,ebi-a-GCST90027581,rs61798216,G,A,0.113463,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+5,9599686,-0.0971018,0.02114,4.36325e-06,7738,ebi-a-GCST90027581,rs73035953,A,G,0.182607,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+5,18195551,0.0737138,0.0161151,4.78024e-06,7738,ebi-a-GCST90027581,rs2972921,C,T,0.506555,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+8,59499389,-0.0791804,0.0168003,2.44056e-06,7738,ebi-a-GCST90027581,rs2634527,C,T,0.498507,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+10,9526946,-0.136508,0.0284225,1.56459e-06,7738,ebi-a-GCST90027581,rs74949229,A,G,0.0937926,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+10,103076252,-0.0897529,0.0183935,1.06302e-06,7738,ebi-a-GCST90027581,rs12415307,G,A,0.28948,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd
+17,59556923,0.0988308,0.0211211,2.87945e-06,7738,ebi-a-GCST90027581,rs3785822,A,G,0.178252,PWY.6507..4.deoxy.L.threo.hex.4.enopyranuronate.degradation,TRUE,reported,igd

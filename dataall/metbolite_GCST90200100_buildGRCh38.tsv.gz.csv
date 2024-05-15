@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88125050,T,C,0.109677,0.146375,0.0226339,9.99298e-11,rs141471965,8218,Perfluorooctanesulfonate (PFOS) levels,TRUE,reported,76AnXq

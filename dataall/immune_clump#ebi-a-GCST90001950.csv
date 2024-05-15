@@ -1,0 +1,4 @@
+beta.exposure,pval.exposure,se.exposure,chr.exposure,pos.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.2277,3.21803e-08,0.04091,19,51591138,1244,ebi-a-GCST90001950,rs78949787,T,C,0.5691,CD33 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001950,TRUE,reported,igd
+-0.8358,1.01601e-58,0.04903,19,51731176,1244,ebi-a-GCST90001950,rs7245846,A,G,0.1853,CD33 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001950,TRUE,reported,igd
+-0.2821,5.377e-09,0.048,19,51574038,1244,ebi-a-GCST90001950,rs7351079,G,A,0.2544,CD33 on Granulocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001950,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,89637957,C,G,0.222471,0.144713,0.018464,4.59289e-15,rs1126464,8197,Cysteinylglycine to glutamate ratio,TRUE,reported,DbggtA

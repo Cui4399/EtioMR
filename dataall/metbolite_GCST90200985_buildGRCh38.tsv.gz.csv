@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27462090,C,T,0.433312,0.0884417,0.0156067,1.45399e-08,rs780108,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+7,73596112,T,C,0.189323,0.113895,0.0197135,7.58146e-09,rs13247874,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+8,20002028,A,G,0.291206,0.0964491,0.0169114,1.17591e-08,rs2119690,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+10,110279090,G,A,0.0839925,-0.159854,0.0275306,6.3823e-09,rs41291902,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+11,61781553,A,G,0.339698,-0.0938819,0.0163202,8.79347e-09,rs174533,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+11,116778201,C,G,0.867693,0.221623,0.0226104,1.10601e-22,rs964184,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+12,103700355,T,C,0.514165,0.0875892,0.0154645,1.47972e-08,rs7309088,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+19,8364439,A,G,0.0215101,0.313836,0.0524224,2.14158e-09,rs116843064,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO
+19,44912921,T,G,0.225163,-0.128549,0.018394,2.77531e-12,rs483082,7981,Cholesterol to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,AzlZIO

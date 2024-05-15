@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,74305127,-0.0806164,0.0169168,1.8843e-06,7738,ebi-a-GCST90027501,rs664864,T,C,0.63338,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd
+4,8062226,-0.10774,0.0215077,5.4606e-07,7738,ebi-a-GCST90027501,rs73216471,C,G,0.168911,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd
+5,143158984,-0.0765527,0.0164418,3.22441e-06,7738,ebi-a-GCST90027501,rs12652368,C,T,0.435051,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd
+7,70142791,0.107394,0.0234694,4.74133e-06,7738,ebi-a-GCST90027501,rs66662729,T,C,0.148528,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd
+13,56438349,-0.14327,0.0301886,2.07649e-06,7738,ebi-a-GCST90027501,rs11148356,T,C,0.0777056,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd
+14,68955701,0.0752614,0.0160597,2.78119e-06,7738,ebi-a-GCST90027501,rs7160842,G,A,0.490014,P42.PWY..incomplete.reductive.TCA.cycle,TRUE,reported,igd

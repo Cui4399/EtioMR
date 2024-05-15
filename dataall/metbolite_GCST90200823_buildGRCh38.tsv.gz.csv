@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,48236268,T,C,0.0503645,0.253347,0.0476406,1.0498e-07,rs12130095,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+3,118567183,T,C,0.0842908,-0.173525,0.0368346,2.46612e-06,rs142622373,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+4,31309559,T,G,0.0498673,0.218951,0.0477925,4.62123e-06,rs114175471,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+6,11035739,C,T,0.172022,0.131074,0.0283386,3.74091e-06,rs6936315,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+7,119632797,A,G,0.172084,-0.129363,0.0273781,2.30059e-06,rs10236510,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+12,43770886,A,G,0.272666,-0.109896,0.0233572,2.53858e-06,rs1461567,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+12,132699806,A,G,0.0451847,0.233163,0.0503333,3.61477e-06,rs76764456,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+13,83396878,G,T,0.0179476,0.381223,0.0783542,1.14237e-06,rs117739522,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+15,69925430,C,T,0.0150549,0.394416,0.0851341,3.60611e-06,rs75517844,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+17,54661552,A,T,0.842458,0.134368,0.0289517,3.46541e-06,rs10468504,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p
+22,47566825,T,G,0.0141634,-0.406515,0.0883135,4.16265e-06,rs79369357,4561,Adenosine 5'-diphosphate (ADP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,dmfL5p

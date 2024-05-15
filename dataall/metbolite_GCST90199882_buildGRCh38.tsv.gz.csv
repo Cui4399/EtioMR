@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,4320174,A,C,0.0273462,0.38484,0.0431211,4.47138e-19,rs187226015,8252,"2s,3R-dihydroxybutyrate levels",TRUE,reported,0BhK2K
+12,4437399,A,G,0.0351711,0.302367,0.0386097,4.82546e-15,rs17177326,8252,"2s,3R-dihydroxybutyrate levels",TRUE,reported,0BhK2K

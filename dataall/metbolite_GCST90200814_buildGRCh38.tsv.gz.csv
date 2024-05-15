@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,46608139,C,T,0.191115,0.130121,0.0197714,4.66399e-11,rs6124830,8273,Alpha-ketoglutarate to ornithine ratio,TRUE,reported,fmKmm7

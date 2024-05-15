@@ -1,0 +1,6 @@
+"samplesize.exposure","se.exposure","pos.exposure","beta.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+91353,0.00252453,51835355,0.0140259,"5",2.77038e-08,"ukb-d-22506_114","rs7732397","G","A",0.715918,"Tobacco smoking: Never smoked || id:ukb-d-22506_114",TRUE,"reported","igd"
+91353,0.00242091,25565282,0.0140605,"8",6.34541e-09,"ukb-d-22506_114","rs1425730","C","G",0.455237,"Tobacco smoking: Never smoked || id:ukb-d-22506_114",TRUE,"reported","igd"
+91353,0.00284104,27406353,0.0162044,"8",1.1762e-08,"ukb-d-22506_114","rs55986679","T","A",0.1994,"Tobacco smoking: Never smoked || id:ukb-d-22506_114",TRUE,"reported","igd"
+91353,0.00232366,104654383,-0.0148367,"10",1.72159e-10,"ukb-d-22506_114","rs10786721","A","C",0.39209,"Tobacco smoking: Never smoked || id:ukb-d-22506_114",TRUE,"reported","igd"
+91353,0.00234391,112910881,-0.0213406,"11",8.81658e-20,"ukb-d-22506_114","rs113332425","AAAAT","A",0.379574,"Tobacco smoking: Never smoked || id:ukb-d-22506_114",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,211554744,A,G,0.041494,-0.212598,0.0388704,4.5158e-08,rs114988449,8216,Tryptophan betaine levels,TRUE,reported,bZgp8T
+5,132256377,A,C,0.0277539,-0.275869,0.047452,6.113e-09,rs270611,8216,Tryptophan betaine levels,TRUE,reported,bZgp8T
+5,132396764,G,T,0.834518,0.279496,0.0205119,2.80446e-42,rs7705826,8216,Tryptophan betaine levels,TRUE,reported,bZgp8T

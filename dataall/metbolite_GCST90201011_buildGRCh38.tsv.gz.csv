@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233333701,T,C,0.513366,0.0734663,0.0154065,1.85579e-06,rs1000141,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+3,1673465,T,C,0.0706432,0.145929,0.0305448,1.77437e-06,rs191675623,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+3,69497597,C,A,0.0270419,-0.219967,0.0475091,3.6565e-06,rs73102110,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+5,85908412,C,G,0.485296,0.0762905,0.0153116,6.27594e-07,rs2974081,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+8,2353538,G,C,0.0297663,-0.209421,0.0453745,3.9236e-06,rs117005096,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+10,110955175,T,G,0.0140501,-0.324337,0.0655226,7.42135e-07,rs146630123,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+11,82892192,T,C,0.0272163,0.227479,0.0473106,1.52294e-06,rs142722792,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+12,102559298,C,T,0.131258,-0.109361,0.0227493,1.53024e-06,rs10860876,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D
+18,45564688,T,C,0.352041,-0.0748896,0.0162225,3.90436e-06,rs13381382,8233,3-methyl-2-oxovalerate to 4-methyl-2-oxopentanoate ratio,TRUE,reported,NlZt3D

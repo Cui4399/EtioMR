@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"19",41438140,"rs35781447","G","A",2.72031897316e-09,1.21327425026,0.203992463893835,89,"Classical monocyte#CYP2B7P",TRUE,"reported","x4IbSG",NA
+"19",42084586,"rs740591","G","A",4.63748160377e-06,0.86248993687,0.188293846686735,89,"Classical monocyte#CYP2B7P",TRUE,"reported","x4IbSG",NA

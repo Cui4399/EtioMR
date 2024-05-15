@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+8,17860863,0.220994,0.0437964,4.51315e-07,7738,ebi-a-GCST90027486,rs12056629,C,T,0.162447,KDO.NAGLIPASYN.PWY..superpathway.of..Kdo.2.lipid.A.biosynthesis,TRUE,reported,igd
+10,13780553,0.289462,0.0620549,3.09193e-06,7738,ebi-a-GCST90027486,rs17153829,T,C,0.0718029,KDO.NAGLIPASYN.PWY..superpathway.of..Kdo.2.lipid.A.biosynthesis,TRUE,reported,igd
+18,3057753,-0.265311,0.056847,3.05471e-06,7738,ebi-a-GCST90027486,rs68108910,C,T,0.0856918,KDO.NAGLIPASYN.PWY..superpathway.of..Kdo.2.lipid.A.biosynthesis,TRUE,reported,igd
+20,37200322,0.197497,0.0409392,1.40605e-06,7738,ebi-a-GCST90027486,rs2206783,G,A,0.80203,KDO.NAGLIPASYN.PWY..superpathway.of..Kdo.2.lipid.A.biosynthesis,TRUE,reported,igd
+22,30691307,0.157928,0.0335607,2.52941e-06,7738,ebi-a-GCST90027486,rs737805,A,G,0.415438,KDO.NAGLIPASYN.PWY..superpathway.of..Kdo.2.lipid.A.biosynthesis,TRUE,reported,igd

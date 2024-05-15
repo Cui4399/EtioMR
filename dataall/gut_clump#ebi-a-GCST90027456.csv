@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+12,43104353,-0.184975,0.0364893,3.99273e-07,7738,ebi-a-GCST90027456,rs4551833,G,T,0.0539418,COLANSYN.PWY..colanic.acid.building.blocks.biosynthesis,TRUE,reported,igd
+17,53600071,-0.120916,0.0234319,2.46559e-07,7738,ebi-a-GCST90027456,rs1396212,T,C,0.186799,COLANSYN.PWY..colanic.acid.building.blocks.biosynthesis,TRUE,reported,igd

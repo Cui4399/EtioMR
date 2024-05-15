@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62435141,C,G,0.405398,-0.0751239,0.0156967,1.70169e-06,rs624700,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+2,44919375,T,C,0.0128096,-0.318778,0.0669001,1.88866e-06,rs147163022,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+2,136043758,C,T,0.0429179,0.173786,0.0370187,2.6718e-06,rs62160874,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+3,66859462,A,G,0.0339262,0.200963,0.041381,1.19534e-06,rs76014634,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+3,152913328,T,C,0.436531,-0.0749534,0.0154799,1.2854e-06,rs7610125,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+8,6598153,G,C,0.339621,0.0756109,0.0162607,3.32073e-06,rs7819032,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+9,7341123,G,T,0.526513,0.0718228,0.0153318,2.80577e-06,rs6477187,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+9,17630502,T,C,0.937386,0.142589,0.0309663,4.13168e-06,rs4504735,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+12,12080073,T,C,0.266556,0.0866056,0.0173291,5.80229e-07,rs10845471,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+12,45568634,A,G,0.982174,0.277785,0.0565755,9.10801e-07,rs4267127,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+14,23990954,C,T,0.0480177,0.16454,0.0357403,4.14907e-06,rs143973522,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+16,46549042,C,T,0.0145684,-0.325814,0.0627497,2.07744e-07,rs117975314,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+18,63977930,C,T,0.21051,-0.0877765,0.0185931,2.34794e-06,rs7234924,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ
+19,54187532,A,G,0.435813,-0.0723668,0.0153372,2.37739e-06,rs36631,8246,1-palmitoyl-GPI (16:0) levels,TRUE,reported,kLtnmJ

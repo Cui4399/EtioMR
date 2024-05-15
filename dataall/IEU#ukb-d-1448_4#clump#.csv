@@ -1,0 +1,5 @@
+"pos.exposure","samplesize.exposure","se.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32633371,348424,0.000637284,0.00805202,1.38102e-36,"6","ukb-d-1448_4","rs9274454","G","T",0.189785,"Bread type: Other type of bread || id:ukb-d-1448_4",TRUE,"reported","igd"
+33057053,348424,0.00100657,0.00750049,9.24485e-14,"6","ukb-d-1448_4","rs66953188","C","CTT",0.0597871,"Bread type: Other type of bread || id:ukb-d-1448_4",TRUE,"reported","igd"
+26422627,348424,0.000702621,0.00412233,4.43925e-09,"6","ukb-d-1448_4","rs3734537","A","C",0.132928,"Bread type: Other type of bread || id:ukb-d-1448_4",TRUE,"reported","igd"
+32389512,348424,0.000475888,-0.00301703,2.30351e-10,"6","ukb-d-1448_4","rs9268560","G","C",0.507794,"Bread type: Other type of bread || id:ukb-d-1448_4",TRUE,"reported","igd"

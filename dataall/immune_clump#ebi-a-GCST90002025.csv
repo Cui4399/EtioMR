@@ -1,0 +1,4 @@
+pos.exposure,beta.exposure,chr.exposure,samplesize.exposure,pval.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+32602790,0.2215,6,2912,3.73422e-12,0.03175,ebi-a-GCST90002025,rs9272242,C,T,0.6535,CD4 on Effector Memory CD4+ T cell || id:ebi-a-GCST90002025,TRUE,reported,igd
+33098896,-0.2205,6,2912,6.02976e-11,0.03358,ebi-a-GCST90002025,rs3129267,G,C,0.7735,CD4 on Effector Memory CD4+ T cell || id:ebi-a-GCST90002025,TRUE,reported,igd
+6903631,-0.3219,12,2912,1.20504e-24,0.03112,ebi-a-GCST90002025,rs11615628,A,G,0.2464,CD4 on Effector Memory CD4+ T cell || id:ebi-a-GCST90002025,TRUE,reported,igd

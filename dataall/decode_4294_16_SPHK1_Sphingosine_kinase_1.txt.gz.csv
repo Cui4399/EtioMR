@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,76030638,rs145540098,GCACG,GCGCG,-0.1633,2.934e-09,0.027514,35380,0.02236,SPHK1_Sphingosine_kinase_1,TRUE,reported,SPHK1_Sphingosine_kinase_1
+17,76119019,rs6501858,T,C,-0.4495,3.772e-16,0.055183,35382,0.00548,SPHK1_Sphingosine_kinase_1,TRUE,reported,SPHK1_Sphingosine_kinase_1
+17,76464066,rs12939873,C,T,0.0604,6.197e-12,0.008785,35378,0.32402,SPHK1_Sphingosine_kinase_1,TRUE,reported,SPHK1_Sphingosine_kinase_1
+17,76852936,rs114602896,T,C,-0.2838,2.703e-14,0.037284,35382,0.01265,SPHK1_Sphingosine_kinase_1,TRUE,reported,SPHK1_Sphingosine_kinase_1
+17,77182732,rs116928468,A,G,-0.2275,2.122e-11,0.033969,35393,0.01494,SPHK1_Sphingosine_kinase_1,TRUE,reported,SPHK1_Sphingosine_kinase_1

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,48371876,rs133688,A,G,0.0522,4.91e-09,0.008923,35362,0.26614,FAM19A5_F19A5,TRUE,reported,FAM19A5_F19A5

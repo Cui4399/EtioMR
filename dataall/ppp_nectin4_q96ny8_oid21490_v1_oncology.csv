@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,160724085,rs493646,G,C,0.0447776,9.63562744612429e-09,0.00780503,33822,0.355164,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,160974901,rs12135207,T,C,0.250513,1.64892157315083e-25,0.0239982,33822,0.0260035,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161079709,rs78105657,A,G,-0.205575,1.46170590019011e-08,0.0362822,33822,0.0106144,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161079719,rs35434391,T,G,-0.447125,1e-200,0.011624,33822,0.117067,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161277679,rs116769960,T,G,0.195927,7.61377432456152e-13,0.0273339,33822,0.0193317,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161388437,rs140578039,A,G,-0.14692,7.81070076660847e-10,0.0238943,33822,0.0289882,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161514409,rs139121685,C,A,-0.15681,1.42200132151888e-11,0.0232116,33822,0.0284638,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis
+1,161692860,rs114265063,C,G,-0.151957,4.46375140604446e-11,0.0230665,33822,0.0295446,nectin4_q96ny8_oid21490_v1_oncology,TRUE,reported,nectin4_q96ny8_oid21490_v1_oncology,chr1,161089595,cis

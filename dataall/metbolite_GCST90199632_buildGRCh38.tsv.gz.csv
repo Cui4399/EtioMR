@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,83175694,A,G,0.0721524,-0.149526,0.0320676,3.11891e-06,rs116626434,7099,Tartarate levels,TRUE,reported,SYaFvl
+1,175616377,A,C,0.0301043,0.236427,0.0486249,1.16058e-06,rs79983252,7099,Tartarate levels,TRUE,reported,SYaFvl
+2,25955752,C,T,0.0178748,0.285026,0.0624394,4.9989e-06,rs138430505,7099,Tartarate levels,TRUE,reported,SYaFvl
+2,101829183,T,C,0.032701,-0.223964,0.0470413,1.92634e-06,rs17026163,7099,Tartarate levels,TRUE,reported,SYaFvl
+3,177836416,A,G,0.621953,0.0825424,0.0175787,2.65821e-06,rs13089230,7099,Tartarate levels,TRUE,reported,SYaFvl
+4,4718728,G,A,0.340258,0.0814848,0.0176888,4.09376e-06,rs10004542,7099,Tartarate levels,TRUE,reported,SYaFvl
+5,74552072,T,C,0.28972,0.087711,0.0186612,2.59941e-06,rs298392,7099,Tartarate levels,TRUE,reported,SYaFvl
+6,73615534,C,T,0.386617,-0.0783007,0.0170337,4.2902e-06,rs628038,7099,Tartarate levels,TRUE,reported,SYaFvl
+6,162299162,T,C,0.0976838,-0.130904,0.0285309,4.47212e-06,rs10945808,7099,Tartarate levels,TRUE,reported,SYaFvl
+7,95586935,G,A,0.344838,-0.0826258,0.0178465,3.65988e-06,rs10247649,7099,Tartarate levels,TRUE,reported,SYaFvl
+7,127307984,T,A,0.0112878,0.368352,0.0789907,3.11275e-06,rs143000803,7099,Tartarate levels,TRUE,reported,SYaFvl
+11,77121326,T,C,0.0106022,-0.373738,0.0817952,4.89608e-06,rs142959592,7099,Tartarate levels,TRUE,reported,SYaFvl
+15,58376202,A,G,0.0184793,-0.318661,0.0614021,2.10597e-07,rs77798428,7099,Tartarate levels,TRUE,reported,SYaFvl
+18,62365105,T,C,0.029224,0.228649,0.0493121,3.53868e-06,rs141660852,7099,Tartarate levels,TRUE,reported,SYaFvl

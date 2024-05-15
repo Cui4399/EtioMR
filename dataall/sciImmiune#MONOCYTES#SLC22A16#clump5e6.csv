@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",110797214,"rs2428188","C","G",1.219065415e-14,-1.18661501723,0.15382557973178,89,"Classical monocyte#SLC22A16",TRUE,"reported","DDScGL",NA

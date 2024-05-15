@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,55833669,rs3859101,A,G,-0.1116,2.181e-08,0.019939,35367,0.04384,CES1_carboxylesterase__liver,TRUE,reported,CES1_carboxylesterase__liver

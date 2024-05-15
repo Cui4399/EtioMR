@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46918357,C,T,0.795839,0.124406,0.0202631,8.27723e-10,rs4284207,7168,3-hydroxydodecanedioate levels,TRUE,reported,8rx0FO

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,81231621,rs61745945,A,G,-0.2176,2.476e-16,0.026548,35141,0.02227,ENTHD2_AP4AT,TRUE,reported,ENTHD2_AP4AT

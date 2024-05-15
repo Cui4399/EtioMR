@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,79566123,0.10033,0.0212051,2.22998e-06,7738,ebi-a-GCST90027530,rs11162626,T,A,0.177772,PWY.2942..L.lysine.biosynthesis.III,TRUE,reported,igd
+11,59740294,-0.0865563,0.0167733,2.46479e-07,7738,ebi-a-GCST90027530,rs4939301,T,C,0.555692,PWY.2942..L.lysine.biosynthesis.III,TRUE,reported,igd
+18,30107104,-0.0950062,0.0182749,2.00646e-07,7738,ebi-a-GCST90027530,rs7242421,C,T,0.315865,PWY.2942..L.lysine.biosynthesis.III,TRUE,reported,igd
+21,15730137,0.0854587,0.0165373,2.37077e-07,7738,ebi-a-GCST90027530,rs2822624,G,A,0.581713,PWY.2942..L.lysine.biosynthesis.III,TRUE,reported,igd

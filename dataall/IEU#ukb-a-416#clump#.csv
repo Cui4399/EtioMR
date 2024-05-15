@@ -1,0 +1,3 @@
+"pos.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+65595251,0.00117206,0.0065813,335219,"8",1.96517e-08,"ukb-a-416","rs7834854","A","G",0.766217,"Illness  injury  bereavement  stress in last 2 years: Death of a close relative || id:ukb-a-416",TRUE,"reported","igd"
+115326786,0.0011718,-0.00664092,335219,"10",1.45181e-08,"ukb-a-416","rs10749134","A","G",0.23542,"Illness  injury  bereavement  stress in last 2 years: Death of a close relative || id:ukb-a-416",TRUE,"reported","igd"

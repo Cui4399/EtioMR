@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62606594,C,A,0.341811,-0.0805466,0.0157387,3.09195e-07,rs10789117,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+1,164755085,T,C,0.0130281,0.310888,0.0661973,2.64817e-06,rs151115380,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+2,123961851,T,C,0.05619,-0.156036,0.0325815,1.67535e-06,rs13035306,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+3,542359,G,A,0.0141818,-0.322065,0.0642743,5.42083e-07,rs9311479,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+3,152913328,T,C,0.436891,-0.0758416,0.0155174,1.02115e-06,rs7610125,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+4,10514994,T,C,0.0899487,0.126378,0.0264791,1.81728e-06,rs139782415,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+6,158164109,A,C,0.0122603,0.312161,0.0683692,4.97555e-06,rs150000242,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+8,29804288,G,A,0.942421,-0.156331,0.0336519,3.39176e-06,rs13265847,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+9,8396478,A,G,0.0204739,0.24977,0.053264,2.74152e-06,rs78765237,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+11,98703115,G,A,0.164587,-0.0990229,0.0204562,1.29364e-06,rs2435583,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+12,130523620,A,G,0.112836,0.113218,0.0239989,2.38589e-06,rs7302336,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8
+16,81524461,A,G,0.0352927,-0.207519,0.0411356,4.54134e-07,rs113735393,8260,1-stearoyl-GPI (18:0) levels,TRUE,reported,kMj4y8

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+11,17877172,rs74334417,A,G,0.142552,1.68050573922241e-10,0.0223155,33995,0.0292984,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18184787,rs11493388,C,T,-0.112268,8.42946477167727e-42,0.00828825,33995,0.29388,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18198603,rs56385514,C,G,-0.188668,2.57513499041031e-15,0.023852,33995,0.0256067,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18199142,rs75575009,C,T,1.03538,1e-200,0.0266096,33995,0.0212364,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18201013,rs138197902,A,G,-0.1321,6.53777545021892e-09,0.0227665,33995,0.0298725,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18228323,rs2445227,T,C,0.195921,1.76197604641161e-113,0.00865385,33995,0.259168,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18256876,rs11024589,C,A,-0.311678,8.9536476554959e-118,0.0135092,33995,0.0855889,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18462434,rs149110333,G,A,0.089659,1.78237876744809e-13,0.012175,33995,0.112663,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18565692,rs72878890,A,G,-0.190432,6.12914647087552e-16,0.0235487,33995,0.0266285,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis
+11,18643837,rs72882182,A,T,0.146197,2.80156046425688e-23,0.0147086,33995,0.0705522,saa4_p35542_oid30726_v1_inflammation_ii,TRUE,reported,saa4_p35542_oid30726_v1_inflammation_ii,chr11,18236837,cis

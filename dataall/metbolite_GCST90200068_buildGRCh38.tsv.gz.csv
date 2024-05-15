@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61803311,C,T,0.3627,0.230916,0.0175305,1.26758e-39,rs174547,6804,"1,2-dilinoleoyl-GPE (18:2/18:2) levels",TRUE,reported,y8xa1X
+15,58388439,C,T,0.385248,0.115854,0.017582,4.41731e-11,rs2414577,6804,"1,2-dilinoleoyl-GPE (18:2/18:2) levels",TRUE,reported,y8xa1X
+15,58449185,G,C,0.7579,-0.115441,0.0206208,2.16501e-08,rs572410,6804,"1,2-dilinoleoyl-GPE (18:2/18:2) levels",TRUE,reported,y8xa1X

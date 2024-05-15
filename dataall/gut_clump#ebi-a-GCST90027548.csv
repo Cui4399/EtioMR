@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,182347072,-0.0980614,0.0204326,1.59254e-06,7738,ebi-a-GCST90027548,rs2305588,C,T,0.200682,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd
+8,10393079,-0.0806005,0.0170578,2.29964e-06,7738,ebi-a-GCST90027548,rs12541554,A,G,0.342803,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd
+16,24512006,0.175786,0.0364365,1.40391e-06,7738,ebi-a-GCST90027548,rs77586457,A,G,0.0567096,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd
+17,4423541,0.0875099,0.0163625,8.88321e-08,7738,ebi-a-GCST90027548,rs36095827,T,G,0.52524,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd
+18,34081413,-0.158003,0.0343555,4.24405e-06,7738,ebi-a-GCST90027548,rs77995790,C,T,0.0617925,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd
+19,18475073,0.0928574,0.0199593,3.28178e-06,7738,ebi-a-GCST90027548,rs73009442,A,C,0.287204,PWY.5345..superpathway.of.L.methionine.biosynthesis..by.sulfhydrylation.,TRUE,reported,igd

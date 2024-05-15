@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,30194107,G,T,0.964259,-0.249699,0.0457723,4.89059e-08,rs6487886,6944,4-hydroxycoumarin levels,TRUE,reported,cXNcky

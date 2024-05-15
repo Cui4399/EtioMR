@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.669081,-0.0777624,0.0159753,1.12931e-06,rs1168041,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+1,183960637,T,C,0.384305,0.072971,0.0152432,1.69203e-06,rs12096645,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+2,221202727,T,A,0.405032,0.0726842,0.0155687,3.03256e-06,rs1432262,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+3,33217571,T,C,0.253993,0.0837807,0.0173621,1.39667e-06,rs34904621,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+3,68905942,C,G,0.24783,-0.0835521,0.0172843,1.33824e-06,rs11128105,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+6,6901426,G,A,0.370506,-0.0716173,0.0153672,3.15602e-06,rs2326837,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+9,109166733,T,C,0.272321,-0.0764962,0.0167189,4.75242e-06,rs12379888,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+10,94280637,A,G,0.328244,0.0763254,0.015898,1.57922e-06,rs1858610,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+11,10005989,C,T,0.0295482,0.21053,0.0438219,1.55352e-06,rs74594145,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+11,45667992,A,G,0.0109162,0.327698,0.0705995,3.45636e-06,rs140102715,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+12,50179044,C,T,0.614668,-0.0698247,0.0152844,4.91567e-06,rs11169300,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+13,42193181,G,A,0.039011,-0.179509,0.0383259,2.81679e-06,rs17598693,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+14,95023923,C,T,0.715972,0.0819011,0.0166717,8.98769e-07,rs1959873,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+15,58420746,C,A,0.324669,-0.0746221,0.0157664,2.21237e-06,rs11854656,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+16,78469172,A,G,0.100941,-0.115835,0.0247246,2.79963e-06,rs2738675,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye
+18,4733644,C,T,0.331688,-0.0775985,0.0159472,1.13899e-06,rs9963991,8198,Leucine to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,JCzmye

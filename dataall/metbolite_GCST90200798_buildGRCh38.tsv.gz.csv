@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,22813574,C,T,0.849909,0.156194,0.0241214,9.4604e-11,rs358236,6840,Dopamine 4-sulfate to dopamine 3-O-sulfate ratio,TRUE,reported,kSdzn7
+8,18396999,C,G,0.154816,0.140373,0.0231726,1.38055e-09,rs35583283,6840,Dopamine 4-sulfate to dopamine 3-O-sulfate ratio,TRUE,reported,kSdzn7

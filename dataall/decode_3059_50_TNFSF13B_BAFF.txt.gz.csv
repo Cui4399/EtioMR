@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,108258463,rs80291289,T,A,0.0666,8.798e-09,0.011578,35356,0.14213,TNFSF13B_BAFF,TRUE,reported,TNFSF13B_BAFF
+13,108261424,rs113469631,G,T,-0.1878,2.839e-14,0.024693,35356,0.0266,TNFSF13B_BAFF,TRUE,reported,TNFSF13B_BAFF
+13,108338732,rs9520846,A,G,0.058,6.695e-10,0.009396,35356,0.24783,TNFSF13B_BAFF,TRUE,reported,TNFSF13B_BAFF

@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,64072158,-0.160751,0.0328265,9.73195e-07,7738,ebi-a-GCST90027650,rs17879178,G,T,0.0664756,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+1,115999212,-0.0781871,0.0168499,3.48057e-06,7738,ebi-a-GCST90027650,rs477574,T,A,0.639149,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+3,192089644,0.123533,0.0246343,5.31227e-07,7738,ebi-a-GCST90027650,rs4687327,A,T,0.127021,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+7,34697922,0.0856035,0.0176154,1.17636e-06,7738,ebi-a-GCST90027650,rs2530547,T,C,0.344353,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+11,116273511,-0.0858169,0.0169187,3.93025e-07,7738,ebi-a-GCST90027650,rs505128,C,T,0.353709,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+14,49342239,0.0852363,0.0177895,1.65638e-06,7738,ebi-a-GCST90027650,rs17699454,C,A,0.684982,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+17,45128659,-0.122415,0.0267188,4.61392e-06,7738,ebi-a-GCST90027650,rs118162058,A,T,0.105943,X1CMET2.PWY..N10.formyl.tetrahydrofolate.biosynthesis,TRUE,reported,igd

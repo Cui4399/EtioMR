@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,63769473,C,T,0.166646,-0.125459,0.0207198,1.40403e-09,rs12880341,8191,N-palmitoyl-sphingosine (d18:1 to 16:0) to N-stearoyl-sphingosine (d18:1 to 18:0) ratio,TRUE,reported,26LNiq
+19,8224635,A,C,0.809879,-0.266855,0.0194981,1.22774e-42,rs1466448,8191,N-palmitoyl-sphingosine (d18:1 to 16:0) to N-stearoyl-sphingosine (d18:1 to 18:0) ratio,TRUE,reported,26LNiq
+20,12982070,G,A,0.615403,0.13533,0.0159392,2.05881e-17,rs364585,8191,N-palmitoyl-sphingosine (d18:1 to 16:0) to N-stearoyl-sphingosine (d18:1 to 18:0) ratio,TRUE,reported,26LNiq

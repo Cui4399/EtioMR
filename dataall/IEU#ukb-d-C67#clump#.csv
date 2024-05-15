@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","pval.exposure","chr.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00018495,361194,1.32785e-08,"1",110232983,0.00105099,"ukb-d-C67","rs140584594","G","A",0.730832,"Diagnoses - main ICD10: C67 Malignant neoplasm of bladder || id:ukb-d-C67",TRUE,"reported","igd"
+0.000172571,361194,1.14154e-10,"8",128719884,0.00111258,"ukb-d-C67","rs10094872","T","A",0.365224,"Diagnoses - main ICD10: C67 Malignant neoplasm of bladder || id:ukb-d-C67",TRUE,"reported","igd"
+0.000166375,361194,1.73724e-08,"8",143752994,0.000937766,"ukb-d-C67","rs2976384","C","T",0.441015,"Diagnoses - main ICD10: C67 Malignant neoplasm of bladder || id:ukb-d-C67",TRUE,"reported","igd"

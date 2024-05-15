@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,36062001,rs854469,G,A,0.0859,1.432e-11,0.012717,35370,0.11349,CCL3L1_LD78_beta,TRUE,reported,CCL3L1_LD78_beta

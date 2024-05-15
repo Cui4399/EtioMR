@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,196657705,T,C,0.0359463,0.254261,0.0552847,4.24255e-06,rs147725317,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+5,155024053,C,T,0.281398,0.106132,0.0227721,3.15282e-06,rs6873298,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+6,36277021,T,C,0.0409942,-0.246042,0.0514741,1.75359e-06,rs79678096,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+7,67368157,T,G,0.0149559,-0.401427,0.0844574,2.00412e-06,rs140673762,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+7,128628281,T,C,0.0222703,0.327689,0.0698821,2.74325e-06,rs62481887,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+10,90775339,A,G,0.0143072,-0.419886,0.0875503,1.61919e-06,rs75461123,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+12,31628268,C,G,0.111848,-0.150074,0.0326943,4.42793e-06,rs12819428,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+13,39879243,G,A,0.0251348,-0.304618,0.0654434,3.24487e-06,rs17237860,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+13,111356631,A,G,0.729651,-0.118838,0.0236469,5.02066e-07,rs4306374,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E
+17,2668276,G,A,0.0175533,-0.355823,0.077896,4.92575e-06,rs138562138,4662,Inosine to theophylline ratio,TRUE,reported,PMuk9E

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,35825444,T,A,0.0119788,0.34914,0.0740038,2.38337e-06,rs141336372,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+6,108692840,A,G,0.0435929,-0.185951,0.0398314,3.03476e-06,rs62428933,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+7,110842497,G,C,0.0186785,-0.290502,0.0596978,1.13757e-06,rs79931337,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+11,62002116,C,T,0.343855,-0.079296,0.0171387,3.71492e-06,rs907638,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+12,12020363,A,G,0.647601,-0.0822982,0.0172439,1.81868e-06,rs1904238,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+12,130242234,G,A,0.631734,0.0773618,0.01694,4.95204e-06,rs10848050,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+16,62613206,C,G,0.779167,-0.0957723,0.0197975,1.3142e-06,rs393284,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+16,64529200,G,C,0.0137004,-0.324526,0.0692062,2.74184e-06,rs113867701,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+17,10808360,A,C,0.0804844,0.147259,0.0302683,1.14387e-06,rs76149982,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+19,21283224,CTA,C,0.974957,0.24219,0.051278,2.32288e-06,rs10649900,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+19,52505874,G,A,0.0322284,0.219894,0.0451254,1.09936e-06,rs117409421,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX
+20,31852196,G,A,0.0501068,0.194911,0.0370123,1.39353e-07,rs8120082,7611,Cholesterol to taurocholate ratio,TRUE,reported,MqzIDX

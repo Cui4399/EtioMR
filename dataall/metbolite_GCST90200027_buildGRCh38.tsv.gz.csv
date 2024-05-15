@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151907285,A,G,0.324012,0.205443,0.0168158,2.51396e-34,rs28415528,7523,4-hydroxyphenylacetoylcarnitine levels,TRUE,reported,NFDe4e
+10,59709780,C,T,0.77493,0.136588,0.0193215,1.55834e-12,rs1171614,7523,4-hydroxyphenylacetoylcarnitine levels,TRUE,reported,NFDe4e
+16,20561960,G,A,0.200107,0.128168,0.0196257,6.54941e-11,rs28633991,7523,4-hydroxyphenylacetoylcarnitine levels,TRUE,reported,NFDe4e

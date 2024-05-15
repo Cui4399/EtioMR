@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,70324592,rs61757207,G,A,-0.3017,6.575e-12,0.043937,35376,0.00838,DDX19A_DD19A,TRUE,reported,DDX19A_DD19A

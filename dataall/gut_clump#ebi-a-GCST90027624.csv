@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,3927175,0.176894,0.0360173,9.04503e-07,7738,ebi-a-GCST90027624,rs12620133,A,C,0.203167,PWY.7392..taxadiene.biosynthesis..engineered.,TRUE,reported,igd
+7,27311559,0.218078,0.0464559,2.67522e-06,7738,ebi-a-GCST90027624,rs17437978,A,G,0.106237,PWY.7392..taxadiene.biosynthesis..engineered.,TRUE,reported,igd
+20,7385072,0.194926,0.0423964,4.27189e-06,7738,ebi-a-GCST90027624,rs2423253,A,G,0.133066,PWY.7392..taxadiene.biosynthesis..engineered.,TRUE,reported,igd
+21,39940890,-0.15646,0.0328339,1.88656e-06,7738,ebi-a-GCST90027624,rs3827207,A,G,0.731967,PWY.7392..taxadiene.biosynthesis..engineered.,TRUE,reported,igd

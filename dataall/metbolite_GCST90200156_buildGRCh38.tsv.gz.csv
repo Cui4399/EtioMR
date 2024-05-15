@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,68671757,G,A,0.471015,0.106142,0.0148019,7.4532e-13,rs9994887,8152,Cortolone glucuronide (1) levels,TRUE,reported,fRLQRG
+10,4988075,T,C,0.0900459,-0.296928,0.0256737,6.16548e-31,rs11252866,8152,Cortolone glucuronide (1) levels,TRUE,reported,fRLQRG

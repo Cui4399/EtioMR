@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,138134795,C,T,0.325344,-0.114963,0.0156569,2.09358e-13,rs13120260,8212,Hypotaurine levels,TRUE,reported,q01ju2
+5,115713487,T,C,0.529549,-0.0963758,0.0146441,4.66617e-11,rs1366463,8212,Hypotaurine levels,TRUE,reported,q01ju2
+16,89637957,C,G,0.223728,0.102212,0.0178847,1.09694e-08,rs1126464,8212,Hypotaurine levels,TRUE,reported,q01ju2
+19,46784893,A,C,0.542676,-0.0898438,0.0151518,3.0374e-09,rs8105903,8212,Hypotaurine levels,TRUE,reported,q01ju2

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,113749800,rs6836139,C,T,0.0439,3.63e-08,0.00797,35361,0.49222,CAMK2D_CAMK2D,TRUE,reported,CAMK2D_CAMK2D

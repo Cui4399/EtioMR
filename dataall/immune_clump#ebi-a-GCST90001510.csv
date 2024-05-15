@@ -1,0 +1,3 @@
+chr.exposure,samplesize.exposure,pos.exposure,se.exposure,pval.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,3405,198151688,0.2295,3.0311e-13,-1.681,ebi-a-GCST90001510,rs113435341,G,A,0.0032,CD25++ CD45RA- CD4 not regulatory T cell Absolute Count || id:ebi-a-GCST90001510,TRUE,reported,igd
+10,3405,6094697,0.05665,2.40326e-22,0.5547,ebi-a-GCST90001510,rs61839660,T,C,0.0542,CD25++ CD45RA- CD4 not regulatory T cell Absolute Count || id:ebi-a-GCST90001510,TRUE,reported,igd

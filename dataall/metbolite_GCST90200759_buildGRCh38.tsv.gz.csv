@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,95986028,A,G,0.56748,-0.281944,0.0154369,1.59111e-74,rs3213737,8109,Histidine to trans-urocanate ratio,TRUE,reported,pFPPpr

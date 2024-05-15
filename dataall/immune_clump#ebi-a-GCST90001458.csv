@@ -1,0 +1,5 @@
+samplesize.exposure,se.exposure,beta.exposure,pval.exposure,pos.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3387,0.03229,-0.2265,2.75296e-12,161410253,1,ebi-a-GCST90001458,rs115805162,T,C,0.2083,Myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001458,TRUE,reported,igd
+3387,0.02621,0.1559,3.02197e-09,160799360,1,ebi-a-GCST90001458,rs516847,G,C,0.4297,Myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001458,TRUE,reported,igd
+3387,0.05732,0.3859,1.93999e-11,161058351,1,ebi-a-GCST90001458,rs75072970,C,T,0.0531,Myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001458,TRUE,reported,igd
+3387,0.02797,0.6546,2.29087e-112,161526397,1,ebi-a-GCST90001458,rs71632979,G,A,0.2449,Myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001458,TRUE,reported,igd

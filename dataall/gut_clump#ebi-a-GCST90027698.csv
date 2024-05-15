@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,166531345,0.0819775,0.0178218,4.22795e-06,7738,ebi-a-GCST90027698,rs6910508,A,G,0.324371,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides,TRUE,reported,igd
+7,104500549,0.0880518,0.0190049,3.60189e-06,7738,ebi-a-GCST90027698,rs17706792,G,A,0.283512,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides,TRUE,reported,igd
+11,13918589,0.113252,0.0240443,2.47531e-06,7738,ebi-a-GCST90027698,rs56238206,A,G,0.144301,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides,TRUE,reported,igd
+17,48273903,-0.128672,0.0281575,4.88394e-06,7738,ebi-a-GCST90027698,rs17639446,C,A,0.121318,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides,TRUE,reported,igd
+21,29126637,-0.101857,0.0217912,2.95046e-06,7738,ebi-a-GCST90027698,rs10854303,G,A,0.80931,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides,TRUE,reported,igd

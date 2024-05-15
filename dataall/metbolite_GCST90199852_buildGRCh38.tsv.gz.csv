@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,99477415,C,T,0.0302966,-0.361228,0.0463807,6.79008e-15,rs148982377,7103,"5alpha-androstan-3beta,17alpha-diol disulfate levels",TRUE,reported,kiyFCs
+10,5255358,G,C,0.147737,-0.149463,0.0227676,5.21358e-11,rs151227875,7103,"5alpha-androstan-3beta,17alpha-diol disulfate levels",TRUE,reported,kiyFCs
+19,47881492,A,G,0.835448,0.176639,0.0216381,3.25924e-16,rs10426201,7103,"5alpha-androstan-3beta,17alpha-diol disulfate levels",TRUE,reported,kiyFCs

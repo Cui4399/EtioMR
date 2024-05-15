@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+19474,-0.142808,0.0291414,9.63593e-07,"1",61003116,"C","T","rs144034748",0.986108,0.0209237,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,0.103963,0.0222465,2.98502e-06,"2",46995567,"A","G","rs78083450",0.950442,0.0382787,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,0.112139,0.0242917,3.93037e-06,"3",193515360,"G","C","rs114259370",0.916367,0.0328676,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,0.0707258,0.0148123,1.8119e-06,"4",164717317,"T","C","rs59614155",0.990897,0.0853959,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,0.136116,0.0297964,4.94943e-06,"11",101837872,"A","C","rs77702502",0.927253,0.0202024,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,-0.0652759,0.0141763,4.15906e-06,"16",54268216,"G","GATTCTC","rs112532922",0.928336,0.103138,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"
+19474,0.0526888,0.0108842,1.30266e-06,"17",3695981,"G","A","rs17175691",1,0.171538,15382,"Length of longest manic/irritable episode",TRUE,"reported","viGbFS","Mental disorders","ukb1109"

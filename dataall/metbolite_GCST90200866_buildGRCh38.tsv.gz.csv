@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21459575,T,C,0.483846,0.0857182,0.0151308,1.46911e-08,rs4654748,8249,phosphate to asparagine ratio,TRUE,reported,4c0RND
+11,62431582,T,C,0.137761,0.127684,0.0220246,6.73725e-09,rs72923302,8249,phosphate to asparagine ratio,TRUE,reported,4c0RND
+14,104105483,G,C,0.129912,-0.549538,0.0216474,3.61907e-142,rs2282377,8249,phosphate to asparagine ratio,TRUE,reported,4c0RND

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,50426050,rs143420844,GTGGGAGGAGGA,GTGGGAGGGGGA,-0.0967,4.595e-09,0.016498,35359,0.06476,ACSF2_ACSF2,TRUE,reported,ACSF2_ACSF2

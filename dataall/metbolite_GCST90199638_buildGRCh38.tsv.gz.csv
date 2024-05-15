@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21378351,C,T,0.344183,-0.104833,0.0165102,2.15937e-10,rs56704741,8201,Glycerol 3-phosphate levels,TRUE,reported,gzlHC4
+1,21569132,T,A,0.943146,0.448805,0.0333781,3.24475e-41,rs1780318,8201,Glycerol 3-phosphate levels,TRUE,reported,gzlHC4
+20,5533618,AT,A,0.416529,-0.0938697,0.0161049,5.58764e-09,rs11481409,8201,Glycerol 3-phosphate levels,TRUE,reported,gzlHC4

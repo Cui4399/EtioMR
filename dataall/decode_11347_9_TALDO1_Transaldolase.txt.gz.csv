@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,214544,rs10081,T,C,0.0823,1.187e-08,0.014435,35345,0.0836,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase
+11,449085,rs33967553,TTTTG,TG,0.0983,3.76e-11,0.014864,35346,0.07893,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase
+11,528764,rs146899805,T,C,0.2313,7.756e-25,0.022476,35347,0.03072,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase
+11,726824,rs143912793,A,G,0.2024,1.474e-26,0.018977,35349,0.04336,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase
+11,776914,rs118104171,A,G,0.1134,3.687e-09,0.019228,35350,0.04524,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase
+11,1081750,rs41359951,T,C,0.1872,3.798e-14,0.024737,35345,0.02618,TALDO1_Transaldolase,TRUE,reported,TALDO1_Transaldolase

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,165267123,0.0956983,0.0203386,2.53536e-06,7738,ebi-a-GCST90027549,rs6794521,C,T,0.545526,PWY.5384..sucrose.degradation.IV..sucrose.phosphorylase.,TRUE,reported,igd
+4,100552473,0.211639,0.0446399,2.12633e-06,7738,ebi-a-GCST90027549,rs80085001,C,T,0.0548896,PWY.5384..sucrose.degradation.IV..sucrose.phosphorylase.,TRUE,reported,igd
+5,50414347,0.122254,0.0254425,1.54661e-06,7738,ebi-a-GCST90027549,rs2962259,C,T,0.799817,PWY.5384..sucrose.degradation.IV..sucrose.phosphorylase.,TRUE,reported,igd
+14,81825240,-0.0956152,0.0207984,4.28134e-06,7738,ebi-a-GCST90027549,rs10450895,T,C,0.417494,PWY.5384..sucrose.degradation.IV..sucrose.phosphorylase.,TRUE,reported,igd

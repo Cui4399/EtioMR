@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",124661906,"rs66925099","A","G",1.41126227048e-07,1.18343619535,0.224826464858431,89,"TREG_MEM#RP11-677M14.7",TRUE,"reported","SilIcp",NA

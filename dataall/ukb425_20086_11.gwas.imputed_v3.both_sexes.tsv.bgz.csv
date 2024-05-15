@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,0.0250866,0.00527273,1.9624e-06,"4",56964950,"C","T","rs141769798",0.960822,0.0114385,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"
+51427,0.0108224,0.00225934,1.6717e-06,"6",85111322,"T","A","rs72896837",0.964565,0.0660891,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"
+51427,-0.00656928,0.00142595,4.09621e-06,"7",21444472,"C","G","rs6461559",0.991568,0.807177,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"
+51427,0.0169325,0.0034634,1.01659e-06,"8",124553945,"G","C","rs28591444",0.949345,0.0283075,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"
+51427,0.00963367,0.00208524,3.84792e-06,"10",111060143,"C","A","rs74484011",0.984096,0.0793729,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"
+51427,0.0274774,0.00590135,3.23039e-06,"15",57911915,"A","T","rs147407794",0.898595,0.010032,1716,"Type of special diet followed: Vegetarian",TRUE,"reported","pS4oJF","Diet","ukb425"

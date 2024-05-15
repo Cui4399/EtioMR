@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",24220648,"rs7550908","T","C",3.48428220886e-14,1.12010261072,0.147791741091507,89,"M2#FUCA1",TRUE,"reported","pllfLT",NA

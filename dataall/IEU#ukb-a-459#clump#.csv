@@ -1,0 +1,7 @@
+"chr.exposure","samplesize.exposure","se.exposure","beta.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",335591,0.00134055,-0.0104641,32405821,5.92925e-15,"ukb-a-459","rs9268627","C","T",0.227733,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"
+"6",335591,0.00205024,-0.0125875,32545392,8.28572e-10,"ukb-a-459","rs35511257","C","G",0.0898664,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"
+"6",335591,0.00201734,-0.0111695,32490292,3.08376e-08,"ukb-a-459","rs185320691","C","G",0.0969747,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"
+"8",335591,0.00141255,0.00796582,65446638,1.70864e-08,"ukb-a-459","rs6992228","C","A",0.198399,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"
+"12",335591,0.00114046,0.00639066,57513866,2.10107e-08,"ukb-a-459","rs12322902","G","A",0.427808,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"
+"15",335591,0.00127958,0.0070284,64441036,3.95995e-08,"ukb-a-459","rs35561890","T","C",0.736049,"Vitamin and mineral supplements: None of the above || id:ukb-a-459",TRUE,"reported","igd"

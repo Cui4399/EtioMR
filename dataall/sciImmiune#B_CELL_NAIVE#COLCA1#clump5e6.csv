@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",111210792,"rs7126039","A","T",2.77556830764e-12,0.902428727708,0.129127882492829,89,"B_CELL_NAIVE#COLCA1",TRUE,"reported","PLOoad",NA

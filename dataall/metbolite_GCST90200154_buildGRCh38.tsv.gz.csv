@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25808841,G,A,0.555481,-0.109911,0.015366,8.49742e-13,rs1177442,8254,Hydroxy-cmpf levels,TRUE,reported,iI2De3

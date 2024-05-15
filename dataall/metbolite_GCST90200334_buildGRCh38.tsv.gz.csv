@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,208126783,T,C,0.226273,-0.0902024,0.0196453,4.39949e-06,rs11118991,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+1,233910630,C,T,0.0590947,0.160735,0.0345916,3.37393e-06,rs115240947,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+2,188749683,T,C,0.0400412,0.202728,0.0417768,1.21823e-06,rs17275803,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+4,6527093,A,G,0.0114799,-0.358044,0.077186,3.50582e-06,rs191378379,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+4,180100099,A,G,0.189663,0.100342,0.0211937,2.19577e-06,rs80078071,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+5,178284740,G,A,0.0343737,0.22386,0.045151,7.12129e-07,rs6868187,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+7,43204423,T,G,0.0393538,-0.207751,0.0421208,8.128e-07,rs10229386,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+7,128733480,A,G,0.056596,0.169371,0.0356639,2.0432e-06,rs4731512,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8
+10,55476517,C,A,0.095574,-0.130423,0.0277976,2.70693e-06,rs11004887,7287,Taurodeoxycholate levels,TRUE,reported,uqVSE8

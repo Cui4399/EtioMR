@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88125050,T,C,0.112289,0.173118,0.026081,3.18626e-11,rs141471965,7021,Sulfate of piperine metabolite C18H21NO3 (1) levels,TRUE,reported,M6Mtbg

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,171774435,A,G,0.206044,0.0986516,0.0203135,1.19512e-06,rs11803889,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+1,247876149,T,C,0.349822,0.0821259,0.0170834,1.52939e-06,rs3811444,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+2,23586021,A,G,0.0119015,-0.348744,0.0755325,3.89065e-06,rs72780363,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+2,210678331,C,T,0.305897,0.0875381,0.0178047,8.80667e-07,rs715,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+3,56815721,C,T,0.613643,0.0901503,0.0168206,8.34509e-08,rs1354034,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+3,148784541,A,G,0.122373,-0.126085,0.0248379,3.84844e-07,rs144977626,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+6,138612327,G,T,0.0581793,-0.174043,0.0351253,7.23619e-07,rs62432529,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+7,84063282,C,T,0.414933,0.0785204,0.0171695,4.8023e-06,rs10155886,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+8,87869203,C,T,0.213466,0.103257,0.0200553,2.62412e-07,rs10429299,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+12,30821178,T,C,0.0584233,-0.163674,0.0356231,4.33545e-06,rs74569884,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+13,80989603,A,G,0.0152055,-0.312722,0.066177,2.29502e-06,rs7140119,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi
+17,34397322,A,C,0.681656,-0.0855255,0.0176616,1.28244e-06,rs212469,7320,Spermidine to 5-methylthioadenosine (MTA) ratio,TRUE,reported,MT8nSi

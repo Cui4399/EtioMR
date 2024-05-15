@@ -1,0 +1,7 @@
+"se.exposure","samplesize.exposure","pos.exposure","chr.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00040315,462933,125527539,"4",4.30031e-12,-0.00279245,"ukb-b-14782","rs10025806","G","A",0.498019,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"
+0.00131597,462933,169318221,"6",4.60002e-10,-0.00820013,"ukb-b-14782","rs118181030","C","T",0.025141,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"
+0.000426813,462933,83893084,"12",5.49997e-10,-0.00264827,"ukb-b-14782","rs3110199","C","T",0.665054,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"
+0.000903007,462933,28233718,"12",2.80001e-08,0.00501587,"ukb-b-14782","rs35379392","C","T",0.05339,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"
+0.000414811,462933,53918715,"14",3.59998e-11,0.00274613,"ukb-b-14782","rs58674550","C","T",0.387719,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"
+0.000406704,462933,59234376,"15",3.40001e-08,-0.00224556,"ukb-b-14782","rs11633839","A","G",0.556571,"Operation code: wisdom teeth surgery || id:ukb-b-14782",TRUE,"reported","igd"

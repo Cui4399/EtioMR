@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,127101235,rs79881767,C,T,-0.1305,6.981e-14,0.017427,35365,0.06207,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,127677923,rs4836574,GACT,AACT,1.9102,1.421e-179,0.066851,35362,0.00421,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,127769500,rs7037926,CAA,CAC,0.6351,2.177e-55,0.040512,35364,0.01054,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,127838998,rs11794565,T,C,0.1861,2.549e-105,0.008538,35359,0.43984,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,127912011,rs75443129,T,C,-0.1141,1.306e-17,0.013356,35354,0.11538,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,128053057,rs10987849,A,G,0.2725,3.818e-24,0.026884,35353,0.02491,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,128457941,rs34377791,ATATATATTTTTTTTTTT,ATATTTTTTTTTTTT,0.1144,6.281e-11,0.017501,35361,0.06436,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,128655996,rs117253418,T,C,0.1307,1.089e-11,0.019237,35361,0.05196,ENG_Endoglin,TRUE,reported,ENG_Endoglin
+9,128812690,rs71497415,TTTTATTTATTTATTTA,TTTTA,0.4193,1.791e-33,0.034778,35362,0.01508,ENG_Endoglin,TRUE,reported,ENG_Endoglin

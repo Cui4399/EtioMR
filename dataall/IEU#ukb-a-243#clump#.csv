@@ -1,0 +1,5 @@
+"pval.exposure","pos.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.86801e-08,98421991,326730,0.00150956,"6",0.00837722,"ukb-a-243","rs4587178","C","T",0.382853,"Frequency of unenthusiasm / disinterest in last 2 weeks || id:ukb-a-243",TRUE,"reported","igd"
+3.07723e-09,88748162,326730,0.00150199,"11",-0.00890317,"ukb-a-243","rs10501696","G","A",0.507886,"Frequency of unenthusiasm / disinterest in last 2 weeks || id:ukb-a-243",TRUE,"reported","igd"
+3.7799e-08,42422022,326730,0.0015436,"14",0.00849131,"ukb-a-243","rs34744995","C","G",0.659735,"Frequency of unenthusiasm / disinterest in last 2 weeks || id:ukb-a-243",TRUE,"reported","igd"
+3.96004e-17,50747191,326730,0.00146686,"18",0.0123429,"ukb-a-243","rs6508210","C","A",0.533096,"Frequency of unenthusiasm / disinterest in last 2 weeks || id:ukb-a-243",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,18085712,G,T,0.0246922,0.296844,0.0517329,9.57998e-09,rs151142780,7388,Paraxanthine to 5-acetylamino-6-formylamino-3-methyluracil ratio,TRUE,reported,yXCbM8
+8,18172570,A,G,0.285461,0.12155,0.0180088,1.48385e-11,rs4548221,7388,Paraxanthine to 5-acetylamino-6-formylamino-3-methyluracil ratio,TRUE,reported,yXCbM8
+8,18348007,C,A,0.809485,0.499318,0.0198668,2.15014e-139,rs1493042,7388,Paraxanthine to 5-acetylamino-6-formylamino-3-methyluracil ratio,TRUE,reported,yXCbM8
+8,18387174,A,G,0.194969,-0.750994,0.0184334,1e-200,rs10095159,7388,Paraxanthine to 5-acetylamino-6-formylamino-3-methyluracil ratio,TRUE,reported,yXCbM8
+19,40847202,C,T,0.576193,-0.162491,0.016193,1.07351e-23,rs56113850,7388,Paraxanthine to 5-acetylamino-6-formylamino-3-methyluracil ratio,TRUE,reported,yXCbM8

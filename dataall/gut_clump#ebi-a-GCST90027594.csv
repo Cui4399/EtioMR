@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,216454245,0.142071,0.0294218,1.37382e-06,7738,ebi-a-GCST90027594,rs7589782,T,C,0.0783541,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+3,49687486,-0.100856,0.0215998,3.02225e-06,7738,ebi-a-GCST90027594,rs55754265,T,C,0.15878,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+4,94121401,0.0750812,0.0159171,2.39337e-06,7738,ebi-a-GCST90027594,rs7700033,A,C,0.589881,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+4,189064498,-0.0757541,0.0163952,3.82842e-06,7738,ebi-a-GCST90027594,rs7377535,A,G,0.630164,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+5,123050342,-0.0791647,0.015697,4.57573e-07,7738,ebi-a-GCST90027594,rs12515947,A,G,0.547945,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+13,53379240,0.0785295,0.0164352,1.76938e-06,7738,ebi-a-GCST90027594,rs7997810,A,G,0.358779,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+17,54936652,-0.0979355,0.0185586,1.31244e-07,7738,ebi-a-GCST90027594,rs62072709,C,T,0.731824,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+17,79303222,-0.0891912,0.0186944,1.83307e-06,7738,ebi-a-GCST90027594,rs7222575,C,A,0.234593,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd
+20,15647740,0.0789955,0.0160474,8.53867e-07,7738,ebi-a-GCST90027594,rs6043418,A,G,0.557127,PWY.6700..queuosine.biosynthesis,TRUE,reported,igd

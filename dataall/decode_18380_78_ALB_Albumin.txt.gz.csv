@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,73239748,rs146639676,T,C,-0.3661,1.502e-11,0.054255,35355,0.00525,ALB_Albumin,TRUE,reported,ALB_Albumin

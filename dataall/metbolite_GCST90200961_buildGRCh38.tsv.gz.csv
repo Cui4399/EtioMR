@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,162376534,A,C,0.0151415,-0.407266,0.0853732,1.83849e-06,rs116974459,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+2,234191055,C,A,0.0288567,0.318958,0.0619644,2.64076e-07,rs80332390,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+4,130625492,A,G,0.0101277,0.487812,0.104033,2.74514e-06,rs62319264,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+7,119632797,A,G,0.172337,-0.137957,0.0273017,4.34792e-07,rs10236510,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+12,43770886,A,G,0.272199,-0.112143,0.0233361,1.5432e-06,rs1461567,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+12,76187259,C,T,0.0183921,-0.394447,0.0768885,2.89556e-07,rs118110285,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+16,4812786,C,T,0.145948,-0.13495,0.0291766,3.74061e-06,rs112036394,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+16,48656395,T,G,0.0127156,-0.434439,0.0924741,2.62786e-06,rs62060283,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+17,54664475,A,T,0.843895,0.135967,0.0290182,2.79187e-06,rs1530382,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7
+22,26498297,C,T,0.932748,-0.195847,0.0414547,2.30829e-06,rs5761565,4566,Adenosine 5'-diphosphate (ADP) to ornithine ratio,TRUE,reported,jVbyj7

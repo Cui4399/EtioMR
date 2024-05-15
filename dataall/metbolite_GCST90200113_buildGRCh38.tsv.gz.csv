@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,177118226,GATA,G,0.0557587,0.169019,0.0359241,2.53993e-06,rs142922207,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+2,210675783,A,C,0.30673,-0.0899141,0.0178464,4.69877e-07,rs1047891,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+3,146387995,T,C,0.0181576,-0.310975,0.0610597,3.52519e-07,rs115637562,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+4,157820547,T,C,0.145089,-0.108139,0.0231721,3.05929e-06,rs34634630,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+6,113606592,A,G,0.0223221,-0.255858,0.0558775,4.67406e-06,rs62417289,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+10,28999366,T,C,0.0644798,0.161163,0.0330429,1.07499e-06,rs2016129,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+10,104204165,C,G,0.0141251,-0.332167,0.0701381,2.18087e-06,rs41290942,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+14,68172250,A,T,0.966839,0.230176,0.0459814,5.56141e-07,rs1555942,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+15,59840593,C,A,0.959963,0.21102,0.0438262,1.47251e-06,rs1437468,7140,Stearoylcholine levels,TRUE,reported,tCN8yF
+19,15936996,A,G,0.9742,-0.239754,0.0522239,4.41361e-06,rs2116951,7140,Stearoylcholine levels,TRUE,reported,tCN8yF

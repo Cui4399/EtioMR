@@ -1,0 +1,6 @@
+"pval.exposure","pos.exposure","se.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4e-08,41379466,0.00523968,64945,0.0287755,"4","ukb-b-5522","rs79406768","T","C",0.006753,"Tofu intake || id:ukb-b-5522",TRUE,"reported","igd"
+6.4e-09,109683363,0.00276493,64945,0.0160534,"5","ukb-b-5522","rs17444377","T","C",0.023512,"Tofu intake || id:ukb-b-5522",TRUE,"reported","igd"
+1.09999e-08,57874701,0.00434209,64945,0.0248309,"8","ukb-b-5522","rs146906987","T","C",0.010756,"Tofu intake || id:ukb-b-5522",TRUE,"reported","igd"
+5.30005e-09,15073135,0.00520216,64945,0.0303737,"11","ukb-b-5522","rs141785145","C","A",0.00651,"Tofu intake || id:ukb-b-5522",TRUE,"reported","igd"
+4.60002e-09,51416768,0.00455556,64945,0.0267016,"12","ukb-b-5522","rs111510761","T","C",0.009092,"Tofu intake || id:ukb-b-5522",TRUE,"reported","igd"

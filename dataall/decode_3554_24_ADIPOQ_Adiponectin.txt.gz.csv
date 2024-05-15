@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,186266175,rs57420784,T,C,0.1113,6.21e-10,0.017995,35367,0.06163,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186597896,rs9848536,A,G,-0.0573,6.482e-10,0.009274,35367,0.31993,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186639296,rs112656750,A,G,0.1495,1.174e-09,0.024574,35367,0.03169,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186743427,rs266760,A,G,-0.0975,4.074e-22,0.010084,35366,0.24317,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186746266,rs6807774,G,A,0.0706,1.256e-15,0.008826,35366,0.40052,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186762900,rs10937269,GTTTGTTTTTTTTTTTT,GTTTTTTTTTTTTTTTT,-0.122,1.632e-22,0.012497,35365,0.14114,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186834099,rs143257534,T,C,-0.6346,1.877e-154,0.02397,35367,0.03444,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186841671,rs17300539,A,G,0.385,4.093e-113,0.017033,35367,0.0685,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186890077,rs150024939,A,G,-0.258,2.101e-20,0.027871,35365,0.02548,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186915153,rs75713989,T,C,-0.0887,8.551e-11,0.013666,35368,0.11433,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186941077,rs13061952,C,G,0.0941,1.562e-14,0.012249,35368,0.14639,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin
+3,186996404,rs144834747,G,T,-0.193,3.101e-09,0.032567,35362,0.01811,ADIPOQ_Adiponectin,TRUE,reported,ADIPOQ_Adiponectin

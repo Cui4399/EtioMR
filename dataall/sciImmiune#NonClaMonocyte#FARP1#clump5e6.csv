@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"13",97843293,"rs7987551","G","T",1.1039474931e-06,0.690652981489,0.141755510199845,89,"M2#FARP1",TRUE,"reported","TETYDk",NA
+"13",99120484,"rs7334078","T","C",5.82623146407e-09,0.801572430215,0.137687700677594,89,"M2#FARP1",TRUE,"reported","TETYDk",NA

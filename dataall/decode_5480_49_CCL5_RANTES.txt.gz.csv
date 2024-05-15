@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,35452945,rs143719578,G,T,-0.1384,1.822e-08,0.024591,35367,0.02858,CCL5_RANTES,TRUE,reported,CCL5_RANTES
+17,35480613,rs8072477,C,A,0.0703,1.36e-09,0.0116,35367,0.14544,CCL5_RANTES,TRUE,reported,CCL5_RANTES
+17,35623097,rs11397695,ATTT,ATT,0.0584,3.182e-11,0.008798,35370,0.33462,CCL5_RANTES,TRUE,reported,CCL5_RANTES
+17,35836561,rs4239252,A,G,-0.257,1.074e-132,0.010484,35370,0.18458,CCL5_RANTES,TRUE,reported,CCL5_RANTES
+17,36096470,rs117542673,A,G,-0.1748,3.158e-20,0.018972,35369,0.04925,CCL5_RANTES,TRUE,reported,CCL5_RANTES

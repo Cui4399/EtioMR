@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,229198931,0.0893695,0.019563,4.91688e-06,7738,ebi-a-GCST90027631,rs548331,A,T,0.776195,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+2,68669728,-0.115163,0.0251184,4.54402e-06,7738,ebi-a-GCST90027631,rs60761380,G,A,0.11681,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+4,22931698,-0.12899,0.0270416,1.84166e-06,7738,ebi-a-GCST90027631,rs76027112,G,A,0.119239,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+5,28796073,-0.127613,0.0254577,5.36624e-07,7738,ebi-a-GCST90027631,rs72639725,C,T,0.117943,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+18,34010589,0.105322,0.0225501,3.00352e-06,7738,ebi-a-GCST90027631,rs1398954,A,G,0.839316,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+18,1200631,-0.182706,0.0393463,3.42523e-06,7738,ebi-a-GCST90027631,rs1394890,T,C,0.946721,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd
+20,54318925,0.0910727,0.0196979,3.77381e-06,7738,ebi-a-GCST90027631,rs12626113,T,C,0.246035,PWY_GLYCOLYSIS..glycolysis.I..from.glucose.6.phosphate.,TRUE,reported,igd

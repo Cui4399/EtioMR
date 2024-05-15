@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39896111,C,G,0.18205,-0.133363,0.027462,1.19608e-06,rs41297593,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+2,85443385,T,A,0.385022,0.108988,0.0214208,3.61929e-07,rs11685218,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+2,170127091,A,G,0.214781,0.128419,0.0263466,1.09242e-06,rs2354480,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+3,49109223,G,T,0.161287,0.134812,0.0285376,2.3126e-06,rs113592495,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+4,991581,C,G,0.0107621,-0.471576,0.101429,3.32989e-06,rs143974931,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+4,90118051,A,G,0.133333,-0.14398,0.0303609,2.11336e-06,rs76793825,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+5,100729018,T,C,0.0247634,-0.329304,0.0672747,9.83481e-07,rs79829592,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+5,149162389,C,A,0.223561,0.128184,0.0250385,3.06378e-07,rs59162951,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+11,7374468,G,A,0.362169,-0.0990251,0.0216306,4.69428e-06,rs2881485,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+11,17419838,T,C,0.206478,-0.132845,0.0257605,2.51044e-07,rs2299639,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+12,76187259,C,T,0.0184697,-0.356916,0.0771389,3.71122e-06,rs118110285,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+13,19365069,T,C,0.0362654,0.267843,0.0555883,1.4477e-06,rs186452796,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+16,88713682,A,G,0.131897,-0.142432,0.0306598,3.39147e-06,rs2290904,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+17,66735955,T,C,0.0152527,0.399949,0.0861825,3.47187e-06,rs61760359,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+18,75413914,G,A,0.296076,-0.115039,0.0231905,7.02784e-07,rs17281792,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv
+19,56948103,A,G,0.108987,-0.163697,0.0337602,1.24205e-06,rs61517008,4573,Adenosine 5'-diphosphate (ADP) to Adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,YtKYrv

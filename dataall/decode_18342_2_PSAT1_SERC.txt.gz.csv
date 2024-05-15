@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,78003458,rs4745686,G,A,-0.0462,2.265e-08,0.008264,35359,0.46468,PSAT1_SERC,TRUE,reported,PSAT1_SERC
+9,78006655,rs117963980,A,G,0.292,1.847e-09,0.04858,35359,0.00705,PSAT1_SERC,TRUE,reported,PSAT1_SERC
+9,78297199,rs2277148,C,G,0.1495,2.078e-52,0.009813,35359,0.2185,PSAT1_SERC,TRUE,reported,PSAT1_SERC

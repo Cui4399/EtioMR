@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"19",42038433,"rs62119413","A","C",6.27321120665e-08,-1.39093295149,0.257064457156543,89,"CD8_NAIVE#AC006129.1",TRUE,"reported","VikIot",NA

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",54787592,"rs75475627","C","G",1.72326100522e-15,1.29007808626,0.162074308078663,89,"Classical monocyte#SPTBN1",TRUE,"reported","DKSiOO",NA

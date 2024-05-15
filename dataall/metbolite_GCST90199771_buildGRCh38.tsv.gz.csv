@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,200661607,G,A,0.136452,-0.157024,0.021644,4.02126e-13,rs55754655,8239,7-methylguanine levels,TRUE,reported,PhoUWO

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,95200211,0.104422,0.021887,1.83358e-06,7738,ebi-a-GCST90027514,rs2640045,T,C,0.448329,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+3,16753607,-0.135967,0.0292369,3.31055e-06,7738,ebi-a-GCST90027514,rs2197911,A,G,0.863153,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+3,193676416,0.224474,0.0446249,4.89835e-07,7738,ebi-a-GCST90027514,rs2636908,C,T,0.0721462,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+3,83822528,0.206201,0.0447123,3.99347e-06,7738,ebi-a-GCST90027514,rs76618342,T,C,0.0531755,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+5,27680835,-0.210802,0.0455807,3.74947e-06,7738,ebi-a-GCST90027514,rs4580784,A,G,0.0617492,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+5,167763951,0.163648,0.0340993,1.59346e-06,7738,ebi-a-GCST90027514,rs62385620,A,T,0.111596,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+8,67957130,0.175219,0.0375257,3.02239e-06,7738,ebi-a-GCST90027514,rs7840028,T,C,0.0810718,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd
+9,18201242,-0.150878,0.0325761,3.62928e-06,7738,ebi-a-GCST90027514,rs17777155,G,A,0.115793,PWY0.1061..superpathway.of.L.alanine.biosynthesis,TRUE,reported,igd

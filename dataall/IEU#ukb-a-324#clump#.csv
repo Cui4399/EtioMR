@@ -1,0 +1,6 @@
+"se.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00166142,1.03767e-08,-0.00951117,180961245,"1",180631,"ukb-a-324","rs11586493","A","G",0.599487,"Ever used hormone-replacement therapy (HRT) || id:ukb-a-324",TRUE,"reported","igd"
+0.00352552,1.75186e-22,-0.0343969,104557400,"4",180631,"ukb-a-324","rs80175472","C","T",0.0561642,"Ever used hormone-replacement therapy (HRT) || id:ukb-a-324",TRUE,"reported","igd"
+0.00195215,1.43103e-08,0.0110685,37876195,"8",180631,"ukb-a-324","rs62503903","C","A",0.770536,"Ever used hormone-replacement therapy (HRT) || id:ukb-a-324",TRUE,"reported","igd"
+0.00166671,7.27177e-09,0.00964156,55829214,"19",180631,"ukb-a-324","rs28875253","C","A",0.395203,"Ever used hormone-replacement therapy (HRT) || id:ukb-a-324",TRUE,"reported","igd"
+0.00330188,2.93697e-12,-0.023051,5948227,"20",180631,"ukb-a-324","rs16991615","A","G",0.0651381,"Ever used hormone-replacement therapy (HRT) || id:ukb-a-324",TRUE,"reported","igd"

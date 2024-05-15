@@ -1,0 +1,3 @@
+chr.exposure,pval.exposure,beta.exposure,pos.exposure,samplesize.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,1.56099e-55,-0.4395,46396938,2871,0.0274,ebi-a-GCST90002016,rs3092963,G,A,0.4183,CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016,TRUE,reported,igd
+7,1.09698e-12,0.2427,1095701,2871,0.03394,ebi-a-GCST90002016,rs143407337,T,C,0.2142,CCR2 on CD62L+ plasmacytoid Dendritic Cell || id:ebi-a-GCST90002016,TRUE,reported,igd

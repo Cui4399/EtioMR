@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,54363878,-0.0794866,0.0170431,3.10356e-06,7738,ebi-a-GCST90027714,rs56001939,C,T,0.362334,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+4,27850234,-0.11031,0.0239812,4.22766e-06,7738,ebi-a-GCST90027714,rs13119423,C,A,0.139999,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+11,5806426,0.141916,0.0272287,1.86788e-07,7738,ebi-a-GCST90027714,rs10769221,A,G,0.884538,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+16,81302009,0.0936755,0.020061,3.01877e-06,7738,ebi-a-GCST90027714,rs12446334,G,A,0.275569,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+19,35718076,-0.0799638,0.0169185,2.28523e-06,7738,ebi-a-GCST90027714,rs7255582,T,C,0.411214,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+19,45793832,-0.0829059,0.017674,2.72076e-06,7738,ebi-a-GCST90027714,rs34865636,T,A,0.312404,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd
+20,18906606,0.0873411,0.0185197,2.40392e-06,7738,ebi-a-GCST90027714,rs11087270,T,A,0.267415,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Oscillospiraceae.g__Oscillibacter,TRUE,reported,igd

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+8,20598737,-0.111196,0.0240432,3.74913e-06,7738,ebi-a-GCST90027561,rs2616174,T,C,0.257394,PWY.5913..TCA.cycle.VI..obligate.autotrophs.,TRUE,reported,igd
+9,18166899,-0.100171,0.0216243,3.6151e-06,7738,ebi-a-GCST90027561,rs12006002,T,C,0.339664,PWY.5913..TCA.cycle.VI..obligate.autotrophs.,TRUE,reported,igd
+10,8881717,0.160365,0.0302332,1.1312e-07,7738,ebi-a-GCST90027561,rs61828192,G,C,0.147456,PWY.5913..TCA.cycle.VI..obligate.autotrophs.,TRUE,reported,igd
+21,21925160,0.099493,0.0212898,2.96456e-06,7738,ebi-a-GCST90027561,rs2826386,T,C,0.416276,PWY.5913..TCA.cycle.VI..obligate.autotrophs.,TRUE,reported,igd
+22,29621128,-0.166238,0.0353105,2.50305e-06,7738,ebi-a-GCST90027561,rs743920,G,C,0.126928,PWY.5913..TCA.cycle.VI..obligate.autotrophs.,TRUE,reported,igd

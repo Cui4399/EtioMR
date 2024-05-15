@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,157916604,C,G,0.0924161,-0.125555,0.0272751,4.15849e-06,rs112088028,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+4,10271419,A,C,0.256662,0.0816269,0.0178694,4.92472e-06,rs17407324,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+6,23950678,T,C,0.701778,-0.0817115,0.0172244,2.09604e-06,rs539570,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+7,79673996,A,C,0.0754163,0.146427,0.0301445,1.18881e-06,rs79946102,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+9,117527864,T,C,0.0724356,-0.142856,0.0300818,2.04526e-06,rs77627260,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+14,34377729,G,A,0.0403139,-0.187951,0.0399084,2.48246e-06,rs80200860,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW
+16,58171206,T,C,0.0334132,-0.208569,0.0434445,1.5802e-06,rs75509729,7526,N-lactoyl isoleucine levels,TRUE,reported,J6eCOW

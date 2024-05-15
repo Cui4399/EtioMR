@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,34716139,rs6571678,G,A,0.1538,1.18e-43,0.0111,35363,0.14396,CFL2_COF2,TRUE,reported,CFL2_COF2

@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,58709666,A,G,0.0280368,-0.222143,0.0461668,1.49618e-06,rs17507995,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+4,184956462,G,A,0.018385,-0.281069,0.0568645,7.70139e-07,rs4337770,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+5,178177134,C,T,0.576454,-0.0734336,0.0157084,2.94259e-06,rs7448252,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+8,34213505,G,A,0.0927286,-0.120782,0.0264535,4.97582e-06,rs71513720,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+8,82730633,A,G,0.0890762,0.122008,0.0267263,4.99247e-06,rs62513256,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+10,33919751,G,A,0.86252,0.106196,0.0223192,1.95482e-06,rs761883,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+10,85706665,A,G,0.0178031,0.276045,0.0574944,1.57672e-06,rs181001541,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+12,75703944,A,T,0.101167,0.119708,0.0253445,2.32134e-06,rs138838316,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+12,105840260,T,C,0.0311582,0.203701,0.0440525,3.76323e-06,rs117278826,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+12,131833592,G,C,0.0325505,-0.205124,0.0431451,1.99143e-06,rs144455406,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+16,901692,T,C,0.0166079,-0.275661,0.0597734,3.9925e-06,rs12918967,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+16,5520294,G,A,0.0142944,0.294068,0.0643408,4.86636e-06,rs117336992,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+16,71602624,T,G,0.0135184,-0.309634,0.0655192,2.29147e-06,rs193179575,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+18,2521078,A,C,0.244022,-0.0853787,0.0179288,1.91592e-06,rs2677900,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B
+19,53039742,T,G,0.134871,0.105575,0.0229751,4.32316e-06,rs58619731,8264,2-aminophenol sulfate levels,TRUE,reported,dm8a1B

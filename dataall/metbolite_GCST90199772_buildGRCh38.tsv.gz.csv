@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39941043,T,C,0.249206,0.183751,0.017437,5.77053e-26,rs77692382,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+2,27519736,C,T,0.597446,-0.0905397,0.0153703,3.84867e-09,rs780093,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+11,61814292,C,T,0.308028,-0.0922747,0.0163052,1.52072e-08,rs174560,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+15,43641743,C,T,0.0265712,0.289241,0.0469129,7.02638e-10,rs139097404,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+15,58388444,T,G,0.349697,0.209211,0.0156847,1.38224e-40,rs35853021,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+15,58433640,G,A,0.284666,0.16951,0.0169379,1.409e-23,rs633695,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe
+19,44913484,T,C,0.223265,0.116028,0.018073,1.36284e-10,rs438811,8270,1-stearoyl-GPE (18:0) levels,TRUE,reported,lqtBLe

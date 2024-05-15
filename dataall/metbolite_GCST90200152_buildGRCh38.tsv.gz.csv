@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75729746,TG,T,0.321377,0.131119,0.0179839,3.07838e-13,rs145024038,6253,2-butenoylglycine levels,TRUE,reported,Lyk6uJ
+2,210675783,A,C,0.325609,0.262111,0.0180777,1.22702e-47,rs1047891,6253,2-butenoylglycine levels,TRUE,reported,Lyk6uJ
+11,67592132,G,T,0.566855,-0.138694,0.0169833,3.17508e-16,rs596603,6253,2-butenoylglycine levels,TRUE,reported,Lyk6uJ

@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00530709,127468274,361194,8.39267e-12,"6",0.000776809,"ukb-d-XIX_INJURY_POISON","rs7741021","C","A",0.479756,"Injury, poisoning and certain other consequences of external causes || id:ukb-d-XIX_INJURY_POISON",TRUE,"reported","igd"
+-0.00447159,120962164,361194,1.57892e-08,"7",0.000791027,"ukb-d-XIX_INJURY_POISON","rs2908007","G","A",0.399209,"Injury, poisoning and certain other consequences of external causes || id:ukb-d-XIX_INJURY_POISON",TRUE,"reported","igd"

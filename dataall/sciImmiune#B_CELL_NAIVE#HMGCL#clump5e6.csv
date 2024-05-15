@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",24128467,"rs11714","C","T",9.72563092135e-08,-1.18523567694,0.22229655701857,89,"B_CELL_NAIVE#HMGCL",TRUE,"reported","nss1an",NA

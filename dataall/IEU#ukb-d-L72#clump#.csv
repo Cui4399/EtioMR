@@ -1,0 +1,7 @@
+"se.exposure","chr.exposure","beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000993959,"2",-0.00560738,219755011,361194,1.68741e-08,"ukb-d-L72","rs121908120","A","T",0.0270741,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"
+0.00119209,"3",0.0113554,37293174,361194,1.65082e-21,"ukb-d-L72","rs77597703","C","A",0.0196496,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"
+0.00092917,"3",0.0390079,38051211,361194,1e-200,"ukb-d-L72","rs75495843","A","G",0.0302483,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"
+0.000600352,"3",0.00379121,38209896,361194,2.70514e-10,"ukb-d-L72","rs13318848","T","G",0.0789261,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"
+0.000320902,"5",-0.00220869,1330840,361194,5.88031e-12,"ukb-d-L72","rs452384","C","T",0.439547,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"
+0.000321779,"14",-0.00195303,75594459,361194,1.28449e-09,"ukb-d-L72","rs2160075","T","A",0.461957,"Diagnoses - main ICD10: L72 Follicular cysts of skin and subcutaneous tissue || id:ukb-d-L72",TRUE,"reported","igd"

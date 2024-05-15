@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61831875,A,G,0.202784,0.279215,0.0213512,4.44097e-39,rs61897793,6511,Docosatrienoate (22:3n3) levels,TRUE,reported,DGayh8

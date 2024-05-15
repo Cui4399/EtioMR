@@ -1,0 +1,6 @@
+"chr.exposure","beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.00146004,462933,1.09999e-08,0.000255374,115613073,"ukb-b-9190","rs72697930","G","A",0.320899,"Operation code: bunion/hallus valgus surgery || id:ukb-b-9190",TRUE,"reported","igd"
+"4",-0.00140862,462933,4.79999e-09,0.000240632,127270493,"ukb-b-9190","rs11098861","C","G",0.43403,"Operation code: bunion/hallus valgus surgery || id:ukb-b-9190",TRUE,"reported","igd"
+"7",-0.00146287,462933,5.99998e-09,0.000251548,27908541,"ukb-b-9190","rs757397","C","T",0.663684,"Operation code: bunion/hallus valgus surgery || id:ukb-b-9190",TRUE,"reported","igd"
+"19",0.00133223,462933,4.79999e-08,0.000244049,41104860,"ukb-b-9190","rs1864074","T","G",0.380049,"Operation code: bunion/hallus valgus surgery || id:ukb-b-9190",TRUE,"reported","igd"
+"20",-0.00167462,462933,8.4004e-12,0.000245118,33924112,"ukb-b-9190","rs981819","T","C",0.371631,"Operation code: bunion/hallus valgus surgery || id:ukb-b-9190",TRUE,"reported","igd"

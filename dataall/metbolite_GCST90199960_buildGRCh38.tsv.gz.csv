@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,143041434,A,G,0.728031,-0.152512,0.0182125,5.56875e-17,rs3845642,7534,N-formylanthranilic acid levels,TRUE,reported,5PJgwp
+17,78202449,G,T,0.102679,0.821601,0.0248416,1e-200,rs72897835,7534,N-formylanthranilic acid levels,TRUE,reported,5PJgwp

@@ -1,0 +1,5 @@
+"pos.exposure","samplesize.exposure","chr.exposure","se.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+127892810,399793,"2",0.000499313,0.00313752,3.29997e-10,"ukb-b-323","rs6733839","T","C",0.39033,"Illnesses of father: Alzheimer's disease/dementia || id:ukb-b-323",TRUE,"reported","igd"
+45411941,399793,"19",0.000663291,0.0248558,1e-200,"ukb-b-323","rs429358","C","T",0.154299,"Illnesses of father: Alzheimer's disease/dementia || id:ukb-b-323",TRUE,"reported","igd"
+45247048,399793,"19",0.00049505,-0.00286042,7.59994e-09,"ukb-b-323","rs4803748","T","C",0.383251,"Illnesses of father: Alzheimer's disease/dementia || id:ukb-b-323",TRUE,"reported","igd"
+45335676,399793,"19",0.00048412,0.00365176,4.60045e-14,"ukb-b-323","rs56394238","G","A",0.446805,"Illnesses of father: Alzheimer's disease/dementia || id:ukb-b-323",TRUE,"reported","igd"

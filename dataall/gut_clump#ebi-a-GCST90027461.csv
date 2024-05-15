@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,214596434,-0.0798475,0.0163543,1.04833e-06,7738,ebi-a-GCST90027461,rs10779615,G,C,0.508391,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+2,217960513,0.171977,0.0365088,2.4703e-06,7738,ebi-a-GCST90027461,rs16856918,A,G,0.0552139,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+3,171047195,0.143446,0.0311211,4.04064e-06,7738,ebi-a-GCST90027461,rs73171592,C,G,0.0771743,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+5,83575190,-0.0874056,0.0177712,8.7263e-07,7738,ebi-a-GCST90027461,rs11745906,C,T,0.281706,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+11,112099410,0.104197,0.0227743,4.75773e-06,7738,ebi-a-GCST90027461,rs3819331,C,T,0.159253,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+12,61370770,-0.0759932,0.0162372,2.86622e-06,7738,ebi-a-GCST90027461,rs2620868,C,T,0.438608,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+13,110456322,-0.156491,0.030699,3.44025e-07,7738,ebi-a-GCST90027461,rs80343422,G,A,0.0761024,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd
+19,32999893,-0.083123,0.0177562,2.85003e-06,7738,ebi-a-GCST90027461,rs10405432,G,A,0.346808,DTDPRHAMSYN.PWY..dTDP.L.rhamnose.biosynthesis.I,TRUE,reported,igd

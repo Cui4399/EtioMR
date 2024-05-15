@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46919632,G,T,0.875391,0.192918,0.0222498,4.30118e-18,rs10890426,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+6,25814852,G,T,0.555515,-0.162063,0.0146024,1.27807e-28,rs1165195,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+11,80628808,A,G,0.0132826,-0.353962,0.0641429,3.4223e-08,rs139230314,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+12,21164988,A,G,0.338471,-0.121995,0.0152225,1.10894e-15,rs4149034,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+12,21208114,TTTC,T,0.155729,0.218016,0.0199102,6.64876e-28,rs151231052,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+13,21744175,A,C,0.358772,-0.088274,0.0153392,8.67536e-09,rs9509847,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+16,81540371,T,C,0.0691805,0.172174,0.0286869,1.9508e-09,rs2061679,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF
+19,47873738,C,T,0.838281,0.159312,0.0198734,1.08943e-15,rs212100,8132,21-hydroxypregnenolone disulfate levels,TRUE,reported,SexnCF

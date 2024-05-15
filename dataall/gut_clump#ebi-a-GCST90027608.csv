@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+15,90773142,0.0784407,0.017048,4.20126e-06,7738,ebi-a-GCST90027608,rs8033436,A,G,0.477528,PWY.7196..superpathway.of.pyrimidine.ribonucleosides.salvage,TRUE,reported,igd
+16,88661980,-0.169662,0.0350678,1.31081e-06,7738,ebi-a-GCST90027608,rs55794976,T,C,0.0635357,PWY.7196..superpathway.of.pyrimidine.ribonucleosides.salvage,TRUE,reported,igd
+17,10113345,-0.0827317,0.0177716,3.23534e-06,7738,ebi-a-GCST90027608,rs6503292,G,A,0.629819,PWY.7196..superpathway.of.pyrimidine.ribonucleosides.salvage,TRUE,reported,igd
+20,773509,0.101673,0.0221143,4.27386e-06,7738,ebi-a-GCST90027608,rs662934,G,A,0.777175,PWY.7196..superpathway.of.pyrimidine.ribonucleosides.salvage,TRUE,reported,igd

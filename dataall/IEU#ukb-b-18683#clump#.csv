@@ -1,0 +1,7 @@
+"pos.exposure","samplesize.exposure","beta.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+200045258,106162,-0.0354311,"2",3.50002e-08,0.0064274,"ukb-b-18683","rs2167378","T","C",0.437015,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"
+199990107,106162,0.0382714,"2",2.99999e-09,0.00644933,"ukb-b-18683","rs1451488","G","A",0.557314,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"
+58007905,106162,0.0413536,"2",5.89997e-10,0.0066783,"ukb-b-18683","rs112345168","A","T",0.351809,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"
+15049688,106162,-0.160223,"3",8.9e-09,0.0278658,"ukb-b-18683","rs116038077","T","C",0.013273,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"
+49918175,106162,-0.0558816,"13",1.29999e-09,0.00920782,"ukb-b-18683","rs35214871","T","G",0.143397,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"
+47525671,106162,0.0601453,"20",5.60015e-16,0.00742717,"ukb-b-18683","rs13037942","C","T",0.245741,"Maximum digits remembered correctly || id:ukb-b-18683",TRUE,"reported","igd"

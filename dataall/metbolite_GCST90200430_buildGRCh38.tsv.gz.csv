@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27375230,C,T,0.591799,-0.0763485,0.0158022,1.35501e-06,rs4665972,8259,Pyruvate levels,TRUE,reported,wEvX02
+2,40413021,T,C,0.229212,0.0836304,0.0183094,4.93283e-06,rs6742589,8259,Pyruvate levels,TRUE,reported,wEvX02
+2,221353706,A,G,0.297786,0.0799564,0.0169903,2.52623e-06,rs2392871,8259,Pyruvate levels,TRUE,reported,wEvX02
+3,15574771,GAAGTA,G,0.120313,0.109023,0.0237155,4.28336e-06,rs142231938,8259,Pyruvate levels,TRUE,reported,wEvX02
+3,36509083,T,C,0.112503,-0.122725,0.0245981,6.06248e-07,rs115199424,8259,Pyruvate levels,TRUE,reported,wEvX02
+5,100804756,G,A,0.0465543,-0.172339,0.0363918,2.18358e-06,rs34668825,8259,Pyruvate levels,TRUE,reported,wEvX02
+5,119666719,C,A,0.0202867,-0.252142,0.054686,4.0125e-06,rs144880202,8259,Pyruvate levels,TRUE,reported,wEvX02
+5,129547132,A,G,0.0162238,0.28079,0.0612305,4.52275e-06,rs10044998,8259,Pyruvate levels,TRUE,reported,wEvX02
+6,10818696,T,A,0.0199633,0.256271,0.0556725,4.16061e-06,rs114927772,8259,Pyruvate levels,TRUE,reported,wEvX02
+7,15980502,C,T,0.44771,-0.0723907,0.0155899,3.42681e-06,rs7796905,8259,Pyruvate levels,TRUE,reported,wEvX02
+12,124880353,A,G,0.0787465,0.141225,0.0286665,8.3729e-07,rs58559223,8259,Pyruvate levels,TRUE,reported,wEvX02
+16,86966724,C,T,0.0218288,0.2479,0.0523425,2.17855e-06,rs13332352,8259,Pyruvate levels,TRUE,reported,wEvX02

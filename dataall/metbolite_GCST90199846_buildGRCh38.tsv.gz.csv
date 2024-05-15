@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,47543124,A,C,0.176737,0.241784,0.0196559,8.96773e-35,rs35818294,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1
+4,48037885,T,A,0.36902,0.102369,0.0154238,3.19998e-11,rs11736427,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1
+9,35734959,T,C,0.425939,0.138078,0.0150874,5.59549e-20,rs10814274,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1
+9,111934208,C,A,0.58317,0.0847598,0.0152296,2.6147e-08,rs1045989,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1
+19,8218935,A,C,0.537967,0.115364,0.0156978,1.99608e-13,rs1871194,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1
+19,18906763,C,T,0.645999,-0.109868,0.0156742,2.39215e-12,rs2074798,8233,Glycosyl-N-stearoyl-sphingosine (d18:1/18:0) levels,TRUE,reported,ntxce1

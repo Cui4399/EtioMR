@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,108622962,rs3813498,T,C,-0.0634,9.835e-10,0.010373,35365,0.18042,FOXO3_FOXO3A,TRUE,reported,FOXO3_FOXO3A

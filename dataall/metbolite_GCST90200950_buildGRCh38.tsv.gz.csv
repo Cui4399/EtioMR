@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,45478527,G,A,0.0764914,0.132636,0.0285289,3.33258e-06,rs72686493,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+1,198666127,G,A,0.339574,-0.0823754,0.0162717,4.13783e-07,rs12047480,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+2,123624786,C,T,0.818455,-0.0910448,0.0195933,3.37216e-06,rs2037033,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+4,163757520,T,C,0.0227989,-0.234185,0.0506272,3.73383e-06,rs11733003,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+5,9835391,C,T,0.0985078,-0.117384,0.0254453,3.96552e-06,rs10042053,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+5,175579005,G,A,0.174799,0.099594,0.0207264,1.54618e-06,rs2963859,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+7,95244465,C,G,0.0918479,0.120487,0.0263331,4.75083e-06,rs73221998,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+8,143328582,A,G,0.0115118,-0.333119,0.0719416,3.64934e-06,rs192946539,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+11,27618296,T,G,0.0288602,-0.209112,0.0451578,3.64462e-06,rs11030081,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+14,20286553,A,G,0.120782,-0.111723,0.0233047,1.63491e-06,rs3209531,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+14,56767755,C,T,0.10838,0.119408,0.0250143,1.8096e-06,rs113013161,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+15,38522176,C,G,0.135515,-0.107575,0.0233249,3.98775e-06,rs4923799,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+16,61708280,T,C,0.0482264,0.172975,0.0358017,1.35523e-06,rs117926511,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+17,62828511,C,T,0.56559,0.0762224,0.0161924,2.51019e-06,rs12937941,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2
+18,5286469,AT,A,0.164432,0.10662,0.0207331,2.71088e-07,rs5822857,8254,Glucose to mannitol to sorbitol ratio,TRUE,reported,6N6WO2

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.30892,-0.267116,0.0153908,1.78869e-67,rs1047891,8265,Homoarginine levels,TRUE,reported,0JWM6r
+4,102276925,G,A,0.0821459,0.152931,0.0264972,7.85199e-09,rs13135092,8265,Homoarginine levels,TRUE,reported,0JWM6r
+5,35039381,T,C,0.901746,-0.148341,0.0241157,7.68912e-10,rs37370,8265,Homoarginine levels,TRUE,reported,0JWM6r
+15,45355235,T,C,0.256124,0.355872,0.0159872,9.06726e-110,rs72623915,8265,Homoarginine levels,TRUE,reported,0JWM6r
+20,63521166,G,C,0.144402,0.117324,0.0206359,1.30499e-08,rs72629024,8265,Homoarginine levels,TRUE,reported,0JWM6r

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,76089534,0.232224,0.0507396,4.72193e-06,7738,ebi-a-GCST90027680,rs6664382,C,G,0.935113,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+7,71508645,0.173906,0.0358947,1.26681e-06,7738,ebi-a-GCST90027680,rs4717625,G,A,0.142567,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+9,77862854,-0.138725,0.029365,2.31079e-06,7738,ebi-a-GCST90027680,rs11144350,G,A,0.729892,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+9,79442588,-0.174748,0.0351745,6.76285e-07,7738,ebi-a-GCST90027680,rs73653217,T,A,0.158443,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+11,105046839,0.120714,0.0257173,2.6809e-06,7738,ebi-a-GCST90027680,rs10895784,G,A,0.620207,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+11,71113304,-0.13059,0.0282128,3.67849e-06,7738,ebi-a-GCST90027680,rs1792325,T,C,0.398815,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+11,214169,0.137173,0.0266356,2.60501e-07,7738,ebi-a-GCST90027680,rs1533824,C,T,0.329499,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+12,20885931,0.208221,0.0440879,2.32552e-06,7738,ebi-a-GCST90027680,rs16923154,G,A,0.0874242,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd
+13,38463552,-0.139037,0.0297642,2.99337e-06,7738,ebi-a-GCST90027680,rs10507465,C,T,0.246739,k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Burkholderiales_noname,TRUE,reported,igd

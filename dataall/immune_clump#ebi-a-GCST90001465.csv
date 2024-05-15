@@ -1,0 +1,5 @@
+pos.exposure,se.exposure,samplesize.exposure,chr.exposure,beta.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+161526397,0.02792,3410,1,0.8089,4.21697e-165,ebi-a-GCST90001465,rs71632979,G,A,0.2447,CD86+ myeloid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001465,TRUE,reported,igd
+161937774,0.0521,3410,1,0.3612,4.9023e-12,ebi-a-GCST90001465,rs71639910,A,G,0.0688,CD86+ myeloid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001465,TRUE,reported,igd
+161058351,0.05892,3410,1,0.3513,2.73099e-09,ebi-a-GCST90001465,rs75072970,C,T,0.0531,CD86+ myeloid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001465,TRUE,reported,igd
+161410253,0.03331,3410,1,-0.2598,8.20163e-15,ebi-a-GCST90001465,rs115805162,T,C,0.2084,CD86+ myeloid Dendritic Cell %Dendritic Cell || id:ebi-a-GCST90001465,TRUE,reported,igd

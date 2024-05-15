@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+11,10506936,rs9292,G,A,0.318775,2.8920113962155e-22,0.0328491,33995,0.987139,lyve1_q9y5y7_oid30728_v1_inflammation_ii,TRUE,reported,lyve1_q9y5y7_oid30728_v1_inflammation_ii,chr11,10568818,cis
+11,10558140,rs17318858,C,T,-0.0618821,4.25794453582598e-12,0.00893172,33995,0.226846,lyve1_q9y5y7_oid30728_v1_inflammation_ii,TRUE,reported,lyve1_q9y5y7_oid30728_v1_inflammation_ii,chr11,10568818,cis
+11,10599444,rs76385522,T,C,0.194409,6.75771699355284e-21,0.0207315,33995,0.0336827,lyve1_q9y5y7_oid30728_v1_inflammation_ii,TRUE,reported,lyve1_q9y5y7_oid30728_v1_inflammation_ii,chr11,10568818,cis
+11,10605144,rs7119709,A,G,0.349981,2.77332010465183e-75,0.0190627,33995,0.0397654,lyve1_q9y5y7_oid30728_v1_inflammation_ii,TRUE,reported,lyve1_q9y5y7_oid30728_v1_inflammation_ii,chr11,10568818,cis
+11,10633343,rs34714741,G,A,-0.0760248,2.27813785170921e-08,0.0136015,33995,0.0878166,lyve1_q9y5y7_oid30728_v1_inflammation_ii,TRUE,reported,lyve1_q9y5y7_oid30728_v1_inflammation_ii,chr11,10568818,cis

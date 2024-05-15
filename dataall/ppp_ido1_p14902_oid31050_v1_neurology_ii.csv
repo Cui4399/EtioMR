@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+8,39370819,rs13258867,G,A,0.163511,8.26608753503854e-14,0.0219007,33874,0.0302834,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39387525,rs78790334,C,T,-0.175027,2.67362196199979e-14,0.0229898,33874,0.0298557,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39594724,rs138062668,T,C,0.287939,1.62330452776546e-14,0.0375047,33874,0.0111157,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39681595,rs111812784,T,C,-0.163077,5.08276464068372e-12,0.0236232,33874,0.0252459,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39718334,rs7460182,A,G,-0.0677571,1.28635251512782e-08,0.0119126,33874,0.890792,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39920010,rs7820268,T,C,0.25681,1e-200,0.00773629,33874,0.344911,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39921638,rs72643906,G,A,-0.174916,6.0304538745508e-09,0.0300754,33874,0.0151148,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39935799,rs7846217,T,C,-0.129092,2.8418424680636e-33,0.0107411,33874,0.865841,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,39963985,rs79043633,A,C,-0.158823,7.78394932626728e-20,0.0174221,33874,0.0469091,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis
+8,40092969,rs116858070,G,A,0.127392,1.25400711324813e-16,0.0153895,33874,0.0653559,ido1_p14902_oid31050_v1_neurology_ii,TRUE,reported,ido1_p14902_oid31050_v1_neurology_ii,chr8,39913808,cis

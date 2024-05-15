@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,201989140,T,C,0.01674,-0.284416,0.0595184,1.76503e-06,rs114371828,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+2,233768740,A,G,0.106068,-0.125267,0.0249819,5.32302e-07,rs6431630,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+3,70966628,T,C,0.0250708,0.243216,0.049361,8.33775e-07,rs17008088,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+3,79930958,T,C,0.795349,0.087598,0.0190443,4.23125e-06,rs4856225,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+4,155718281,G,A,0.0167985,-0.300172,0.0595198,4.57747e-07,rs116059601,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+5,148559962,G,C,0.0125798,0.318443,0.0692041,4.19442e-06,rs144745734,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+9,1461225,T,C,0.0267552,0.218386,0.0475519,4.37779e-06,rs16929581,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+10,66224941,A,G,0.303071,0.0765294,0.0167218,4.72547e-06,rs1995667,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+15,74735539,T,C,0.250091,0.0943555,0.0176372,8.80456e-08,rs2472297,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g
+20,2878021,T,C,0.0127797,-0.320258,0.0685564,2.99086e-06,rs113935097,8222,4-ethylcatechol sulfate levels,TRUE,reported,2zGx2g

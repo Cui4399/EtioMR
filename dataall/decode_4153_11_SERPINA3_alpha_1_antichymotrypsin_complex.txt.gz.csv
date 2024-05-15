@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,93764820,rs56073943,T,C,-0.0876,1.611e-08,0.015506,35367,0.0759,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,93867500,rs71431608,T,C,-0.1348,7.536e-09,0.023328,35370,0.03271,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94043929,rs79811936,T,C,-0.2134,2.743e-20,0.023124,35371,0.03226,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94285014,rs56317088,G,A,-0.183,1.013e-14,0.023651,35372,0.03193,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94398729,rs5810675,CCTCCAG,CCTCCA,0.0572,6.111e-12,0.008318,35371,0.44787,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94427767,rs11626742,A,G,-0.0459,2.647e-08,0.00825,35371,0.48781,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94550696,rs2402477,A,G,-0.082,1.045e-09,0.013437,35372,0.10438,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94555040,rs11622671,C,G,0.154,2.443e-12,0.021979,35372,0.03644,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94604633,rs77504931,C,A,-0.2153,1.92e-26,0.020233,35372,0.04037,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94630159,rs61976126,C,A,-0.3218,1e-200,0.010484,35371,0.18842,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94658230,rs12880775,C,A,0.1136,8.611e-33,0.009525,35372,0.24235,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94685916,rs742892,T,C,0.0968,3.13e-09,0.016339,35370,0.06768,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94718046,rs78185953,T,G,-0.2667,1.347e-33,0.022078,35371,0.03525,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94762890,rs61032608,T,G,0.0691,2.883e-13,0.009466,35372,0.25313,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94795946,rs1341000,A,G,-0.2326,1.033e-20,0.024923,35364,0.02775,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex
+14,94826914,rs60485181,T,C,-0.0618,3.641e-09,0.010475,35365,0.18821,SERPINA3_alpha_1_antichymotrypsin_complex,TRUE,reported,SERPINA3_alpha_1_antichymotrypsin_complex

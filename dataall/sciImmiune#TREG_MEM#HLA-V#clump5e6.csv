@@ -1,0 +1,6 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",29502568,"rs7739905","G","A",1.93435696615e-06,1.46927425474,0.30866042626581,89,"TREG_MEM#HLA-V",TRUE,"reported","8ZUohN",NA
+"6",29834299,"rs17185784","T","G",1.47767527811e-16,1.44144559125,0.174545172707038,89,"TREG_MEM#HLA-V",TRUE,"reported","8ZUohN",NA
+"6",29911510,"rs41553212","A","T",5.32583417877e-08,1.37341577612,0.252462685126158,89,"TREG_MEM#HLA-V",TRUE,"reported","8ZUohN",NA
+"6",29923470,"rs9260641","C","A",2.25964050316e-19,1.32449157795,0.147167689315863,89,"TREG_MEM#HLA-V",TRUE,"reported","8ZUohN",NA
+"6",30065575,"rs1264702","T","C",5.86553244239e-11,1.01348702567,0.154798793061375,89,"TREG_MEM#HLA-V",TRUE,"reported","8ZUohN",NA

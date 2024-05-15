@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,46095021,A,G,0.182293,0.125198,0.0272407,4.30685e-06,rs72808733,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+3,516833,T,C,0.0125765,-0.433803,0.0938604,3.80449e-06,rs6791461,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+5,28653397,C,T,0.115499,-0.159723,0.0331411,1.4393e-06,rs12659954,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+6,55149050,G,A,0.811045,0.130807,0.0266699,9.35777e-07,rs9370390,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+8,59117439,C,T,0.036891,-0.255171,0.0557388,4.69494e-06,rs146216027,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+10,44705133,T,C,0.145374,0.136722,0.0299415,4.96368e-06,rs12771096,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp
+15,46404456,A,G,0.556967,-0.103604,0.021763,1.93065e-06,rs8032949,4429,Chiro-inositol levels,TRUE,reported,LQ4Aqp

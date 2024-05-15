@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,96326805,rs373966865,CAA,CA,-0.0694,4.727e-13,0.009595,35336,0.24016,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,96569379,rs145177586,C,T,0.2921,2.921e-09,0.049208,35345,0.00685,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,96739767,rs35535832,TATAT,T,-0.2862,1.453e-20,0.030786,35345,0.01863,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,96897680,rs199739757,T,G,-0.2865,2.886e-10,0.045442,35345,0.00801,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,96925765,rs113451392,A,G,-0.3095,1.126e-12,0.043505,35345,0.00911,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97057631,rs62558852,A,G,0.1079,5.422e-09,0.018496,35345,0.04976,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97125187,rs117712481,T,C,0.3187,2.418e-31,0.027367,35345,0.0215,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97155495,rs113345400,T,C,0.3526,1.712e-31,0.030201,35346,0.01784,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97218116,rs28825490,A,C,0.1395,2.285e-50,0.009347,35341,0.39761,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97387544,rs10981890,G,A,-0.1635,1.568e-90,0.008103,35346,0.49398,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V
+9,97988712,rs62575563,A,G,0.1485,2.398e-09,0.024882,35345,0.02688,CTSV_Cathepsin_V,TRUE,reported,CTSV_Cathepsin_V

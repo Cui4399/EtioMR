@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,41605173,rs145432072,A,G,0.0907,2.713e-10,0.014364,35355,0.09092,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,41625499,rs72760394,C,T,-0.1951,5.538e-26,0.018507,35355,0.05284,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,41720663,rs147121623,TTTTTTTTTTTCA,TTTTTTTTTTCA,-0.1718,1.824e-12,0.024378,35355,0.0296,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,41836821,rs145528689,C,T,0.1576,3.499e-08,0.02858,35355,0.02109,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,41893024,rs138577219,G,A,-0.177,7.768e-14,0.023681,35355,0.03089,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,42466633,rs138544551,G,A,0.1374,3.972e-12,0.019803,35358,0.04471,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,42634119,rs4610468,C,T,-0.2092,2.363e-102,0.009739,35357,0.22985,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,42884640,rs62372093,C,T,-0.134,1.75e-18,0.015275,35358,0.07932,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,43122758,rs140651910,T,C,-0.2221,2.989e-09,0.03744,35358,0.01217,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor
+5,43160004,rs369013107,G,A,0.11,6.966e-14,0.014689,35361,0.08591,GHR_Growth_hormone_receptor,TRUE,reported,GHR_Growth_hormone_receptor

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",109095137,"rs3741782","A","G",8.52155638353e-07,-0.73415975753,0.149127704234239,89,"TREG_MEM#CORO1C",TRUE,"reported","mOVDes",NA

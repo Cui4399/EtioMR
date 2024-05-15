@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,81748600,rs2214827,A,G,0.126,2.409e-36,0.010008,35348,0.20707,HGF_HGF,TRUE,reported,HGF_HGF

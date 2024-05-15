@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,63105389,0.153936,0.0330242,3.14217e-06,7738,ebi-a-GCST90027479,rs61775945,T,C,0.070895,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+2,2881088,0.132019,0.0280991,2.62301e-06,7738,ebi-a-GCST90027479,rs62104460,T,C,0.100914,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+5,73405859,-0.0767839,0.0165063,3.29049e-06,7738,ebi-a-GCST90027479,rs169651,A,G,0.438577,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+5,73687858,-0.0911261,0.0195983,3.32437e-06,7738,ebi-a-GCST90027479,rs211508,G,C,0.228632,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+11,25038279,-0.0782205,0.0164145,1.88543e-06,7738,ebi-a-GCST90027479,rs1596848,A,G,0.455036,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+11,93373509,0.0777406,0.0166061,2.84839e-06,7738,ebi-a-GCST90027479,rs4619111,T,C,0.410206,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+20,40986511,-0.08765,0.0189889,3.91462e-06,7738,ebi-a-GCST90027479,rs4810354,A,G,0.727368,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+21,35371782,0.0831726,0.0178355,3.11143e-06,7738,ebi-a-GCST90027479,rs2096694,T,C,0.297591,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd
+22,46871094,-0.0864109,0.0187812,4.20591e-06,7738,ebi-a-GCST90027479,rs713716,A,G,0.251488,HEMESYN2.PWY..heme.biosynthesis.II..anaerobic.,TRUE,reported,igd

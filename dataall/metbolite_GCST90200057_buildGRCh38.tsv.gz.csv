@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27402794,G,A,0.433089,0.0941768,0.015211,5.9642e-10,rs1260338,8222,1-(1-enyl-palmitoyl)-2-oleoyl-gpc (p-16:0/18:1) levels,TRUE,reported,B7kmqc
+11,61790331,C,T,0.345934,-0.119552,0.0157297,2.95157e-14,rs102275,8222,1-(1-enyl-palmitoyl)-2-oleoyl-gpc (p-16:0/18:1) levels,TRUE,reported,B7kmqc
+14,67509105,C,A,0.476164,-0.0972617,0.0150348,9.85995e-11,rs1077989,8222,1-(1-enyl-palmitoyl)-2-oleoyl-gpc (p-16:0/18:1) levels,TRUE,reported,B7kmqc
+16,56965416,T,C,0.431411,0.109624,0.0151925,5.36851e-13,rs11508026,8222,1-(1-enyl-palmitoyl)-2-oleoyl-gpc (p-16:0/18:1) levels,TRUE,reported,B7kmqc

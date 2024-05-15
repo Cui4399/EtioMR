@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,26916437,C,T,0.378265,0.0823826,0.0160757,2.9808e-07,rs4665924,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+2,158429304,C,T,0.0245153,0.240407,0.0496939,1.31316e-06,rs75341682,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+2,235161263,T,C,0.322229,0.0807149,0.0166249,1.2035e-06,rs67524001,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+3,95172463,G,C,0.453916,0.0722496,0.0154464,2.90492e-06,rs4132577,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+3,112129254,A,G,0.0203413,-0.255296,0.0551812,3.71899e-06,rs114328071,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+4,168840554,T,C,0.154206,-0.0997855,0.0218101,4.75762e-06,rs7657217,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+5,111209093,A,C,0.0787152,0.133879,0.0289552,3.7703e-06,rs76965804,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+5,174792086,A,T,0.474337,0.079635,0.0160282,6.74976e-07,rs6887037,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+6,1775629,A,G,0.294125,0.0804135,0.0171178,2.63174e-06,rs722585,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+6,101211446,A,G,0.109118,0.122538,0.0249828,9.34803e-07,rs9373605,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+8,124138990,T,C,0.0274691,0.213359,0.0466437,4.77961e-06,rs76072284,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+9,18390839,C,T,0.155428,-0.0972767,0.0211281,4.14177e-06,rs72686880,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+20,38951012,C,A,0.0198014,-0.294998,0.0556199,1.13399e-07,rs117596898,8110,Nicotinamide levels,TRUE,reported,3Rajw3
+20,41396613,G,T,0.0445887,0.171361,0.0373122,4.37715e-06,rs56234300,8110,Nicotinamide levels,TRUE,reported,3Rajw3

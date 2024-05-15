@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,120658018,G,A,0.0496426,0.20343,0.0371444,4.33232e-08,rs142852294,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb
+11,61820833,G,A,0.334736,0.499809,0.016118,1e-200,rs174564,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb
+11,116778201,C,G,0.869537,-0.133453,0.0237338,1.87753e-08,rs964184,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb
+16,15056648,A,C,0.290469,-0.103186,0.0175973,4.52577e-09,rs12928099,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb
+19,19255823,T,C,0.0623349,0.18598,0.0334327,2.65447e-08,rs72999033,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb
+19,44909976,T,G,0.0840784,-0.161056,0.0287772,2.18538e-08,rs1065853,7620,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,MZSSWb

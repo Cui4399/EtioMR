@@ -1,0 +1,7 @@
+"pos.exposure","chr.exposure","pval.exposure","se.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+81552117,"1",1.22287e-09,0.000794048,0.00482573,337159,"ukb-a-137","rs142787099","T","G",0.00154508,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"
+102409178,"7",3.59923e-08,0.000215193,0.00118563,337159,"ukb-a-137","rs117785145","T","G",0.0188909,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"
+75277775,"8",8.05749e-09,0.000105819,0.000610298,337159,"ukb-a-137","rs72665430","T","G",0.0874157,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"
+26424083,"16",1.23336e-08,0.000355095,0.00202233,337159,"ukb-a-137","rs72786047","G","A",0.00803976,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"
+2643688,"18",4.31618e-08,0.00030427,-0.00166665,337159,"ukb-a-137","rs639995","G","A",0.990694,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"
+39814613,"22",4.69191e-08,0.000129582,0.000707871,337159,"ukb-a-137","rs35286491","A","C",0.0541342,"Treatment/medication code: morphine || id:ukb-a-137",TRUE,"reported","igd"

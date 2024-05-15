@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.310591,0.108121,0.0158522,9.06799e-12,rs1047891,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4
+4,47543111,G,A,0.337807,0.0880191,0.0155233,1.4269e-08,rs4391005,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4
+4,48035909,G,A,0.211591,0.306432,0.0175248,1.84567e-68,rs13116684,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4
+9,35752255,A,G,0.425868,0.133655,0.0148223,1.93048e-19,rs1570249,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4
+11,129852658,T,C,0.179955,0.189717,0.0188637,8.53375e-24,rs558813,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4
+12,115089698,G,A,0.21346,0.100727,0.0180084,2.22752e-08,rs12811045,8012,Glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) levels,TRUE,reported,MZ2UF4

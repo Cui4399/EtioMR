@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,35965868,C,A,0.145689,0.131462,0.0218825,1.88253e-09,rs3756669,8234,Isoursodeoxycholate levels,TRUE,reported,8Tiumm

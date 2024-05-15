@@ -1,0 +1,8 @@
+samplesize.exposure,se.exposure,beta.exposure,pos.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1634,0.03857,-0.261,161479745,1,1.83781e-11,ebi-a-GCST90001949,rs1801274,G,A,0.3299,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.03992,-0.3832,51574038,19,2.9067e-21,ebi-a-GCST90001949,rs7351079,G,A,0.2708,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.03559,0.2978,51588018,19,1.23908e-16,ebi-a-GCST90001949,rs62114147,T,C,0.5511,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.03392,-1.119,51727962,19,2.39883e-183,ebi-a-GCST90001949,rs3865444,A,C,0.2121,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.0359,-0.2061,52254351,19,1.126e-08,ebi-a-GCST90001949,rs4801891,C,T,0.563,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.105,-0.6094,48582916,19,7.88497e-09,ebi-a-GCST90001949,rs73051934,G,A,0.0278,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd
+1634,0.06357,-0.4079,52097261,19,1.80901e-10,ebi-a-GCST90001949,rs58301181,G,C,0.0872,CD33 on CD33dim HLA DR+ CD11b- || id:ebi-a-GCST90001949,TRUE,reported,igd

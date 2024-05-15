@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151926273,C,G,0.625607,-0.102003,0.0156807,7.76739e-11,rs2999541,8259,"Cis-3,4-methyleneheptanoylcarnitine levels",TRUE,reported,tQbQ50
+6,160093251,G,A,0.0752636,-0.257157,0.0284005,1.36992e-19,rs80254170,8259,"Cis-3,4-methyleneheptanoylcarnitine levels",TRUE,reported,tQbQ50
+6,160143444,G,C,0.174671,-0.245472,0.0198946,5.61071e-35,rs662138,8259,"Cis-3,4-methyleneheptanoylcarnitine levels",TRUE,reported,tQbQ50
+10,59709332,T,C,0.77086,0.151311,0.0184204,2.13395e-16,rs1171615,8259,"Cis-3,4-methyleneheptanoylcarnitine levels",TRUE,reported,tQbQ50

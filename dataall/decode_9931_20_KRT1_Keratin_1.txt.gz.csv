@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,52519125,rs641615,T,G,-0.0798,1.944e-17,0.009391,35372,0.2322,KRT1_Keratin_1,TRUE,reported,KRT1_Keratin_1
+12,52885740,rs147540582,G,A,0.154,3.229e-18,0.017695,35372,0.05402,KRT1_Keratin_1,TRUE,reported,KRT1_Keratin_1
+12,52974188,rs12831815,AAAAAT,CAAAAT,0.0665,2.639e-08,0.011952,35373,0.1277,KRT1_Keratin_1,TRUE,reported,KRT1_Keratin_1

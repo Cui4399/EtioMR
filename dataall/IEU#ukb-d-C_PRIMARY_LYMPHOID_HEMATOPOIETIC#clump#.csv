@@ -1,0 +1,4 @@
+"pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.38758e-08,"2",361194,111923630,0.0011936,0.000216223,"ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC","rs6753785","G","T",0.560023,"Cancer of primary lymphoid hematopoietic || id:ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC",TRUE,"reported","igd"
+1.51712e-08,"3",361194,27769551,0.00122171,0.000215859,"ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC","rs34269949","C","A",0.453288,"Cancer of primary lymphoid hematopoietic || id:ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC",TRUE,"reported","igd"
+3.34989e-10,"6",361194,32595278,0.00192514,0.000306462,"ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC","rs9271860","T","C",0.144963,"Cancer of primary lymphoid hematopoietic || id:ukb-d-C_PRIMARY_LYMPHOID_HEMATOPOIETIC",TRUE,"reported","igd"

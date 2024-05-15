@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132254564,T,C,0.553085,-0.0863273,0.015777,4.45657e-08,rs7727038,7787,(R)-3-hydroxybutyrylcarnitine levels,TRUE,reported,JTJNpb
+10,59707424,T,G,0.771201,0.118083,0.0190416,5.59871e-10,rs1171617,7787,(R)-3-hydroxybutyrylcarnitine levels,TRUE,reported,JTJNpb

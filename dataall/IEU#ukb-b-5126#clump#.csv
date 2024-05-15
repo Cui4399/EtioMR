@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000126169,0.000689493,22103183,463010,4.60002e-08,"9","ukb-b-5126","rs1537372","T","G",0.435264,"Diagnoses - main ICD10: I21.1 Acute transmural myocardial infarction of inferior wall || id:ukb-b-5126",TRUE,"reported","igd"
+0.000124705,-0.00072618,111932800,463010,5.80003e-09,"12","ukb-b-5126","rs7137828","T","C",0.516283,"Diagnoses - main ICD10: I21.1 Acute transmural myocardial infarction of inferior wall || id:ukb-b-5126",TRUE,"reported","igd"

@@ -1,0 +1,5 @@
+"pval.exposure","beta.exposure","pos.exposure","chr.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.99986e-23,0.00165825,37766315,"3",0.000166236,463010,"ukb-b-17085","rs2010452","G","A",0.319703,"Operative procedures - secondary OPCS: Z48.1 Skin of scalp || id:ukb-b-17085",TRUE,"reported","igd"
+2.09991e-40,0.00266121,38669113,"3",0.000199979,463010,"ukb-b-17085","rs112041752","T","C",0.184911,"Operative procedures - secondary OPCS: Z48.1 Skin of scalp || id:ukb-b-17085",TRUE,"reported","igd"
+6.4003e-21,0.00211315,38861273,"3",0.000225192,463010,"ukb-b-17085","rs3922579","C","A",0.146899,"Operative procedures - secondary OPCS: Z48.1 Skin of scalp || id:ukb-b-17085",TRUE,"reported","igd"
+1.79887e-188,0.00624706,38019924,"3",0.000213342,463010,"ukb-b-17085","rs11717282","C","A",0.156534,"Operative procedures - secondary OPCS: Z48.1 Skin of scalp || id:ukb-b-17085",TRUE,"reported","igd"

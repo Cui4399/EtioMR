@@ -1,0 +1,8 @@
+"se.exposure","pos.exposure","chr.exposure","pval.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000190634,109817590,"1",4.60045e-15,-0.00149391,462933,"ukb-b-6474","rs12740374","T","G",0.221164,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000167553,21263900,"2",1.80011e-13,0.00123332,462933,"ukb-b-6474","rs1367117","A","G",0.335113,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000162656,74910870,"5",4.70002e-08,0.000888199,462933,"ukb-b-6474","rs984976","G","A",0.384419,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000214333,161089307,"6",4.79999e-10,0.0013343,462933,"ukb-b-6474","rs56393506","T","C",0.17131,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000162323,126500031,"8",3.79997e-10,-0.00101673,462933,"ukb-b-6474","rs28601761","G","C",0.418699,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000232637,116648917,"11",1e-22,-0.00228274,462933,"ukb-b-6474","rs964184","C","G",0.866372,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"
+0.000219338,45411941,"19",1.69981e-21,0.00208831,462933,"ukb-b-6474","rs429358","C","T",0.154145,"Treatment/medication code: ezetimibe || id:ukb-b-6474",TRUE,"reported","igd"

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,230022412,A,G,0.0690326,-0.131113,0.0284202,3.96168e-06,rs143706129,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+3,47628057,T,A,0.643794,-0.0778216,0.0153582,4.03895e-07,rs12497825,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+4,177427940,T,C,0.862347,0.100151,0.0214115,2.90502e-06,rs6552232,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+5,21817138,G,A,0.0570595,-0.146129,0.0316337,3.84826e-06,rs114414442,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+7,89354866,T,G,0.07535,-0.129346,0.0272126,2.00269e-06,rs75198642,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+9,111702453,T,C,0.405036,0.0680192,0.0147002,3.70815e-06,rs10981022,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+10,76937548,G,C,0.83872,-0.0959394,0.0206587,3.41697e-06,rs7070122,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+10,100315722,A,G,0.176107,-0.128142,0.0188908,1.17436e-11,rs603424,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+12,30885715,A,G,0.0420044,0.17269,0.0362734,1.92844e-06,rs11051139,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+12,70769855,A,G,0.0650219,0.142939,0.0294349,1.19705e-06,rs180670669,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+15,66236885,T,C,0.365073,-0.0711447,0.0149695,2.00785e-06,rs4776767,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF
+19,56248382,A,G,0.0624618,-0.140266,0.0297643,2.44615e-06,rs113915691,8290,Palmitoleate (16:1n7) levels,TRUE,reported,C4DOqF

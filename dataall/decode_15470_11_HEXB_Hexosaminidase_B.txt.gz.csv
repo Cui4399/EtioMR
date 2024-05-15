@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,73640292,rs750019,T,A,0.0563,7.535e-10,0.009148,35355,0.27248,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74591498,rs113922355,TGAGTTAAA,TGAGTTA,-0.325,5.951e-13,0.045129,35355,0.00806,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74648593,rs141867747,T,G,-0.1551,4.418e-09,0.026433,35348,0.0245,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74663807,rs2454847,T,C,0.0564,2.874e-09,0.009497,35344,0.23796,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74734513,rs13164140,A,G,0.2719,7.905e-197,0.009084,35358,0.27062,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74851856,rs181021208,G,C,-0.4603,1.151e-39,0.034925,35358,0.01396,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,74923310,rs74556448,A,C,-0.0808,1.122e-11,0.0119,35353,0.13511,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,75449403,rs10070207,T,G,-0.093,9.791e-18,0.010844,35364,0.16895,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B
+5,75627368,rs116105075,C,T,0.1222,5.136e-09,0.020915,35364,0.03844,HEXB_Hexosaminidase_B,TRUE,reported,HEXB_Hexosaminidase_B

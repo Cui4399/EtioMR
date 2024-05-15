@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,23819777,rs5760055,TGCGCAG,GGCGCAG,-0.0675,7.624e-12,0.009861,35368,0.21564,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase
+22,23850213,rs73158763,A,C,0.3479,6.929e-18,0.040378,35366,0.0109,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase
+22,24004423,rs28674083,T,C,-0.0661,4.468e-11,0.010034,35362,0.3856,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase
+22,24005171,rs41277305,C,A,0.3432,2.059e-52,0.022527,35369,0.03485,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase
+22,24455088,rs56057548,C,G,0.2398,4.249e-12,0.03461,35369,0.01525,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase
+22,24681110,rs374632603,TGACTTTTTTTC,TGACTTTTTTTT,0.3341,1.465e-10,0.05213,35367,0.00559,DDT_D_dopachrome_decarboxylase,TRUE,reported,DDT_D_dopachrome_decarboxylase

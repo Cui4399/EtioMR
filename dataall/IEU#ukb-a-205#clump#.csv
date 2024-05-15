@@ -1,0 +1,5 @@
+"se.exposure","chr.exposure","beta.exposure","pval.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000747427,"5",-0.00470752,3.01342e-10,1324121,292053,"ukb-a-205","rs414965","A","G",0.412773,"Illnesses of father: Lung cancer || id:ukb-a-205",TRUE,"reported","igd"
+0.000866801,"6",0.00580621,2.11057e-11,32644553,292053,"ukb-a-205","rs3134986","T","C",0.287609,"Illnesses of father: Lung cancer || id:ukb-a-205",TRUE,"reported","igd"
+0.00384393,"13",0.0216505,1.77893e-08,32968810,292053,"ukb-a-205","rs11571818","C","T",0.00935056,"Illnesses of father: Lung cancer || id:ukb-a-205",TRUE,"reported","igd"
+0.000781655,"15",0.0061414,3.95003e-15,78851615,292053,"ukb-a-205","rs2036527","A","G",0.333641,"Illnesses of father: Lung cancer || id:ukb-a-205",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27375230,C,T,0.592395,-0.189749,0.0154338,9.71377e-35,rs4665972,8162,Aspartate to mannose ratio,TRUE,reported,g4TB9j
+3,56815721,C,T,0.607679,0.13257,0.0155541,1.55286e-17,rs1354034,8162,Aspartate to mannose ratio,TRUE,reported,g4TB9j
+8,144515746,T,C,0.471013,0.0870515,0.0152662,1.18231e-08,rs4251689,8162,Aspartate to mannose ratio,TRUE,reported,g4TB9j

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,68387100,A,G,0.0197154,-0.286214,0.0611534,2.86509e-06,rs146174820,6877,Glycodeoxycholate levels,TRUE,reported,TFTj26
+7,22789845,A,G,0.206154,0.0953227,0.0205955,3.68649e-06,rs62448268,6877,Glycodeoxycholate levels,TRUE,reported,TFTj26
+8,58264658,C,A,0.207403,-0.10889,0.0207547,1.55001e-07,rs11781385,6877,Glycodeoxycholate levels,TRUE,reported,TFTj26
+11,75231821,T,C,0.0157956,0.330046,0.0678883,1.16438e-06,rs74927400,6877,Glycodeoxycholate levels,TRUE,reported,TFTj26
+15,27057832,G,A,0.731422,0.101229,0.019175,1.29754e-07,rs7403557,6877,Glycodeoxycholate levels,TRUE,reported,TFTj26

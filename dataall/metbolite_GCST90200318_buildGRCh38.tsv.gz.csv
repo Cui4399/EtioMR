@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,136181035,T,C,0.0115312,0.368848,0.0793513,3.34696e-06,rs144781051,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+6,31054780,A,G,0.117977,0.122663,0.0263632,3.27444e-06,rs2523853,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+6,165508129,C,T,0.0521605,-0.189833,0.0394181,1.46551e-06,rs76821212,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+7,8697688,G,A,0.0390454,0.204406,0.0434594,2.55892e-06,rs7782383,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+7,154564876,G,A,0.114498,0.126324,0.026569,1.98861e-06,rs10952495,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+8,13604889,A,G,0.529966,-0.0901847,0.0171053,1.34712e-07,rs9650348,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+9,117116083,A,G,0.479521,-0.0799417,0.0171438,3.11623e-06,rs11789158,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+10,21593335,T,C,0.022575,0.292876,0.0570764,2.87761e-07,rs117830458,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+12,40030190,G,T,0.701738,0.0898729,0.0185831,1.32295e-06,rs556141,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+12,71652961,A,C,0.747082,-0.092004,0.019587,2.63745e-06,rs1149019,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+12,81816031,T,C,0.0126619,0.36305,0.0752997,1.42551e-06,rs143339259,6883,Acetoacetate levels,TRUE,reported,vyP7ZM
+13,62329330,A,G,0.448289,0.0830652,0.0173238,1.62794e-06,rs440622,6883,Acetoacetate levels,TRUE,reported,vyP7ZM

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,19745936,rs4646787,G,A,0.1267,6.817e-53,0.008277,35353,0.33581,ALDH3A1_Aldehyde_dehydrogenase__class_3,TRUE,reported,ALDH3A1_Aldehyde_dehydrogenase__class_3

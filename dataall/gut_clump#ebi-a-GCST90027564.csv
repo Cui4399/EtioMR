@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+10,44201902,-0.156409,0.0341626,4.68598e-06,7738,ebi-a-GCST90027564,rs2484671,C,G,0.0962477,PWY.5941..glycogen.degradation.II..eukaryotic.,TRUE,reported,igd
+10,73729752,0.0924275,0.019703,2.71813e-06,7738,ebi-a-GCST90027564,rs4148913,G,A,0.443434,PWY.5941..glycogen.degradation.II..eukaryotic.,TRUE,reported,igd
+11,126234820,0.125408,0.0268035,2.88569e-06,7738,ebi-a-GCST90027564,rs78689694,C,G,0.149301,PWY.5941..glycogen.degradation.II..eukaryotic.,TRUE,reported,igd
+17,33879260,-0.0920684,0.0199262,3.82878e-06,7738,ebi-a-GCST90027564,rs321605,T,C,0.607674,PWY.5941..glycogen.degradation.II..eukaryotic.,TRUE,reported,igd
+18,44123969,0.0896761,0.0196441,4.99379e-06,7738,ebi-a-GCST90027564,rs12606812,T,G,0.574679,PWY.5941..glycogen.degradation.II..eukaryotic.,TRUE,reported,igd

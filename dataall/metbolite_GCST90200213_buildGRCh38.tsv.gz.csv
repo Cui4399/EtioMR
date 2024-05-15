@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233675462,G,C,0.0235948,0.258006,0.0523352,8.22802e-07,rs79913681,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+7,16614709,C,T,0.115228,0.126316,0.0253445,6.23009e-07,rs10272016,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+8,573804,A,G,0.0228952,-0.250728,0.053805,3.16291e-06,rs147346510,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+8,124588403,C,T,0.469376,0.0751749,0.0159144,2.31577e-06,rs4007923,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+9,90620220,C,G,0.75866,0.0868728,0.0186148,3.0582e-06,rs690236,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+9,91437203,G,A,0.95674,-0.197554,0.0388857,3.76681e-07,rs809568,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+11,96009627,A,G,0.0186572,0.270007,0.0589634,4.66686e-06,rs117133671,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+12,18992696,A,G,0.0116294,0.349446,0.0744747,2.70349e-06,rs16914924,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+12,26249811,T,G,0.0915567,-0.127868,0.0278903,4.54677e-06,rs55713940,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+15,59029002,T,A,0.0171581,0.2997,0.0608948,8.58387e-07,rs144459354,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94
+20,15428462,G,A,0.201103,0.0950163,0.0197507,1.50351e-06,rs447155,7673,2-naphthol sulfate levels,TRUE,reported,GyMo94

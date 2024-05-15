@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,15849784,rs139649883,A,G,0.1279,6.353e-09,0.022024,35361,0.03548,FGFBP1_FGFP1,TRUE,reported,FGFBP1_FGFP1
+4,15934644,rs2532088,A,C,-0.179,5.454e-16,0.022096,35362,0.03517,FGFBP1_FGFP1,TRUE,reported,FGFBP1_FGFP1
+4,15964997,rs2314019,A,G,-0.121,7.523e-19,0.013646,35363,0.10147,FGFBP1_FGFP1,TRUE,reported,FGFBP1_FGFP1

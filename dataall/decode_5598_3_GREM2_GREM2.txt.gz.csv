@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,240794633,rs116135446,T,C,0.1458,2.443e-11,0.021837,35362,0.03675,GREM2_GREM2,TRUE,reported,GREM2_GREM2

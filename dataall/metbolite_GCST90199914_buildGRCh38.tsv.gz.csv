@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62568692,C,A,0.663946,0.111763,0.0163847,9.0268e-12,rs7555577,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+2,20998163,C,A,0.790807,0.104998,0.0191992,4.5281e-08,rs4665710,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+2,27375230,C,T,0.589764,-0.0949113,0.0159683,2.78633e-09,rs4665972,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+8,19966981,C,T,0.290375,-0.0959609,0.0171027,2.01303e-08,rs13702,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+11,116778201,C,G,0.86883,-0.266594,0.0229003,2.53568e-31,rs964184,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+19,8364439,A,G,0.0215234,-0.329743,0.0530687,5.18129e-10,rs116843064,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq
+19,44912921,T,G,0.224256,0.136317,0.0186543,2.72077e-13,rs483082,8069,Oleoyl-linoleoyl-glycerol (18:1/18:2) [2] levels,TRUE,reported,fUzWxq

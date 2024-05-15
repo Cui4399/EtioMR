@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22225320,C,T,0.518073,-0.0745831,0.0155538,1.62533e-06,rs2744738,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+3,8695451,G,A,0.0637596,-0.154412,0.0317836,1.18443e-06,rs60110084,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+6,34517343,G,A,0.975443,-0.232779,0.049887,3.06918e-06,rs2395568,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+8,94751263,T,C,0.236226,-0.0874203,0.0184074,2.04221e-06,rs13279344,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+10,60949914,A,C,0.0259812,0.24069,0.0481323,5.71567e-07,rs117903959,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+11,75576830,A,C,0.279799,0.0838893,0.0177101,2.1711e-06,rs676206,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+11,120368901,G,A,0.0326685,-0.197466,0.0431458,4.7231e-06,rs12786734,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+12,86315457,T,C,0.0602328,-0.149827,0.0322235,3.32564e-06,rs181304197,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+13,69314269,T,C,0.0331004,0.208769,0.0433432,1.45995e-06,rs112368051,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE
+18,74407627,C,T,0.017973,-0.270504,0.0579583,3.05306e-06,rs118103311,8193,Adenosine 5'-monophosphate (AMP) to tyrosine ratio,TRUE,reported,KpTkEE

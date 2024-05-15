@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,73038650,rs4892071,C,T,0.0544,1.774e-08,0.009658,35375,0.21349,NETO1_NETO1,TRUE,reported,NETO1_NETO1
+18,73564150,rs7242889,G,C,0.0673,5.629e-11,0.01027,35375,0.18006,NETO1_NETO1,TRUE,reported,NETO1_NETO1

@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","se.exposure","pval.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00145345,396321,0.000214501,1.20005e-11,463010,"6","ukb-b-11231","rs12203592","T","C",0.219631,"Diagnoses - secondary ICD10: Z85.8 Personal history of malignant neoplasms of other organs and systems || id:ukb-b-11231",TRUE,"reported","igd"
+0.00276901,89846677,0.000299844,2.60016e-20,463010,"16","ukb-b-11231","rs75570604","C","G",0.100432,"Diagnoses - secondary ICD10: Z85.8 Personal history of malignant neoplasms of other organs and systems || id:ukb-b-11231",TRUE,"reported","igd"

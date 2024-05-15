@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,32634149,rs17693106,G,A,0.0522,1.289e-10,0.00812,35360,0.40227,ANKRD27_ANR27,TRUE,reported,ANKRD27_ANR27

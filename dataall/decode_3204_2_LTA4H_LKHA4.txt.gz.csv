@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,96048159,rs34665243,TC,C,0.0493,1.068e-09,0.008083,35358,0.49097,LTA4H_LKHA4,TRUE,reported,LTA4H_LKHA4

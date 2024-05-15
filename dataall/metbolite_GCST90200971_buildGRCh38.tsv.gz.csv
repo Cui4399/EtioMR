@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,25466138,C,T,0.16595,0.106942,0.0194162,3.63143e-08,rs10227729,8298,Leucine to phosphate ratio,TRUE,reported,rvAM7b

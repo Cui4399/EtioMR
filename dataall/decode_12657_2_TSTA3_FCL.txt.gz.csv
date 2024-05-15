@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,143328582,rs192946539,A,G,-0.1912,4.566e-14,0.025345,35097,0.02351,TSTA3_FCL,TRUE,reported,TSTA3_FCL

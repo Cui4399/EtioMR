@@ -1,0 +1,5 @@
+"pos.exposure","se.exposure","beta.exposure","samplesize.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+49453834,0.000581977,0.00406251,461369,2.90001e-12,"3","ukb-b-1553","rs6997","T","C",0.306307,"Leisure/social activities: Adult education class || id:ukb-b-1553",TRUE,"reported","igd"
+26287256,0.000531723,0.00299075,461369,1.89998e-08,"6","ukb-b-1553","rs1125000","T","C",0.510432,"Leisure/social activities: Adult education class || id:ukb-b-1553",TRUE,"reported","igd"
+9144595,0.000709094,-0.00391316,461369,3.40001e-08,"16","ukb-b-1553","rs9930477","G","C",0.17837,"Leisure/social activities: Adult education class || id:ukb-b-1553",TRUE,"reported","igd"
+30832603,0.000771207,-0.00444984,461369,7.90005e-09,"18","ukb-b-1553","rs72951028","T","C",0.140939,"Leisure/social activities: Adult education class || id:ukb-b-1553",TRUE,"reported","igd"

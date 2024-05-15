@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,28814236,T,C,0.28248,-0.078347,0.0167453,2.88658e-06,rs2236860,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B
+1,57204361,C,T,0.926653,0.132492,0.0289495,4.72491e-06,rs197612,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B
+3,141314639,G,A,0.347511,-0.073656,0.0160084,4.20273e-06,rs9871963,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B
+5,167918165,C,A,0.0135135,-0.310995,0.0650243,1.72907e-06,rs58144271,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B
+9,130921887,C,T,0.569064,-0.0713055,0.0149885,1.96166e-06,rs7862027,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B
+13,21509194,C,T,0.0877686,-0.130597,0.0266619,9.66922e-07,rs11616297,8265,"Branched-chain, straight-chain, or cyclopropyl 10:1 fatty acid (1) levels",TRUE,reported,1RHS6B

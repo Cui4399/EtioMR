@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,33744394,T,C,0.0102702,-0.35764,0.076823,3.23383e-06,rs114734560,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+1,78644960,T,G,0.0257563,-0.223214,0.0486608,4.4935e-06,rs12138831,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+2,47207061,C,G,0.106939,-0.116576,0.0252142,3.77474e-06,rs72879030,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+2,111041081,A,G,0.194184,0.0925549,0.0194528,1.95589e-06,rs752834,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+2,126725507,T,A,0.691427,0.0821837,0.0169317,1.21096e-06,rs10181994,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+4,66474932,G,A,0.159583,-0.0956574,0.0209224,4.83094e-06,rs10014780,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+4,113333758,A,T,0.0592049,0.156459,0.0328215,1.87007e-06,rs75256283,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+5,102634283,C,T,0.265217,-0.0823134,0.017447,2.38263e-06,rs1857803,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+6,53134058,G,T,0.738791,0.0801615,0.017558,4.98237e-06,rs2518573,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+6,139030342,G,A,0.144171,-0.10469,0.021704,1.41037e-06,rs7746774,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+7,110247043,A,G,0.309524,-0.0821865,0.0166991,8.58358e-07,rs13234372,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+8,69901423,A,G,0.205669,0.0880673,0.0190393,3.73616e-06,rs17670800,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+9,2512056,T,C,0.745054,-0.0937684,0.0178574,1.51321e-07,rs10966648,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+9,131750885,G,T,0.0669778,0.14967,0.0307172,1.1018e-06,rs12553086,8289,3-methylhistidine levels,TRUE,reported,1QYw0y
+19,40182613,T,C,0.0259304,0.229043,0.0483745,2.19298e-06,rs138750865,8289,3-methylhistidine levels,TRUE,reported,1QYw0y

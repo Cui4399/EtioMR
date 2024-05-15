@@ -1,0 +1,6 @@
+"pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","se.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.39967e-10,"2",332263,50932465,0.00145427,0.00907365,"ukb-a-239","rs2352075","C","T",0.117248,"Loneliness  isolation || id:ukb-a-239",TRUE,"reported","igd"
+1.00531e-08,"5",332263,152248567,0.000968904,0.0055518,"ukb-a-239","rs4958586","A","G",0.632318,"Loneliness  isolation || id:ukb-a-239",TRUE,"reported","igd"
+5.34749e-09,"9",332263,96360650,0.000947056,-0.00552715,"ukb-a-239","rs13291079","C","T",0.425433,"Loneliness  isolation || id:ukb-a-239",TRUE,"reported","igd"
+3.24863e-11,"11",332263,47902883,0.000982702,-0.00652028,"ukb-a-239","rs12364432","A","G",0.346541,"Loneliness  isolation || id:ukb-a-239",TRUE,"reported","igd"
+3.0807e-09,"18",332263,53252388,0.00130397,0.00772918,"ukb-a-239","rs599550","A","G",0.847904,"Loneliness  isolation || id:ukb-a-239",TRUE,"reported","igd"

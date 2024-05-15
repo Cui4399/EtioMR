@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,126081195,rs61918988,T,C,0.0556,3.649e-08,0.010096,35369,0.20799,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap
+11,126190054,rs522486,T,C,-0.0935,5.942e-25,0.009063,35375,0.28191,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap
+11,126287999,rs8177398,T,C,0.1724,1.911e-08,0.030677,35375,0.01817,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap
+11,126290931,rs8177399,T,C,-0.5654,5.322e-72,0.031509,35376,0.01581,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap
+11,126296215,rs34656952,CTCAA,CTCA,-0.0652,3.049e-15,0.008265,35375,0.48416,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap
+11,126415406,rs7949566,A,G,-0.1252,1.597e-51,0.008291,35370,0.4051,TIRAP_Tirap,TRUE,reported,TIRAP_Tirap

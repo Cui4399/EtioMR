@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,117616115,T,C,0.0324971,0.268306,0.0586398,4.75098e-06,rs112560151,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+2,234191055,C,A,0.0289756,0.306925,0.0620066,7.42615e-07,rs80332390,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+7,119633899,GC,G,0.169523,-0.132651,0.0275861,1.51971e-06,rs72475287,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+8,16856688,C,T,0.588556,-0.0979982,0.0213018,4.2155e-06,rs10503585,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+8,102251037,G,A,0.101525,-0.161676,0.0345935,2.95948e-06,rs76805661,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+9,131949485,T,G,0.0138698,-0.428872,0.0887938,1.36549e-06,rs140760421,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+12,5278207,T,C,0.0191606,-0.353667,0.0754944,2.80398e-06,rs117717775,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+12,43770886,A,G,0.273023,-0.112265,0.0234204,1.63932e-06,rs1461567,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+13,83396878,G,T,0.0186456,0.369367,0.0770465,1.63421e-06,rs117739522,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+20,59778104,G,A,0.764937,0.129348,0.02566,4.63499e-07,rs1182498,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN
+22,50525724,C,T,0.773217,0.11489,0.0249437,4.10492e-06,rs131805,4391,Adenosine 5'-diphosphate (ADP) to 2'-deoxyuridine ratio,TRUE,reported,19poZN

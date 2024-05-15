@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,116778201,C,G,0.868859,-0.167249,0.0221469,4.29328e-14,rs964184,8251,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6) levels,TRUE,reported,iYfuTX
+15,58288582,C,T,0.217346,-0.112252,0.0183892,1.03307e-09,rs1560390,8251,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6) levels,TRUE,reported,iYfuTX
+15,58387979,C,T,0.344606,0.297879,0.0155271,4.99756e-82,rs261291,8251,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6) levels,TRUE,reported,iYfuTX
+15,58446224,T,C,0.6967,-0.153015,0.0164519,1.39457e-20,rs12914626,8251,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6) levels,TRUE,reported,iYfuTX
+19,44892457,C,T,0.214216,0.102501,0.0182611,1.9877e-08,rs157581,8251,1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6) levels,TRUE,reported,iYfuTX

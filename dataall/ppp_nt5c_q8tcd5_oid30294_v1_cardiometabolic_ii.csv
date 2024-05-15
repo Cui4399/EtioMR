@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,74596378,rs77064723,G,A,-0.0988325,6.74931969727433e-09,0.0170488,33942,0.051597,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,74648552,rs117925618,T,C,-0.178997,7.06642900425207e-17,0.0214472,33942,0.0314654,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,74910186,rs12952712,T,C,0.0593,2.58946472968164e-10,0.00938061,33942,0.204816,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,74946624,rs78225362,T,C,-0.985087,1e-200,0.0202323,33942,0.0369705,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,75078443,rs4499271,C,G,-0.0869239,2.28402051284046e-27,0.00802059,33942,0.669358,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,75096931,rs61195391,C,T,-0.136517,6.85488226452659e-71,0.00766876,33942,0.390615,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,75438955,rs9897081,T,A,-0.0521115,4.90953092521168e-08,0.00955376,33942,0.809107,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,75542683,rs7502690,C,A,-0.0754784,1.07448411664455e-23,0.00752184,33942,0.490283,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,75591977,rs736522,T,G,0.0614526,1.19041941134796e-14,0.0079632,33942,0.3491,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis
+17,76012979,rs2665994,C,T,-0.146228,7.03234226907655e-33,0.0122435,33942,0.114841,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,TRUE,reported,nt5c_q8tcd5_oid30294_v1_cardiometabolic_ii,chr17,75131965,cis

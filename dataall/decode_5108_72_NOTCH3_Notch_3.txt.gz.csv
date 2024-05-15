@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,15183913,rs10417239,A,G,0.113,6.585e-19,0.012723,35375,0.12757,NOTCH3_Notch_3,TRUE,reported,NOTCH3_Notch_3
+19,15184271,rs151276393,A,C,-0.2483,3.436e-10,0.039553,35375,0.01136,NOTCH3_Notch_3,TRUE,reported,NOTCH3_Notch_3
+19,15356631,rs12981207,A,C,0.0799,6.708e-09,0.01378,35375,0.10289,NOTCH3_Notch_3,TRUE,reported,NOTCH3_Notch_3

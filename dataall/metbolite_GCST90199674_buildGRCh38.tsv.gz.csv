@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,89875384,A,G,0.0181089,0.26564,0.0560876,2.17794e-06,rs79142871,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+1,152024132,T,C,0.596884,0.0760915,0.015638,1.13986e-06,rs1532133,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+1,175877423,T,C,0.0268595,-0.211076,0.04588,4.21265e-06,rs78085499,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+1,230863290,C,T,0.680472,0.0731406,0.0159922,4.79593e-06,rs1202578,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+5,170030685,T,A,0.0192637,-0.262717,0.0544687,1.41226e-06,rs116213385,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+6,156385615,C,T,0.585445,-0.0701093,0.0152337,4.17938e-06,rs1349890,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+14,37739266,AC,A,0.0394963,-0.177444,0.0387556,4.68258e-06,rs200314240,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS
+14,98678172,T,C,0.355787,0.0725937,0.0158887,4.90291e-06,rs989915,8235,3-hydroxymyristate levels,TRUE,reported,G6pxTS

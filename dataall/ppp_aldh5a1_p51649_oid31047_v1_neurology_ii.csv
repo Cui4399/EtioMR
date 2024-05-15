@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+6,24463576,rs9461018,T,C,-0.220293,1.42429516497329e-20,0.0236912,33874,0.0267042,aldh5a1_p51649_oid31047_v1_neurology_ii,TRUE,reported,aldh5a1_p51649_oid31047_v1_neurology_ii,chr6,24494968,cis
+6,24502256,rs2744581,G,A,-0.141489,5.45004389341766e-77,0.00761857,33874,0.518923,aldh5a1_p51649_oid31047_v1_neurology_ii,TRUE,reported,aldh5a1_p51649_oid31047_v1_neurology_ii,chr6,24494968,cis

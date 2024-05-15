@@ -1,0 +1,4 @@
+pval.exposure,pos.exposure,se.exposure,samplesize.exposure,chr.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1.36994e-13,51574038,0.03696,1857,19,-0.2756,ebi-a-GCST90001533,rs7351079,G,A,0.2722,Basophil %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001533,TRUE,reported,igd
+1.14393e-40,51727962,0.03788,1857,19,-0.5183,ebi-a-GCST90001533,rs3865444,A,C,0.2132,Basophil %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001533,TRUE,reported,igd
+3.85398e-08,8786913,0.04602,1857,19,0.2541,ebi-a-GCST90001533,rs4499342,T,C,0.1527,Basophil %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001533,TRUE,reported,igd

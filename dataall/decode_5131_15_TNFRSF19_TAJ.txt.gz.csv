@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,23494129,rs34080087,CA,C,-0.0529,3.803e-11,0.008001,35381,0.47316,TNFRSF19_TAJ,TRUE,reported,TNFRSF19_TAJ
+13,23579770,rs61947047,T,C,0.1045,1.15e-32,0.00878,35380,0.28647,TNFRSF19_TAJ,TRUE,reported,TNFRSF19_TAJ
+13,23903429,rs9510933,G,C,-0.1212,8.685e-13,0.016951,35372,0.05935,TNFRSF19_TAJ,TRUE,reported,TNFRSF19_TAJ

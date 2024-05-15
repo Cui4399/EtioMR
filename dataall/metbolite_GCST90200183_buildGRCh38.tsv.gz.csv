@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73539537,T,C,0.130887,-0.204952,0.0219621,1.03835e-20,rs11689767,8253,N-acetyl-2-aminooctanoate levels,TRUE,reported,Pl6lHB
+2,73655945,A,G,0.224806,0.550866,0.0167852,1e-200,rs13408433,8253,N-acetyl-2-aminooctanoate levels,TRUE,reported,Pl6lHB
+3,15643959,G,T,0.051569,0.212549,0.0337026,2.85213e-10,rs2470528,8253,N-acetyl-2-aminooctanoate levels,TRUE,reported,Pl6lHB
+14,60146689,A,G,0.159306,0.122847,0.0201898,1.16793e-09,rs380342,8253,N-acetyl-2-aminooctanoate levels,TRUE,reported,Pl6lHB
+16,75114533,A,G,0.0105398,-0.416904,0.073333,1.3075e-08,rs144025042,8253,N-acetyl-2-aminooctanoate levels,TRUE,reported,Pl6lHB

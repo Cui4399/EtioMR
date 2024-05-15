@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,19860840,0.0828812,0.0174684,2.08877e-06,7738,ebi-a-GCST90027497,rs10917476,G,C,0.313636,P161.PWY..acetylene.degradation,TRUE,reported,igd
+2,193447212,-0.107741,0.0230856,3.05619e-06,7738,ebi-a-GCST90027497,rs17639960,C,T,0.156574,P161.PWY..acetylene.degradation,TRUE,reported,igd
+10,124321890,-0.0846704,0.0178762,2.17455e-06,7738,ebi-a-GCST90027497,rs7096251,T,C,0.60112,P161.PWY..acetylene.degradation,TRUE,reported,igd

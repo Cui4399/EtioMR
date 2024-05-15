@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,6522003,rs917634,A,C,-0.0529,5.107e-11,0.008054,35391,0.48686,PIANP_PIANP,TRUE,reported,PIANP_PIANP
+12,6700730,rs11064321,C,G,0.1718,1.002e-98,0.008146,35388,0.39503,PIANP_PIANP,TRUE,reported,PIANP_PIANP

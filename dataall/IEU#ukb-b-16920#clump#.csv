@@ -1,0 +1,4 @@
+"pos.exposure","samplesize.exposure","chr.exposure","se.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2685567,463010,"5",0.000144823,0.000818499,1.6e-08,"ukb-b-16920","rs2935620","A","G",0.343177,"PCT where patients GP was registered: WOKINGHAM PCT || id:ukb-b-16920",TRUE,"reported","igd"
+44639551,463010,"11",0.000154944,-0.000909589,4.30002e-09,"ukb-b-16920","rs9971373","C","T",0.293911,"PCT where patients GP was registered: WOKINGHAM PCT || id:ukb-b-16920",TRUE,"reported","igd"
+47243445,463010,"14",0.000171898,-0.00101024,4.20001e-09,"ukb-b-16920","rs61994561","G","T",0.20189,"PCT where patients GP was registered: WOKINGHAM PCT || id:ukb-b-16920",TRUE,"reported","igd"

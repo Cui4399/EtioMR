@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,54252130,rs3797235,C,T,-0.0582,2.121e-08,0.010389,35366,0.18751,GZMK_Granzyme_K,TRUE,reported,GZMK_Granzyme_K
+5,54949971,rs10491368,G,A,0.0495,2.863e-08,0.00892,35364,0.28876,GZMK_Granzyme_K,TRUE,reported,GZMK_Granzyme_K
+5,55002903,rs10471928,C,T,0.1435,1.598e-69,0.008142,35362,0.43667,GZMK_Granzyme_K,TRUE,reported,GZMK_Granzyme_K
+5,55361843,rs9292091,A,G,0.057,1.192e-10,0.00885,35363,0.30475,GZMK_Granzyme_K,TRUE,reported,GZMK_Granzyme_K

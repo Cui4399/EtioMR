@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,119567249,rs7594655,C,T,0.0908,1.687e-10,0.014215,35362,0.09607,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120403478,rs77214807,A,G,0.1638,1.94e-09,0.027287,35360,0.02408,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120426638,rs77647252,C,G,0.105,1.586e-12,0.014858,35360,0.08472,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120462071,rs116205044,A,C,-0.0968,2.083e-09,0.016157,35357,0.07133,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120463297,rs7572399,T,C,-0.1482,1.778e-24,0.014514,35357,0.09239,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120477219,rs115487840,A,G,-0.2291,2.094e-12,0.032598,35356,0.01647,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120480402,rs55641520,T,C,-0.2591,1.439e-19,0.028632,35356,0.02335,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120548864,rs17050272,A,G,0.3414,1e-200,0.006851,35358,0.41755,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120601365,rs4849911,C,T,0.0797,2.394e-10,0.012584,35356,0.12458,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120605773,rs71396094,ACACACACA,ACACACA,0.0506,1.522e-08,0.008941,35355,0.32717,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain
+2,120692336,rs62167016,A,G,-0.1018,1.995e-08,0.018138,35359,0.05668,INHBB_Inhibin_bB_chain,TRUE,reported,INHBB_Inhibin_bB_chain

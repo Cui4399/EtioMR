@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,139500698,A,G,0.0132555,0.316398,0.0675014,2.76858e-06,rs111238885,8297,Stachydrine levels,TRUE,reported,HtX642
+5,56626273,T,A,0.0148323,0.301849,0.0635419,2.03022e-06,rs116522067,8297,Stachydrine levels,TRUE,reported,HtX642
+7,14824580,A,T,0.0361329,-0.197682,0.0412783,1.67607e-06,rs7789829,8297,Stachydrine levels,TRUE,reported,HtX642
+7,138699219,G,T,0.037553,-0.196194,0.0406904,1.42396e-06,rs138210559,8297,Stachydrine levels,TRUE,reported,HtX642
+8,130493370,A,G,0.0294478,0.212635,0.0456369,3.17315e-06,rs77149865,8297,Stachydrine levels,TRUE,reported,HtX642
+12,30067553,T,A,0.0175725,0.289172,0.0589537,9.33934e-07,rs73086173,8297,Stachydrine levels,TRUE,reported,HtX642
+12,93564881,G,A,0.104071,-0.125742,0.0249418,4.62089e-07,rs10859531,8297,Stachydrine levels,TRUE,reported,HtX642
+15,33688079,A,C,0.612455,0.0760528,0.0159089,1.74839e-06,rs12916345,8297,Stachydrine levels,TRUE,reported,HtX642
+15,59909075,T,C,0.46819,0.0749584,0.0157167,1.84832e-06,rs4519291,8297,Stachydrine levels,TRUE,reported,HtX642
+19,56268982,C,T,0.020739,-0.269623,0.0542999,6.85435e-07,rs138481335,8297,Stachydrine levels,TRUE,reported,HtX642

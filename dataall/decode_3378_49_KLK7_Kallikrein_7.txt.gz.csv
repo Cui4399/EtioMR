@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,49989863,rs283517,C,T,-0.0598,3.662e-12,0.008605,35376,0.45298,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50460708,rs201550944,CT,C,-0.2562,8.989e-10,0.041819,35374,0.01152,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50703125,rs11667534,C,T,0.0489,4.87e-08,0.008963,35367,0.35029,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50858594,rs61729813,G,C,-0.2201,2.32e-10,0.034724,35371,0.01493,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50964033,rs60839180,T,C,-0.132,1.408e-09,0.021802,35365,0.03988,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50976847,rs268883,C,T,0.1212,1.221e-41,0.008966,35363,0.34001,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50979695,rs148022792,A,G,0.4156,8.832e-52,0.027451,35367,0.02507,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,50983919,rs1624358,G,T,0.5287,1e-200,0.015174,35369,0.08535,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,51006820,rs2569478,TCCGCAAGCCACACACCCT,TCTGCAAGCCACACACCCT,0.1041,1.073e-32,0.008742,35367,0.39096,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,51045601,rs142828509,T,C,0.1046,1.777e-09,0.017384,35366,0.06441,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,51045800,rs71333926,TCTTT,TT,-0.2,3.051e-11,0.030102,35362,0.02134,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,51151111,rs111774908,G,A,0.147,1.226e-10,0.02284,35372,0.03497,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7
+19,51351653,rs11672684,A,G,-0.247,7.786e-14,0.033048,35379,0.01705,KLK7_Kallikrein_7,TRUE,reported,KLK7_Kallikrein_7

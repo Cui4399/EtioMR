@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,49003029,rs6772452,G,A,-0.0566038,1.0766139430687e-10,0.00876792,33788,0.766155,prkar2a_p13861_oid31119_v1_neurology_ii,TRUE,reported,prkar2a_p13861_oid31119_v1_neurology_ii,chr3,48847850,cis

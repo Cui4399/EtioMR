@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,109906871,rs55717725,C,T,0.0864,7.854e-14,0.011562,35367,0.13655,XPNPEP1_XPNPEP1,TRUE,reported,XPNPEP1_XPNPEP1

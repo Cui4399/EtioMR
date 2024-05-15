@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,116638383,G,A,0.522319,0.113238,0.015183,8.77282e-14,rs4751996,8257,1-stearoyl-2-oleoyl-gpc (18:0/18:1) levels,TRUE,reported,TrAkp2
+15,58413459,AC,A,0.553337,-0.0877223,0.0154811,1.45818e-08,rs5812935,8257,1-stearoyl-2-oleoyl-gpc (18:0/18:1) levels,TRUE,reported,TrAkp2

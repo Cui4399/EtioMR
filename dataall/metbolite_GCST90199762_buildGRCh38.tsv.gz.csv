@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25873655,C,T,0.23977,0.108058,0.0166901,9.51973e-11,rs651578,8176,N6-carbamoylthreonyladenosine levels,TRUE,reported,ZU97oT

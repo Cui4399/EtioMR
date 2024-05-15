@@ -1,0 +1,6 @@
+"chr.exposure","pos.exposure","se.exposure","samplesize.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",168296719,0.00124825,337199,0.00713067,1.11406e-08,"ukb-a-528","rs77918499","C","A",0.0170745,"Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:ukb-a-528",TRUE,"reported","igd"
+"2",176889698,0.000390309,337199,-0.00227484,5.60441e-09,"ukb-a-528","rs11891328","A","G",0.212489,"Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:ukb-a-528",TRUE,"reported","igd"
+"2",218122755,0.00036859,337199,-0.00263259,9.1939e-13,"ukb-a-528","rs6732259","G","C",0.251531,"Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:ukb-a-528",TRUE,"reported","igd"
+"2",56106928,0.000381975,337199,0.00239917,3.3686e-10,"ukb-a-528","rs59985551","T","C",0.224341,"Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:ukb-a-528",TRUE,"reported","igd"
+"19",8670147,0.000883131,337199,0.00535367,1.34453e-09,"ukb-a-528","rs62621197","T","C",0.035921,"Diagnoses - main ICD10: G56 Mononeuropathies of upper limb || id:ukb-a-528",TRUE,"reported","igd"

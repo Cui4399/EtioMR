@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,218814154,T,C,0.0217576,-0.321406,0.0520967,6.8549e-10,rs41272687,8236,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca) levels,TRUE,reported,iTCASP
+8,58480714,G,A,0.661893,0.111094,0.0162687,8.56949e-12,rs4738684,8236,7-alpha-hydroxy-3-oxo-4-cholestenoate (7-hoca) levels,TRUE,reported,iTCASP

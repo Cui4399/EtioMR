@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,56448446,rs138933625,G,C,-0.1926,5.974e-19,0.021659,35357,0.03342,PAICS_Multifunctional_protein_ADE2,TRUE,reported,PAICS_Multifunctional_protein_ADE2

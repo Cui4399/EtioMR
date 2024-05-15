@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","pos.exposure","pval.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,0.000163041,375759,2e-09,-0.00097769,"6","ukb-b-3596","rs7753579","C","T",0.722916,"Diagnoses - main ICD10: D22.3 Melanocytic naevi of other and unspecified parts of face || id:ukb-b-3596",TRUE,"reported","igd"
+463010,0.00013751,471136,6.89922e-13,-0.00098744,"6","ukb-b-3596","rs12202284","A","C",0.263039,"Diagnoses - main ICD10: D22.3 Melanocytic naevi of other and unspecified parts of face || id:ukb-b-3596",TRUE,"reported","igd"
+463010,0.000120525,16885017,6.29941e-23,-0.0011881,"9","ukb-b-3596","rs12350739","A","G",0.607881,"Diagnoses - main ICD10: D22.3 Melanocytic naevi of other and unspecified parts of face || id:ukb-b-3596",TRUE,"reported","igd"

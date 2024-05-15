@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+2005,-0.215999,0.0463251,0.00000332961,"2",42308536,"G","T","rs10175871",1,0.0331152,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,0.0877127,0.0185675,0.00000247524,"3",188386467,"A","G","rs12497255",0.977151,0.20764,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,0.235894,0.047892,0.000000911177,"5",1566471,"T","C","rs4975660",0.967117,0.969309,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,-0.335906,0.0680495,0.000000863359,"6",91755769,"T","A","rs10944514",0.951036,0.0153712,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,-0.365801,0.075959,0.00000157771,"10",125352719,"G","C","rs182517042",0.889237,0.00968316,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,-0.232613,0.0496397,0.00000297537,"20",44365831,"G","A","rs148788003",0.97491,0.0255764,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"
+2005,-0.194664,0.0389052,0.000000612642,"22",45127911,"A","G","rs6006858",0.93759,0.0368071,1345,"Previously smoked cigarettes on most/all days",TRUE,"reported","vDAQKf","Smoking and drinking habits","ukb2774"

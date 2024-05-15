@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,248135326,G,A,0.030452,-0.219347,0.0478932,4.6515e-06,rs76001036,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+3,179079144,A,G,0.553238,-0.0850245,0.0166408,3.23172e-07,rs9790223,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+5,172048002,G,A,0.024144,-0.249467,0.0542621,4.27709e-06,rs6555990,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+6,74004145,G,C,0.0145465,0.334518,0.0681881,9.3044e-07,rs112102710,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+8,16986304,CA,C,0.372871,0.0799836,0.0171504,3.10623e-06,rs35784507,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+8,93529585,A,G,0.0822181,0.138855,0.0298397,3.26559e-06,rs78354045,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+11,17409176,T,C,0.0147848,0.316259,0.0682172,3.55099e-06,rs11024279,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+16,7412997,G,A,0.801033,-0.0976206,0.0209226,3.07417e-06,rs8056227,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT
+18,72548044,G,A,0.949439,-0.188901,0.0379557,6.46189e-07,rs1367993,7032,Methyl indole-3-acetate levels,TRUE,reported,yJ3igT

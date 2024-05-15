@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,6092142,T,C,0.066521,0.149157,0.0301397,7.46591e-07,rs62110520,8247,Valine levels,TRUE,reported,w5XsGR
+5,1655378,G,C,0.159196,-0.0953656,0.0207473,4.2957e-06,rs73732164,8247,Valine levels,TRUE,reported,w5XsGR
+6,89973842,A,G,0.201422,0.0963442,0.0189646,3.77029e-07,rs6930584,8247,Valine levels,TRUE,reported,w5XsGR
+7,80057667,C,T,0.0218636,0.253505,0.0516139,9.0348e-07,rs7779835,8247,Valine levels,TRUE,reported,w5XsGR
+9,76363714,C,T,0.0487005,0.16589,0.035863,3.73433e-06,rs117989810,8247,Valine levels,TRUE,reported,w5XsGR
+10,84154277,G,T,0.0917827,0.126117,0.0263069,1.63451e-06,rs11200890,8247,Valine levels,TRUE,reported,w5XsGR
+18,25075350,A,G,0.0243991,0.243294,0.0490868,7.18127e-07,rs117251152,8247,Valine levels,TRUE,reported,w5XsGR
+18,51292041,A,G,0.220952,0.0864859,0.0185601,3.1655e-06,rs62094372,8247,Valine levels,TRUE,reported,w5XsGR

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,70183395,G,C,0.0672108,0.282801,0.0354025,1.36978e-15,rs72841129,6257,Flavin adenine dinucleotide (FAD) levels,TRUE,reported,if9W6R
+2,70261338,T,C,0.14152,-0.501154,0.0247027,1.65904e-91,rs2706762,6257,Flavin adenine dinucleotide (FAD) levels,TRUE,reported,if9W6R
+6,31461735,A,G,0.0543113,0.260115,0.0396727,5.50782e-11,rs62395307,6257,Flavin adenine dinucleotide (FAD) levels,TRUE,reported,if9W6R

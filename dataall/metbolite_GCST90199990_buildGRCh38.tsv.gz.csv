@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,167172842,G,A,0.0795315,-0.131945,0.0284221,3.445e-06,rs10918652,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+3,70966628,T,C,0.0248653,0.253034,0.0491572,2.64038e-07,rs17008088,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+4,25030243,G,A,0.0477491,-0.17561,0.0357674,9.11735e-07,rs73250695,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+5,68627631,A,G,0.0897967,0.131383,0.0267793,9.28857e-07,rs17324835,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+9,94298852,A,G,0.696854,0.0778406,0.0165995,2.74109e-06,rs9409510,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+12,108481961,C,T,0.150897,-0.0984911,0.0212369,3.52254e-06,rs919217,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+14,49488289,A,G,0.0167092,0.303512,0.0595407,3.44064e-07,rs115520044,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+14,98182723,T,C,0.468088,0.0707861,0.0153154,3.80235e-06,rs1381273,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+15,74735539,T,C,0.24997,0.0894363,0.0175013,3.21727e-07,rs2472297,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+20,2878021,T,C,0.012766,-0.34643,0.0680361,3.54577e-07,rs113935097,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN
+22,30858967,C,T,0.556178,0.0717023,0.015674,4.77102e-06,rs5997787,8270,3-hydroxypyridine sulfate levels,TRUE,reported,DJ2TUN

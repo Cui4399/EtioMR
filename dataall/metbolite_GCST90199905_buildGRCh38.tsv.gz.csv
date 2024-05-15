@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,145354711,T,G,0.198876,-0.0966888,0.0185115,1.7587e-07,rs12622835,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+2,217850122,A,G,0.38862,0.0795909,0.015364,2.21455e-07,rs3791977,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+3,196405580,G,A,0.0119534,-0.333614,0.0675032,7.72464e-07,rs79307160,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+4,69101657,T,C,0.181729,-0.0936001,0.0190554,9.01538e-07,rs78408800,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+4,131514556,G,A,0.303852,-0.07468,0.0158241,2.36572e-06,rs55680923,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+5,11568348,T,C,0.0113636,-0.339585,0.0690764,8.82947e-07,rs114669007,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+6,43301441,A,C,0.591466,0.0781078,0.0147923,1.28964e-07,rs2841648,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+7,67547095,A,G,0.028839,-0.201168,0.0439651,4.74797e-06,rs34607912,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+7,126895660,GA,G,0.850943,0.0956529,0.0208852,4.65105e-06,rs55642765,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+13,103861561,C,T,0.0159216,0.294978,0.0580135,3.68325e-07,rs138312948,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+14,79724213,A,C,0.158089,-0.0995686,0.0205163,1.21524e-06,rs7158292,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+14,94378610,T,C,0.0177566,0.258656,0.0551124,2.68897e-06,rs28929474,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP
+21,41816456,C,G,0.01378,0.314268,0.0621174,4.20897e-07,rs4561743,8175,Formiminoglutamate levels,TRUE,reported,WPcuZP

@@ -1,0 +1,18 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,184566772,C,A,0.0279305,0.29677,0.0598094,6.97938e-07,rs114624684,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+4,90118051,A,G,0.13317,-0.153795,0.0291741,1.35229e-07,rs76793825,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+6,37518276,A,G,0.404827,0.0981631,0.0209816,2.88935e-06,rs57349798,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+6,76275592,A,G,0.0106758,-0.452607,0.0978315,3.7208e-06,rs188075051,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+6,109437612,T,C,0.0150715,0.398218,0.0826758,1.46011e-06,rs140766766,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+8,132914921,A,T,0.0640742,0.200289,0.0409439,9.99199e-07,rs74701101,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+9,76505824,A,G,0.0551876,0.205667,0.0441155,3.13123e-06,rs147289945,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+10,16347316,G,A,0.182609,0.120545,0.0261,3.86347e-06,rs1387474,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+11,15009054,T,C,0.026,0.315783,0.063405,6.34497e-07,rs117089554,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+12,1617853,A,C,0.017794,-0.369861,0.0764785,1.32377e-06,rs75832021,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+12,126965947,A,G,0.744751,0.109064,0.0235731,3.71694e-06,rs982935,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+13,39906310,G,A,0.416795,-0.0979146,0.0204199,1.6263e-06,rs9576916,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+13,83396878,G,T,0.0182981,0.350363,0.0749028,2.90301e-06,rs117739522,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+14,97055914,T,C,0.970543,0.273089,0.059552,4.52406e-06,rs1738895,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+16,84054442,T,C,0.337427,-0.100509,0.0209437,1.59465e-06,rs11607,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+19,54430935,T,G,0.0202434,-0.325269,0.071131,4.81219e-06,rs189114469,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt
+21,20533740,C,T,0.0214474,-0.321872,0.067967,2.18295e-06,rs79929713,4556,Adenosine 5'-diphosphate (ADP) to glutamate ratio,TRUE,reported,aSzHSt

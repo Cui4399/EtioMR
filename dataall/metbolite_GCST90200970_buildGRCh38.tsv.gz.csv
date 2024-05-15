@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22225320,C,T,0.517993,-0.0792052,0.015245,2.04201e-07,rs2744738,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+3,5786226,G,A,0.314655,0.0735028,0.0160824,4.8682e-06,rs1435367,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+3,8799831,T,A,0.0172815,-0.297477,0.0577786,2.6248e-07,rs148882505,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+3,169902054,T,A,0.0885654,-0.123133,0.0266817,3.93265e-06,rs76097375,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+3,171812145,G,T,0.853668,0.103673,0.0215373,1.48204e-06,rs6792151,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+10,60949914,A,C,0.0258947,0.21839,0.0472667,3.83024e-06,rs117903959,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+13,46610551,T,C,0.10177,0.116347,0.0248347,2.80177e-06,rs76442921,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+18,74407627,C,T,0.0179551,-0.286417,0.05683,4.65807e-07,rs118103311,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t
+19,55106746,C,T,0.0159321,-0.290326,0.0604055,1.53763e-06,rs117579136,8201,Adenosine 5'-monophosphate (AMP) to leucine ratio,TRUE,reported,aXhM3t

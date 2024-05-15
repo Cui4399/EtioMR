@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",43102588,"rs708381","C","T",3.55294306725e-08,0.725777310428,0.131678328385742,89,"Classical monocyte#DCAKD",TRUE,"reported","taMCv2",NA

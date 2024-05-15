@@ -1,0 +1,5 @@
+"beta.exposure","samplesize.exposure","se.exposure","pval.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000482033,337159,8.69158e-05,2.9253e-08,14254214,"3","ukb-a-152","rs4685081","C","G",0.318046,"Treatment/medication code: eumovate cream || id:ukb-a-152",TRUE,"reported","igd"
+0.00135696,337159,0.000239951,1.55819e-08,48315403,"11","ukb-a-152","rs150909090","A","T",0.0315392,"Treatment/medication code: eumovate cream || id:ukb-a-152",TRUE,"reported","igd"
+0.00230757,337159,0.000401575,9.12956e-09,133215486,"11","ukb-a-152","rs144712697","T","C",0.0105709,"Treatment/medication code: eumovate cream || id:ukb-a-152",TRUE,"reported","igd"
+0.002895,337159,0.000521357,2.81307e-08,1842934,"19","ukb-a-152","rs112515154","T","G",0.00651247,"Treatment/medication code: eumovate cream || id:ukb-a-152",TRUE,"reported","igd"

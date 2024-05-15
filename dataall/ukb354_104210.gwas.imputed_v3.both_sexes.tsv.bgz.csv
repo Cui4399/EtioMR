@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.0738512,0.0139832,1.28717e-07,"2",10431706,"T","C","rs200237669",0.875016,0.0413671,NA,"Cucumber intake",TRUE,"reported","n6vagg","Diet","ukb354"
+51427,-0.0320064,0.00690026,3.5193e-06,"4",70473615,"G","A","rs7669007",0.985282,0.194515,NA,"Cucumber intake",TRUE,"reported","n6vagg","Diet","ukb354"
+51427,0.130737,0.0283846,4.11686e-06,"7",37626090,"A","G","rs138514660",0.905851,0.0104071,NA,"Cucumber intake",TRUE,"reported","n6vagg","Diet","ukb354"
+51427,0.0255943,0.00557726,4.46328e-06,"20",52495551,"A","G","rs6064014",0.993049,0.613713,NA,"Cucumber intake",TRUE,"reported","n6vagg","Diet","ukb354"

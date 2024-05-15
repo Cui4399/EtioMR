@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+2545,0.308359,0.0532484,7.86946e-09,"2",104626980,"A","G","rs151177364",0.90187,0.0163901,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"
+2545,-0.0808982,0.0153607,1.50763e-07,"5",60848409,"A","G","rs16892410",1,0.213976,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"
+2545,0.224526,0.0448768,6.02835e-07,"6",137818341,"G","A","rs77708771",1,0.0198979,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"
+2545,-0.226103,0.0469027,1.51582e-06,"16",11903888,"T","A","rs75149172",1,0.0200363,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"
+2545,0.0594799,0.0128699,3.99949e-06,"18",9738476,"G","A","rs1023868",0.983914,0.471807,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"
+2545,0.151335,0.032693,3.8614e-06,"21",27616298,"T","C","rs62222972",0.968423,0.0391313,889,"Illnesses of adopted father: Heart disease",TRUE,"reported","wRVp8v","Sociodemographics characteristics","ukb752"

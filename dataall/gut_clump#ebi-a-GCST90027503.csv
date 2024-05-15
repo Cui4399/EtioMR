@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,84608858,0.139412,0.0289505,1.46805e-06,7738,ebi-a-GCST90027503,rs4517983,A,G,0.909549,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd
+6,11484475,-0.184482,0.0381888,1.36e-06,7738,ebi-a-GCST90027503,rs9368736,C,T,0.0543789,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd
+11,14097760,0.0921683,0.0188391,9.96116e-07,7738,ebi-a-GCST90027503,rs11023076,C,T,0.261425,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd
+11,130406041,-0.0785142,0.0167816,2.88868e-06,7738,ebi-a-GCST90027503,rs2035940,C,T,0.483609,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd
+12,128921679,-0.0996063,0.0217033,4.44386e-06,7738,ebi-a-GCST90027503,rs2398413,C,T,0.82363,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd
+14,77651989,-0.0846625,0.0178241,2.03526e-06,7738,ebi-a-GCST90027503,rs4903555,G,A,0.291881,P461.PWY..hexitol.fermentation.to.lactate..formate..ethanol.and.acetate,TRUE,reported,igd

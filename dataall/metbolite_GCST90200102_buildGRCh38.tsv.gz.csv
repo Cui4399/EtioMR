@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,230160406,T,C,0.601844,0.0870292,0.0155305,2.09762e-08,rs10864726,7540,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3) levels,TRUE,reported,1UP9Ev
+2,27375230,C,T,0.592804,-0.0941744,0.0154348,1.05132e-09,rs4665972,7540,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3) levels,TRUE,reported,1UP9Ev
+11,61825533,G,A,0.352984,0.270068,0.0154862,4.14855e-68,rs174567,7540,1-palmitoleoyl-2-linolenoyl-GPC (16:1/18:3) levels,TRUE,reported,1UP9Ev

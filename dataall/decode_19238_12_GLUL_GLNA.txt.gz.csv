@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,182306288,rs2245558,AAA,TAA,0.0607,4.291e-08,0.01108,35361,0.15996,GLUL_GLNA,TRUE,reported,GLUL_GLNA
+1,182367894,rs4652700,CAAAAAAAAAAACA,CAAAAAAAAAAACC,0.0526,1.386e-10,0.008196,35363,0.41526,GLUL_GLNA,TRUE,reported,GLUL_GLNA

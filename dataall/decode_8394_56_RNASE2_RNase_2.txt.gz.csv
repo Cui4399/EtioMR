@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,20891649,rs2233859,A,C,0.1431,1.736e-74,0.007837,35339,0.46752,RNASE2_RNase_2,TRUE,reported,RNASE2_RNase_2

@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,170575105,G,A,0.0123495,0.351561,0.069263,3.85994e-07,rs142426869,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+3,105130274,T,A,0.0220164,-0.242484,0.0519912,3.10208e-06,rs116222401,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+7,926360,A,G,0.449401,-0.0729284,0.015721,3.50258e-06,rs28708384,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+8,2495463,T,G,0.0101778,0.358828,0.0768372,3.01229e-06,rs113100115,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+8,112510823,A,T,0.282346,0.0816956,0.0171893,2.00707e-06,rs11782461,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+8,113505782,C,A,0.0213314,0.248822,0.0528941,2.54926e-06,rs75169533,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+8,128076622,A,G,0.220615,-0.0854875,0.0185539,4.07512e-06,rs2720670,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+8,137668716,G,A,0.0144732,-0.302351,0.0638932,2.22169e-06,rs182579749,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+11,50142808,A,G,0.235687,0.086668,0.0179582,1.39232e-06,rs11601631,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+11,98019295,A,G,0.101924,-0.119521,0.0253494,2.41761e-06,rs76559074,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+11,116778201,C,G,0.868356,0.112948,0.0226897,6.42593e-07,rs964184,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+13,81921138,T,G,0.383385,0.0739696,0.0160636,4.12866e-06,rs12583829,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+15,60920659,T,A,0.0439715,-0.194362,0.0372916,1.86865e-07,rs117902878,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th
+17,68039684,A,G,0.0463311,0.170423,0.0369456,3.97281e-06,rs143043978,8173,Glucose to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,lcz6th

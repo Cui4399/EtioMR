@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,35330201,G,C,0.712869,0.0862255,0.0167238,2.52458e-07,rs4643516,8179,Adenosine 5'-monophosphate (AMP) to EDTA ratio,TRUE,reported,Kt1dxI
+2,158330308,T,G,0.0101227,-0.351329,0.075164,2.95154e-06,rs191202003,8179,Adenosine 5'-monophosphate (AMP) to EDTA ratio,TRUE,reported,Kt1dxI
+6,34517343,G,A,0.975523,-0.229236,0.0489157,2.78138e-06,rs2395568,8179,Adenosine 5'-monophosphate (AMP) to EDTA ratio,TRUE,reported,Kt1dxI
+13,37953200,A,C,0.354939,-0.0782821,0.0158446,7.78765e-07,rs7490087,8179,Adenosine 5'-monophosphate (AMP) to EDTA ratio,TRUE,reported,Kt1dxI

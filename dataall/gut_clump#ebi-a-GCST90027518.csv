@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,193447212,-0.109664,0.0231362,2.13806e-06,7738,ebi-a-GCST90027518,rs17639960,C,T,0.156483,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+4,41663002,0.0810335,0.0176312,4.30606e-06,7738,ebi-a-GCST90027518,rs7349706,C,A,0.345869,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+5,97048466,-0.0816632,0.0177702,4.31708e-06,7738,ebi-a-GCST90027518,rs2914928,C,T,0.307512,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+7,21840496,0.0872428,0.0187529,3.28352e-06,7738,ebi-a-GCST90027518,rs12700304,T,G,0.250107,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+13,31657667,0.110794,0.0229484,1.37946e-06,7738,ebi-a-GCST90027518,rs9527167,G,A,0.17668,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+14,23504021,-0.173247,0.0339465,3.33388e-07,7738,ebi-a-GCST90027518,rs11543947,A,G,0.069182,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd
+16,20959390,-0.0924102,0.0187424,8.2003e-07,7738,ebi-a-GCST90027518,rs111171,G,A,0.729093,PWY0.1297..superpathway.of.purine.deoxyribonucleosides.degradation,TRUE,reported,igd

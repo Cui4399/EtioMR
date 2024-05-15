@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,20589745,A,G,0.320544,-0.146276,0.0163867,4.39684e-19,rs66731853,8253,Uridine levels,TRUE,reported,JJtD8v
+7,48089060,A,T,0.55177,-0.0962233,0.0153164,3.33472e-10,rs10278152,8253,Uridine levels,TRUE,reported,JJtD8v
+22,50525724,C,T,0.774408,-0.153099,0.0184751,1.16324e-16,rs131805,8253,Uridine levels,TRUE,reported,JJtD8v

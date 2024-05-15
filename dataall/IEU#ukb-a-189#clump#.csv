@@ -1,0 +1,6 @@
+"samplesize.exposure","beta.exposure","pval.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,0.00179747,2.76306e-08,0.000323522,"1",97455550,"ukb-a-189","rs17116157","C","G",0.012801,"Treatment/medication code: cipralex 5mg tablet || id:ukb-a-189",TRUE,"reported","igd"
+337159,0.00159107,2.3638e-08,0.000284978,"2",78256695,"ukb-a-189","rs115611863","T","C",0.0163805,"Treatment/medication code: cipralex 5mg tablet || id:ukb-a-189",TRUE,"reported","igd"
+337159,0.00340783,1.29769e-10,0.000530183,"11",132793936,"ukb-a-189","rs186964253","A","G",0.00487249,"Treatment/medication code: cipralex 5mg tablet || id:ukb-a-189",TRUE,"reported","igd"
+337159,0.00239377,2.08348e-08,0.000427073,"14",27229374,"ukb-a-189","rs143296349","G","T",0.00752375,"Treatment/medication code: cipralex 5mg tablet || id:ukb-a-189",TRUE,"reported","igd"
+337159,0.00410601,1.32556e-08,0.000722523,"16",11711393,"ukb-a-189","rs13329887","C","T",0.00251928,"Treatment/medication code: cipralex 5mg tablet || id:ukb-a-189",TRUE,"reported","igd"

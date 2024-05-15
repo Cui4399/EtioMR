@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151966109,A,T,0.349423,0.164663,0.0180343,6.81416e-20,rs7554832,6161,Indoleacetylglutamine levels,TRUE,reported,rpuPi7
+3,126678768,T,C,0.0363547,0.255145,0.0461974,3.33387e-08,rs6789480,6161,Indoleacetylglutamine levels,TRUE,reported,rpuPi7
+16,20480678,G,A,0.907377,0.423246,0.0319632,5.04282e-40,rs9924150,6161,Indoleacetylglutamine levels,TRUE,reported,rpuPi7
+16,20541144,G,A,0.0507965,0.39914,0.0390034,1.40383e-24,rs73530508,6161,Indoleacetylglutamine levels,TRUE,reported,rpuPi7

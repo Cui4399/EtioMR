@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","samplesize.exposure","se.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.0175347,100239319,118002,0.00273055,1.35285e-10,"4","ukb-d-20411_0","rs1229984","C","T",0.976475,"Ever been injured or injured someone else through drinking alcohol: No || id:ukb-d-20411_0",TRUE,"reported","igd"
+-0.0265941,116433162,118002,0.00477219,2.51322e-08,"12","ukb-d-20411_0","rs148242505","A","T",0.0083192,"Ever been injured or injured someone else through drinking alcohol: No || id:ukb-d-20411_0",TRUE,"reported","igd"

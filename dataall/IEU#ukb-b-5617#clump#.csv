@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,0.0010154,3.09999e-10,181520166,"3",0.000161316,"ukb-b-5617","rs833270","C","T",0.614911,"Operation code: pilonidal sinus surgery (anal) || id:ukb-b-5617",TRUE,"reported","igd"
+462933,-0.000996542,1.09999e-09,116679547,"8",0.000163486,"ukb-b-5617","rs13277568","G","A",0.362675,"Operation code: pilonidal sinus surgery (anal) || id:ukb-b-5617",TRUE,"reported","igd"
+462933,0.000986584,8.10009e-10,60941441,"18",0.000160588,"ukb-b-5617","rs12605881","T","A",0.40626,"Operation code: pilonidal sinus surgery (anal) || id:ukb-b-5617",TRUE,"reported","igd"
+462933,0.000942623,2.19999e-09,44060337,"21",0.00015748,"ukb-b-5617","rs400230","T","C",0.472176,"Operation code: pilonidal sinus surgery (anal) || id:ukb-b-5617",TRUE,"reported","igd"

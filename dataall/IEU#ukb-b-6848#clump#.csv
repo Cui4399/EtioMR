@@ -1,0 +1,7 @@
+"se.exposure","pos.exposure","chr.exposure","samplesize.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00554556,234450272,"1",149899,4e-08,0.030458,"ukb-b-6848","rs115941945","T","C",0.031225,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"
+0.00292907,49706736,"3",149899,1.09999e-08,0.0167377,"ukb-b-6848","rs56176327","C","G",0.107022,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"
+0.00192237,103972357,"5",149899,1.29999e-08,0.0109288,"ukb-b-6848","rs30266","A","G",0.328663,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"
+0.00270196,28796071,"6",149899,9.09997e-10,-0.0165476,"ukb-b-6848","rs3131337","C","G",0.127173,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"
+0.00280546,151872537,"6",149899,5.99998e-09,-0.0163155,"ukb-b-6848","rs7743146","C","T",0.883262,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"
+0.00352213,27127637,"12",149899,1.29999e-09,0.0213851,"ukb-b-6848","rs74507392","T","C",0.071597,"Ever depressed for a whole week || id:ukb-b-6848",TRUE,"reported","igd"

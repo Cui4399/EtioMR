@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.0364414,0.00769002,2.15576e-06,"1",241472176,"G","A","rs71648648",0.981435,0.0408589,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"
+51427,0.0152764,0.00333426,4.62426e-06,"2",161877629,"G","T","rs4293573",0.987422,0.714018,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"
+51427,-0.0247212,0.00467298,1.2265e-07,"4",42161066,"T","C","rs6828811",0.994821,0.119635,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"
+51427,-0.0281189,0.00549027,3.04058e-07,"10",43250110,"A","C","rs507485",0.843752,0.0997514,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"
+51427,-0.0163395,0.00354064,3.94339e-06,"12",40329432,"A","C","rs7960023",0.994941,0.242907,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"
+51427,-0.0218313,0.00467108,2.96544e-06,"14",74470064,"A","G","rs2108712",0.992023,0.881439,21119,"Vitamin supplement user",TRUE,"reported","w0tXCG","Diet","ukb362"

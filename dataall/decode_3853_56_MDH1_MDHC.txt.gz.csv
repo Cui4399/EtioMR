@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,63401409,rs9749862,T,C,-0.0755,1.461e-18,0.008587,35349,0.3062,MDH1_MDHC,TRUE,reported,MDH1_MDHC

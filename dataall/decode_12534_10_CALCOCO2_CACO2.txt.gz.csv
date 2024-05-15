@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,48876256,rs318100,ACCTCAGCCTCCG,ACCTCAGCCTCCT,-0.1134,3.349e-26,0.010709,35357,0.16841,CALCOCO2_CACO2,TRUE,reported,CALCOCO2_CACO2

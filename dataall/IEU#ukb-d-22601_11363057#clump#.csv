@@ -1,0 +1,3 @@
+"pos.exposure","chr.exposure","samplesize.exposure","pval.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+30849435,"9",89866,4.65382e-08,0.00833891,0.00152601,"ukb-d-22601_11363057","rs72703040","C","G",0.0428972,"Job coding: ict or it manager, systems/data processing manager, telecom manager || id:ukb-d-22601_11363057",TRUE,"reported","igd"
+67849583,"11",89866,2.58101e-08,0.0111153,0.00199621,"ukb-d-22601_11363057","rs61887548","C","T",0.0247034,"Job coding: ict or it manager, systems/data processing manager, telecom manager || id:ukb-d-22601_11363057",TRUE,"reported","igd"

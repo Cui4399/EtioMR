@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",57663067,"rs7698278","G","A",2.26982249223e-06,-0.674407372972,0.142647637580425,89,"TH2#SPINK2",TRUE,"reported","KLMWex",NA
+"4",57687357,"rs34393987","C","T",2.16836120048e-07,1.5205947145,0.293308034396554,89,"TH2#SPINK2",TRUE,"reported","KLMWex",NA

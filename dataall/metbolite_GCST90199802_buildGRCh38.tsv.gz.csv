@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,183101261,G,A,0.675591,-0.256558,0.016141,6.89111e-57,rs6443851,8232,Beta-hydroxyisovaleroylcarnitine levels,TRUE,reported,RQE0Zd
+5,132384571,G,A,0.293437,0.132252,0.0165809,1.5097e-15,rs635620,8232,Beta-hydroxyisovaleroylcarnitine levels,TRUE,reported,RQE0Zd
+10,59707424,T,G,0.769098,0.116973,0.0183559,1.85991e-10,rs1171617,8232,Beta-hydroxyisovaleroylcarnitine levels,TRUE,reported,RQE0Zd

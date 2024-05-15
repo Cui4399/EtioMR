@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,98326337,C,T,0.038976,-0.493058,0.039772,2.70921e-35,rs12217666,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+10,98345621,A,G,0.359273,0.120509,0.0158924,3.38194e-14,rs112671552,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+10,98401089,C,G,0.327607,-1.15114,0.0104967,1e-200,rs7073632,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+10,98947010,T,C,0.0706863,-0.253268,0.0297457,1.67376e-17,rs74931036,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+10,98967481,C,G,0.0607872,-0.31665,0.0318432,2.67766e-23,rs111607250,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+19,32847167,C,T,0.148191,-0.158682,0.0217361,2.86955e-13,rs11667586,8299,N6-methyllysine levels,TRUE,reported,sjuJb1
+19,32968392,G,T,0.672121,0.148538,0.0163816,1.21876e-19,rs10164318,8299,N6-methyllysine levels,TRUE,reported,sjuJb1

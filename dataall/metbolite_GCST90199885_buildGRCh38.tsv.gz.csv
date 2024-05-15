@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,100387568,T,C,0.658257,0.196712,0.0156165,2.20924e-36,rs4928171,8210,Alpha-ketoglutaramate levels,TRUE,reported,SYr2Lu

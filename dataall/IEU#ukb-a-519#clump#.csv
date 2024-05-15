@@ -1,0 +1,8 @@
+"beta.exposure","chr.exposure","se.exposure","samplesize.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00190525,"2",0.000308122,337199,217920769,6.27943e-10,"ukb-a-519","rs4442975","T","G",0.511994,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+-0.00211653,"3",0.000311484,337199,27401247,1.08493e-11,"ukb-a-519","rs11715126","A","G",0.418671,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+0.00302255,"5",0.000417376,337199,56011357,4.43711e-13,"ukb-a-519","rs7714232","T","A",0.162047,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+0.00184485,"6",0.000325393,337199,151936677,1.43229e-08,"ukb-a-519","rs6929137","A","G",0.332597,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+-0.0038252,"10",0.000313897,337199,123350216,3.74455e-34,"ukb-a-519","rs2981584","C","A",0.604664,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+0.00429306,"11",0.000471103,337199,69332670,8.07049e-20,"ukb-a-519","rs657686","G","A",0.120303,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"
+0.00378083,"16",0.00035936,337199,52599188,6.9775e-26,"ukb-a-519","rs4784227","T","C",0.239161,"Diagnoses - main ICD10: C50 Malignant neoplasm of breast || id:ukb-a-519",TRUE,"reported","igd"

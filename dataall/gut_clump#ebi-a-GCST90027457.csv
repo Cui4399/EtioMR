@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,98159418,0.179202,0.0334241,8.25544e-08,7738,ebi-a-GCST90027457,rs1093520,G,T,0.915857,COMPLETE.ARO.PWY..superpathway.of.aromatic.amino.acid.biosynthesis,TRUE,reported,igd
+11,130442661,0.0875261,0.0180386,1.22129e-06,7738,ebi-a-GCST90027457,rs61915762,A,G,0.275511,COMPLETE.ARO.PWY..superpathway.of.aromatic.amino.acid.biosynthesis,TRUE,reported,igd
+11,115964147,0.116001,0.0242663,1.74993e-06,7738,ebi-a-GCST90027457,rs11215785,C,T,0.136228,COMPLETE.ARO.PWY..superpathway.of.aromatic.amino.acid.biosynthesis,TRUE,reported,igd
+15,95979517,-0.143107,0.031333,4.94026e-06,7738,ebi-a-GCST90027457,rs62018962,A,C,0.0988924,COMPLETE.ARO.PWY..superpathway.of.aromatic.amino.acid.biosynthesis,TRUE,reported,igd
+22,47369660,0.0930184,0.0202956,4.57973e-06,7738,ebi-a-GCST90027457,rs136110,C,T,0.208243,COMPLETE.ARO.PWY..superpathway.of.aromatic.amino.acid.biosynthesis,TRUE,reported,igd

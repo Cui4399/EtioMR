@@ -1,0 +1,8 @@
+"chr.exposure","samplesize.exposure","pos.exposure","se.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",259921,185534482,0.000809472,4.67057e-10,0.00504303,"ukb-a-223","rs9859406","A","G",0.312916,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"6",259921,32265881,0.00221431,3.34996e-09,0.0130947,"ukb-a-223","rs114355928","T","G",0.029404,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"6",259921,32627480,0.000866702,8.73776e-30,0.00982586,"ukb-a-223","rs1064173","A","G",0.294648,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"6",259921,32414639,0.000920942,1.28115e-13,0.00682279,"ukb-a-223","rs7382354","A","G",0.79106,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"9",259921,22134253,0.000988874,2.9944e-09,-0.00586611,"ukb-a-223","rs10811662","A","G",0.174181,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"10",259921,114754071,0.000825087,2.07826e-35,0.0102477,"ukb-a-223","rs34872471","C","T",0.291319,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"
+"12",259921,32062838,0.00547386,4.69332e-08,0.0299021,"ukb-a-223","rs73079719","A","G",0.00524023,"Illnesses of siblings: Diabetes || id:ukb-a-223",TRUE,"reported","igd"

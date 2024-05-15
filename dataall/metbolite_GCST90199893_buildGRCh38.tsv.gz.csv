@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,74971148,C,T,0.0142209,0.395567,0.0640903,6.74191e-10,rs149556176,8173,Cis-4-decenoate (10:1n6) levels,TRUE,reported,xIpe01
+1,75758325,T,C,0.306872,-0.327315,0.015904,4.08321e-94,rs2185152,8173,Cis-4-decenoate (10:1n6) levels,TRUE,reported,xIpe01
+1,151907285,A,G,0.315747,-0.409002,0.0157791,3.9094e-148,rs28415528,8173,Cis-4-decenoate (10:1n6) levels,TRUE,reported,xIpe01

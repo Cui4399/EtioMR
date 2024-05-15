@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,28767548,A,G,0.0189827,-0.25299,0.0546245,3.63116e-06,rs146064637,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+3,144385482,T,A,0.0127202,-0.320179,0.0669176,1.71267e-06,rs112845131,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+5,132304843,G,A,0.554195,0.0712344,0.0152088,2.81659e-06,rs6860806,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+6,52267843,C,T,0.0167806,0.2677,0.0585166,4.76731e-06,rs150229874,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+7,135309816,G,A,0.163151,-0.0964122,0.0204931,2.5434e-06,rs13243809,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+8,9363866,C,T,0.109894,0.118079,0.0241046,9.65099e-07,rs114798927,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+9,25597735,T,C,0.211878,0.0890225,0.0184676,1.43227e-06,rs59091887,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+10,79178742,A,G,0.0204993,0.247911,0.0527663,2.62372e-06,rs16937003,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5
+12,66094209,T,C,0.358927,0.0713701,0.0155048,4.1626e-06,rs12370475,8206,Carnitine to acetylcarnitine (C2) ratio,TRUE,reported,o5dLb5

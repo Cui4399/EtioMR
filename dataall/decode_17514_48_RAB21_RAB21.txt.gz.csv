@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,71785666,rs61754230,T,C,-0.3263,3.269e-25,0.031455,35361,0.01602,RAB21_RAB21,TRUE,reported,RAB21_RAB21

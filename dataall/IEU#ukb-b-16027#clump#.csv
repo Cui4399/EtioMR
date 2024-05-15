@@ -1,0 +1,5 @@
+"se.exposure","pos.exposure","chr.exposure","pval.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000935069,44691395,"5",7.69999e-09,-0.00539903,428082,"ukb-b-16027","rs6451770","G","T",0.381504,"Illnesses of mother: None of the above (group 2) || id:ukb-b-16027",TRUE,"reported","igd"
+0.000924976,123338975,"10",4.19952e-13,-0.00670583,428082,"ukb-b-16027","rs1078806","G","A",0.405322,"Illnesses of mother: None of the above (group 2) || id:ukb-b-16027",TRUE,"reported","igd"
+0.00177141,69331418,"11",9.40005e-09,-0.0101692,428082,"ukb-b-16027","rs78540526","T","C",0.071248,"Illnesses of mother: None of the above (group 2) || id:ukb-b-16027",TRUE,"reported","igd"
+0.00106537,52583143,"16",6.90001e-09,-0.00617152,428082,"ukb-b-16027","rs4784226","T","C",0.239156,"Illnesses of mother: None of the above (group 2) || id:ukb-b-16027",TRUE,"reported","igd"

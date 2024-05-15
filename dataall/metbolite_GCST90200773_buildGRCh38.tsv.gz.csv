@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119711883,G,A,0.580284,0.11386,0.0155407,2.36157e-13,rs561931,8197,Serine to alpha-tocopherol ratio,TRUE,reported,FnrBug
+2,210675783,A,C,0.309227,0.138513,0.0165234,5.16729e-17,rs1047891,8197,Serine to alpha-tocopherol ratio,TRUE,reported,FnrBug
+7,56012733,G,C,0.572096,0.11632,0.0155324,6.94593e-14,rs62457261,8197,Serine to alpha-tocopherol ratio,TRUE,reported,FnrBug

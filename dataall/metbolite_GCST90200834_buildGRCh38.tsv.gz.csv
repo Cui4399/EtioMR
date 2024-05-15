@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,233676325,G,A,0.0487591,-0.23781,0.04786,6.73424e-07,rs184965710,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+2,234191055,C,A,0.0289364,0.301598,0.0616904,1.01402e-06,rs80332390,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+4,37902681,G,A,0.586702,0.0977237,0.0212853,4.40835e-06,rs2995921,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+7,119632797,A,G,0.171719,-0.12965,0.0272676,1.98708e-06,rs10236510,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+8,26932905,C,T,0.0198994,0.348092,0.0729743,1.84171e-06,rs74754867,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+9,29378733,G,A,0.705902,0.106582,0.0230168,3.64608e-06,rs12003375,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+10,11975968,C,A,0.0680921,-0.207088,0.0410064,4.41488e-07,rs72777711,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+10,111166364,A,C,0.0138859,0.428907,0.0887754,1.35596e-06,rs7921628,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+12,5278207,T,C,0.0191048,-0.37084,0.07514,8.00203e-07,rs117717775,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+14,95440104,G,A,0.506621,-0.0985256,0.0207928,2.15361e-06,rs910791,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+16,4812786,C,T,0.145243,-0.150418,0.029104,2.36227e-07,rs112036394,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG
+18,75882512,A,C,0.224749,-0.129424,0.0247293,1.662e-07,rs17058444,4588,Adenosine 5'-diphosphate (ADP) to glycerol 3-phosphate ratio,TRUE,reported,ZCZ5HG

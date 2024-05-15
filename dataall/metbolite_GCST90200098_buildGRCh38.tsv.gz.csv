@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27427062,G,T,0.433548,0.095074,0.0154043,6.74637e-10,rs1728911,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI
+9,105105569,T,C,0.311561,0.125436,0.0164304,2.269e-14,rs12352776,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI
+16,56956804,A,C,0.326169,0.0993477,0.0160626,6.20848e-10,rs247617,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI
+19,1026319,G,C,0.132281,-0.18493,0.0223058,1.12621e-16,rs10422209,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI
+19,1056493,C,G,0.825923,0.370376,0.0196507,3.05141e-79,rs3752246,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI
+22,42698926,G,T,0.0866869,-0.220611,0.0269099,2.44117e-16,rs28916570,8265,Ceramide (d18:1/24:1) levels,TRUE,reported,t0cFQI

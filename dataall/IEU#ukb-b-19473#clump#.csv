@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","samplesize.exposure","se.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"5",3.40017e-11,462933,0.00012824,110401872,0.000850001,"ukb-b-19473","rs1837253","C","T",0.739575,"Operation code: nasal polyp surgery / nasal polypectomy || id:ukb-b-19473",TRUE,"reported","igd"
+"6",2.69998e-09,462933,0.000113116,32585967,0.000672873,"ukb-b-19473","rs3104412","G","A",0.451664,"Operation code: nasal polyp surgery / nasal polypectomy || id:ukb-b-19473",TRUE,"reported","igd"
+"9",1.20005e-17,462933,0.000128598,6213468,0.00110041,"ukb-b-19473","rs7848215","T","C",0.262473,"Operation code: nasal polyp surgery / nasal polypectomy || id:ukb-b-19473",TRUE,"reported","igd"

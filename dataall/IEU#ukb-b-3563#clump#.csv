@@ -1,0 +1,4 @@
+"se.exposure","chr.exposure","pos.exposure","beta.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000483267,"6",32530029,0.00391561,460351,5.40008e-16,"ukb-b-3563","rs35175534","C","A",0.139981,"Vitamin and mineral supplements: Folic acid or Folate (Vit B9) || id:ukb-b-3563",TRUE,"reported","igd"
+0.000413399,"6",32574868,0.00424901,460351,8.80035e-25,"ukb-b-3563","rs7760841","T","C",0.173206,"Vitamin and mineral supplements: Folic acid or Folate (Vit B9) || id:ukb-b-3563",TRUE,"reported","igd"
+0.000551917,"6",32490292,0.00366018,460351,3.29989e-11,"ukb-b-3563","rs185320691","C","G",0.104184,"Vitamin and mineral supplements: Folic acid or Folate (Vit B9) || id:ukb-b-3563",TRUE,"reported","igd"

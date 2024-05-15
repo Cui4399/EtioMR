@@ -1,0 +1,3 @@
+"pval.exposure","samplesize.exposure","beta.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.83704e-08,190094,-0.0160086,0.00293335,"7",140905396,"ukb-d-2654_4","rs4726415","C","A",0.966127,"Non-butter spread type details: Soft (tub) margarine || id:ukb-d-2654_4",TRUE,"reported","igd"
+2.50398e-08,190094,-0.010663,0.00191325,"11",132151470,"ukb-d-2654_4","rs11222998","T","C",0.0851391,"Non-butter spread type details: Soft (tub) margarine || id:ukb-d-2654_4",TRUE,"reported","igd"

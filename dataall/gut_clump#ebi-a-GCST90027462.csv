@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,105122214,-0.180901,0.0391484,3.82085e-06,7738,ebi-a-GCST90027462,rs12638646,A,G,0.287611,ECASYN.PWY..enterobacterial.common.antigen.biosynthesis,TRUE,reported,igd
+7,74482794,0.260543,0.0564797,3.96835e-06,7738,ebi-a-GCST90027462,rs111457769,C,T,0.112372,ECASYN.PWY..enterobacterial.common.antigen.biosynthesis,TRUE,reported,igd
+14,85739848,0.164702,0.0347972,2.21014e-06,7738,ebi-a-GCST90027462,rs10220585,T,C,0.581202,ECASYN.PWY..enterobacterial.common.antigen.biosynthesis,TRUE,reported,igd
+16,65970728,0.164693,0.0347218,2.10354e-06,7738,ebi-a-GCST90027462,rs1094973,G,T,0.620845,ECASYN.PWY..enterobacterial.common.antigen.biosynthesis,TRUE,reported,igd

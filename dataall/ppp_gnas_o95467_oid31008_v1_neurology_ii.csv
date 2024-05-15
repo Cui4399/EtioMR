@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+20,58697666,rs6026450,G,A,0.0753894,1.44410908441613e-22,0.00771261,33874,0.632033,gnas_o95467_oid31008_v1_neurology_ii,TRUE,reported,gnas_o95467_oid31008_v1_neurology_ii,chr20,58839680,cis

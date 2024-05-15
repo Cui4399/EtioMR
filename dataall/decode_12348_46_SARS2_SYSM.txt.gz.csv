@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,38926800,rs7508539,A,G,-0.1091,1.341e-40,0.008178,35365,0.35986,SARS2_SYSM,TRUE,reported,SARS2_SYSM

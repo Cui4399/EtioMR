@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,661647,A,G,0.199817,-0.148619,0.0180013,1.50636e-16,rs2847153,8211,Arabonate/xylonate levels,TRUE,reported,NZ5LQu

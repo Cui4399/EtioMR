@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,135514751,rs56307603,C,T,-0.0917,9.566e-17,0.011035,35293,0.15132,LCN1_LCN1,TRUE,reported,LCN1_LCN1

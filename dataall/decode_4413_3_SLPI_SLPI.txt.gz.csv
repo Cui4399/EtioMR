@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,45137017,rs6104034,C,G,0.1079,9.983e-40,0.00818,35368,0.44496,SLPI_SLPI,TRUE,reported,SLPI_SLPI
+20,45307515,rs2743312,G,A,0.055,1.898e-11,0.008192,35369,0.48213,SLPI_SLPI,TRUE,reported,SLPI_SLPI

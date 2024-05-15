@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,96181298,C,T,0.722933,-0.0832226,0.017679,2.50855e-06,rs10171471,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+2,118888515,T,C,0.0281938,0.2162,0.0472924,4.84117e-06,rs72836123,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+2,143082974,G,A,0.0209539,-0.267559,0.0551049,1.20111e-06,rs72849177,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+2,211050198,A,G,0.0130221,0.330149,0.0694143,1.97268e-06,rs150967138,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+6,50357582,A,G,0.420506,0.0748798,0.016258,4.11053e-06,rs2131280,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+12,21259509,C,T,0.161278,0.105594,0.0213995,8.03897e-07,rs11519068,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+12,122976570,A,G,0.105399,-0.11798,0.0253981,3.39689e-06,rs117913606,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+15,89059553,GA,G,0.0167319,-0.307007,0.0616406,6.33914e-07,rs201272331,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK
+20,53142382,C,A,0.0833228,0.150881,0.0284231,1.10599e-07,rs1293417,7990,Branched chain 14:0 dicarboxylic acid levels,TRUE,reported,JsNYNK

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46932824,G,A,0.125154,-0.251503,0.023906,6.95003e-26,rs1126742,7325,3-hydroxysebacate levels,TRUE,reported,IUO8IY
+1,151896416,T,C,0.603252,0.103358,0.0161578,1.58688e-10,rs7542137,7325,3-hydroxysebacate levels,TRUE,reported,IUO8IY

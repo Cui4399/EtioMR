@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,109509517,rs2570972,G,A,0.0458459,4.09920841877005e-09,0.00779674,33017,0.522258,amigo1_q86wk6_oid30881_v1_neurology_ii,TRUE,reported,amigo1_q86wk6_oid30881_v1_neurology_ii,chr1,109509751,cis

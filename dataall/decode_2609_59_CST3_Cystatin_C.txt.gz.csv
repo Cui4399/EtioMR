@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,22999085,rs11698314,C,G,0.129,1.835e-09,0.021458,35368,0.03949,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23143617,rs143012489,A,G,-0.2327,9.315e-10,0.038018,35365,0.01104,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23438309,rs113942535,T,C,0.174,1.046e-13,0.023403,35365,0.03247,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23555201,rs2983613,C,T,0.0823,2.939e-23,0.008284,35365,0.48949,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23641629,rs6114209,C,G,-0.2537,1.315e-138,0.010123,35364,0.21042,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23747098,rs4331584,A,G,0.149,7.249e-27,0.013884,35363,0.09642,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23890945,rs143110459,A,G,-0.1731,3.251e-08,0.031317,35363,0.01778,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,23937492,rs78996714,A,T,0.0884,3.084e-09,0.014915,35363,0.08352,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C
+20,24337740,rs6049609,G,C,0.0528,3.123e-08,0.00954,35366,0.25013,CST3_Cystatin_C,TRUE,reported,CST3_Cystatin_C

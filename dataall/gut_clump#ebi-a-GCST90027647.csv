@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,1655928,-0.0883236,0.0189977,3.33288e-06,7738,ebi-a-GCST90027647,rs28649027,C,G,0.544092,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd
+2,208644421,0.0859517,0.0187576,4.60023e-06,7738,ebi-a-GCST90027647,rs55893824,A,G,0.433644,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd
+6,94840308,-0.105928,0.0221483,1.72962e-06,7738,ebi-a-GCST90027647,rs1990421,C,A,0.159073,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd
+7,90567086,-0.177216,0.0372395,1.94729e-06,7738,ebi-a-GCST90027647,rs17399145,A,G,0.0504756,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd
+10,123432188,0.14852,0.0274396,6.21112e-08,7738,ebi-a-GCST90027647,rs2935713,A,G,0.0961512,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd
+22,50742611,-0.0770407,0.0167241,4.09383e-06,7738,ebi-a-GCST90027647,rs62241211,A,C,0.413385,TRPSYN.PWY..L.tryptophan.biosynthesis,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,78739730,A,G,0.0234151,-0.376104,0.0686687,4.32386e-08,rs74802261,4544,Adenosine 5'-diphosphate (ADP) to glycerate ratio,TRUE,reported,u2yHKb

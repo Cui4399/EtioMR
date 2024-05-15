@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,5975592,rs8177639,GA,G,-0.0548,2.305e-11,0.008197,35359,0.38371,IL15RA_IL_15_Ra,TRUE,reported,IL15RA_IL_15_Ra

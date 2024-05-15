@@ -1,0 +1,4 @@
+"pos.exposure","pval.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+60550041,3.59998e-08,0.000767447,0.00422764,245364,"5","ukb-b-15787","rs6868457","C","T",0.478759,"Transport type for commuting to job workplace: Cycle || id:ukb-b-15787",TRUE,"reported","igd"
+133154905,2.19999e-08,0.000849058,-0.004752,245364,"10","ukb-b-15787","rs4751365","A","G",0.716961,"Transport type for commuting to job workplace: Cycle || id:ukb-b-15787",TRUE,"reported","igd"
+2291863,1.7e-08,0.000762179,-0.00430024,245364,"17","ukb-b-15787","rs898751","T","C",0.49263,"Transport type for commuting to job workplace: Cycle || id:ukb-b-15787",TRUE,"reported","igd"

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,207610744,-0.117675,0.0253206,3.36132e-06,7738,ebi-a-GCST90027553,rs111866871,G,A,0.110014,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+3,130974258,-0.120097,0.025172,1.83274e-06,7738,ebi-a-GCST90027553,rs76005509,A,C,0.118369,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+3,52996874,-0.160748,0.0346118,3.41209e-06,7738,ebi-a-GCST90027553,rs73087038,C,T,0.0592312,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+4,59022589,-0.11528,0.024976,3.91913e-06,7738,ebi-a-GCST90027553,rs74537816,C,T,0.1229,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+7,43488465,0.103612,0.0217181,1.83527e-06,7738,ebi-a-GCST90027553,rs11764255,A,C,0.168117,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+9,72608112,0.175471,0.0349066,4.98551e-07,7738,ebi-a-GCST90027553,rs1565690,A,G,0.0589198,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+15,45043103,-0.141827,0.029441,1.45499e-06,7738,ebi-a-GCST90027553,rs2899122,G,T,0.915703,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd
+19,34535507,-0.0785661,0.0169563,3.59633e-06,7738,ebi-a-GCST90027553,rs10409224,G,A,0.354823,PWY.5667..CDP.diacylglycerol.biosynthesis.I,TRUE,reported,igd

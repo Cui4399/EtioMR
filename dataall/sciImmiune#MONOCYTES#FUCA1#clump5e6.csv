@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",24219374,"rs6424130","T","C",1.16643501991e-07,0.835180935789,0.157620595342676,89,"Classical monocyte#FUCA1",TRUE,"reported","TSqur3",NA

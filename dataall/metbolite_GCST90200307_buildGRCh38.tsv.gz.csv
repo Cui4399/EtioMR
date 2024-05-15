@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,206609029,G,A,0.0150079,0.325186,0.0577686,1.81142e-08,rs77026520,8264,Urate levels,TRUE,reported,4sFDc0
+4,9982917,T,G,0.742994,0.27233,0.015667,1.12209e-67,rs9994216,8264,Urate levels,TRUE,reported,4sFDc0
+4,88131171,T,G,0.110586,0.139562,0.0223072,3.93992e-10,rs2231142,8264,Urate levels,TRUE,reported,4sFDc0
+11,64597394,T,C,0.410342,-0.0843752,0.01452,6.21204e-09,rs12363578,8264,Urate levels,TRUE,reported,4sFDc0
+12,114021156,T,G,0.0175907,-0.293176,0.0533369,3.86991e-08,rs144853353,8264,Urate levels,TRUE,reported,4sFDc0

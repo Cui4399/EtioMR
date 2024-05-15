@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,20593951,rs1263882,A,G,0.094612,3.13841232021468e-10,0.0150374,32855,0.932925,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20631753,rs71410236,A,G,0.144314,1.01461201286958e-12,0.0202445,32855,0.038136,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20646403,rs10146061,G,A,-0.128434,2.24491550756958e-36,0.010197,32855,0.176852,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20653428,rs116849224,T,G,-0.154372,6.49082649131842e-13,0.0214712,32855,0.0303455,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20678425,rs12588573,T,C,-0.36502,1e-200,0.00901944,32855,0.217668,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20702257,rs28803877,G,C,-0.13832,5.61177176977313e-54,0.00894173,32855,0.723249,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis
+14,20712323,rs61976901,T,C,-0.17146,1.92881244715642e-10,0.0269298,32855,0.0190991,rnase4_p34096_oid30705_v1_inflammation_ii,TRUE,reported,rnase4_p34096_oid30705_v1_inflammation_ii,chr14,20684212,cis

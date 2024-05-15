@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,230022412,A,G,0.0689697,-0.137069,0.0290366,2.35192e-06,rs143706129,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+3,47628057,T,A,0.643875,-0.0849002,0.0156881,6.24079e-08,rs12497825,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+4,163033822,T,A,0.0500065,0.177008,0.0352937,5.29535e-07,rs74359901,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+4,177427940,T,C,0.862271,0.102039,0.0218555,3.02988e-06,rs6552232,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+7,89354866,T,G,0.0752406,-0.128829,0.027813,3.62176e-06,rs75198642,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+9,111683067,T,C,0.405895,0.068794,0.01507,4.99587e-06,rs7040332,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+12,24993537,C,G,0.0199952,0.241635,0.0526605,4.46364e-06,rs79507970,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+12,70769855,A,G,0.0650243,0.148504,0.0300645,7.83149e-07,rs180670669,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+18,49542767,G,A,0.0281409,0.215489,0.0441628,1.06394e-06,rs28468489,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW
+19,56248382,A,G,0.0624007,-0.148922,0.0304113,9.73395e-07,rs113915691,8282,10-heptadecenoate (17:1n7) levels,TRUE,reported,fz88RW

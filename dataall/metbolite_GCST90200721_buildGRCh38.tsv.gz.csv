@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,120528585,A,G,0.131787,0.146017,0.0303368,1.48547e-06,rs56946198,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+7,119632797,A,G,0.17216,-0.129335,0.0272972,2.15807e-06,rs10236510,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+9,7908256,T,C,0.0866756,0.172705,0.0374159,3.91537e-06,rs66628241,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+9,29378733,G,A,0.705335,0.106504,0.0230878,3.96946e-06,rs12003375,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+12,5278207,T,C,0.0191167,-0.345769,0.075364,4.4755e-06,rs117717775,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+16,4812786,C,T,0.145953,-0.138248,0.0291792,2.15967e-06,rs112036394,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+17,54664475,A,T,0.843446,0.140949,0.0289732,1.14575e-06,rs1530382,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+17,79155794,G,C,0.0369615,0.26448,0.0563985,2.73889e-06,rs143031595,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx
+21,42119054,T,C,0.0506482,-0.215726,0.04723,4.93443e-06,rs76209394,4559,Adenosine 5'-diphosphate (ADP) to phosphate ratio,TRUE,reported,vNvRTx

@@ -1,0 +1,3 @@
+"samplesize.exposure","chr.exposure","pval.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,"3",8.19993e-09,153478423,0.00147815,0.00025642,"ukb-b-12499","rs6794649","C","G",0.158599,"Operative procedures - secondary OPCS: Y53.9 Unspecified approach to organ under image control || id:ukb-b-12499",TRUE,"reported","igd"
+463010,"17",4.49997e-09,55999801,-0.00120409,0.000205253,"ukb-b-12499","rs17762386","T","A",0.295066,"Operative procedures - secondary OPCS: Y53.9 Unspecified approach to organ under image control || id:ukb-b-12499",TRUE,"reported","igd"

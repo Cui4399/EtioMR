@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,88235091,T,A,0.817279,0.130329,0.0196438,3.25275e-11,rs6666727,8255,2-hydroxy-4-(methylthio)butanoic acid levels,TRUE,reported,MEKnDB
+1,88960577,C,T,0.493491,-0.436372,0.0142751,1e-200,rs2765527,8255,2-hydroxy-4-(methylthio)butanoic acid levels,TRUE,reported,MEKnDB
+1,171358489,C,T,0.320929,-0.121753,0.0159879,2.63037e-14,rs6425192,8255,2-hydroxy-4-(methylthio)butanoic acid levels,TRUE,reported,MEKnDB
+11,18288902,C,T,0.539916,-0.170109,0.0148559,2.33439e-30,rs10766467,8255,2-hydroxy-4-(methylthio)butanoic acid levels,TRUE,reported,MEKnDB

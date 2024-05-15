@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88318340,A,G,0.271368,0.078839,0.0169835,3.44885e-06,rs1545207,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+4,114491199,C,T,0.0206581,-0.25073,0.0532748,2.52191e-06,rs142259271,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+6,41187262,A,G,0.295725,0.0787,0.0168007,2.80889e-06,rs2093396,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+7,81277702,T,C,0.0194972,-0.257185,0.0554186,3.47114e-06,rs2262987,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+10,127440444,T,G,0.851255,0.114498,0.0217957,1.49465e-07,rs4750884,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+10,131186308,C,T,0.057824,0.150127,0.0326758,4.33918e-06,rs115001093,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+11,103682757,G,C,0.452498,0.0720025,0.0153252,2.62334e-06,rs7945555,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+12,112336259,G,C,0.0706026,0.140459,0.0297227,2.29385e-06,rs144763366,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+14,100550230,G,A,0.402112,-0.078182,0.0159602,9.65384e-07,rs10133357,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+16,24836460,C,T,0.119315,-0.115079,0.0234391,9.1215e-07,rs73551580,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6
+20,5939447,T,C,0.0150569,-0.283663,0.0616001,4.12641e-06,rs187860960,8238,2-aminoheptanoate levels,TRUE,reported,dgPHM6

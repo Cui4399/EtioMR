@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",103611533,"rs227367","A","T",2.64183370875e-10,0.938979436612,0.148608917190358,89,"TREG_NAIVE#MANBA",TRUE,"reported","loz6f9",NA

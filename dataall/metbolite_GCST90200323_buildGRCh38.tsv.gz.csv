@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309685,0.20419,0.0151579,2.32241e-41,rs1047891,8285,Creatine levels,TRUE,reported,dLRdVY
+15,45362129,G,A,0.364685,0.107918,0.0146647,1.85239e-13,rs1145086,8285,Creatine levels,TRUE,reported,dLRdVY

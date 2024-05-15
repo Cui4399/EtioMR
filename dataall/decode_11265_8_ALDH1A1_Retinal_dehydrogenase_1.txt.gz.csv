@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,72693119,rs5898267,CAAAAAAAAAAAAAAAAAGT,CAAAAAAAAAAAAAAAGT,0.1119,5.768e-09,0.019216,35344,0.04758,ALDH1A1_Retinal_dehydrogenase_1,TRUE,reported,ALDH1A1_Retinal_dehydrogenase_1
+9,72938469,rs348452,T,C,0.1035,1.372e-27,0.009509,35348,0.23989,ALDH1A1_Retinal_dehydrogenase_1,TRUE,reported,ALDH1A1_Retinal_dehydrogenase_1

@@ -1,0 +1,4 @@
+samplesize.exposure,pval.exposure,beta.exposure,se.exposure,chr.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3629,9.91791e-10,0.1517,0.02476,2,182323766,ebi-a-GCST90001582,rs1375493,A,G,0.3781,CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582,TRUE,reported,igd
+3629,1.36301e-09,-0.1822,0.02999,7,92408370,ebi-a-GCST90001582,rs445,T,C,0.1941,CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582,TRUE,reported,igd
+3629,1.16001e-09,-0.1487,0.02438,9,113901309,ebi-a-GCST90001582,rs2418135,A,G,0.5236,CD14+ CD16- monocyte Absolute Count || id:ebi-a-GCST90001582,TRUE,reported,igd

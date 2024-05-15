@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",150729793,"rs12568757","G","A",2.34428141537e-09,-0.786389734927,0.131680466630374,89,"NK#ARNT",TRUE,"reported","dALOOr",NA

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,53233693,C,G,0.064277,0.200481,0.0283739,1.5985e-12,rs114030816,8198,Erythronate levels,TRUE,reported,O8qmHY
+3,53243774,C,A,0.123148,-0.207994,0.0211326,7.39613e-23,rs62255992,8198,Erythronate levels,TRUE,reported,O8qmHY
+4,76489948,A,C,0.525138,0.0771329,0.0139792,3.43499e-08,rs10029860,8198,Erythronate levels,TRUE,reported,O8qmHY
+14,90676435,T,C,0.290373,0.0860267,0.0156007,3.50183e-08,rs1077697,8198,Erythronate levels,TRUE,reported,O8qmHY

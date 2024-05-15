@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,161965055,A,G,0.0121097,-0.380998,0.0711268,8.48033e-08,rs143696406,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+3,185757918,G,A,0.663822,0.0794618,0.0166207,1.74516e-06,rs11925694,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+5,37917816,C,T,0.0838304,-0.139132,0.0282545,8.46825e-07,rs56053960,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+7,40759027,T,G,0.0480392,0.171404,0.0362419,2.25145e-06,rs79207887,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+7,157759675,C,G,0.0785027,0.138647,0.0291262,1.93378e-06,rs1638756,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+8,49757743,C,T,0.0429114,0.174107,0.0379519,4.48427e-06,rs34208684,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+12,95380896,G,C,0.131479,0.110181,0.0230691,1.78703e-06,rs112647662,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+14,74008147,T,A,0.348703,-0.084599,0.0161621,1.65505e-07,rs4899488,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+15,56470964,G,A,0.0674033,-0.147989,0.0312341,2.15785e-06,rs16976919,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+16,57034136,T,C,0.249404,0.0831824,0.0181086,4.35835e-06,rs4784753,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+17,81413692,G,C,0.983454,0.284413,0.0621827,4.78869e-06,rs6565566,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH
+19,12530305,A,G,0.117316,-0.112427,0.0242496,3.54834e-06,rs74931926,8177,3-hydroxyisobutyrate levels,TRUE,reported,28JkvH

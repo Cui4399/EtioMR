@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,47543124,A,C,0.176816,0.310981,0.0194636,1.83176e-57,rs35818294,8251,"Glycosyl ceramide (d18:2/24:1, d18:1/24:2) levels",TRUE,reported,UZNnOy
+4,48026772,G,A,0.356942,0.12248,0.0155038,2.78844e-15,rs6811245,8251,"Glycosyl ceramide (d18:2/24:1, d18:1/24:2) levels",TRUE,reported,UZNnOy
+9,35739879,A,G,0.425176,0.0907182,0.0151191,1.97012e-09,rs3750434,8251,"Glycosyl ceramide (d18:2/24:1, d18:1/24:2) levels",TRUE,reported,UZNnOy
+15,58384622,A,G,0.295544,0.0947104,0.0163674,7.18597e-09,rs11858759,8251,"Glycosyl ceramide (d18:2/24:1, d18:1/24:2) levels",TRUE,reported,UZNnOy

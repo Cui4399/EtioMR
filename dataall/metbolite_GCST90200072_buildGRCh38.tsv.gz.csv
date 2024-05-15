@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,89705857,A,G,0.100431,-0.146859,0.0257235,1.13541e-08,rs149082870,8226,Thioproline levels,TRUE,reported,h8hIWy
+22,37073551,A,G,0.540404,-0.0949954,0.0153413,5.93506e-10,rs4820268,8226,Thioproline levels,TRUE,reported,h8hIWy

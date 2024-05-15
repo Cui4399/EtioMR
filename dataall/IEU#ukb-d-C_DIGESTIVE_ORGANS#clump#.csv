@@ -1,0 +1,3 @@
+"se.exposure","pval.exposure","samplesize.exposure","pos.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00131565,2.90904e-09,361194,28513403,0.00781074,"3","ukb-d-C_DIGESTIVE_ORGANS","rs139372065","G","T",0.0130617,"Cancer of digestive organs || id:ukb-d-C_DIGESTIVE_ORGANS",TRUE,"reported","igd"
+0.000292015,4.23019e-10,361194,128413305,-0.00182377,"8","ukb-d-C_DIGESTIVE_ORGANS","rs6983267","T","G",0.481024,"Cancer of digestive organs || id:ukb-d-C_DIGESTIVE_ORGANS",TRUE,"reported","igd"

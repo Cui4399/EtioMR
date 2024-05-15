@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46405089,A,C,0.209363,0.135759,0.0188026,5.18994e-13,rs324420,8106,"Cis-3,4-methyleneheptanoylglycine levels",TRUE,reported,ySAII4
+1,75701355,T,C,0.57722,-0.085254,0.0154993,3.78736e-08,rs7551136,8106,"Cis-3,4-methyleneheptanoylglycine levels",TRUE,reported,ySAII4
+2,210675783,A,C,0.310938,0.386311,0.0160956,2.70763e-127,rs1047891,8106,"Cis-3,4-methyleneheptanoylglycine levels",TRUE,reported,ySAII4
+11,67592132,G,T,0.571464,-0.140846,0.0153354,4.13903e-20,rs596603,8106,"Cis-3,4-methyleneheptanoylglycine levels",TRUE,reported,ySAII4

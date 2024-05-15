@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,102520427,rs34395285,TTG,G,0.3329,9.778e-10,0.054458,35363,0.00541,IGF1_IGF_I,TRUE,reported,IGF1_IGF_I

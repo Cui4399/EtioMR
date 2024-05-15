@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,96078826,0.0987951,0.0213109,3.55386e-06,7738,ebi-a-GCST90027469,rs4472353,C,T,0.822923,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+13,71905552,0.0832796,0.0178178,2.95461e-06,7738,ebi-a-GCST90027469,rs12859492,C,T,0.30745,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+15,58688478,0.110506,0.0239977,4.12781e-06,7738,ebi-a-GCST90027469,rs920917,C,A,0.134139,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+15,98902733,-0.0838417,0.0183223,4.74078e-06,7738,ebi-a-GCST90027469,rs7182175,T,A,0.73131,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+17,59552449,0.0964075,0.0192844,5.75559e-07,7738,ebi-a-GCST90027469,rs8079753,A,G,0.24166,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+20,38862775,0.122387,0.0260522,2.63039e-06,7738,ebi-a-GCST90027469,rs6065218,G,A,0.148047,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+20,50415961,-0.171166,0.0373321,4.54057e-06,7738,ebi-a-GCST90027469,rs79676117,C,A,0.0501703,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd
+22,37346295,0.0844728,0.0178876,2.33056e-06,7738,ebi-a-GCST90027469,rs5756419,A,T,0.293243,GALACT.GLUCUROCAT.PWY..superpathway.of.hexuronide.and.hexuronate.degradation,TRUE,reported,igd

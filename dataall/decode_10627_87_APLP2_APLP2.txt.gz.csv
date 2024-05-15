@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,130069495,rs73583419,A,C,0.2786,2.64e-63,0.016588,35359,0.06312,APLP2_APLP2,TRUE,reported,APLP2_APLP2
+11,130632061,rs113096785,A,G,-0.3421,1.084e-08,0.059839,35357,0.00477,APLP2_APLP2,TRUE,reported,APLP2_APLP2
+11,130749336,rs143187715,A,T,-0.4685,1.558e-13,0.063464,35355,0.00444,APLP2_APLP2,TRUE,reported,APLP2_APLP2

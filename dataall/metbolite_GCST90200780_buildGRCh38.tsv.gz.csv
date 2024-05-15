@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,236511530,G,C,0.272246,-0.0831188,0.0177153,2.70652e-06,rs10925153,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+3,6101861,C,T,0.0374894,-0.202508,0.0405886,6.06033e-07,rs148175636,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+3,78088221,C,T,0.044164,-0.175914,0.0374458,2.62941e-06,rs73120178,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+4,48030694,C,T,0.159469,-0.102102,0.0212127,1.48488e-06,rs11735283,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+4,71358036,T,C,0.746008,-0.0858257,0.0182086,2.4353e-06,rs4074380,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+4,138685339,T,A,0.0200593,0.254865,0.0553627,4.15331e-06,rs142849401,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+6,18739240,C,A,0.0706435,-0.141519,0.0304316,3.31294e-06,rs76476213,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+6,44260014,A,C,0.1358,-0.102817,0.022393,4.40126e-06,rs12211448,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+6,130582459,A,T,0.629916,0.0867632,0.016899,2.83306e-07,rs4897440,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+15,66299517,A,G,0.0440332,0.193151,0.0380421,3.82825e-07,rs147992177,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+17,35349522,T,C,0.01417,0.30428,0.066307,4.45482e-06,rs79888339,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+20,48741947,C,T,0.235475,-0.0875816,0.0184448,2.05121e-06,rs34316626,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa
+21,40444268,A,G,0.705967,0.0832144,0.0177682,2.8223e-06,rs2142077,8250,Alanine to pyruvate ratio,TRUE,reported,05wwOa

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,77782761,0.0845949,0.0169102,5.65601e-07,7738,ebi-a-GCST90027546,rs7514177,A,G,0.367239,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+2,160386220,0.0920807,0.0185967,7.36614e-07,7738,ebi-a-GCST90027546,rs56328422,C,T,0.27704,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+5,171336723,-0.0747935,0.0161242,3.50776e-06,7738,ebi-a-GCST90027546,rs6883971,A,G,0.500646,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+7,141651531,-0.184124,0.0397468,3.61427e-06,7738,ebi-a-GCST90027546,rs10259110,C,A,0.0537457,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+7,34661703,0.132395,0.0288909,4.5924e-06,7738,ebi-a-GCST90027546,rs6955039,A,G,0.0870727,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+8,49075440,-0.15161,0.0309735,9.83875e-07,7738,ebi-a-GCST90027546,rs11784752,G,C,0.0773139,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+17,25944596,0.0874016,0.0174958,5.86611e-07,7738,ebi-a-GCST90027546,rs4268811,C,A,0.332946,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd
+20,40986511,-0.093531,0.0188279,6.77563e-07,7738,ebi-a-GCST90027546,rs4810354,A,G,0.727515,PWY.5188..tetrapyrrole.biosynthesis.I..from.glutamate.,TRUE,reported,igd

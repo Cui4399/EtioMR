@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,208805883,-0.139313,0.0286852,1.1941e-06,7738,ebi-a-GCST90027619,rs2404677,C,T,0.785662,PWY.7254..TCA.cycle.VII..acetate.producers.,TRUE,reported,igd
+1,48103027,-0.12878,0.0256964,5.39809e-07,7738,ebi-a-GCST90027619,rs2457055,A,G,0.307426,PWY.7254..TCA.cycle.VII..acetate.producers.,TRUE,reported,igd
+3,8887433,-0.216991,0.047385,4.66487e-06,7738,ebi-a-GCST90027619,rs34467156,T,C,0.0715044,PWY.7254..TCA.cycle.VII..acetate.producers.,TRUE,reported,igd
+13,32987186,0.143273,0.0307305,3.12802e-06,7738,ebi-a-GCST90027619,rs629769,G,A,0.817266,PWY.7254..TCA.cycle.VII..acetate.producers.,TRUE,reported,igd

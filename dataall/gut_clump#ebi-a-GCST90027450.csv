@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,87954542,0.0858857,0.0185528,3.66978e-06,7738,ebi-a-GCST90027450,rs10873850,G,A,0.2783,ARO.PWY..chorismate.biosynthesis.I,TRUE,reported,igd
+7,98159418,0.153028,0.0333575,4.48528e-06,7738,ebi-a-GCST90027450,rs1093520,G,T,0.915857,ARO.PWY..chorismate.biosynthesis.I,TRUE,reported,igd
+11,130442661,0.0827921,0.0180027,4.24766e-06,7738,ebi-a-GCST90027450,rs61915762,A,G,0.275511,ARO.PWY..chorismate.biosynthesis.I,TRUE,reported,igd
+15,95979517,-0.148269,0.0312705,2.12158e-06,7738,ebi-a-GCST90027450,rs62018962,A,C,0.0988924,ARO.PWY..chorismate.biosynthesis.I,TRUE,reported,igd
+22,47369660,0.0964705,0.0202552,1.90963e-06,7738,ebi-a-GCST90027450,rs136110,C,T,0.208243,ARO.PWY..chorismate.biosynthesis.I,TRUE,reported,igd

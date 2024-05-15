@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132387259,T,C,0.407356,0.100869,0.0158486,1.95866e-10,rs274555,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+6,160093251,G,A,0.0758884,-0.163483,0.0287823,1.34704e-08,rs80254170,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+6,160143444,G,C,0.176544,-0.200117,0.0201207,2.62954e-23,rs662138,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+10,59707424,T,G,0.768613,0.216835,0.018523,1.18367e-31,rs1171617,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+12,119765917,C,T,0.774628,0.134678,0.0182832,1.75563e-13,rs203326,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+12,120433950,C,T,0.390359,-0.199246,0.0158194,2.24856e-36,rs2516078,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+12,120720048,G,A,0.394233,0.583869,0.0145865,1e-200,rs3752531,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+12,121081295,C,A,0.0917363,0.178401,0.0267863,2.7354e-11,rs12809185,8111,Carnitine C4 levels,TRUE,reported,dRa8SH
+12,121114221,T,C,0.0179481,0.385428,0.0575403,2.10703e-11,rs71454677,8111,Carnitine C4 levels,TRUE,reported,dRa8SH

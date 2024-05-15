@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,182403922,rs187665343,G,T,-0.5653,3.079e-31,0.048628,35359,0.00681,DNAJC10_DJC10,TRUE,reported,DNAJC10_DJC10
+2,182597170,rs34121158,TT,AT,-0.2161,8.119e-18,0.025134,35360,0.0248,DNAJC10_DJC10,TRUE,reported,DNAJC10_DJC10
+2,182762456,rs72898732,T,C,-0.257,5.377e-22,0.026658,35361,0.02172,DNAJC10_DJC10,TRUE,reported,DNAJC10_DJC10

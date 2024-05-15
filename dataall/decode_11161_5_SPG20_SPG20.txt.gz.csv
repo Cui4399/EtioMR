@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,36345381,rs41306019,C,T,-0.0606,3.273e-09,0.010241,35359,0.19226,SPG20_SPG20,TRUE,reported,SPG20_SPG20

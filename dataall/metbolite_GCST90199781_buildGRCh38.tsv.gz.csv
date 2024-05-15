@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75677758,G,A,0.312542,-0.280778,0.0188464,3.38415e-50,rs7513363,6015,Hexanoylglycine levels,TRUE,reported,vr3TCO
+2,210675783,A,C,0.333361,0.325618,0.018865,9.34452e-67,rs1047891,6015,Hexanoylglycine levels,TRUE,reported,vr3TCO

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,13769091,C,T,0.0242852,-0.272418,0.0594151,4.53986e-06,rs41269797,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+1,212096869,A,G,0.947218,-0.198352,0.0406836,1.08542e-06,rs7535988,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+3,122339026,C,T,0.0908066,0.17349,0.0316382,4.16876e-08,rs12491981,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+4,54498742,G,A,0.0555365,-0.181555,0.0393386,3.9275e-06,rs77128843,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+4,97067683,C,T,0.312771,-0.097394,0.0195175,6.03517e-07,rs10016748,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+10,126702362,G,C,0.353577,-0.0959114,0.0197206,1.15325e-06,rs10901664,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+10,132108586,A,G,0.0964187,-0.164628,0.0308611,9.58254e-08,rs78074146,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+16,63897753,C,T,0.705768,-0.096234,0.0203326,2.21234e-06,rs322566,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1
+17,21458773,G,A,0.0221497,0.285347,0.0614467,3.42049e-06,rs12938103,5831,Glucuronide of C12H22O4 (1) levels,TRUE,reported,mjHef1

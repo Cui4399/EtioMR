@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132358913,A,G,0.619835,-0.179927,0.0151695,1.88579e-32,rs273900,8266,Isovalerylcarnitine (C5) levels,TRUE,reported,LcZPV9
+10,59708831,T,G,0.769846,0.100664,0.0180052,2.26014e-08,rs1171616,8266,Isovalerylcarnitine (C5) levels,TRUE,reported,LcZPV9
+12,120742216,C,T,0.264806,0.103185,0.0168317,8.76453e-10,rs34708625,8266,Isovalerylcarnitine (C5) levels,TRUE,reported,LcZPV9
+15,40412960,C,T,0.383907,-0.170244,0.0151609,2.93331e-29,rs2289329,8266,Isovalerylcarnitine (C5) levels,TRUE,reported,LcZPV9

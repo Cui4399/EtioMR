@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,48613500,rs443527,CGGG,CGGC,0.0728,1.09e-14,0.00942,35375,0.24352,SPHK2_SPHK2,TRUE,reported,SPHK2_SPHK2

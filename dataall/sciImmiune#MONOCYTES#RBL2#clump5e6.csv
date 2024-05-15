@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"16",53501946,"rs4281707","G","A",7.46245211256e-08,-0.778342807102,0.144682389972857,89,"Classical monocyte#RBL2",TRUE,"reported","HoWsDA",NA

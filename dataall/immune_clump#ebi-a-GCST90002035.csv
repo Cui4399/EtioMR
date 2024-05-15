@@ -1,0 +1,5 @@
+pos.exposure,samplesize.exposure,beta.exposure,pval.exposure,chr.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+92842367,2871,-0.5725,8.24328e-19,1,0.0642,ebi-a-GCST90002035,rs139795227,C,A,0.0479,CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035,TRUE,reported,igd
+161526397,2871,0.3323,1.06194e-25,1,0.0314,ebi-a-GCST90002035,rs71632979,G,A,0.2457,CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035,TRUE,reported,igd
+52528000,2871,0.4055,4.79181e-19,3,0.04516,ebi-a-GCST90002035,rs6787493,C,T,0.8955,CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035,TRUE,reported,igd
+90850164,2871,0.1995,1.16708e-12,6,0.02793,ebi-a-GCST90002035,rs2325259,C,T,0.4422,CD80 on myeloid Dendritic Cell || id:ebi-a-GCST90002035,TRUE,reported,igd

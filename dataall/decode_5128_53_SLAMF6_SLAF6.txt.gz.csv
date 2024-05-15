@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,160493616,rs12137007,G,A,-0.2124,2.341e-91,0.010478,35350,0.17654,SLAMF6_SLAF6,TRUE,reported,SLAMF6_SLAF6
+1,160501704,rs202227947,TTTTTTTTTTTG,TTTTTTTTTTG,0.0582,4.127e-10,0.009313,35345,0.25313,SLAMF6_SLAF6,TRUE,reported,SLAMF6_SLAF6
+1,160549623,rs3766385,T,C,0.0656,1.645e-12,0.00929,35356,0.24718,SLAMF6_SLAF6,TRUE,reported,SLAMF6_SLAF6

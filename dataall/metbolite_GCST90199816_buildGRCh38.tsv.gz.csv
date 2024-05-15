@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,66467907,A,G,0.476067,-0.177311,0.0145974,5.97085e-34,rs2719004,8142,"3,4-dihydroxybutyrate levels",TRUE,reported,fgyczZ

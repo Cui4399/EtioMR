@@ -1,0 +1,4 @@
+"beta.exposure","se.exposure","chr.exposure","samplesize.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00210759,0.000333748,"6",361194,25787269,2.70645e-10,"ukb-d-IV_ENDOCRIN_NUTRIT","rs373698690","G","GAAAT",0.425516,"Endocrine, nutritional and metabolic diseases || id:ukb-d-IV_ENDOCRIN_NUTRIT",TRUE,"reported","igd"
+0.0116025,0.000611906,"6",361194,26093141,3.90032e-80,"ukb-d-IV_ENDOCRIN_NUTRIT","rs1800562","A","G",0.0787931,"Endocrine, nutritional and metabolic diseases || id:ukb-d-IV_ENDOCRIN_NUTRIT",TRUE,"reported","igd"
+0.00372964,0.000358434,"6",361194,32626272,2.36265e-25,"ukb-d-IV_ENDOCRIN_NUTRIT","rs9273363","A","C",0.303835,"Endocrine, nutritional and metabolic diseases || id:ukb-d-IV_ENDOCRIN_NUTRIT",TRUE,"reported","igd"

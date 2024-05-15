@@ -1,0 +1,3 @@
+"pos.exposure","se.exposure","pval.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+190381931,0.000264127,3.29997e-08,463010,-0.00145855,"2","ukb-b-19469","rs4417750","T","C",0.875151,"PCT where patients GP was registered: BOLTON PCT || id:ukb-b-19469",TRUE,"reported","igd"
+82475476,0.000231052,2e-08,463010,0.00129601,"4","ukb-b-19469","rs55905560","T","C",0.180724,"PCT where patients GP was registered: BOLTON PCT || id:ukb-b-19469",TRUE,"reported","igd"

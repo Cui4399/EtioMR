@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0021504,0.0125269,"2",5.71808e-09,91149,127447475,"ukb-d-22617_5241","rs28369995","C","T",0.0145164,"Job SOC coding: Electricians, electrical fitters || id:ukb-d-22617_5241",TRUE,"reported","igd"
+0.0014914,0.00853223,"21",1.06255e-08,91149,38097501,"ukb-d-22617_5241","rs2854045","G","A",0.0303871,"Job SOC coding: Electricians, electrical fitters || id:ukb-d-22617_5241",TRUE,"reported","igd"

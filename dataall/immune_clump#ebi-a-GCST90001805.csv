@@ -1,0 +1,8 @@
+se.exposure,chr.exposure,pos.exposure,pval.exposure,samplesize.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.05333,3,32533246,1.49211e-35,3657,0.6708,ebi-a-GCST90001805,rs35574803,C,T,0.0562,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.07713,3,32924804,2.94598e-08,3657,0.4286,ebi-a-GCST90001805,rs56237381,A,G,0.0272,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.06803,3,32945761,1.567e-10,3657,0.4366,ebi-a-GCST90001805,rs75918255,A,G,0.035,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.03344,12,6554628,2.12902e-10,3657,-0.213,ebi-a-GCST90001805,rs25680,A,G,0.1671,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.03761,12,6605299,1.11199e-11,3657,0.2563,ebi-a-GCST90001805,rs147714617,T,C,0.1224,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.0249,20,44746982,1.87802e-87,3657,-0.5071,ebi-a-GCST90001805,rs1883832,C,T,0.6318,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd
+0.0725,20,45314435,1.77198e-08,3657,-0.4093,ebi-a-GCST90001805,rs72485816,C,T,0.0304,CD27 on memory B cell || id:ebi-a-GCST90001805,TRUE,reported,igd

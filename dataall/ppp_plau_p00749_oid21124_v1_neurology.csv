@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+10,73384505,rs149630911,C,G,-0.131907,3.75206194681822e-08,0.0239738,33687,0.0235819,plau_p00749_oid21124_v1_neurology,TRUE,reported,plau_p00749_oid21124_v1_neurology,chr10,73909181,cis
+10,73908753,rs58048583,G,T,0.111786,1.65272272994873e-30,0.00973697,33687,0.163573,plau_p00749_oid21124_v1_neurology,TRUE,reported,plau_p00749_oid21124_v1_neurology,chr10,73909181,cis
+10,73921884,rs144927068,A,G,0.20583,1.78772206307769e-13,0.0279516,33687,0.0168877,plau_p00749_oid21124_v1_neurology,TRUE,reported,plau_p00749_oid21124_v1_neurology,chr10,73909181,cis
+10,73937934,rs146287686,A,G,-0.282391,1.26124657531754e-23,0.0281863,33687,0.0193461,plau_p00749_oid21124_v1_neurology,TRUE,reported,plau_p00749_oid21124_v1_neurology,chr10,73909181,cis

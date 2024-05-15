@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,217623380,A,T,0.0440623,-0.22709,0.0442447,2.85761e-07,rs61828866,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+2,221439913,A,C,0.320457,-0.0950755,0.0198453,1.66094e-06,rs35517017,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+3,97341185,T,C,0.0280717,-0.258862,0.0548136,2.32865e-06,rs147421744,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+4,20978850,C,T,0.234809,0.0985621,0.0214315,4.24653e-06,rs60184835,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+4,181506847,C,T,0.0755685,0.159171,0.0341804,3.21187e-06,rs73026354,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+5,159083802,C,T,0.013408,-0.354463,0.0771661,4.35857e-06,rs17056549,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+8,67263550,A,C,0.0100102,0.428469,0.0904783,2.18407e-06,rs191490492,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+9,125990802,T,C,0.0476068,0.202405,0.0423797,1.78817e-06,rs118114756,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+11,89328454,T,C,0.145897,0.127727,0.0255214,5.59486e-07,rs11018581,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+18,41469123,G,A,0.893563,-0.141276,0.0296425,1.87916e-06,rs2703175,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+18,79786183,A,G,0.411997,0.0909647,0.0192035,2.17047e-06,rs9946216,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb
+21,23971255,T,C,0.0352174,0.239742,0.0495308,1.29673e-06,rs9976314,5897,2-methoxyresorcinol sulfate levels,TRUE,reported,S9VCBb

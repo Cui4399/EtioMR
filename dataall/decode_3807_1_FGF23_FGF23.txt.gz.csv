@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,4382743,rs6489536,C,G,0.0516,3.118e-10,0.0082,35381,0.37186,FGF23_FGF23,TRUE,reported,FGF23_FGF23

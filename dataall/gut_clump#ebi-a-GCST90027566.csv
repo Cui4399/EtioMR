@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,63886832,-0.168586,0.032424,1.99913e-07,7738,ebi-a-GCST90027566,rs72676149,T,C,0.0689379,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd
+1,222555659,0.158488,0.0345607,4.52272e-06,7738,ebi-a-GCST90027566,rs36081122,A,G,0.0672964,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd
+8,62697207,0.0814217,0.0172178,2.25715e-06,7738,ebi-a-GCST90027566,rs4278144,C,A,0.35137,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd
+10,130874125,-0.10964,0.022702,1.36842e-06,7738,ebi-a-GCST90027566,rs4751058,A,G,0.15327,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd
+16,65124400,0.176081,0.0358414,8.97987e-07,7738,ebi-a-GCST90027566,rs17509881,A,T,0.0603708,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd
+18,77530693,0.140699,0.0305173,4.01754e-06,7738,ebi-a-GCST90027566,rs483485,T,C,0.917203,PWY.5973..cis.vaccenate.biosynthesis,TRUE,reported,igd

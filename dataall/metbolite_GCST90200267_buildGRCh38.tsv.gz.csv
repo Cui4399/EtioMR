@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,68654157,A,G,0.0128173,-0.474498,0.0617383,1.52233e-14,rs138762595,8182,Tetrahydrocortisol glucuronide levels,TRUE,reported,G5gg8x
+7,138114616,C,T,0.790021,0.138362,0.0169759,3.62344e-16,rs9642093,8182,Tetrahydrocortisol glucuronide levels,TRUE,reported,G5gg8x
+17,50683692,A,G,0.0690858,-0.161466,0.0270844,2.49838e-09,rs11568591,8182,Tetrahydrocortisol glucuronide levels,TRUE,reported,G5gg8x
+19,12391643,G,A,0.778517,-0.107957,0.0171366,2.98008e-10,rs4804669,8182,Tetrahydrocortisol glucuronide levels,TRUE,reported,G5gg8x

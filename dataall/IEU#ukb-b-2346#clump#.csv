@@ -1,0 +1,7 @@
+"chr.exposure","pval.exposure","samplesize.exposure","pos.exposure","se.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",4.70002e-08,343827,3880784,0.00232544,-0.0126995,"ukb-b-2346","rs7610133","C","T",0.259409,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"
+"6",3.79997e-09,343827,98276688,0.00204326,-0.0120408,"ukb-b-2346","rs1538360","G","A",0.552613,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"
+"8",4.90004e-08,343827,38526258,0.00423738,-0.0231104,"ukb-b-2346","rs117956478","C","G",0.061309,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"
+"10",3.50002e-08,343827,65255174,0.00348898,-0.019235,"ukb-b-2346","rs10822175","T","A",0.88169,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"
+"17",3.59998e-08,343827,19879164,0.00204829,0.0112894,"ukb-b-2346","rs7222403","C","T",0.426371,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"
+"18",2.30001e-09,343827,53270531,0.002029,0.0121307,"ukb-b-2346","rs682245","C","T",0.52434,"Duration of moderate activity || id:ukb-b-2346",TRUE,"reported","igd"

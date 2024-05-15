@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,44395872,0.179322,0.0357597,5.31337e-07,7738,ebi-a-GCST90027464,rs77917213,T,C,0.0890628,FAO.PWY..fatty.acid..beta..oxidation.I,TRUE,reported,igd
+7,115891686,-0.111105,0.0239709,3.5696e-06,7738,ebi-a-GCST90027464,rs11761901,A,G,0.217568,FAO.PWY..fatty.acid..beta..oxidation.I,TRUE,reported,igd

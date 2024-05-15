@@ -1,0 +1,3 @@
+"pos.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+219766226,0.000161366,0.00116058,"1",463010,6.4003e-13,"ukb-b-14541","rs12131794","A","C",0.291474,"Diagnoses - main ICD10: K42.9 Umbilical hernia without obstruction or gangrene || id:ukb-b-14541",TRUE,"reported","igd"
+78155083,0.000146986,0.000837078,"12",463010,1.2e-08,"ukb-b-14541","rs10859320","G","A",0.464453,"Diagnoses - main ICD10: K42.9 Umbilical hernia without obstruction or gangrene || id:ukb-b-14541",TRUE,"reported","igd"

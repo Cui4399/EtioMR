@@ -1,0 +1,3 @@
+"samplesize.exposure","se.exposure","beta.exposure","chr.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+336314,0.000977396,-0.00554137,"3",88647674,1.43314e-08,"ukb-a-494","rs62269527","A","G",0.573793,"Mineral and other dietary supplements: Glucosamine || id:ukb-a-494",TRUE,"reported","igd"
+336314,0.00115266,0.00651721,"10",64739668,1.56841e-08,"ukb-a-494","rs1509952","T","C",0.772949,"Mineral and other dietary supplements: Glucosamine || id:ukb-a-494",TRUE,"reported","igd"

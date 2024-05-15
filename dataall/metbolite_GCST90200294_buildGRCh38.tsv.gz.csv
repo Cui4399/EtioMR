@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,240903113,G,A,0.514555,-0.092649,0.0155411,2.49871e-09,rs10182251,8161,Pipecolate levels,TRUE,reported,onKqc3

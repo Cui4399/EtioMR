@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"18",72904986,"rs4891241","C","T",1.58642900475e-13,-0.985446110445,0.133534655346381,89,"Classical monocyte#ZADH2",TRUE,"reported","isVC9I",NA

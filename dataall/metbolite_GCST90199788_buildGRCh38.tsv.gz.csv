@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,125469835,G,A,0.509683,-0.0891919,0.0153807,6.6734e-09,rs2954021,8267,1-arachidonoyl-gpc (20:4n6) levels,TRUE,reported,nB6bGm
+11,61790331,C,T,0.345078,-0.562555,0.0149199,1e-200,rs102275,8267,1-arachidonoyl-gpc (20:4n6) levels,TRUE,reported,nB6bGm
+11,75742832,C,T,0.162727,-0.117372,0.0206163,1.24723e-08,rs1219550,8267,1-arachidonoyl-gpc (20:4n6) levels,TRUE,reported,nB6bGm
+16,15046354,T,C,0.310531,-0.119795,0.0164555,3.34003e-13,rs4500751,8267,1-arachidonoyl-gpc (20:4n6) levels,TRUE,reported,nB6bGm
+19,19268740,T,C,0.0754694,-0.15957,0.0292592,4.93401e-08,rs58542926,8267,1-arachidonoyl-gpc (20:4n6) levels,TRUE,reported,nB6bGm

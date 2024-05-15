@@ -1,0 +1,3 @@
+"se.exposure","samplesize.exposure","pos.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00430335,148728,93368951,-0.0237016,3.59998e-08,"6","ukb-b-43","rs13203066","C","A",0.232924,"Signal-to-noise-ratio (SNR) of triplet (left) || id:ukb-b-43",TRUE,"reported","igd"
+0.00379815,148728,71845186,-0.0212974,2.1e-08,"16","ukb-b-43","rs12598902","T","C",0.35072,"Signal-to-noise-ratio (SNR) of triplet (left) || id:ukb-b-43",TRUE,"reported","igd"

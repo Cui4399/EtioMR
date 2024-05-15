@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,85943330,rs56299996,C,T,0.0914,1.421e-10,0.014251,35364,0.08145,MGAT4C_MGT4C,TRUE,reported,MGAT4C_MGT4C

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,36638487,A,G,0.0314338,0.256754,0.0434236,3.36401e-09,rs62354638,8185,Proline to glutamate ratio,TRUE,reported,VVWTSI
+22,18973132,T,C,0.0927459,0.240137,0.0258275,1.43512e-20,rs2518814,8185,Proline to glutamate ratio,TRUE,reported,VVWTSI

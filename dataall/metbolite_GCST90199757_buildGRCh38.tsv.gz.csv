@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,52761471,A,G,0.648582,0.131589,0.0171556,1.71551e-14,rs2608631,7446,"1,3,7-trimethylurate levels",TRUE,reported,DDa7lg
+10,133553286,C,T,0.0264365,0.283944,0.0505405,1.93018e-08,rs7900208,7446,"1,3,7-trimethylurate levels",TRUE,reported,DDa7lg

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",30751112,"rs1438909","T","C",5.33833365565e-07,-0.679016776993,0.135431309936399,89,"Classical monocyte#CAPRIN2",TRUE,"reported","lsL8Aq",NA

@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","se.exposure","pos.exposure","samplesize.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"15",2.78163e-33,0.000318354,28365618,360270,0.00382708,"ukb-d-1747_6","rs12913832","G","A",0.786085,"Hair colour (natural, before greying): Other || id:ukb-d-1747_6",TRUE,"reported","igd"
+"16",2.75359e-62,0.000295715,89893375,360270,0.00492628,"ukb-d-1747_6","rs34177108","A","C",0.270888,"Hair colour (natural, before greying): Other || id:ukb-d-1747_6",TRUE,"reported","igd"
+"16",1.16364e-09,0.000288681,90161753,360270,0.00175672,"ukb-d-1747_6","rs6500470","C","T",0.374733,"Hair colour (natural, before greying): Other || id:ukb-d-1747_6",TRUE,"reported","igd"

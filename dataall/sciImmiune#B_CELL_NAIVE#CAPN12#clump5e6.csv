@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"19",39179372,"rs138810803","C","CA",1.93647356089e-06,-0.724179459132,0.152140354209754,89,"B_CELL_NAIVE#CAPN12",TRUE,"reported","OpwarX",NA

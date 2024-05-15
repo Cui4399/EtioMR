@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,95294018,rs1328599,T,G,-0.1318,4.221e-14,0.017448,35358,0.05752,PDLIM1_PDLI1,TRUE,reported,PDLIM1_PDLI1

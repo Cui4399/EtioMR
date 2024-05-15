@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5,177766580,0.0801064,0.0163946,1.02832e-06,7738,ebi-a-GCST90027645,rs2973808,C,T,0.546397,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+8,117623719,-0.122658,0.0252684,1.20859e-06,7738,ebi-a-GCST90027645,rs2450114,G,A,0.883271,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+9,93844314,0.138989,0.0280742,7.39095e-07,7738,ebi-a-GCST90027645,rs296634,G,A,0.0897433,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+10,14146091,0.0807191,0.0172983,3.06648e-06,7738,ebi-a-GCST90027645,rs9787431,T,A,0.688334,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+11,32371754,0.16074,0.032069,5.37762e-07,7738,ebi-a-GCST90027645,rs11031736,A,G,0.0722873,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+12,10131017,0.182842,0.0393828,3.43922e-06,7738,ebi-a-GCST90027645,rs200414628,C,T,0.055147,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd
+20,54297446,-0.136692,0.0296871,4.13619e-06,7738,ebi-a-GCST90027645,rs960138,G,T,0.0869962,THRESYN.PWY..superpathway.of.L.threonine.biosynthesis,TRUE,reported,igd

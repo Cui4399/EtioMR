@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39936166,A,T,0.253023,0.133324,0.0178647,8.4588e-14,rs61781291,8170,1-(1-enyl-palmitoyl)-GPC (p-16:0) levels,TRUE,reported,xeTse6
+11,61814292,C,T,0.307267,-0.172408,0.0166804,4.84653e-25,rs174560,8170,1-(1-enyl-palmitoyl)-GPC (p-16:0) levels,TRUE,reported,xeTse6
+14,67509105,C,A,0.477068,-0.099282,0.0155086,1.53635e-10,rs1077989,8170,1-(1-enyl-palmitoyl)-GPC (p-16:0) levels,TRUE,reported,xeTse6

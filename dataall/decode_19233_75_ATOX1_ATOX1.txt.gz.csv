@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,151833788,rs10065313,A,G,-0.0681,1.518e-16,0.008249,35352,0.4048,ATOX1_ATOX1,TRUE,reported,ATOX1_ATOX1

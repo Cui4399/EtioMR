@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135080336,A,C,0.370173,-0.0791954,0.015714,4.66001e-07,rs7570971,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb
+3,176682843,C,T,0.306291,-0.0805866,0.0171322,2.55365e-06,rs12632234,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb
+3,183011505,C,A,0.061936,-0.14852,0.0321129,3.74718e-06,rs7635560,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb
+5,6855119,G,A,0.0477012,-0.17451,0.0362943,1.52297e-06,rs143841240,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb
+10,130407256,A,G,0.0287307,-0.216447,0.046389,3.07259e-06,rs117547464,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb
+18,1759188,A,G,0.0288343,-0.233017,0.0465827,5.66701e-07,rs79938962,8170,2-hydroxyarachidate levels,TRUE,reported,WJ9ecb

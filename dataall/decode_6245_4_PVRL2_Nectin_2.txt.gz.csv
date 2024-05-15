@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,44774784,rs2965142,G,A,0.0966,5.889e-09,0.016598,35367,0.0631,PVRL2_Nectin_2,TRUE,reported,PVRL2_Nectin_2

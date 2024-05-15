@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000651868,-0.00361427,2.90001e-08,462254,"2",35059537,"ukb-b-14576","rs280711","C","G",0.508262,"Wears glasses or contact lenses || id:ukb-b-14576",TRUE,"reported","igd"
+0.000670711,0.00416125,5.49997e-10,462254,"3",181346790,"ukb-b-14576","rs9838604","A","G",0.374873,"Wears glasses or contact lenses || id:ukb-b-14576",TRUE,"reported","igd"

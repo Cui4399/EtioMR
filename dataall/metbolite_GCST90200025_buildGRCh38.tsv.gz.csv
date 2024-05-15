@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,116329640,G,A,0.0296514,-0.292275,0.0615478,2.04677e-06,rs78165831,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+8,41773414,T,G,0.386954,0.108503,0.0225472,1.4923e-06,rs3886945,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+8,121333859,G,A,0.125904,0.149939,0.0316166,2.1118e-06,rs140119589,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+10,101272776,G,A,0.0206406,0.340189,0.0738772,4.12894e-06,rs669002,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+11,6262548,C,T,0.0598641,0.227871,0.0448764,3.81913e-07,rs112189508,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+12,99337077,C,T,0.0628428,0.207433,0.0436925,2.05879e-06,rs73149176,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+13,26434315,T,A,0.0158498,0.402975,0.0834622,1.37753e-06,rs117192966,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+14,80871270,T,C,0.0178411,0.366061,0.0794057,4.02645e-06,rs145733036,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+17,72374555,C,T,0.126995,-0.147227,0.0310588,2.13426e-06,rs8070843,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2
+20,15863773,G,A,0.0639731,-0.200837,0.043104,3.1722e-06,rs11696492,4466,Phenol glucuronide levels,TRUE,reported,oAJXH2

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,4549634,rs10404223,G,A,0.0917,2.769e-28,0.008314,35349,0.48158,SEMA6B_SEM6B,TRUE,reported,SEMA6B_SEM6B
+19,4564659,rs35801806,GCCCGCC,TCCCGCC,0.1175,6.756e-10,0.019039,35353,0.04899,SEMA6B_SEM6B,TRUE,reported,SEMA6B_SEM6B

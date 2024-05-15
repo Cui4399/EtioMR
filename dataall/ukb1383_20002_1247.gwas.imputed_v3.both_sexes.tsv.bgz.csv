@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+361141,-0.000753379,0.000159844,2.43933e-06,"4",87502503,"T","G","rs56348925",0.997225,0.347712,1515,"Non-cancer illness code, self-reported: meningitis",TRUE,"reported","2DNxwI","Neurological diseases","ukb1383"
+361141,0.00312219,0.000682951,4.84133e-06,"5",115553558,"G","C","rs76542965",0.992311,0.0126525,1515,"Non-cancer illness code, self-reported: meningitis",TRUE,"reported","2DNxwI","Neurological diseases","ukb1383"
+361141,0.000769325,0.000164848,3.05924e-06,"7",33830585,"C","T","rs7795837",0.991374,0.689249,1515,"Non-cancer illness code, self-reported: meningitis",TRUE,"reported","2DNxwI","Neurological diseases","ukb1383"
+361141,0.00193556,0.000393559,8.74278e-07,"22",43692585,"T","G","rs736355",0.969053,0.0396131,1515,"Non-cancer illness code, self-reported: meningitis",TRUE,"reported","2DNxwI","Neurological diseases","ukb1383"

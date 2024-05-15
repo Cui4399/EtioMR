@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,162935111,T,C,0.0510627,-0.177515,0.036631,1.25952e-06,rs115186334,7498,Serotonin levels,TRUE,reported,CRciEm
+8,142700626,G,A,0.49045,-0.0745005,0.0161452,3.94227e-06,rs2585174,7498,Serotonin levels,TRUE,reported,CRciEm
+9,1589439,A,G,0.0230738,-0.262098,0.0546006,1.58437e-06,rs146029022,7498,Serotonin levels,TRUE,reported,CRciEm
+10,128966549,T,C,0.177166,0.106995,0.0217894,9.08947e-07,rs35695799,7498,Serotonin levels,TRUE,reported,CRciEm
+11,28643790,A,G,0.0169582,-0.288814,0.0626082,3.96836e-06,rs56387403,7498,Serotonin levels,TRUE,reported,CRciEm
+11,98047926,A,C,0.0820937,0.143028,0.0302635,2.28872e-06,rs72987261,7498,Serotonin levels,TRUE,reported,CRciEm
+15,101680241,T,C,0.0770772,-0.14107,0.0300731,2.7201e-06,rs72761651,7498,Serotonin levels,TRUE,reported,CRciEm
+16,62966272,T,C,0.329374,-0.0804522,0.0173692,3.62364e-06,rs40279,7498,Serotonin levels,TRUE,reported,CRciEm
+17,12336706,C,T,0.0963499,-0.129298,0.0279496,3.72606e-06,rs2721848,7498,Serotonin levels,TRUE,reported,CRciEm
+18,31794392,T,G,0.0337883,-0.232027,0.0456552,3.73185e-07,rs34301912,7498,Serotonin levels,TRUE,reported,CRciEm
+20,5751157,C,T,0.213138,0.0913116,0.019884,4.38554e-06,rs6116934,7498,Serotonin levels,TRUE,reported,CRciEm
+21,28238038,C,G,0.744781,0.0867064,0.0187489,3.7529e-06,rs385502,7498,Serotonin levels,TRUE,reported,CRciEm

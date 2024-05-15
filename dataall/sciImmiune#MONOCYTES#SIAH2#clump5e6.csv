@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"3",150461568,"rs7636866","A","T",2.76931164101e-06,1.04417393572,0.222770059972893,89,"Classical monocyte#SIAH2",TRUE,"reported","nt01VM",NA

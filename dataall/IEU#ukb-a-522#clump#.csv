@@ -1,0 +1,6 @@
+"se.exposure","samplesize.exposure","pval.exposure","pos.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000381105,337199,2.58523e-11,152562271,0.00254147,"6","ukb-a-522","rs58415480","G","C",0.154775,"Diagnoses - main ICD10: D25 Leiomyoma of uterus || id:ukb-a-522",TRUE,"reported","igd"
+0.000280525,337199,3.76513e-09,802228,0.00165352,"9","ukb-a-522","rs7027685","T","A",0.401889,"Diagnoses - main ICD10: D25 Leiomyoma of uterus || id:ukb-a-522",TRUE,"reported","igd"
+0.000375961,337199,2.78292e-14,32370380,0.00286044,"11","ukb-a-522","rs10835889","A","G",0.158793,"Diagnoses - main ICD10: D25 Leiomyoma of uterus || id:ukb-a-522",TRUE,"reported","igd"
+0.000848604,337199,6.30798e-10,108357137,0.00524668,"11","ukb-a-522","rs74911261","A","G",0.0266148,"Diagnoses - main ICD10: D25 Leiomyoma of uterus || id:ukb-a-522",TRUE,"reported","igd"
+0.00124736,337199,3.17753e-08,7571752,0.00689975,"17","ukb-a-522","rs78378222","G","T",0.0125742,"Diagnoses - main ICD10: D25 Leiomyoma of uterus || id:ukb-a-522",TRUE,"reported","igd"

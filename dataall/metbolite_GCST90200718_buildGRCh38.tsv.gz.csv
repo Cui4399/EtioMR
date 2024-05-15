@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,67171782,G,A,0.0425222,0.223325,0.0382717,5.37137e-09,rs75459113,8260,Alpha-ketoglutarate to succinate ratio,TRUE,reported,y7a7Lu

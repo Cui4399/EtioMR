@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","chr.exposure","se.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+64949,-0.0396209,"6",0.00679959,5.60003e-09,98513032,"ukb-b-748","rs3004179","G","A",0.599407,"Filtered coffee intake || id:ukb-b-748",TRUE,"reported","igd"
+64949,0.0477394,"7",0.00683554,2.90001e-12,17287269,"ukb-b-748","rs6968865","T","A",0.626977,"Filtered coffee intake || id:ukb-b-748",TRUE,"reported","igd"
+64949,0.0491683,"15",0.00710802,4.60045e-12,75019449,"ukb-b-748","rs2470893","T","C",0.325224,"Filtered coffee intake || id:ukb-b-748",TRUE,"reported","igd"

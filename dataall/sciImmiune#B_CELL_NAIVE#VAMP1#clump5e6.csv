@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",6583099,"rs2532485","T","A",5.31883075898e-12,-0.952442471248,0.138099257899223,89,"B_CELL_NAIVE#VAMP1",TRUE,"reported","KvemaU",NA

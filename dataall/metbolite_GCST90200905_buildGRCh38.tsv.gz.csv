@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,112736910,T,C,0.0440921,-0.156996,0.0334841,2.74963e-06,rs77092128,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+6,74460911,A,C,0.0389395,0.165186,0.0359215,4.25456e-06,rs138956078,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+8,17461254,T,G,0.115022,0.106473,0.0213555,6.1726e-07,rs2517099,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+12,24993537,C,G,0.0202337,-0.23372,0.0487949,1.66914e-06,rs79507970,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+12,29671278,T,C,0.0134751,-0.276806,0.0598133,3.69516e-06,rs142193802,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+12,95256176,T,C,0.0986002,0.110326,0.0230363,1.67443e-06,rs11107955,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+15,95095723,A,C,0.166257,-0.0870677,0.01853,2.61772e-06,rs291035,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6
+18,61632432,C,G,0.931445,0.131598,0.0279391,2.47483e-06,rs7241147,8160,Glucose to glycerol ratio,TRUE,reported,RDWDD6

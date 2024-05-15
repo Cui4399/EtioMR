@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241437684,T,C,0.0847578,0.138908,0.0302794,4.4851e-06,rs147441023,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+2,116555015,A,G,0.0288024,0.247559,0.0504668,9.32468e-07,rs146443693,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+8,20927977,G,A,0.0210269,0.278868,0.058459,1.83942e-06,rs144160011,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+9,74128572,C,T,0.42632,0.0819155,0.0172905,2.16263e-06,rs35538138,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+10,116359192,A,T,0.0270038,0.242806,0.0522403,3.35393e-06,rs182759262,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+12,81314248,T,G,0.099278,0.132799,0.0280983,2.28705e-06,rs117960328,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+13,57453608,G,A,0.0129493,-0.338155,0.0735389,4.25925e-06,rs149153109,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+13,70320686,G,C,0.735289,-0.0922452,0.019362,1.89565e-06,rs9542278,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+13,111926150,C,A,0.334847,-0.0865201,0.0183776,2.50264e-06,rs67940781,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+18,78084989,A,G,0.0207745,0.285033,0.0588796,1.29222e-06,rs142509049,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah
+19,2484112,C,T,0.341711,0.0868463,0.0180362,1.47112e-06,rs56013431,6408,Ethylparaben sulfate levels,TRUE,reported,FRBAah

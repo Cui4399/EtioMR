@@ -1,0 +1,4 @@
+"pos.exposure","beta.exposure","samplesize.exposure","pval.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+161994383,-0.00593368,356340,5.92925e-09,0.00101973,"2","ukb-d-680_1","rs3769983","A","G",0.486684,"Own or rent accommodation lived in: Own outright (by you or someone in your household) || id:ukb-d-680_1",TRUE,"reported","igd"
+39376022,0.00590283,356340,4.56531e-08,0.00107961,"7","ukb-d-680_1","rs10268735","G","A",0.339077,"Own or rent accommodation lived in: Own outright (by you or someone in your household) || id:ukb-d-680_1",TRUE,"reported","igd"
+93791775,0.0061013,356340,3.39836e-08,0.00110537,"14","ukb-d-680_1","rs71129628","GT","G",0.306119,"Own or rent accommodation lived in: Own outright (by you or someone in your household) || id:ukb-d-680_1",TRUE,"reported","igd"

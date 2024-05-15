@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,48521180,-0.177173,0.038676,4.6286e-06,7738,ebi-a-GCST90027621,rs75227442,C,G,0.0527523,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+3,71981355,0.0815404,0.0173345,2.55194e-06,7738,ebi-a-GCST90027621,rs57799060,T,C,0.428927,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+8,36997023,-0.101993,0.0206154,7.52021e-07,7738,ebi-a-GCST90027621,rs28556854,A,T,0.192389,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+9,77506773,-0.0973187,0.0211562,4.22474e-06,7738,ebi-a-GCST90027621,rs71507888,G,C,0.211343,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+14,94227645,0.155877,0.0311718,5.71623e-07,7738,ebi-a-GCST90027621,rs61980275,A,G,0.0838674,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+14,50976674,0.115932,0.0253848,4.94812e-06,7738,ebi-a-GCST90027621,rs12436806,A,T,0.120877,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+18,66145372,-0.0782696,0.0168931,3.5999e-06,7738,ebi-a-GCST90027621,rs9949233,C,T,0.422092,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+20,61963292,-0.0927808,0.0201023,3.92256e-06,7738,ebi-a-GCST90027621,rs6122425,A,C,0.224915,PWY.7323..superpathway.of.GDP.mannose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd

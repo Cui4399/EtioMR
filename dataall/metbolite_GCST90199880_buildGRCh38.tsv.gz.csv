@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,74971148,C,T,0.0141068,0.386815,0.063646,1.22e-09,rs149556176,8239,Cis-4-decenoylcarnitine (C10:1) levels,TRUE,reported,RopjHe
+1,75758325,T,C,0.3083,-0.391436,0.0155278,3.20963e-140,rs2185152,8239,Cis-4-decenoylcarnitine (C10:1) levels,TRUE,reported,RopjHe
+4,158716843,A,C,0.294484,-0.142372,0.016357,3.20336e-18,rs6839534,8239,Cis-4-decenoylcarnitine (C10:1) levels,TRUE,reported,RopjHe
+16,16033378,A,G,0.610916,0.109717,0.0156815,2.62279e-12,rs2062541,8239,Cis-4-decenoylcarnitine (C10:1) levels,TRUE,reported,RopjHe

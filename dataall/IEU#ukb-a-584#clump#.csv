@@ -1,0 +1,4 @@
+"pos.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+65697229,337199,0.000253232,"2",0.0014467,1.11132e-08,"ukb-a-584","rs78129639","T","C",0.014011,"Diagnoses - main ICD10: R14 Flatulence and related conditions || id:ukb-a-584",TRUE,"reported","igd"
+54759197,337199,0.000845678,"3",0.00489427,7.15534e-09,"ukb-a-584","rs148421295","T","G",0.00137456,"Diagnoses - main ICD10: R14 Flatulence and related conditions || id:ukb-a-584",TRUE,"reported","igd"
+59519645,337199,0.000355447,"16",0.00199771,1.90814e-08,"ukb-a-584","rs147680191","T","A",0.0076661,"Diagnoses - main ICD10: R14 Flatulence and related conditions || id:ukb-a-584",TRUE,"reported","igd"

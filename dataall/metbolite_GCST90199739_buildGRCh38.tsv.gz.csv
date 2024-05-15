@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,11411001,C,T,0.2253,0.103774,0.0226162,4.46445e-06,rs16881495,5190,Salicyluric glucuronide levels,TRUE,reported,YPrHbc
+5,153790203,G,A,0.0371445,-0.24635,0.0500911,8.74157e-07,rs72804625,5190,Salicyluric glucuronide levels,TRUE,reported,YPrHbc
+19,4208791,T,C,0.0279011,-0.274479,0.0575583,1.854e-06,rs117198027,5190,Salicyluric glucuronide levels,TRUE,reported,YPrHbc
+19,47013320,C,G,0.0288537,0.266847,0.056244,2.09074e-06,rs55703141,5190,Salicyluric glucuronide levels,TRUE,reported,YPrHbc

@@ -1,0 +1,6 @@
+"pos.exposure","chr.exposure","se.exposure","pval.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4973652,"1",0.000318488,3.18911e-08,0.00176151,337199,"ukb-a-592","rs138157980","T","C",0.00716046,"Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level || id:ukb-a-592",TRUE,"reported","igd"
+61460864,"2",0.000191449,5.14588e-09,0.00111855,337199,"ukb-a-592","rs35869142","A","G",0.0196872,"Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level || id:ukb-a-592",TRUE,"reported","igd"
+113797113,"2",0.000628425,7.05716e-09,0.0036384,337199,"ukb-a-592","rs191805528","G","A",0.00195878,"Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level || id:ukb-a-592",TRUE,"reported","igd"
+126375398,"5",0.000264213,3.22456e-09,0.00156412,337199,"ukb-a-592","rs138995081","A","T",0.010132,"Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level || id:ukb-a-592",TRUE,"reported","igd"
+134285972,"9",0.000381449,8.67561e-09,0.00219521,337199,"ukb-a-592","rs117956151","T","C",0.00524319,"Diagnoses - main ICD10: S76 Injury of muscle and tendon at hip and thigh level || id:ukb-a-592",TRUE,"reported","igd"

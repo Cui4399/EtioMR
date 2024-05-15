@@ -1,0 +1,7 @@
+"beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00261843,114303808,337159,4.41977e-14,0.000346889,"1","ukb-a-76","rs6679677","A","C",0.102573,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"
+-0.00199855,204738919,337159,3.80277e-21,0.000211743,"2","ukb-a-76","rs3087243","A","G",0.451622,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"
+0.0071166,32667595,337159,3.04089e-111,0.000317424,"6","ukb-a-76","rs1794279","T","G",0.129547,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"
+-0.00330215,32606912,337159,2.10669e-35,0.000265902,"6","ukb-a-76","rs28383364","G","A",0.196583,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"
+-0.00172034,31188654,337159,6.00689e-09,0.000295758,"6","ukb-a-76","rs28360997","A","G",0.148836,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"
+0.00251557,81461472,337159,8.89816e-31,0.00021808,"14","ukb-a-76","rs2160215","C","T",0.37642,"Non-cancer illness code  self-reported: hyperthyroidism/thyrotoxicosis || id:ukb-a-76",TRUE,"reported","igd"

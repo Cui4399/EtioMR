@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,48082596,C,A,0.428195,0.144303,0.0152307,2.68105e-21,rs7804178,8168,5-methyluridine (ribothymidine) levels,TRUE,reported,XueAgy
+15,47790829,C,T,0.705823,0.0926237,0.0169232,4.42053e-08,rs557700,8168,5-methyluridine (ribothymidine) levels,TRUE,reported,XueAgy
+22,50525724,C,T,0.773949,-0.572614,0.0172896,1e-200,rs131805,8168,5-methyluridine (ribothymidine) levels,TRUE,reported,XueAgy

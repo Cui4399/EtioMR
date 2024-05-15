@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",903104,"rs6696281","C","T",1.57641879387e-07,0.997766545964,0.190289891060807,89,"TFH#PLEKHN1",TRUE,"reported","PY08bi",NA

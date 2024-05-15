@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61804006,C,T,0.336472,-0.613172,0.0149146,1e-200,rs174550,8238,1-palmitoyl-2-arachidonoyl-gpc (16:0/20:4n6) levels,TRUE,reported,DDUNWF
+16,15056648,A,C,0.290818,0.123974,0.0168824,2.08237e-13,rs12928099,8238,1-palmitoyl-2-arachidonoyl-gpc (16:0/20:4n6) levels,TRUE,reported,DDUNWF

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,105474024,rs4699179,A,G,0.1054,3.5e-31,0.009075,35353,0.26466,PPA2_PPase_2,TRUE,reported,PPA2_PPase_2

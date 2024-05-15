@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,66129347,G,A,0.0753778,-0.139067,0.0295395,2.50384e-06,rs78681939,8217,Plasma lactate levels,TRUE,reported,LPhOey
+1,92125215,A,G,0.0290591,0.210893,0.0454573,3.49503e-06,rs76969758,8217,Plasma lactate levels,TRUE,reported,LPhOey
+3,184049175,G,A,0.132166,-0.104,0.022579,4.10406e-06,rs9841356,8217,Plasma lactate levels,TRUE,reported,LPhOey
+4,54672360,C,T,0.0791313,0.138404,0.0283811,1.07907e-06,rs78654087,8217,Plasma lactate levels,TRUE,reported,LPhOey
+4,65664915,T,C,0.0146806,0.333891,0.0638107,1.67218e-07,rs111716847,8217,Plasma lactate levels,TRUE,reported,LPhOey
+5,101046869,A,G,0.0523682,-0.154897,0.0339318,4.99651e-06,rs35352527,8217,Plasma lactate levels,TRUE,reported,LPhOey
+6,36297915,A,G,0.0355228,0.19079,0.0415765,4.45594e-06,rs72848557,8217,Plasma lactate levels,TRUE,reported,LPhOey
+12,8688481,A,G,0.267822,-0.0859231,0.0173019,6.83085e-07,rs10842109,8217,Plasma lactate levels,TRUE,reported,LPhOey
+12,126783989,T,C,0.274524,0.0869031,0.0172154,4.46515e-07,rs7968964,8217,Plasma lactate levels,TRUE,reported,LPhOey
+17,56092495,T,C,0.0101185,0.392452,0.0770088,3.46549e-07,rs189996033,8217,Plasma lactate levels,TRUE,reported,LPhOey

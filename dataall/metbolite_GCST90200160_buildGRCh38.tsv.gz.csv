@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.324192,0.246015,0.017539,1.0697e-44,rs1047891,6545,Trans-2-hexenoylglycine levels,TRUE,reported,aGuvoy
+11,67592132,G,T,0.568371,-0.120635,0.0164865,2.53189e-13,rs596603,6545,Trans-2-hexenoylglycine levels,TRUE,reported,aGuvoy

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,40366853,rs35484022,TAAA,TA,0.2327,1.412e-15,0.029144,35362,0.01964,TREML1_TRML1,TRUE,reported,TREML1_TRML1
+6,40602635,rs74467546,T,C,0.3472,8.036e-27,0.032382,35366,0.0156,TREML1_TRML1,TRUE,reported,TREML1_TRML1
+6,41154236,rs41273762,C,T,0.7124,3.047e-59,0.043891,35370,0.00873,TREML1_TRML1,TRUE,reported,TREML1_TRML1
+6,41615734,rs140136183,C,G,0.1359,1.655e-11,0.020182,35363,0.04438,TREML1_TRML1,TRUE,reported,TREML1_TRML1

@@ -1,0 +1,6 @@
+"beta.exposure","pval.exposure","se.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00292395,9.59997e-09,0.000509607,460376,71640776,"3","ukb-b-15869","rs1529675","G","A",0.407574,"Types of physical activity in last 4 weeks: None of the above || id:ukb-b-15869",TRUE,"reported","igd"
+0.0028557,2.19999e-08,0.000510134,460376,66204807,"4","ukb-b-15869","rs6835232","A","G",0.606683,"Types of physical activity in last 4 weeks: None of the above || id:ukb-b-15869",TRUE,"reported","igd"
+0.00363073,2.69998e-08,0.000653189,460376,1952139,"7","ukb-b-15869","rs6461009","C","T",0.823241,"Types of physical activity in last 4 weeks: None of the above || id:ukb-b-15869",TRUE,"reported","igd"
+-0.00282113,2e-08,0.000503017,460376,57433941,"8","ukb-b-15869","rs2246873","A","G",0.545175,"Types of physical activity in last 4 weeks: None of the above || id:ukb-b-15869",TRUE,"reported","igd"
+0.00313624,3.69999e-10,0.000500507,460376,66079786,"11","ukb-b-15869","rs490972","A","G",0.469219,"Types of physical activity in last 4 weeks: None of the above || id:ukb-b-15869",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+pval.exposure,samplesize.exposure,chr.exposure,beta.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2.04899e-08,3657,1,-0.4865,0.08656,8009985,ebi-a-GCST90001417,rs75766272,T,C,0.0201,CD24+ CD27+ B cell %B cell || id:ebi-a-GCST90001417,TRUE,reported,igd
+1.71002e-08,3657,2,0.3527,0.0624,73679013,ebi-a-GCST90001417,rs45608038,G,A,0.0421,CD24+ CD27+ B cell %B cell || id:ebi-a-GCST90001417,TRUE,reported,igd
+3.02803e-08,3657,13,0.4892,0.08811,50147180,ebi-a-GCST90001417,rs76477280,G,A,0.0206,CD24+ CD27+ B cell %B cell || id:ebi-a-GCST90001417,TRUE,reported,igd

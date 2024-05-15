@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22215952,T,G,0.525945,-0.0754021,0.0155511,1.24296e-06,rs2505722,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+3,8695451,G,A,0.063798,-0.158451,0.0315073,4.92934e-07,rs60110084,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+9,133271182,C,T,0.743204,0.0797857,0.0173331,4.163e-06,rs550057,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+10,60980126,A,G,0.02563,0.227273,0.0480582,2.25484e-06,rs118182258,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+12,56466793,A,G,0.194268,0.103007,0.0192626,8.91825e-08,rs2933243,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+16,17540208,A,C,0.0631875,0.154213,0.0311489,7.39004e-07,rs75039646,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+16,49473453,C,G,0.130689,-0.106429,0.0227185,2.80401e-06,rs12597173,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+17,55212120,A,G,0.636254,-0.0763399,0.0160379,1.93627e-06,rs12941798,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+19,38320104,G,C,0.0240628,-0.232596,0.0498643,3.09259e-06,rs142888784,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+21,36703581,C,T,0.0188737,0.264764,0.0563497,2.61982e-06,rs6517376,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk
+22,29295393,T,A,0.569314,-0.0736312,0.0152955,1.47997e-06,rs174759,8196,Adenosine 5'-monophosphate (AMP) to glutamine ratio,TRUE,reported,sKO0Vk

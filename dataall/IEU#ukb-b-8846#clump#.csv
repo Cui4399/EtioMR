@@ -1,0 +1,6 @@
+"pval.exposure","samplesize.exposure","pos.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.5e-08,462717,101658963,0.0010282,"4",0.00582484,"ukb-b-8846","rs62307317","C","A",0.324724,"Methods of admission to hospital (recoded): Elective admission: Booked || id:ukb-b-8846",TRUE,"reported","igd"
+1.09999e-08,462717,27282942,0.00141028,"9",-0.00806994,"ukb-b-8846","rs17695487","T","G",0.134741,"Methods of admission to hospital (recoded): Elective admission: Booked || id:ukb-b-8846",TRUE,"reported","igd"
+1.2e-08,462717,21829162,0.00101736,"10",0.00579274,"ukb-b-8846","rs12779865","C","T",0.330693,"Methods of admission to hospital (recoded): Elective admission: Booked || id:ukb-b-8846",TRUE,"reported","igd"
+2.80001e-08,462717,89724927,0.00126058,"12",0.00700063,"ukb-b-8846","rs797091","C","T",0.177223,"Methods of admission to hospital (recoded): Elective admission: Booked || id:ukb-b-8846",TRUE,"reported","igd"
+7.00003e-09,462717,109003430,0.000965257,"12",-0.00558868,"ukb-b-8846","rs2052425","G","A",0.561746,"Methods of admission to hospital (recoded): Elective admission: Booked || id:ukb-b-8846",TRUE,"reported","igd"

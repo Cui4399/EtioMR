@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","chr.exposure","pval.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+461384,0.0010627,"2",7.00003e-09,0.0061529,171417598,"ukb-b-13891","rs6756297","G","T",0.039545,"Mineral and other dietary supplements: Zinc || id:ukb-b-13891",TRUE,"reported","igd"
+461384,0.000484436,"4",2.59998e-08,-0.00269594,42117173,"ukb-b-13891","rs4861163","T","C",0.240647,"Mineral and other dietary supplements: Zinc || id:ukb-b-13891",TRUE,"reported","igd"
+461384,0.00041262,"10",2.1e-08,0.00231084,64934548,"ukb-b-13891","rs10822145","T","C",0.475714,"Mineral and other dietary supplements: Zinc || id:ukb-b-13891",TRUE,"reported","igd"

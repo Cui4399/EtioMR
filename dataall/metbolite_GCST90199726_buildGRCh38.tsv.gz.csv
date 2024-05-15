@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.308734,-0.0868764,0.0157328,3.35196e-08,rs1047891,8223,N-acetylthreonine levels,TRUE,reported,MfiZar

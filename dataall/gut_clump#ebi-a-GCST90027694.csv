@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,137536904,-0.081979,0.0166906,9.02942e-07,7738,ebi-a-GCST90027694,rs2465095,G,A,0.417237,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidales_noname.g__Bacteroidales_noname,TRUE,reported,igd
+2,200881067,0.0829122,0.0180151,4.17686e-06,7738,ebi-a-GCST90027694,rs3106091,C,T,0.680953,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidales_noname.g__Bacteroidales_noname,TRUE,reported,igd
+16,73660160,0.0865939,0.0178388,1.20851e-06,7738,ebi-a-GCST90027694,rs12449080,G,C,0.664356,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidales_noname.g__Bacteroidales_noname,TRUE,reported,igd

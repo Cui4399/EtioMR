@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","chr.exposure","pval.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+336650,-0.00757814,"2",1.17395e-08,0.00132866,240441158,"ukb-a-475","rs10174165","T","G",0.0925107,"Pain type(s) experienced in last month: Hip pain || id:ukb-a-475",TRUE,"reported","igd"
+336650,-0.00436343,"7",4.98873e-08,0.00080036,5362340,"ukb-a-475","rs3892911","T","C",0.630432,"Pain type(s) experienced in last month: Hip pain || id:ukb-a-475",TRUE,"reported","igd"
+336650,-0.0172123,"11",8.81901e-09,0.00299232,31247475,"ukb-a-475","rs145888973","A","G",0.0196814,"Pain type(s) experienced in last month: Hip pain || id:ukb-a-475",TRUE,"reported","igd"

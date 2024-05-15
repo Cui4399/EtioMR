@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,9849180,rs1088309,G,T,0.0776079,4.6925617903487e-10,0.012459,33995,0.94689,pzp_p20742_oid30730_v1_inflammation_ii,TRUE,reported,pzp_p20742_oid30730_v1_inflammation_ii,chr12,9208370,cis
+12,9902134,rs55898931,G,T,-0.0557646,2.6320855443441e-11,0.00836576,33995,0.130771,pzp_p20742_oid30730_v1_inflammation_ii,TRUE,reported,pzp_p20742_oid30730_v1_inflammation_ii,chr12,9208370,cis
+12,9928460,rs148368473,A,G,-0.142135,2.97077663805069e-09,0.0239558,33995,0.0155608,pzp_p20742_oid30730_v1_inflammation_ii,TRUE,reported,pzp_p20742_oid30730_v1_inflammation_ii,chr12,9208370,cis
+12,9965427,rs632086,A,G,-0.0423853,8.78820137717167e-14,0.00568325,33995,0.613642,pzp_p20742_oid30730_v1_inflammation_ii,TRUE,reported,pzp_p20742_oid30730_v1_inflammation_ii,chr12,9208370,cis

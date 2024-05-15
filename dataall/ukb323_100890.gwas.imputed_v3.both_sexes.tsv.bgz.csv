@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.031585,0.00651426,1.24701e-06,"4",39336953,"A","G","rs3796517",0.993268,0.344362,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,0.0466937,0.0101434,4.16713e-06,"7",79841515,"G","A","rs78645351",1,0.102514,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,0.0374756,0.00719939,1.94339e-07,"8",76762183,"C","A","rs10086758",0.993624,0.244568,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,0.119766,0.0260539,4.29963e-06,"8",87847772,"C","G","rs116893287",1,0.0141738,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,0.064608,0.0139609,3.7048e-06,"11",105026673,"C","T","rs61891137",0.95945,0.0551089,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,0.032237,0.00685365,2.56244e-06,"15",77326746,"G","A","rs12438566",0.995844,0.286876,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"
+51427,-0.0311054,0.00681228,4.98066e-06,"21",35656197,"A","C","rs2834438",0.977916,0.701407,22510,"Milk added to cereal",TRUE,"reported","kt2BUp","Diet","ukb323"

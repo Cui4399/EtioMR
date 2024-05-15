@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.586338,0.0999686,0.0157638,2.2731e-10,rs1260326,8202,Mannose to fructose ratio,TRUE,reported,d3BEfw
+13,31551799,A,G,0.0238037,0.275849,0.0505125,4.73476e-08,rs79405811,8202,Mannose to fructose ratio,TRUE,reported,d3BEfw

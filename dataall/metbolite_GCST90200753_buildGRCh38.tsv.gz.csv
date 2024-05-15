@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.609144,0.146659,0.0154194,1.88138e-21,rs1354034,8139,Aspartate to citrulline ratio,TRUE,reported,Xa5tEI

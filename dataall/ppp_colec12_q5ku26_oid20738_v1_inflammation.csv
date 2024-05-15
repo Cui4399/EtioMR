@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+18,287534,rs6506032,A,G,0.194241,1.50938489665496e-46,0.0135588,33649,0.0713908,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,327078,rs117243664,C,T,-0.330869,2.62784654083849e-30,0.0289212,33649,0.01623,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,334742,rs2305027,T,C,-0.120466,1.35394181140507e-63,0.00715574,33649,0.49651,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,369058,rs56322670,C,T,-0.0615263,1.7017666170341e-17,0.00722773,33649,0.436475,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,394341,rs55639531,G,C,-0.118889,8.8044047616467e-53,0.00777521,33649,0.285297,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,405823,rs143241654,A,G,-0.138577,8.77000821143634e-13,0.0193853,33649,0.035912,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,455771,rs35622566,T,G,0.103261,7.65420342071844e-09,0.0178779,33649,0.0444216,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,461658,rs114276788,A,G,-0.14326,4.57498842908408e-09,0.024439,33649,0.0210975,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,502359,rs9964194,T,C,-0.0656023,1.96110117547605e-19,0.00727668,33649,0.423419,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis
+18,582838,rs507757,A,G,-0.0523093,4.81725903559163e-12,0.00756913,33649,0.314984,colec12_q5ku26_oid20738_v1_inflammation,TRUE,reported,colec12_q5ku26_oid20738_v1_inflammation,chr18,500729,cis

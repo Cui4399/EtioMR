@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+283449,0.00493521,0.00106031,3.24917e-06,"3",171172995,"G","A","rs73173688",0.931258,0.0283906,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"
+283449,-0.00434804,0.000948942,4.60766e-06,"6",155425913,"G","A","rs117539765",0.92596,0.0361399,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"
+283449,0.0081536,0.00164207,6.85893e-07,"9",130620452,"G","A","rs75994344",1,0.0109858,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"
+283449,0.00828433,0.00171936,1.44889e-06,"14",73914353,"C","G","rs4899463",0.890362,0.0118634,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"
+283449,-0.00171442,0.000343883,6.18501e-07,"17",18863105,"C","T","rs2074276",1,0.456404,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"
+283449,0.00327407,0.000693512,2.34805e-06,"19",23375762,"T","C","rs181147464",0.986982,0.0660019,4791,"Coffee type: Other type of coffee",TRUE,"reported","7r2OHa","Diet","ukb420"

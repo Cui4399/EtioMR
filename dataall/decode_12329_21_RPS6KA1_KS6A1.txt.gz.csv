@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,26534508,rs11589734,A,G,0.0954,5.734e-36,0.007619,35362,0.45192,RPS6KA1_KS6A1,TRUE,reported,RPS6KA1_KS6A1

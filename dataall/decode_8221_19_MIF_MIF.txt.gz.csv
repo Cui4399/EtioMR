@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,23954943,rs2739338,C,T,-0.0683,4.551e-18,0.007883,35369,0.45183,MIF_MIF,TRUE,reported,MIF_MIF

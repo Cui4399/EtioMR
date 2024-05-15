@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,61576792,-0.129237,0.0265462,1.12525e-06,7738,ebi-a-GCST90027629,rs112683661,A,G,0.125286,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd
+8,10807105,-0.164027,0.0301572,5.35624e-08,7738,ebi-a-GCST90027629,rs4841463,G,T,0.0958184,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd
+10,126762090,-0.150086,0.0324162,3.65755e-06,7738,ebi-a-GCST90027629,rs11596863,A,G,0.0800031,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd
+10,58285762,-0.0914668,0.0180325,3.92952e-07,7738,ebi-a-GCST90027629,rs1907895,A,G,0.37156,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd
+11,19947811,-0.0834466,0.0176362,2.22797e-06,7738,ebi-a-GCST90027629,rs7117995,A,C,0.555523,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd
+13,24569221,-0.152577,0.0323845,2.46003e-06,7738,ebi-a-GCST90027629,rs73162127,T,A,0.0857315,PWY_ARG.POLYAMINE.SYN..superpathway.of.arginine.and.polyamine.biosynthesis,TRUE,reported,igd

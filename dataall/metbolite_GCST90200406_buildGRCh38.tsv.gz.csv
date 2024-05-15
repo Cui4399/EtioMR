@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160146896,T,G,0.202354,-0.114258,0.0192162,2.74904e-09,rs3798167,8194,1-methylnicotinamide levels,TRUE,reported,7TSRo1

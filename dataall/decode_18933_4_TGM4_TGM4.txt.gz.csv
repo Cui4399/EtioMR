@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,44901577,rs1995640,T,C,-0.0511,2.324e-10,0.008062,35346,0.41121,TGM4_TGM4,TRUE,reported,TGM4_TGM4

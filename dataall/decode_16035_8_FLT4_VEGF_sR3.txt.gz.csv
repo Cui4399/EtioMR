@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,180600277,rs10065018,C,A,-0.0627,7.12e-10,0.010173,35329,0.1863,FLT4_VEGF_sR3,TRUE,reported,FLT4_VEGF_sR3
+5,180630293,rs34221241,C,T,-0.1872,3.57e-58,0.011642,35329,0.13509,FLT4_VEGF_sR3,TRUE,reported,FLT4_VEGF_sR3
+5,180646424,rs12519726,T,C,-0.0844,5.351e-13,0.011696,35327,0.13148,FLT4_VEGF_sR3,TRUE,reported,FLT4_VEGF_sR3
+5,180673456,rs55810818,A,G,-0.0658,1.22e-08,0.01155,35327,0.13736,FLT4_VEGF_sR3,TRUE,reported,FLT4_VEGF_sR3

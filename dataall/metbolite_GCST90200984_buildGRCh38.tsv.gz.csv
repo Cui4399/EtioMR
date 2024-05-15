@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,41986962,C,G,0.0911777,-0.129582,0.0282945,4.65547e-06,rs62361684,7387,Cholesterol to benzoate ratio,TRUE,reported,WKSIBC
+6,110129722,G,A,0.0315089,-0.213694,0.046511,4.3383e-06,rs117806862,7387,Cholesterol to benzoate ratio,TRUE,reported,WKSIBC
+6,165936942,A,G,0.0729663,0.148868,0.0309564,1.51725e-06,rs167269,7387,Cholesterol to benzoate ratio,TRUE,reported,WKSIBC
+14,103894359,A,G,0.0144257,-0.320663,0.0677186,2.18806e-06,rs75136616,7387,Cholesterol to benzoate ratio,TRUE,reported,WKSIBC
+16,12513540,A,G,0.0947443,-0.13086,0.0281729,3.4025e-06,rs191918,7387,Cholesterol to benzoate ratio,TRUE,reported,WKSIBC

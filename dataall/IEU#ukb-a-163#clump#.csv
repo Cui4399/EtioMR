@@ -1,0 +1,5 @@
+"pos.exposure","samplesize.exposure","se.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+111765495,337159,0.000100327,-0.000572878,1.13003e-08,"4","ukb-a-163","rs6838973","T","C",0.433925,"Treatment/medication code: flecainide || id:ukb-a-163",TRUE,"reported","igd"
+111701433,337159,0.000164395,0.00127848,7.4559e-15,"4","ukb-a-163","rs59788391","G","A",0.101531,"Treatment/medication code: flecainide || id:ukb-a-163",TRUE,"reported","igd"
+26259429,337159,0.000389379,0.00216711,2.61529e-08,"6","ukb-a-163","rs73736571","T","C",0.0170463,"Treatment/medication code: flecainide || id:ukb-a-163",TRUE,"reported","igd"
+8748526,337159,0.00151553,0.00844746,2.49247e-08,"17","ukb-a-163","rs61257904","A","G",0.0011121,"Treatment/medication code: flecainide || id:ukb-a-163",TRUE,"reported","igd"

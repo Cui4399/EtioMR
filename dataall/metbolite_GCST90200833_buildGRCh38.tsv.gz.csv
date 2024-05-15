@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,229039324,C,T,0.131787,-0.112548,0.0237084,2.06266e-06,rs34269014,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+3,194512591,C,A,0.0148399,-0.304039,0.0662963,4.51666e-06,rs13088150,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+5,39712413,C,T,0.0244769,-0.241905,0.0518319,3.05469e-06,rs145520517,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+5,146238041,A,G,0.03042,0.215629,0.0468655,4.20435e-06,rs147373845,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+6,150773905,G,A,0.103029,-0.122456,0.0262003,2.95636e-06,rs11968895,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+10,33275530,C,T,0.911023,0.132258,0.0285537,3.6231e-06,rs2776926,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+10,77215042,G,A,0.350559,0.0790958,0.0172442,4.50076e-06,rs10762752,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+14,31575521,G,A,0.0910285,-0.132515,0.0280534,2.31651e-06,rs11626067,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx
+16,4440399,A,G,0.723821,0.0839417,0.0177604,2.28606e-06,rs11643803,7769,Cholate to adenosine 5'-monophosphate (AMP) ratio,TRUE,reported,zjdarx

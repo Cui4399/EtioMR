@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,32168770,G,T,0.631678,0.200092,0.0156583,2.15628e-37,rs1061808,8264,"1,2-dipalmitoyl-gpc (16:0/16:0) levels",TRUE,reported,1QB4Nd
+11,61790331,C,T,0.34593,-0.220549,0.015913,1.11176e-43,rs102275,8264,"1,2-dipalmitoyl-gpc (16:0/16:0) levels",TRUE,reported,1QB4Nd
+16,56960616,T,C,0.325307,0.0901668,0.0162354,2.79678e-08,rs17231506,8264,"1,2-dipalmitoyl-gpc (16:0/16:0) levels",TRUE,reported,1QB4Nd

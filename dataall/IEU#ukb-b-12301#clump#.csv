@@ -1,0 +1,6 @@
+"se.exposure","chr.exposure","samplesize.exposure","pos.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00026549,"2",462933,102960824,-0.00148655,2.19999e-08,"ukb-b-12301","rs2160203","G","A",0.234908,"Treatment/medication code: salbutamol || id:ukb-b-12301",TRUE,"reported","igd"
+0.000257919,"2",462933,242698640,-0.00143999,2.39999e-08,"ukb-b-12301","rs34290285","A","G",0.256761,"Treatment/medication code: salbutamol || id:ukb-b-12301",TRUE,"reported","igd"
+0.000228996,"6",462933,32572202,0.00197387,6.70039e-18,"ukb-b-12301","rs9270911","T","C",0.584283,"Treatment/medication code: salbutamol || id:ukb-b-12301",TRUE,"reported","igd"
+0.000289416,"9",462933,6053098,-0.00158535,4.30002e-08,"ukb-b-12301","rs1330124","C","A",0.188271,"Treatment/medication code: salbutamol || id:ukb-b-12301",TRUE,"reported","igd"
+0.000225546,"11",462933,76293758,0.00133116,3.59998e-09,"ukb-b-12301","rs7936323","A","G",0.47778,"Treatment/medication code: salbutamol || id:ukb-b-12301",TRUE,"reported","igd"

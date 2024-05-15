@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","pos.exposure","pval.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00745475,0.0437785,53618357,4.30051e-09,"3",144113,"ukb-a-323","rs9311507","C","T",0.928936,"Age started oral contraceptive pill || id:ukb-a-323",TRUE,"reported","igd"
+0.00570791,-0.0342567,67942411,1.95817e-09,"4",144113,"ukb-a-323","rs72636642","C","A",0.120702,"Age started oral contraceptive pill || id:ukb-a-323",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,27655523,rs9896601,G,A,-0.1368,1.066e-46,0.009533,35359,0.23504,LGALS9_LEG9,TRUE,reported,LGALS9_LEG9

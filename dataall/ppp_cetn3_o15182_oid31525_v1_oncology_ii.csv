@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+5,90407824,rs4873,G,C,-0.173267,3.98290547901718e-93,0.00846441,33796,0.276571,cetn3_o15182_oid31525_v1_oncology_ii,TRUE,reported,cetn3_o15182_oid31525_v1_oncology_ii,chr5,90409786,cis

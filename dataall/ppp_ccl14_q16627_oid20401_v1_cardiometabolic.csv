@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,35820594,rs4251738,A,G,-0.241664,5.24686632777616e-17,0.0288347,33541,0.017173,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,35875932,rs41492346,C,T,-0.150223,1.07036031822911e-08,0.0262664,33541,0.0238368,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,35934014,rs62078244,A,G,-0.121351,3.15529522342161e-08,0.0219339,33541,0.030008,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,35975251,rs1635279,G,T,-0.21529,4.80839348449715e-131,0.0088387,33541,0.764791,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,35978326,rs114853983,T,C,-0.360687,1.78114796896578e-42,0.0264063,33541,0.0204353,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,35983220,rs76190126,A,C,-0.683125,1e-200,0.013532,33541,0.0839397,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,36034380,rs854670,A,G,-0.0725784,6.54063629498612e-09,0.0125085,33541,0.898594,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,36057796,rs79892670,G,C,0.114497,1.57394662258867e-09,0.0189671,33541,0.0406368,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,36107152,rs62079742,C,T,-0.0754949,1.84161990352467e-14,0.00985415,33541,0.174803,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis
+17,36139564,rs80036705,C,A,-0.0918791,5.45757861091271e-12,0.0133291,33541,0.0954724,ccl14_q16627_oid20401_v1_cardiometabolic,TRUE,reported,ccl14_q16627_oid20401_v1_cardiometabolic,chr17,35986728,cis

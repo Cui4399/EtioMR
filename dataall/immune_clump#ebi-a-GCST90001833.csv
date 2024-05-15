@@ -1,0 +1,3 @@
+pval.exposure,pos.exposure,se.exposure,samplesize.exposure,beta.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5.32844e-11,169728916,0.02612,2871,0.1721,1,ebi-a-GCST90001833,rs7526645,T,C,0.4599,CD62L on CD62L+ Dendritic Cell || id:ebi-a-GCST90001833,TRUE,reported,igd
+7.06155e-11,169572947,0.02746,2871,0.1797,1,ebi-a-GCST90001833,rs3917768,G,T,0.3642,CD62L on CD62L+ Dendritic Cell || id:ebi-a-GCST90001833,TRUE,reported,igd

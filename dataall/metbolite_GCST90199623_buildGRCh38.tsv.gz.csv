@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,68255458,T,C,0.0444222,-0.287487,0.0506395,1.36972e-08,rs72670481,4641,Maltotriose levels,TRUE,reported,UQom2n
+2,139995373,GT,G,0.0270739,0.295346,0.0632428,3.0115e-06,rs141082945,4641,Maltotriose levels,TRUE,reported,UQom2n
+2,209703171,A,G,0.0362508,-0.2699,0.0550729,9.54593e-07,rs147666382,4641,Maltotriose levels,TRUE,reported,UQom2n
+3,134325888,A,G,0.135389,0.141264,0.0309121,4.88054e-06,rs113410972,4641,Maltotriose levels,TRUE,reported,UQom2n
+3,141700065,A,G,0.360843,0.0992769,0.0216311,4.44236e-06,rs9855944,4641,Maltotriose levels,TRUE,reported,UQom2n
+5,66323556,G,A,0.0334302,-0.274871,0.0590191,3.20362e-06,rs75049736,4641,Maltotriose levels,TRUE,reported,UQom2n
+9,1931505,T,G,0.0219792,-0.322444,0.0705527,4.87109e-06,rs150000891,4641,Maltotriose levels,TRUE,reported,UQom2n
+10,95311303,C,T,0.510903,0.097467,0.0207116,2.52725e-06,rs1360005,4641,Maltotriose levels,TRUE,reported,UQom2n
+11,123627498,A,G,0.0123004,-0.451935,0.0933029,1.27418e-06,rs72552153,4641,Maltotriose levels,TRUE,reported,UQom2n
+12,129779913,T,C,0.0230852,-0.330457,0.0688133,1.56907e-06,rs75183407,4641,Maltotriose levels,TRUE,reported,UQom2n
+13,46195297,A,G,0.655467,-0.105534,0.021612,1.04432e-06,rs1230433,4641,Maltotriose levels,TRUE,reported,UQom2n
+14,61953888,G,A,0.322023,-0.107757,0.0223276,1.39183e-06,rs1254839,4641,Maltotriose levels,TRUE,reported,UQom2n
+15,61386873,C,G,0.682113,-0.105364,0.0225011,2.83227e-06,rs3935534,4641,Maltotriose levels,TRUE,reported,UQom2n
+21,22791486,C,T,0.0169583,-0.367335,0.0795794,3.91306e-06,rs141782806,4641,Maltotriose levels,TRUE,reported,UQom2n
+22,43905879,C,G,0.0282214,0.285259,0.0623725,4.7969e-06,rs6006574,4641,Maltotriose levels,TRUE,reported,UQom2n

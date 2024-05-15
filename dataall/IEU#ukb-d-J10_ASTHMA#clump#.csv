@@ -1,0 +1,4 @@
+"pos.exposure","se.exposure","pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32409530,0.000178991,1.75525e-09,0.00107737,361194,"6","ukb-d-J10_ASTHMA","rs3129882","A","G",0.614169,"Asthma || id:ukb-d-J10_ASTHMA",TRUE,"reported","igd"
+32615945,0.000188918,7.37564e-18,0.00162647,361194,"6","ukb-d-J10_ASTHMA","rs17612712","T","A",0.421196,"Asthma || id:ukb-d-J10_ASTHMA",TRUE,"reported","igd"
+9058671,0.000176447,7.942e-09,-0.00101807,361194,"10","ukb-d-J10_ASTHMA","rs1444782","A","G",0.423243,"Asthma || id:ukb-d-J10_ASTHMA",TRUE,"reported","igd"

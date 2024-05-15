@@ -1,0 +1,8 @@
+chr.exposure,pval.exposure,beta.exposure,pos.exposure,samplesize.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,2.90603e-26,-0.3418,161515326,2871,0.03192,ebi-a-GCST90002106,rs55971447,T,C,0.2372,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,3.02482e-25,-0.3191,32736005,2871,0.03045,ebi-a-GCST90002106,rs9296042,T,C,0.5014,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,3.24863e-18,-0.3215,31824912,2871,0.0367,ebi-a-GCST90002106,rs9267650,T,A,0.2882,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,3.67282e-110,1.075,32570311,2871,0.04613,ebi-a-GCST90002106,rs34039593,G,T,0.1174,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,1.44099e-10,0.2659,33890451,2871,0.04133,ebi-a-GCST90002106,rs7748976,A,G,0.1365,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,3.42295e-15,0.3225,29545208,2871,0.04073,ebi-a-GCST90002106,rs362522,T,C,0.1553,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd
+6,6.51929e-42,0.8336,31569745,2871,0.06047,ebi-a-GCST90002106,rs116007826,G,A,0.0686,HLA DR on Dendritic Cell || id:ebi-a-GCST90002106,TRUE,reported,igd

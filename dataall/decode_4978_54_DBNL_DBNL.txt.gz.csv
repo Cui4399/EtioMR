@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,44037871,rs56665454,T,C,0.0716,1.915e-17,0.008425,35355,0.35519,DBNL_DBNL,TRUE,reported,DBNL_DBNL

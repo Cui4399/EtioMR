@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,144058338,G,T,0.0862257,-0.762908,0.0254256,8.31087e-198,rs3935209,8256,5-oxoproline to citrate ratio,TRUE,reported,HwAtWa
+17,6696046,C,T,0.168206,-0.127443,0.0206194,6.38057e-10,rs7220915,8256,5-oxoproline to citrate ratio,TRUE,reported,HwAtWa

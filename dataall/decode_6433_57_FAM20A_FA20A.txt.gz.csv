@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,68513002,rs12941038,T,C,-0.1576,1.74e-57,0.009862,35368,0.21873,FAM20A_FA20A,TRUE,reported,FAM20A_FA20A
+17,68659675,rs929477,A,G,-0.2017,7.742e-44,0.014526,35368,0.08687,FAM20A_FA20A,TRUE,reported,FAM20A_FA20A
+17,69200002,rs60066663,C,T,-0.0693,2.209e-08,0.012387,35371,0.1269,FAM20A_FA20A,TRUE,reported,FAM20A_FA20A
+17,69253570,rs77262773,T,C,0.2979,5.518e-28,0.027164,35371,0.02263,FAM20A_FA20A,TRUE,reported,FAM20A_FA20A

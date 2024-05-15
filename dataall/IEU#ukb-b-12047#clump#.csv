@@ -1,0 +1,5 @@
+"se.exposure","samplesize.exposure","pos.exposure","pval.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000250416,463010,161089307,2.39999e-09,"6",0.00149493,"ukb-b-12047","rs56393506","T","C",0.171301,"Diagnoses - main ICD10: I20.0 Unstable angina || id:ukb-b-12047",TRUE,"reported","igd"
+0.000184988,463010,22124630,7.50067e-16,"9",0.00149145,"ukb-b-12047","rs10757279","G","A",0.483132,"Diagnoses - main ICD10: I20.0 Unstable angina || id:ukb-b-12047",TRUE,"reported","igd"
+0.000315764,463010,2291715,3.69999e-09,"11",0.00186196,"ukb-b-12047","rs7126721","T","G",0.096959,"Diagnoses - main ICD10: I20.0 Unstable angina || id:ukb-b-12047",TRUE,"reported","igd"
+0.000274809,463010,61995322,1.79999e-08,"20",-0.00154853,"ukb-b-12047","rs6011794","T","C",0.86985,"Diagnoses - main ICD10: I20.0 Unstable angina || id:ukb-b-12047",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,206936501,rs748844,A,G,-0.1423,2.196e-64,0.008399,35373,0.39793,PIGR_PIGR,TRUE,reported,PIGR_PIGR

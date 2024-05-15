@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5,150566196,-0.0931547,0.019803,2.55018e-06,7738,ebi-a-GCST90027774,rs12657476,T,C,0.459629,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri,TRUE,reported,igd
+8,17991955,0.0964986,0.0206581,2.99399e-06,7738,ebi-a-GCST90027774,rs4503137,T,G,0.718361,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri,TRUE,reported,igd
+9,94443717,0.138723,0.029459,2.48891e-06,7738,ebi-a-GCST90027774,rs73654027,C,G,0.114452,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri,TRUE,reported,igd
+16,84948251,0.157054,0.0339477,3.72169e-06,7738,ebi-a-GCST90027774,rs72799593,T,C,0.0830449,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri,TRUE,reported,igd
+22,23715418,0.0949466,0.0200351,2.14768e-06,7738,ebi-a-GCST90027774,rs2330438,A,T,0.516688,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__Prevotella_copri,TRUE,reported,igd

@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","chr.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.45064e-08,335888,"1",-0.00434894,53738975,0.000779817,"ukb-a-247","rs10788953","A","C",0.425669,"Seen a psychiatrist for nerves  anxiety  tension or depression || id:ukb-a-247",TRUE,"reported","igd"
+2.44709e-08,335888,"5",-0.00449426,78409396,0.000805837,"ukb-a-247","rs542852","C","T",0.636841,"Seen a psychiatrist for nerves  anxiety  tension or depression || id:ukb-a-247",TRUE,"reported","igd"
+4.09072e-11,335888,"6",-0.00739084,30074072,0.00111966,"ukb-a-247","rs2517601","C","G",0.138737,"Seen a psychiatrist for nerves  anxiety  tension or depression || id:ukb-a-247",TRUE,"reported","igd"

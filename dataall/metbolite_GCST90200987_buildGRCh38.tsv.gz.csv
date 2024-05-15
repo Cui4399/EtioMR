@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.668149,-0.0977144,0.0178193,4.16697e-08,rs1168041,7162,Benzoate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ptcxSb
+11,116778201,C,G,0.869188,0.224823,0.0244025,3.16828e-20,rs964184,7162,Benzoate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ptcxSb
+19,44893408,T,G,0.203579,-0.132959,0.0204015,7.16728e-11,rs59007384,7162,Benzoate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ptcxSb

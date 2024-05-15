@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+9,91685822,rs62566652,G,A,-0.0607962,2.68720005671711e-10,0.00962602,33942,0.190512,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,91724039,rs10761129,T,C,-0.0587544,7.00486871231682e-14,0.00784672,33942,0.672353,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92161828,rs111676831,C,A,-0.142655,4.24424064429569e-20,0.0155369,33942,0.0735796,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92225328,rs148990291,C,T,0.16757,1.38985662000324e-10,0.0261135,33942,0.0222299,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92274705,rs2295941,G,A,-0.257487,1e-200,0.00781739,33942,0.327248,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92280183,rs72750457,A,C,0.143621,7.22270704312173e-15,0.0184591,33942,0.0414473,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92440383,rs150746804,C,A,-0.173444,1.46355820906357e-08,0.0306125,33942,0.0169611,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,92580959,rs331375,C,A,0.157929,8.60993752184602e-11,0.024336,33942,0.0236517,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis
+9,93026341,rs11788432,C,T,-0.0664953,1.94222705723317e-16,0.00808396,33942,0.290788,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,TRUE,reported,aspn_q9bxn1_oid30315_v1_cardiometabolic_ii,chr9,92482562,cis

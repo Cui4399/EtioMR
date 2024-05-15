@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,166353253,G,A,0.0305711,0.301185,0.0435026,4.40947e-12,rs117351628,8224,4-methyl-2-oxopentanoate to 3-methyl-2-oxobutyrate ratio,TRUE,reported,J5EuNr

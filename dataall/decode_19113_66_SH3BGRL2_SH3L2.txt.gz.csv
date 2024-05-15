@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,79616293,rs2812679,T,C,0.1019,8e-35,0.008278,35334,0.45405,SH3BGRL2_SH3L2,TRUE,reported,SH3BGRL2_SH3L2

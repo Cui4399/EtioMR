@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61822009,G,A,0.301605,0.30322,0.0171121,2.95854e-70,rs28456,7623,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Z3zpXL
+19,19551411,T,C,0.0775341,0.196909,0.0300635,5.76224e-11,rs17216525,7623,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Z3zpXL
+19,44912921,T,G,0.226461,-0.177755,0.0190295,9.54298e-21,rs483082,7623,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Z3zpXL

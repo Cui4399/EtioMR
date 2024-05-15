@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.308798,0.367277,0.0155481,2.28648e-123,rs1047891,8197,3-methylglutaconate levels,TRUE,reported,S9okUF
+9,6534080,T,C,0.248317,-0.119967,0.0171006,2.29312e-12,rs55933544,8197,3-methylglutaconate levels,TRUE,reported,S9okUF
+9,6665010,T,C,0.141415,-0.427783,0.0210263,5.12316e-92,rs1658972,8197,3-methylglutaconate levels,TRUE,reported,S9okUF
+16,697454,C,T,0.221115,0.0978217,0.0178215,4.04275e-08,rs12922098,8197,3-methylglutaconate levels,TRUE,reported,S9okUF

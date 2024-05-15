@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151568686,T,G,0.915467,-0.130512,0.0271846,1.57895e-06,rs6701819,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+1,157929534,T,C,0.130038,0.107877,0.0226075,1.82628e-06,rs35501034,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+3,47628057,T,A,0.64384,-0.0831997,0.016157,2.61257e-07,rs12497825,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+3,116887001,T,A,0.0141033,-0.292225,0.0634803,4.15667e-06,rs9861822,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+4,76938990,T,C,0.0598369,-0.148571,0.0320553,3.57236e-06,rs113787886,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+5,37284624,G,A,0.403764,0.0715951,0.0153975,3.32264e-06,rs150621,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+5,96802273,G,T,0.0326718,-0.203473,0.0428482,2.04748e-06,rs78657232,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+7,96776335,A,T,0.0263415,-0.220526,0.0474589,3.37323e-06,rs139278946,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+9,14183425,G,A,0.865678,-0.108956,0.0223756,1.11924e-06,rs1873896,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+9,33332045,A,G,0.0232486,0.232008,0.0501356,3.69915e-06,rs79819765,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+9,90861059,T,A,0.121765,0.108417,0.0234953,3.94194e-06,rs10993729,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+9,110873692,T,C,0.0454932,0.167307,0.0363538,4.18078e-06,rs79950608,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+14,37739266,AC,A,0.0395428,-0.179554,0.039189,4.61125e-06,rs200314240,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8
+19,56248371,G,C,0.0608281,-0.150149,0.0316536,2.10072e-06,rs111949383,8277,Eicosenoate (20:1) levels,TRUE,reported,CZVTy8

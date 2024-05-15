@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.586755,0.198317,0.0157142,1.63308e-36,rs1260326,7907,Mannose to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,BefHkd
+4,129118729,G,A,0.61159,0.150435,0.0157231,1.09239e-21,rs530686,7907,Mannose to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,BefHkd
+6,167294271,T,C,0.109238,-0.301051,0.0244513,7.77936e-35,rs2076007,7907,Mannose to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,BefHkd

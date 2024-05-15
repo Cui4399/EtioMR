@@ -1,0 +1,4 @@
+"beta.exposure","pos.exposure","samplesize.exposure","se.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00746991,169272451,463010,0.00077773,"1",7.59976e-22,"ukb-b-13782","rs10800427","T","A",0.958025,"Diagnoses - secondary ICD10: Z86.7 Personal history of diseases of the circulatory system || id:ukb-b-13782",TRUE,"reported","igd"
+0.00221403,155545072,463010,0.000364708,"4",1.29999e-09,"ukb-b-13782","rs7654093","T","A",0.238502,"Diagnoses - secondary ICD10: Z86.7 Personal history of diseases of the circulatory system || id:ukb-b-13782",TRUE,"reported","igd"
+0.00398867,136141870,463010,0.000392421,"9",2.90001e-24,"ukb-b-13782","rs2519093","T","C",0.184629,"Diagnoses - secondary ICD10: Z86.7 Personal history of diseases of the circulatory system || id:ukb-b-13782",TRUE,"reported","igd"

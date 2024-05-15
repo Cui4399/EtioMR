@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,69961532,rs3796097,CTCGAAGCAGAGCGGGGA,CTCGAAGCAGAGTGGGGA,0.0649,1.195e-15,0.008107,35346,0.44088,ASPRV1_APRV1,TRUE,reported,ASPRV1_APRV1

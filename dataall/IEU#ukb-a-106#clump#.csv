@@ -1,0 +1,3 @@
+"beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00441922,6.60998e-11,337159,"2",70717653,0.000676813,"ukb-a-106","rs3771501","G","A",0.52626,"Non-cancer illness code  self-reported: osteoarthritis || id:ukb-a-106",TRUE,"reported","igd"
+0.00996566,7.79112e-15,337159,"4",103188709,0.00128237,"ukb-a-106","rs13107325","T","C",0.0747926,"Non-cancer illness code  self-reported: osteoarthritis || id:ukb-a-106",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,181010583,rs147577717,T,C,-0.2743,7.86e-09,0.047527,35328,0.00711,BTNL9_BTNL9,TRUE,reported,BTNL9_BTNL9

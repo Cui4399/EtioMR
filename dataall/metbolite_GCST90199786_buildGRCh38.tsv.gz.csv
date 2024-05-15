@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119392884,T,A,0.593372,0.126041,0.0147352,1.19172e-17,rs10802092,8246,2-hydroxy-3-methylvalerate levels,TRUE,reported,M3bCpY
+11,18322517,C,T,0.538856,-0.124544,0.01423,2.09148e-18,rs3802967,8246,2-hydroxy-3-methylvalerate levels,TRUE,reported,M3bCpY

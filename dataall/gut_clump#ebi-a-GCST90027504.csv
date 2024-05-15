@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,155357272,-0.148378,0.0323585,4.53002e-06,7738,ebi-a-GCST90027504,rs76292876,G,C,0.0704357,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+2,67868756,-0.097125,0.0198337,9.73218e-07,7738,ebi-a-GCST90027504,rs1023692,C,T,0.771282,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+7,3969303,-0.174502,0.0321844,5.89576e-08,7738,ebi-a-GCST90027504,rs11762494,G,A,0.0770818,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+10,69943990,-0.124248,0.0247022,4.90919e-07,7738,ebi-a-GCST90027504,rs61857174,A,T,0.122152,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+10,83395423,-0.105362,0.0207774,3.95776e-07,7738,ebi-a-GCST90027504,rs56107021,T,C,0.190545,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+13,109337709,-0.083133,0.0178931,3.38275e-06,7738,ebi-a-GCST90027504,rs4399424,C,T,0.293152,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+15,24229551,0.0834953,0.0168853,7.62061e-07,7738,ebi-a-GCST90027504,rs12907443,G,A,0.382501,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd
+17,7249870,-0.10006,0.0217753,4.32514e-06,7738,ebi-a-GCST90027504,rs11657406,T,G,0.166064,PANTO.PWY..phosphopantothenate.biosynthesis.I,TRUE,reported,igd

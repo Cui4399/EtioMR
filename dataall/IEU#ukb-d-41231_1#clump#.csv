@@ -1,0 +1,5 @@
+"chr.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",0.00154203,0.00881502,361194,56079609,1.08815e-08,"ukb-d-41231_1","rs11899380","A","G",0.133992,"Hospital episode type: General episode || id:ukb-d-41231_1",TRUE,"reported","igd"
+"10",0.00116118,0.00771065,361194,21797567,3.13401e-11,"ukb-d-41231_1","rs138844120","AAG","A",0.303173,"Hospital episode type: General episode || id:ukb-d-41231_1",TRUE,"reported","igd"
+"19",0.00110094,-0.0060886,361194,7954333,3.19808e-08,"ukb-d-41231_1","rs201703510","C","A",0.405516,"Hospital episode type: General episode || id:ukb-d-41231_1",TRUE,"reported","igd"
+"20",0.00236589,-0.0130901,361194,15367466,3.1529e-08,"ukb-d-41231_1","rs16995652","C","T",0.058219,"Hospital episode type: General episode || id:ukb-d-41231_1",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+"beta.exposure","pos.exposure","samplesize.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000801605,67685598,337199,"1",8.9929e-11,0.000123644,"ukb-a-552","rs11465802","C","A",0.302157,"Diagnoses - main ICD10: K50 Crohn's disease [regional enteritis] || id:ukb-a-552",TRUE,"reported","igd"
+0.00320494,32397662,337199,"6",6.33724e-16,0.000396501,"ukb-a-552","rs144717024","A","C",0.0280162,"Diagnoses - main ICD10: K50 Crohn's disease [regional enteritis] || id:ukb-a-552",TRUE,"reported","igd"
+0.00200958,50759731,337199,"16",3.08248e-11,0.000302521,"ukb-a-552","rs5743292","A","T",0.0364681,"Diagnoses - main ICD10: K50 Crohn's disease [regional enteritis] || id:ukb-a-552",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,108035560,A,G,0.605367,0.100241,0.0158207,2.3573e-10,rs1777451,8238,Phosphate to citrate ratio,TRUE,reported,JSHz3p
+17,6701389,G,T,0.442805,-0.0951987,0.0161328,3.61445e-09,rs218671,8238,Phosphate to citrate ratio,TRUE,reported,JSHz3p
+22,19193077,G,A,0.623388,0.0972232,0.0157438,6.60216e-10,rs762523,8238,Phosphate to citrate ratio,TRUE,reported,JSHz3p

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,46739206,rs3136516,A,G,-0.1125,4.72e-41,0.008384,35376,0.43793,F2_Thrombin,TRUE,reported,F2_Thrombin
+11,47371663,rs202084665,GTCTTAA,GTCTTA,0.0671,1.036e-13,0.009023,35377,0.31975,F2_Thrombin,TRUE,reported,F2_Thrombin
+11,47390360,rs118097789,C,A,-0.252,9.593e-13,0.035313,35376,0.01441,F2_Thrombin,TRUE,reported,F2_Thrombin
+11,47509909,rs34105209,AAAAAATGGCCG,AAAAATGGCCG,0.0652,6.716e-13,0.009074,35377,0.31841,F2_Thrombin,TRUE,reported,F2_Thrombin

@@ -1,0 +1,7 @@
+pval.exposure,beta.exposure,samplesize.exposure,se.exposure,chr.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7.12033e-13,0.2238,3668,0.03107,2,87022759,ebi-a-GCST90001637,rs34613828,T,A,0.1945,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd
+5.29054e-18,0.564,3668,0.06488,6,100468602,ebi-a-GCST90001637,rs79251210,A,G,0.0378,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd
+1.25314e-11,0.3694,3668,0.05436,6,101417409,ebi-a-GCST90001637,rs115536607,T,C,0.0545,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd
+2.75486e-20,0.7037,3668,0.07581,6,101980039,ebi-a-GCST90001637,rs117147408,G,A,0.0275,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd
+8.37529e-11,0.3806,3668,0.05843,6,97889936,ebi-a-GCST90001637,rs9488834,A,G,0.0465,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd
+2.67979e-22,-0.3832,3668,0.0392,11,112751407,ebi-a-GCST90001637,rs77738700,A,G,0.1067,CD4-CD8- Natural Killer T %T cell || id:ebi-a-GCST90001637,TRUE,reported,igd

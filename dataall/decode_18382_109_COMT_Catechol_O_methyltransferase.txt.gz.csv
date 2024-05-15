@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,19961490,rs165722,T,C,-0.0822,2.904e-23,0.008273,35363,0.4265,COMT_Catechol_O_methyltransferase,TRUE,reported,COMT_Catechol_O_methyltransferase
+22,19965653,rs174696,TAAAACAACAAAA,CAAAACAACAAAA,-0.0548,2.058e-10,0.00862,35363,0.34786,COMT_Catechol_O_methyltransferase,TRUE,reported,COMT_Catechol_O_methyltransferase

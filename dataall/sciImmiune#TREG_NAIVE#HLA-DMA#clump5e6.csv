@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",32913246,"rs1480380","C","T",2.23809632139e-06,1.47025329397,0.310793531640964,89,"TREG_NAIVE#HLA-DMA",TRUE,"reported","aT5pO3",NA

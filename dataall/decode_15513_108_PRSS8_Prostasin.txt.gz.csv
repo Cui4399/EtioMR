@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,30707837,rs72793373,C,T,0.226,1.089e-18,0.025607,35370,0.02749,PRSS8_Prostasin,TRUE,reported,PRSS8_Prostasin
+16,31144137,rs55667375,T,C,0.0597,4.015e-11,0.009041,35367,0.28217,PRSS8_Prostasin,TRUE,reported,PRSS8_Prostasin
+16,31594069,rs77193974,G,A,0.125,1.009e-10,0.019333,35365,0.04813,PRSS8_Prostasin,TRUE,reported,PRSS8_Prostasin

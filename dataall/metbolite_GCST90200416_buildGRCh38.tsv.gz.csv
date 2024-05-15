@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,18356365,C,T,0.144759,0.121834,0.0217035,1.98187e-08,rs6983849,8198,Trans-urocanate levels,TRUE,reported,n0yw1x
+12,95986028,A,G,0.565067,0.298544,0.0152891,6.52409e-85,rs3213737,8198,Trans-urocanate levels,TRUE,reported,n0yw1x
+19,51016454,T,C,0.215625,0.108932,0.0193124,1.69546e-08,rs56035820,8198,Trans-urocanate levels,TRUE,reported,n0yw1x

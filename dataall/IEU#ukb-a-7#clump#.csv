@@ -1,0 +1,3 @@
+"samplesize.exposure","pos.exposure","beta.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+224813,30018720,0.0130579,"16",4.6169e-09,0.00222806,"ukb-a-7","rs12921753","T","C",0.400585,"Time spent driving || id:ukb-a-7",TRUE,"reported","igd"
+224813,47531286,-0.0146933,"20",3.69743e-11,0.00222085,"ukb-a-7","rs6012558","A","G",0.421577,"Time spent driving || id:ukb-a-7",TRUE,"reported","igd"

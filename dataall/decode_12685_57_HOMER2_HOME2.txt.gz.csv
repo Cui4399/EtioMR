@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,82850720,rs1256430,A,G,-0.0913,3.395e-16,0.011191,35357,0.16453,HOMER2_HOME2,TRUE,reported,HOMER2_HOME2
+15,82854635,rs2306428,T,C,0.1133,1.05e-08,0.019799,35357,0.04532,HOMER2_HOME2,TRUE,reported,HOMER2_HOME2

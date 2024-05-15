@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,24914993,G,T,0.0681707,-0.187803,0.0296758,2.47564e-10,rs72770483,8193,Myo-inositol levels,TRUE,reported,Xf4HPe
+19,18522945,C,T,0.437577,0.0863516,0.0153308,1.77566e-08,rs172032,8193,Myo-inositol levels,TRUE,reported,Xf4HPe

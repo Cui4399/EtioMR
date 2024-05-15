@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119711883,G,A,0.580003,0.104441,0.0159661,6.09481e-11,rs561931,8100,Serine to alpha-ketobutyrate ratio,TRUE,reported,u7KYdN
+2,27519736,C,T,0.597083,0.102938,0.01593,1.03413e-10,rs780093,8100,Serine to alpha-ketobutyrate ratio,TRUE,reported,u7KYdN
+18,40961735,G,T,0.027943,-0.268523,0.0471897,1.26821e-08,rs79259434,8100,Serine to alpha-ketobutyrate ratio,TRUE,reported,u7KYdN

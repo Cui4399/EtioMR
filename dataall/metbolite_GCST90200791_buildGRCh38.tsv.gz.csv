@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309683,0.198416,0.0150381,9.47472e-40,rs1047891,8235,Creatine to carnitine ratio,TRUE,reported,rTaABe
+10,59709780,C,T,0.77119,-0.131219,0.0169924,1.14331e-14,rs1171614,8235,Creatine to carnitine ratio,TRUE,reported,rTaABe
+15,45398791,C,T,0.363976,0.110786,0.0146172,3.47818e-14,rs1346267,8235,Creatine to carnitine ratio,TRUE,reported,rTaABe

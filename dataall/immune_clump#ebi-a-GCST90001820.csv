@@ -1,0 +1,7 @@
+pval.exposure,samplesize.exposure,pos.exposure,se.exposure,chr.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1.695e-08,3656,28205826,0.03505,6,-0.1982,ebi-a-GCST90001820,rs112421400,T,C,0.2101,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd
+6.87385e-13,3656,32671207,0.03383,6,-0.2439,ebi-a-GCST90001820,rs1794511,G,T,0.2594,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd
+5.50503e-10,3656,43351686,0.05776,6,0.3593,ebi-a-GCST90001820,rs139084170,A,C,0.052,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd
+1.20088e-11,3656,31297744,0.03249,6,-0.221,ebi-a-GCST90001820,rs9265515,C,T,0.3368,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd
+1.38201e-10,3656,105445412,0.04177,14,0.2689,ebi-a-GCST90001820,rs2819455,C,G,0.0952,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd
+4.42486e-87,3656,106306841,0.03013,14,-0.6123,ebi-a-GCST90001820,rs709589,T,C,0.4558,IgD on IgD+ CD24+ B cell || id:ebi-a-GCST90001820,TRUE,reported,igd

@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"11",0.000584922,0.000105352,2.80001e-08,463010,65316382,"ukb-b-8085","rs11601767","C","T",0.334642,"Diagnoses - main ICD10: M65.3 Trigger finger || id:ukb-b-8085",TRUE,"reported","igd"
+"16",0.000623602,0.000100674,5.89997e-10,463010,53910261,"ukb-b-8085","rs4784329","C","A",0.426458,"Diagnoses - main ICD10: M65.3 Trigger finger || id:ukb-b-8085",TRUE,"reported","igd"

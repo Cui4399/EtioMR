@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,8849188,C,A,0.0144828,-0.30223,0.059141,3.21587e-07,rs142156573,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+3,132984079,T,C,0.107815,0.111538,0.0229083,1.12226e-06,rs56040563,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+4,58614902,C,A,0.234286,0.079684,0.0163632,1.11768e-06,rs282729,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+7,82799588,G,C,0.354964,0.0679244,0.0145598,3.08292e-06,rs10272463,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+8,9951532,A,G,0.166687,0.0881991,0.0189635,3.30328e-06,rs35408848,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+8,75362588,G,A,0.0123616,0.308188,0.0635033,1.2155e-06,rs118041812,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+12,66158118,T,C,0.349505,-0.0695849,0.0146488,2.03196e-06,rs11176065,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+12,95262746,C,A,0.0983948,-0.115653,0.0235655,9.21306e-07,rs2306885,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+12,110572837,G,T,0.0823025,-0.116684,0.0254146,4.40667e-06,rs61942622,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+13,26737109,A,G,0.658984,-0.0700727,0.0151983,4.01577e-06,rs1632215,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+15,70545339,G,C,0.607655,-0.0716155,0.0149896,1.77333e-06,rs7496008,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+15,94969290,C,T,0.0578766,0.138383,0.0300104,4.00374e-06,rs62018653,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5
+18,61632432,C,G,0.931995,-0.145593,0.0286406,3.70611e-07,rs7241147,8176,Glycerol to sulfate ratio,TRUE,reported,SlL9e5

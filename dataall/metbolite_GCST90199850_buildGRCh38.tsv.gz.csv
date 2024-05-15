@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,68489991,C,T,0.615895,-0.270511,0.0182842,1.58226e-49,rs62317882,5524,"5alpha-androstan-3alpha,17alpha-diol monosulfate levels",TRUE,reported,ewtR5r
+4,68501356,C,T,0.67968,0.162951,0.0190161,1.04255e-17,rs2603152,5524,"5alpha-androstan-3alpha,17alpha-diol monosulfate levels",TRUE,reported,ewtR5r
+6,25818527,A,G,0.242251,0.137653,0.0208152,3.7627e-11,rs9461218,5524,"5alpha-androstan-3alpha,17alpha-diol monosulfate levels",TRUE,reported,ewtR5r
+7,99477415,C,T,0.0203304,-0.697993,0.0615151,7.70181e-30,rs148982377,5524,"5alpha-androstan-3alpha,17alpha-diol monosulfate levels",TRUE,reported,ewtR5r
+10,5197995,T,A,0.138874,-0.228938,0.0260104,1.3464e-18,rs7070862,5524,"5alpha-androstan-3alpha,17alpha-diol monosulfate levels",TRUE,reported,ewtR5r

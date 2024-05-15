@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,36030798,-0.121535,0.0247565,9.1445e-07,7738,ebi-a-GCST90027637,rs62149083,C,T,0.178452,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd
+6,90738735,0.118448,0.025762,4.27061e-06,7738,ebi-a-GCST90027637,rs6931936,G,A,0.222468,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd
+9,16845510,-0.105984,0.0219135,1.32175e-06,7738,ebi-a-GCST90027637,rs7864936,A,G,0.64806,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd
+12,60090207,-0.11292,0.0231773,1.10464e-06,7738,ebi-a-GCST90027637,rs7971953,C,G,0.219371,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd
+12,10045919,0.161957,0.0329632,8.95695e-07,7738,ebi-a-GCST90027637,rs577575,A,G,0.0956027,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd
+17,76456017,0.156423,0.0340843,4.44764e-06,7738,ebi-a-GCST90027637,rs34438166,G,C,0.0996485,PYRIDNUCSAL.PWY..NAD.salvage.pathway.I,TRUE,reported,igd

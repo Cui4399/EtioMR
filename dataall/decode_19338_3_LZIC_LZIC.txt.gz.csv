@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,10065497,rs4265433,G,A,0.1684,3.604e-10,0.026857,35391,0.02238,LZIC_LZIC,TRUE,reported,LZIC_LZIC

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"16",50373272,"rs4494538","C","T",1.29479154379e-06,0.800492078923,0.165372074489559,89,"CD4_NAIVE#CYLD",TRUE,"reported","VuybaZ",NA

@@ -1,0 +1,4 @@
+"beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00227423,337159,1.02329e-26,0.000212536,114754784,"10","ukb-a-75","rs35198068","C","T",0.291006,"Non-cancer illness code  self-reported: type 2 diabetes || id:ukb-a-75",TRUE,"reported","igd"
+-0.00423519,337159,1.54124e-08,0.000748657,4384844,"12","ukb-a-75","rs76895963","G","T",0.0192794,"Non-cancer illness code  self-reported: type 2 diabetes || id:ukb-a-75",TRUE,"reported","igd"
+0.00123089,337159,2.42739e-10,0.000194401,53948824,"19","ukb-a-75","rs2617746","G","T",0.506493,"Non-cancer illness code  self-reported: type 2 diabetes || id:ukb-a-75",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+"beta.exposure","se.exposure","pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00390971,0.000644379,1.29999e-09,"3",445378,181371116,"ukb-b-11856","rs66715101","T","C",0.167395,"Treatment speciality of consultant (recoded): Ophthalmology || id:ukb-b-11856",TRUE,"reported","igd"
+0.00323447,0.000553528,5.1e-09,"7",445378,46213818,"ukb-b-11856","rs4559153","T","C",0.260165,"Treatment speciality of consultant (recoded): Ophthalmology || id:ukb-b-11856",TRUE,"reported","igd"
+0.00260403,0.000475681,4.39997e-08,"9",445378,22098574,"ukb-b-11856","rs4977574","G","A",0.490135,"Treatment speciality of consultant (recoded): Ophthalmology || id:ukb-b-11856",TRUE,"reported","igd"
+0.00270319,0.000476103,1.40001e-08,"16",445378,69904138,"ukb-b-11856","rs1466863","A","T",0.495126,"Treatment speciality of consultant (recoded): Ophthalmology || id:ukb-b-11856",TRUE,"reported","igd"
+0.00501407,0.000654579,1.9002e-14,"20",445378,19457268,"ukb-b-11856","rs4814857","G","A",0.16005,"Treatment speciality of consultant (recoded): Ophthalmology || id:ukb-b-11856",TRUE,"reported","igd"

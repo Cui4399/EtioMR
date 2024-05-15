@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,230494020,rs74748865,T,C,0.1203,4.853e-11,0.018296,35361,0.04989,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230517344,rs143174745,TGTGTGTGTGTGT,T,0.2829,4.452e-12,0.040869,35362,0.01014,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230699381,rs114424782,G,A,0.0863,6.979e-10,0.013995,35364,0.08547,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230708860,rs11568055,T,C,0.1994,2.097e-36,0.015825,35364,0.06795,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230709809,rs11568054,A,G,-0.1187,2.196e-12,0.016905,35364,0.05804,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230715194,rs2071404,A,C,0.2772,6.872e-92,0.013635,35364,0.09293,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230719363,rs57150750,T,C,0.1832,1.024e-11,0.026929,35364,0.02282,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen
+1,230746881,rs28359576,T,A,-0.0866,1.631e-09,0.01436,35362,0.08308,AGT_Angiotensinogen,TRUE,reported,AGT_Angiotensinogen

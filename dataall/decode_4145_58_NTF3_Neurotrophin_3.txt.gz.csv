@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,5271731,rs149193124,G,A,0.139,1.126e-11,0.020473,35381,0.03911,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3
+12,5291503,rs10459131,T,C,-0.0682,2.834e-14,0.008967,35383,0.27225,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3
+12,5357936,rs117715128,G,A,0.1579,9.357e-11,0.024379,35382,0.0267,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3
+12,5432002,rs148590960,CGGA,CGGG,-0.1334,2.559e-27,0.012321,35381,0.1191,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3
+12,5437300,rs11063675,T,C,-0.2833,2.355e-13,0.038666,35381,0.01118,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3
+12,5574094,rs79426122,T,C,0.1541,2.251e-22,0.015838,35381,0.06618,NTF3_Neurotrophin_3,TRUE,reported,NTF3_Neurotrophin_3

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,77954163,-0.144703,0.0306366,2.32145e-06,7738,ebi-a-GCST90027496,rs798301,A,T,0.494294,P122.PWY..heterolactic.fermentation,TRUE,reported,igd
+11,87633738,0.325538,0.0653775,6.3794e-07,7738,ebi-a-GCST90027496,rs72956918,A,G,0.0703907,P122.PWY..heterolactic.fermentation,TRUE,reported,igd
+17,11989561,-0.28699,0.0551751,1.97742e-07,7738,ebi-a-GCST90027496,rs36039198,A,G,0.0993116,P122.PWY..heterolactic.fermentation,TRUE,reported,igd
+18,36125986,0.167074,0.0341354,9.85803e-07,7738,ebi-a-GCST90027496,rs1963381,A,G,0.761011,P122.PWY..heterolactic.fermentation,TRUE,reported,igd

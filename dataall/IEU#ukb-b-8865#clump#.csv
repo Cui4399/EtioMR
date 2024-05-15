@@ -1,0 +1,4 @@
+"se.exposure","beta.exposure","samplesize.exposure","pos.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.55813,8.51284,64949,226497256,4.70002e-08,"1","ukb-b-8865","rs150096442","A","G",0.024698,"Time spent doing light physical activity || id:ukb-b-8865",TRUE,"reported","igd"
+0.905799,-5.32287,64949,138639277,4.20001e-09,"9","ukb-b-8865","rs10858162","A","G",0.922088,"Time spent doing light physical activity || id:ukb-b-8865",TRUE,"reported","igd"
+2.9845,16.5295,64949,41195569,3.09999e-08,"19","ukb-b-8865","rs117884849","T","C",0.007202,"Time spent doing light physical activity || id:ukb-b-8865",TRUE,"reported","igd"

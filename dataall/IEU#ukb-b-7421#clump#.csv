@@ -1,0 +1,3 @@
+"pval.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.1e-08,0.000112342,-0.000629525,463010,32193698,"6","ukb-b-7421","rs9267845","T","A",0.369846,"Diagnoses - secondary ICD10: K51.9 Ulcerative colitis, unspecified || id:ukb-b-7421",TRUE,"reported","igd"
+7.10068e-16,0.000111298,-0.000898018,463010,32440451,"6","ukb-b-7421","rs9269070","A","G",0.612226,"Diagnoses - secondary ICD10: K51.9 Ulcerative colitis, unspecified || id:ukb-b-7421",TRUE,"reported","igd"

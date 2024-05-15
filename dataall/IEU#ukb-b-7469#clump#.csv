@@ -1,0 +1,8 @@
+"beta.exposure","chr.exposure","samplesize.exposure","se.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00256231,"2",462933,0.000326403,4.19952e-15,60762502,"ukb-b-7469","rs2556378","G","T",0.842826,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+0.0013717,"3",462933,0.000239061,9.59997e-09,141125186,"ukb-b-7469","rs1344674","G","A",0.445739,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+-0.00177235,"5",462933,0.000241176,1.99986e-13,1336626,"ukb-b-7469","rs462608","A","T",0.416034,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+-0.00219397,"6",462933,0.000320732,7.89951e-12,30565853,"ukb-b-7469","rs9262120","A","G",0.164127,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+0.00242011,"10",462933,0.000283052,1.20005e-17,123039802,"ukb-b-7469","rs10788163","G","T",0.230603,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+0.00150033,"10",462933,0.000246989,1.2e-09,122633607,"ukb-b-7469","rs7080550","G","C",0.364166,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"
+-0.00184328,"19",462933,0.0002492,1.39991e-13,32104979,"ukb-b-7469","rs11084596","C","T",0.384353,"Non-cancer illness code, self-reported: enlarged prostate || id:ukb-b-7469",TRUE,"reported","igd"

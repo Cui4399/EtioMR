@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+10,111919220,-0.233287,0.0473559,8.38205e-07,7738,ebi-a-GCST90027452,rs72830406,G,C,0.10827,AST.PWY..L.arginine.degradation.II..AST.pathway.,TRUE,reported,igd
+11,64133228,-0.167725,0.0361181,3.4209e-06,7738,ebi-a-GCST90027452,rs72924202,T,C,0.206071,AST.PWY..L.arginine.degradation.II..AST.pathway.,TRUE,reported,igd
+13,108753553,0.162314,0.0352487,4.12791e-06,7738,ebi-a-GCST90027452,rs1325380,C,T,0.242391,AST.PWY..L.arginine.degradation.II..AST.pathway.,TRUE,reported,igd
+17,1121590,0.172899,0.0374386,3.87079e-06,7738,ebi-a-GCST90027452,rs7209568,G,A,0.187878,AST.PWY..L.arginine.degradation.II..AST.pathway.,TRUE,reported,igd

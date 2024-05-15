@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,4779226,A,G,0.112507,-0.116083,0.0251478,3.91185e-06,rs34056299,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+3,172575323,A,G,0.213649,-0.087236,0.0190256,4.53553e-06,rs9809070,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+4,10271419,A,C,0.256957,0.081686,0.0177128,3.99394e-06,rs17407324,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+5,3530348,G,A,0.430568,-0.0813089,0.015392,1.27404e-07,rs710983,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+7,154739694,T,A,0.32714,-0.0805141,0.0172971,3.24337e-06,rs12154778,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+10,15568092,G,A,0.770027,-0.0904919,0.0187709,1.42945e-06,rs974733,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+10,26444460,A,G,0.0567706,-0.153312,0.0335568,4.9068e-06,rs116935909,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+11,27201217,G,A,0.0117469,0.350422,0.0722493,1.23352e-06,rs150121950,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl
+15,95487991,G,A,0.110241,0.11408,0.0247356,3.98836e-06,rs1364558,7646,N-acetyl leucine levels,TRUE,reported,MJcmbl

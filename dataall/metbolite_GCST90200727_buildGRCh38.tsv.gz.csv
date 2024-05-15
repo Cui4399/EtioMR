@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,196995389,A,G,0.217737,0.101834,0.0213631,1.87153e-06,rs111421695,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+6,43779212,C,T,0.17227,-0.10875,0.0237457,4.65473e-06,rs62401162,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+8,25814404,A,G,0.186756,0.107152,0.0229495,3.0265e-06,rs77138095,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+13,70193043,T,G,0.0400222,-0.209034,0.0448939,3.22139e-06,rs9564664,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+15,49754660,A,T,0.0426771,-0.216768,0.0436028,6.64655e-07,rs16962867,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+17,10808360,A,C,0.0804732,0.163624,0.0330408,7.33896e-07,rs76149982,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9
+20,56717423,G,A,0.474547,0.083773,0.0175823,1.89219e-06,rs2426643,6329,"Adenosine 3',5'-cyclic monophosphate (cAMP) to taurocholate ratio",TRUE,reported,rffhT9

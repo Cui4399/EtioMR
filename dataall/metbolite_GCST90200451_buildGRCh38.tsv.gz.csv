@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,164791381,T,A,0.303984,0.0799866,0.0168167,1.97095e-06,rs4657374,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+3,101932483,A,C,0.0104128,-0.346897,0.0756298,4.50128e-06,rs138115093,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+3,193114771,G,A,0.0160662,-0.299701,0.060688,7.87692e-07,rs73065156,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+4,156785921,A,G,0.0503041,-0.163019,0.0352874,3.84217e-06,rs116530753,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+6,46952339,A,G,0.0117798,0.333893,0.0715021,3.01662e-06,rs147978816,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+9,86056614,T,C,0.0150757,0.291062,0.063422,4.44764e-06,rs180797894,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+9,87952364,C,T,0.0123192,-0.337496,0.0697418,1.30349e-06,rs117628926,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+10,96269434,C,A,0.0398149,0.187942,0.0390439,1.48235e-06,rs80106405,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+13,29906434,A,G,0.135483,0.106667,0.0226918,2.59305e-06,rs61947277,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+13,70834481,T,C,0.84101,-0.102857,0.0210617,1.04174e-06,rs9564752,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+16,60136125,C,T,0.0334552,-0.205464,0.0423034,1.19233e-06,rs77738983,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+17,54200953,C,T,0.0347577,0.195007,0.0419576,3.35634e-06,rs16954302,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2
+19,56248371,G,C,0.0609262,-0.157178,0.0319576,8.72781e-07,rs111949383,8231,Nonadecanoate (19:0) levels,TRUE,reported,BGJNR2

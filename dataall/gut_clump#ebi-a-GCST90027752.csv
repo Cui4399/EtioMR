@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5,24990890,0.191006,0.039289,1.16469e-06,7738,ebi-a-GCST90027752,rs68058313,T,C,0.0641869,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+6,37707962,0.108912,0.0234524,3.41822e-06,7738,ebi-a-GCST90027752,rs36119306,T,A,0.197307,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+6,20097305,-0.124428,0.0259939,1.69457e-06,7738,ebi-a-GCST90027752,rs9368149,G,A,0.172487,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+12,65405314,-0.0894324,0.0190783,2.76344e-06,7738,ebi-a-GCST90027752,rs166570,G,C,0.636465,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+12,115085267,-0.105945,0.020256,1.69223e-07,7738,ebi-a-GCST90027752,rs55926131,T,C,0.611517,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+15,37816202,0.109958,0.0229035,1.57957e-06,7738,ebi-a-GCST90027752,rs35895642,T,C,0.198579,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd
+17,47860915,0.127256,0.0244438,1.92872e-07,7738,ebi-a-GCST90027752,rs79041579,A,G,0.1829,k__Bacteria.p__Verrucomicrobia,TRUE,reported,igd

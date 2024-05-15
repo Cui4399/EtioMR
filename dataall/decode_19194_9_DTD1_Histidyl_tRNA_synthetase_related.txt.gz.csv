@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,18247146,rs140035400,C,T,-0.1635,2.324e-12,0.023312,35379,0.03126,DTD1_Histidyl_tRNA_synthetase_related,TRUE,reported,DTD1_Histidyl_tRNA_synthetase_related
+20,18590320,rs6081231,A,G,-0.2005,1.68e-128,0.008314,35380,0.34926,DTD1_Histidyl_tRNA_synthetase_related,TRUE,reported,DTD1_Histidyl_tRNA_synthetase_related
+20,18608380,rs6075377,TTTA,TTAA,0.1327,2.354e-59,0.008168,35379,0.39887,DTD1_Histidyl_tRNA_synthetase_related,TRUE,reported,DTD1_Histidyl_tRNA_synthetase_related

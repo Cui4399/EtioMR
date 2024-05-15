@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132341354,T,G,0.476654,-0.114789,0.0148237,9.66201e-15,rs11242109,8241,Carnitine C14 levels,TRUE,reported,dGXYyE

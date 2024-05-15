@@ -1,0 +1,7 @@
+"se.exposure","pval.exposure","pos.exposure","samplesize.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00156499,3.50002e-08,38596272,455026,"1",-0.00863037,"ukb-b-14598","rs11207178","G","A",0.128261,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"
+0.00133283,4.20001e-08,115832574,455026,"2",-0.00730912,"ukb-b-14598","rs10864934","A","G",0.185902,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"
+0.00107333,2.59998e-08,184666355,455026,"3",-0.00597558,"ukb-b-14598","rs9820111","T","C",0.630121,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"
+0.00112897,2.19999e-09,82296362,455026,"4",0.00675768,"ukb-b-14598","rs28814370","T","C",0.302423,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"
+0.00109128,1.5e-10,21827796,455026,"10",0.00699378,"ukb-b-14598","rs1802669","A","G",0.342146,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"
+0.0011759,2.1e-08,59807479,455026,"13",0.00659012,"ukb-b-14598","rs1327950","C","T",0.737796,"Intended management of patient (recoded): No overnight hospital stay || id:ukb-b-14598",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+"beta.exposure","pos.exposure","pval.exposure","se.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00724784,211540507,1.61473e-11,0.00107575,308780,"2","ukb-a-209","rs1047891","A","C",0.315673,"Illnesses of mother: Heart disease || id:ukb-a-209",TRUE,"reported","igd"
+0.0368534,160922870,2.12324e-23,0.00369721,308780,"6","ukb-a-209","rs117733303","G","A",0.0186833,"Illnesses of mother: Heart disease || id:ukb-a-209",TRUE,"reported","igd"
+0.0201543,160997118,4.45554e-28,0.00183434,308780,"6","ukb-a-209","rs74617384","T","A",0.0809151,"Illnesses of mother: Heart disease || id:ukb-a-209",TRUE,"reported","igd"
+0.00916065,22125503,5.76368e-20,0.00100124,308780,"9","ukb-a-209","rs1333049","C","G",0.481449,"Illnesses of mother: Heart disease || id:ukb-a-209",TRUE,"reported","igd"
+0.0116259,134480340,3.29959e-08,0.00210428,308780,"10","ukb-a-209","rs144070436","T","C",0.0614785,"Illnesses of mother: Heart disease || id:ukb-a-209",TRUE,"reported","igd"

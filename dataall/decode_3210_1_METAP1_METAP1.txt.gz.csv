@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,99021498,rs7676259,G,A,-0.0655,4.187e-15,0.008345,35345,0.38705,METAP1_METAP1,TRUE,reported,METAP1_METAP1

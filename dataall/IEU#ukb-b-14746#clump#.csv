@@ -1,0 +1,3 @@
+"beta.exposure","chr.exposure","se.exposure","pval.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00589168,"1",0.00106968,3.59998e-08,159613805,64938,"ukb-b-14746","rs2808659","A","G",0.090534,"Lobster/crab intake || id:ukb-b-14746",TRUE,"reported","igd"
+0.0154763,"3",0.00276007,2.1e-08,34897350,64938,"ukb-b-14746","rs140747487","A","G",0.012504,"Lobster/crab intake || id:ukb-b-14746",TRUE,"reported","igd"

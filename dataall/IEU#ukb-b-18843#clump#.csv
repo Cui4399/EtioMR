@@ -1,0 +1,4 @@
+"samplesize.exposure","pval.exposure","chr.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,6.89922e-12,"8",128410948,-0.000757621,0.000110444,"ukb-b-18843","rs12682374","G","C",0.487972,"Diagnoses - secondary ICD10: C61 Malignant neoplasm of prostate || id:ukb-b-18843",TRUE,"reported","igd"
+463010,1.29999e-09,"10",51549496,-0.000683485,0.000112709,"ukb-b-18843","rs10993994","C","T",0.607578,"Diagnoses - secondary ICD10: C61 Malignant neoplasm of prostate || id:ukb-b-18843",TRUE,"reported","igd"
+463010,9.40005e-09,"17",36103565,0.000637457,0.000111036,"ukb-b-18843","rs11263763","A","G",0.521491,"Diagnoses - secondary ICD10: C61 Malignant neoplasm of prostate || id:ukb-b-18843",TRUE,"reported","igd"

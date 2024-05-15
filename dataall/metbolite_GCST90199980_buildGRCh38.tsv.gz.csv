@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,21281505,G,A,0.0981677,0.127174,0.0276641,4.28449e-06,rs7598331,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+2,106976654,G,A,0.697357,-0.0933421,0.0181219,2.59391e-07,rs987987,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+4,161718787,C,A,0.707636,0.0877245,0.0185185,2.16763e-06,rs12510179,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+5,107769158,T,C,0.0385206,-0.208846,0.0432627,1.38335e-06,rs79896723,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+8,71136987,C,T,0.0911797,-0.135245,0.0289117,2.89886e-06,rs10098930,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+11,26416551,T,C,0.019735,0.288423,0.0597128,1.36412e-06,rs145474636,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+11,78698992,T,C,0.0271996,-0.241321,0.0504345,1.71123e-06,rs78069869,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+11,129335782,T,C,0.442998,0.0805303,0.0167931,1.62322e-06,rs1493548,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+12,89877237,C,G,0.149386,-0.118148,0.0231699,3.41136e-07,rs17192338,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+13,74586144,A,G,0.0116685,0.357235,0.0776645,4.23074e-06,rs117488613,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+15,92223847,A,G,0.547479,0.079637,0.0167596,2.017e-06,rs1031900,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+16,3943674,T,C,0.151633,0.11899,0.0236361,4.79749e-07,rs2601797,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+22,17706223,C,T,0.457376,0.0780948,0.0166325,2.66182e-06,rs5747336,7229,N-formylphenylalanine levels,TRUE,reported,geicuH
+22,36555805,C,T,0.0125301,-0.372531,0.0754887,8.01832e-07,rs117535348,7229,N-formylphenylalanine levels,TRUE,reported,geicuH

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,68372786,rs139554167,G,C,-0.134067,1.02851350827872e-10,0.0207447,33942,0.0333246,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68402670,rs149744813,A,G,0.160876,7.85416462614539e-17,0.0193049,33942,0.0386069,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68404717,rs72841869,G,A,0.264735,1.78484291649801e-18,0.030186,33942,0.0147489,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68417824,rs8064738,G,A,0.107316,6.2936125038855e-37,0.00845329,33942,0.758147,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68455026,rs62085933,T,C,-0.190842,9.17444919424908e-10,0.0311673,33942,0.0136556,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68533638,rs2952271,A,G,-0.238835,1e-200,0.00764245,33942,0.653075,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68615435,rs79815218,G,A,0.167033,3.20184275820278e-15,0.0211896,33942,0.0299187,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68625931,rs143693407,G,A,0.218693,3.43296993490829e-09,0.0370075,33942,0.0105478,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68642183,rs16973163,A,T,-0.343295,4.13047501990175e-164,0.0125745,33942,0.0921348,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,68677651,rs9906395,G,A,0.119779,8.17899607917507e-19,0.0135228,33942,0.0782806,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,69085137,rs77542162,G,A,0.253859,1.11121987376873e-25,0.024232,33942,0.022892,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis
+17,69195129,rs72631343,G,C,-0.0817851,7.2376903707453e-14,0.0109287,33942,0.126171,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,TRUE,reported,fam20a_q96mk3_oid30348_v1_cardiometabolic_ii,chr17,68600954,cis

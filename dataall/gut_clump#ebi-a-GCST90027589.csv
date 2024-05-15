@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,9118596,-0.120792,0.0254599,2.09127e-06,7738,ebi-a-GCST90027589,rs12145292,A,C,0.266384,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+3,76547588,-0.124979,0.0237293,1.38787e-07,7738,ebi-a-GCST90027589,rs11127546,T,C,0.365695,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+4,129522518,0.11731,0.0239144,9.32223e-07,7738,ebi-a-GCST90027589,rs904477,A,G,0.349661,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+4,146961679,0.118644,0.0230358,2.59884e-07,7738,ebi-a-GCST90027589,rs13125215,C,T,0.621948,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+6,33956472,0.137098,0.0283429,1.31735e-06,7738,ebi-a-GCST90027589,rs4256433,C,T,0.698956,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+8,6355534,-0.114452,0.024993,4.66455e-06,7738,ebi-a-GCST90027589,rs1975618,T,A,0.277249,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+9,36009033,-0.120484,0.0259728,3.50324e-06,7738,ebi-a-GCST90027589,rs7468500,G,A,0.245053,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd
+9,18201242,-0.17509,0.036786,1.93892e-06,7738,ebi-a-GCST90027589,rs17777155,G,A,0.115057,PWY.6628..superpathway.of.L.phenylalanine.biosynthesis,TRUE,reported,igd

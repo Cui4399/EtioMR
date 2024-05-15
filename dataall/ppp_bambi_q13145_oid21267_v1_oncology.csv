@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+10,28633010,rs332192,C,T,-0.0448458,1.24251030692901e-08,0.00787627,32907,0.596623,bambi_q13145_oid21267_v1_oncology,TRUE,reported,bambi_q13145_oid21267_v1_oncology,chr10,28677494,cis

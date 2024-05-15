@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,82097330,rs62078747,G,C,-0.1535,6.448e-75,0.008382,35027,0.39214,FASN_Fatty_acid_synthase,TRUE,reported,FASN_Fatty_acid_synthase

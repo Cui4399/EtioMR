@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210678331,C,T,0.3073,-0.0955159,0.0166127,8.94663e-09,rs715,8223,Histidine levels,TRUE,reported,Io8oaJ
+4,9992214,T,C,0.748593,-0.100037,0.017462,1.01095e-08,rs7663032,8223,Histidine levels,TRUE,reported,Io8oaJ

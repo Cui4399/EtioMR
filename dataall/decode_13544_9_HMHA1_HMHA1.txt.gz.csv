@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,1077986,rs7251797,G,A,0.1293,1.121e-51,0.008549,35316,0.3543,HMHA1_HMHA1,TRUE,reported,HMHA1_HMHA1

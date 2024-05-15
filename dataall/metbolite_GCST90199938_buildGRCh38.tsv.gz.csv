@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,243168382,C,T,0.0402447,-0.181356,0.0393037,3.94593e-06,rs116434918,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC
+9,94298852,A,G,0.696827,0.0830104,0.0167647,7.3645e-07,rs9409510,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC
+14,49488289,A,G,0.0167257,0.276155,0.0601222,4.36455e-06,rs115520044,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC
+14,98182723,T,C,0.46782,0.0795506,0.0154587,2.66089e-07,rs1381273,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC
+15,74735539,T,C,0.249878,0.0944273,0.0176871,9.35803e-08,rs2472297,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC
+15,78936890,G,A,0.0899246,0.12703,0.0269054,2.34303e-06,rs111495139,8233,3-methyl catechol sulfate (1) levels,TRUE,reported,PuraIC

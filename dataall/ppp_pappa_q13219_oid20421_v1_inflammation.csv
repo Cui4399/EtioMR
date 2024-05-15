@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+9,115580321,rs117448041,C,T,0.187133,1.31583065509592e-12,0.0263841,33084,0.0196423,pappa_q13219_oid20421_v1_inflammation,TRUE,reported,pappa_q13219_oid20421_v1_inflammation,chr9,116153751,cis
+9,116337594,rs13294988,T,C,0.0503139,6.40619272626898e-11,0.00770041,33084,0.649408,pappa_q13219_oid20421_v1_inflammation,TRUE,reported,pappa_q13219_oid20421_v1_inflammation,chr9,116153751,cis

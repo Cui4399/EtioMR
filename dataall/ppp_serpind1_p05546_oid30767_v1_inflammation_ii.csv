@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+22,20700042,rs2329472,C,T,0.0921479,2.89867817100776e-16,0.0112685,33930,0.117311,serpind1_p05546_oid30767_v1_inflammation_ii,TRUE,reported,serpind1_p05546_oid30767_v1_inflammation_ii,chr22,20774094,cis

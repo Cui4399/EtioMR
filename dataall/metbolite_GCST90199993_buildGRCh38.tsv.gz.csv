@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160143444,G,C,0.174738,-0.164521,0.0199151,1.44345e-16,rs662138,8127,Phenylacetylcarnitine levels,TRUE,reported,gd5eVC
+10,59707424,T,G,0.77012,0.188618,0.0182942,6.33291e-25,rs1171617,8127,Phenylacetylcarnitine levels,TRUE,reported,gd5eVC

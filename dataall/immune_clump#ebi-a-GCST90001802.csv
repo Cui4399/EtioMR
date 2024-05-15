@@ -1,0 +1,8 @@
+beta.exposure,pos.exposure,chr.exposure,pval.exposure,samplesize.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.2111,161479745,1,2.77013e-15,3657,0.02661,ebi-a-GCST90001802,rs1801274,G,A,0.325,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+0.4158,32945761,3,1.19801e-09,3657,0.06821,ebi-a-GCST90001802,rs75918255,A,G,0.035,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+0.6071,32533246,3,2.73905e-29,3657,0.05356,ebi-a-GCST90001802,rs35574803,C,T,0.0562,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+-0.2059,6553016,12,7.42335e-17,3657,0.02456,ebi-a-GCST90001802,rs2250246,G,A,0.5339,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+-0.225,6558720,12,1.19201e-09,3657,0.03691,ebi-a-GCST90001802,rs11064198,T,A,0.1256,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+-0.4707,44746982,20,3.83354e-75,3657,0.02507,ebi-a-GCST90001802,rs1883832,C,T,0.6318,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd
+-0.143,46785499,20,1.54e-08,3657,0.02522,ebi-a-GCST90001802,rs162076,A,G,0.555,CD27 on IgD- CD38- B cell || id:ebi-a-GCST90001802,TRUE,reported,igd

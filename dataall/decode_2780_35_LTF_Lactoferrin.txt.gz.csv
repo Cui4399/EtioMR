@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,45798559,rs62245068,T,C,-0.1245,8.155e-13,0.017392,35342,0.05996,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46281089,rs34708505,TCTACTAAAAAAA,ACTACTAAAAAAA,0.0915,3.102e-28,0.008304,35343,0.4479,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46448875,rs2230895,A,G,-0.0848,1.032e-09,0.013892,35343,0.09927,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46450495,rs61740470,T,C,-1.1108,6.453e-133,0.045276,35343,0.00814,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46453743,rs6414426,G,C,-0.6354,1.629e-87,0.032042,35343,0.01761,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46458968,rs4547741,T,C,0.1787,4.294e-35,0.014458,35343,0.08664,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46543383,rs180900701,A,G,-0.2983,1.046e-08,0.052122,35344,0.00583,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46615938,rs73077561,A,G,0.0884,1.286e-10,0.013751,35343,0.09713,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46816015,rs28800005,G,A,-0.0537,7.021e-11,0.008236,35341,0.49669,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin
+3,46919307,rs6442039,G,C,0.058,1.817e-09,0.009645,35341,0.24077,LTF_Lactoferrin,TRUE,reported,LTF_Lactoferrin

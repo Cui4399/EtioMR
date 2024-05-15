@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160122116,T,C,0.0690814,0.162203,0.0293162,3.15041e-08,rs12208357,8243,N-acetylputrescine levels,TRUE,reported,59Q06n
+7,150857465,T,C,0.0778669,0.206891,0.0279307,1.28884e-13,rs1049742,8243,N-acetylputrescine levels,TRUE,reported,59Q06n
+8,18414956,A,G,0.774954,-0.592443,0.0167581,1e-200,rs4921915,8243,N-acetylputrescine levels,TRUE,reported,59Q06n
+22,50123655,G,A,0.0184038,0.537506,0.0558042,5.85814e-22,rs148381953,8243,N-acetylputrescine levels,TRUE,reported,59Q06n

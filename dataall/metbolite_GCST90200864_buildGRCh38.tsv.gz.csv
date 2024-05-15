@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21446869,G,C,0.754009,-0.0883708,0.0173083,3.29589e-07,rs10799691,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U
+7,97906140,T,C,0.0232601,-0.239439,0.0496225,1.39857e-06,rs183031696,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U
+9,18268384,T,A,0.440098,-0.0686563,0.0150374,4.9785e-06,rs12684857,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U
+10,33099727,G,A,0.0578447,0.151003,0.031927,2.24914e-06,rs12777310,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U
+11,24817025,A,C,0.418275,0.080294,0.0158625,4.1513e-07,rs2716479,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U
+12,4497002,A,T,0.0952757,-0.117785,0.0253614,3.41272e-06,rs2970818,8291,Methionine to phosphate ratio,TRUE,reported,UiaO7U

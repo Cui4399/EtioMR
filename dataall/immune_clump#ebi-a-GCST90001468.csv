@@ -1,0 +1,7 @@
+se.exposure,beta.exposure,samplesize.exposure,pos.exposure,pval.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.03326,-0.2833,3387,161410253,2.42605e-17,1,ebi-a-GCST90001468,rs115805162,T,C,0.2083,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd
+0.02787,0.8094,3387,161526397,9.84011e-166,1,ebi-a-GCST90001468,rs71632979,G,A,0.2449,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd
+0.1303,0.8211,3387,160977389,3.33603e-10,1,ebi-a-GCST90001468,rs116159922,A,G,0.0094,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd
+0.06661,-0.3791,3387,161221713,1.36101e-08,1,ebi-a-GCST90001468,rs148765873,C,T,0.0438,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd
+0.05879,0.4285,3387,161058351,3.87614e-13,1,ebi-a-GCST90001468,rs75072970,C,T,0.0531,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd
+0.05202,0.401,3387,161937774,1.66303e-14,1,ebi-a-GCST90001468,rs71639910,A,G,0.0686,CD62L- myeloid Dendritic Cell Absolute Count || id:ebi-a-GCST90001468,TRUE,reported,igd

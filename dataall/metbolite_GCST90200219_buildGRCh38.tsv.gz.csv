@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,68489616,T,C,0.755324,0.33024,0.0279635,3.47872e-32,rs34164133,4414,Cholic acid glucuronide levels,TRUE,reported,CniExv
+8,138669344,A,G,0.690195,-0.125365,0.022551,2.71066e-08,rs13250220,4414,Cholic acid glucuronide levels,TRUE,reported,CniExv

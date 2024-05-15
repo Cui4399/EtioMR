@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,76437921,T,C,0.460226,0.0955501,0.0152708,3.92298e-10,rs1000821,8246,Sphingosine 1-phosphate levels,TRUE,reported,5PWM1o

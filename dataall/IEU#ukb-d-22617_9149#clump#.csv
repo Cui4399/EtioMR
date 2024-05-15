@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","beta.exposure","pos.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",3.10227e-08,-0.00328014,102596260,91149,0.000592507,"ukb-d-22617_9149","rs2211645","A","G",0.68973,"Job SOC coding: Other goods handling and storage occupations n.e.c. || id:ukb-d-22617_9149",TRUE,"reported","igd"
+"2",4.75478e-08,-0.01356,3448965,91149,0.0024832,"ukb-d-22617_9149","rs61413889","GAA","G",0.987064,"Job SOC coding: Other goods handling and storage occupations n.e.c. || id:ukb-d-22617_9149",TRUE,"reported","igd"
+"6",1.4282e-09,0.0129846,118380431,91149,0.0021452,"ukb-d-22617_9149","rs76444259","G","T",0.0178803,"Job SOC coding: Other goods handling and storage occupations n.e.c. || id:ukb-d-22617_9149",TRUE,"reported","igd"

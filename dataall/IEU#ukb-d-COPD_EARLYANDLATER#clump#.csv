@@ -1,0 +1,3 @@
+"chr.exposure","pval.exposure","pos.exposure","samplesize.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",4.64804e-09,31626013,361194,0.00145573,0.000248442,"ukb-d-COPD_EARLYANDLATER","rs3132449","T","C",0.135188,"COPD, early/later onset || id:ukb-d-COPD_EARLYANDLATER",TRUE,"reported","igd"
+"15",1.12024e-08,78720923,361194,0.00103822,0.000181775,"ukb-d-COPD_EARLYANDLATER","rs951985","G","T",0.325599,"COPD, early/later onset || id:ukb-d-COPD_EARLYANDLATER",TRUE,"reported","igd"

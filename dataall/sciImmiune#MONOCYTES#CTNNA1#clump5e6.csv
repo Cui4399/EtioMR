@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",138045240,"rs311606","G","A",4.58270409613e-07,-0.789930356836,0.156638731909638,89,"Classical monocyte#CTNNA1",TRUE,"reported","QAVLWw",NA

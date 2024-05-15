@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31642836,T,C,0.29463,0.119857,0.0171034,2.42077e-12,rs635304,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46
+2,32626815,G,C,0.034404,-0.264303,0.0436181,1.36568e-09,rs72787520,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46
+2,233759924,T,C,0.319481,0.344471,0.0166097,1.53562e-95,rs887829,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46
+7,99477415,C,T,0.0321531,0.33312,0.0447565,9.84697e-14,rs148982377,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46
+11,63115328,T,G,0.0606572,-0.745368,0.0319519,2.31461e-120,rs147641133,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46
+11,63312298,C,T,0.591612,0.099509,0.0160719,5.96027e-10,rs540582,7707,"Bilirubin (Z,Z) to etiocholanolone glucuronide ratio",TRUE,reported,qJSS46

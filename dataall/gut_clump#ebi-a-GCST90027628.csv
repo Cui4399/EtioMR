@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,168453455,-0.109939,0.0230214,1.79234e-06,7738,ebi-a-GCST90027628,rs11588127,A,G,0.154512,PWY.841..superpathway.of.purine.nucleotides.de.novo.biosynthesis.I,TRUE,reported,igd
+3,13608656,0.149181,0.0312164,1.7623e-06,7738,ebi-a-GCST90027628,rs60748324,T,C,0.0730989,PWY.841..superpathway.of.purine.nucleotides.de.novo.biosynthesis.I,TRUE,reported,igd
+3,150194351,0.0920891,0.0166959,3.47416e-08,7738,ebi-a-GCST90027628,rs1584586,A,G,0.346666,PWY.841..superpathway.of.purine.nucleotides.de.novo.biosynthesis.I,TRUE,reported,igd
+7,155051832,0.112728,0.0243454,3.65006e-06,7738,ebi-a-GCST90027628,rs35698389,G,A,0.12754,PWY.841..superpathway.of.purine.nucleotides.de.novo.biosynthesis.I,TRUE,reported,igd
+11,116353776,-0.158755,0.0338797,2.78798e-06,7738,ebi-a-GCST90027628,rs57187632,A,C,0.0603515,PWY.841..superpathway.of.purine.nucleotides.de.novo.biosynthesis.I,TRUE,reported,igd

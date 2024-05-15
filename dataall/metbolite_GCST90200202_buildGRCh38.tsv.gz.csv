@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,15879621,T,C,0.287791,-0.121079,0.019494,5.26225e-10,rs2108622,6233,Delta-CEHC levels,TRUE,reported,h0cvKi

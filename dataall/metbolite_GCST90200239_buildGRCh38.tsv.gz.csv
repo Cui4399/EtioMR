@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,3701586,A,G,0.0190464,-0.323055,0.0560141,8.05095e-09,rs116960637,7857,Tetradecadienedioate (C14:2-DC) levels,TRUE,reported,PAXfhH
+10,100315722,A,G,0.174731,-0.169129,0.0201089,4.07881e-17,rs603424,7857,Tetradecadienedioate (C14:2-DC) levels,TRUE,reported,PAXfhH
+12,21208114,TTTC,T,0.157945,0.136211,0.0208928,7.0522e-11,rs151231052,7857,Tetradecadienedioate (C14:2-DC) levels,TRUE,reported,PAXfhH
+14,73566890,G,A,0.41113,-0.310256,0.0155846,3.47873e-88,rs11626972,7857,Tetradecadienedioate (C14:2-DC) levels,TRUE,reported,PAXfhH

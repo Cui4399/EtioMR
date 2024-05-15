@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,15170489,rs77275936,T,A,-0.0646,3.278e-11,0.009738,35365,0.21663,NMT2_NMT2,TRUE,reported,NMT2_NMT2
+10,15199924,rs4237446,C,T,0.0756,1.186e-13,0.010191,35366,0.19649,NMT2_NMT2,TRUE,reported,NMT2_NMT2

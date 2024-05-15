@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,49460521,G,T,0.100049,-0.111016,0.0238026,3.10044e-06,rs1527887,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+2,136007504,G,C,0.148302,0.104074,0.0201269,2.3295e-07,rs1964459,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+5,36638487,A,G,0.0313989,0.232886,0.0411382,1.50445e-08,rs62354638,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+5,62073767,C,G,0.129917,-0.0962643,0.0210402,4.75651e-06,rs10038788,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+5,138162784,T,C,0.405921,-0.0672191,0.0145607,3.90328e-06,rs4639218,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+7,20004978,T,C,0.0126312,-0.296228,0.0633259,2.89934e-06,rs38153,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+8,28607929,G,C,0.159236,-0.0924922,0.0198821,3.2869e-06,rs28587335,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+9,80761452,T,G,0.0346257,-0.178811,0.0386893,3.80586e-06,rs77627840,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+9,116778887,C,T,0.908304,-0.114332,0.0247509,3.85014e-06,rs9785278,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+10,114007537,A,T,0.347423,0.0715491,0.015275,2.81251e-06,rs758587,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+13,86339121,C,T,0.0634251,0.14872,0.029249,3.68325e-07,rs1118898,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+13,113097027,A,G,0.831048,-0.0946551,0.0196866,1.52381e-06,rs2476320,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+16,52641140,G,A,0.175611,0.091392,0.0190534,1.61361e-06,rs6498990,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+16,60376864,C,A,0.152171,-0.0973729,0.0200627,1.21337e-06,rs62048729,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL
+17,17823155,C,T,0.942804,0.152118,0.0309492,8.87392e-07,rs1108511,8211,Phosphate to glutamate ratio,TRUE,reported,9cVERL

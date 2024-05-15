@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,76321922,rs447123,C,A,-0.0972,7.966e-23,0.009883,35382,0.21342,PRPSAP1_KPRA,TRUE,reported,PRPSAP1_KPRA

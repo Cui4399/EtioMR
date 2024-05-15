@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,28319022,T,C,0.274212,-0.0834655,0.018084,3.9229e-06,rs10902695,7822,Theophylline levels,TRUE,reported,8kLuq2
+3,60439249,C,G,0.0759902,0.142487,0.0303158,2.60048e-06,rs114110478,7822,Theophylline levels,TRUE,reported,8kLuq2
+4,35563982,T,C,0.0183091,-0.281468,0.0600974,2.81969e-06,rs75870478,7822,Theophylline levels,TRUE,reported,8kLuq2
+7,86916079,C,T,0.0187757,-0.276332,0.0591917,3.03525e-06,rs116926604,7822,Theophylline levels,TRUE,reported,8kLuq2
+8,58022004,A,G,0.0295007,-0.232926,0.0470132,7.25218e-07,rs79361921,7822,Theophylline levels,TRUE,reported,8kLuq2
+10,28920494,T,C,0.0731332,0.155223,0.0305894,3.88709e-07,rs12259905,7822,Theophylline levels,TRUE,reported,8kLuq2
+11,27368192,C,T,0.0234865,-0.242551,0.0527985,4.35018e-06,rs34804482,7822,Theophylline levels,TRUE,reported,8kLuq2
+11,118696416,C,T,0.336783,-0.0815481,0.017458,2.99589e-06,rs643104,7822,Theophylline levels,TRUE,reported,8kLuq2
+13,60080909,T,C,0.0176742,-0.278367,0.060805,4.694e-06,rs116572946,7822,Theophylline levels,TRUE,reported,8kLuq2
+13,93072020,G,A,0.0127102,-0.328871,0.0716904,4.48836e-06,rs79542551,7822,Theophylline levels,TRUE,reported,8kLuq2
+14,49488289,A,G,0.016898,0.322722,0.0619626,1.90536e-07,rs115520044,7822,Theophylline levels,TRUE,reported,8kLuq2
+21,42705218,C,A,0.435058,-0.0787472,0.0162537,1.26685e-06,rs2245730,7822,Theophylline levels,TRUE,reported,8kLuq2

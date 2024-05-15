@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,39217905,T,C,0.0184367,0.355029,0.0768627,3.85583e-06,rs76278782,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+7,154686409,G,A,0.344372,0.10611,0.0222769,1.90524e-06,rs56057212,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+9,29378733,G,A,0.706617,0.105715,0.0230089,4.33705e-06,rs12003375,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+10,24713335,A,G,0.0283852,0.299082,0.0627296,1.86248e-06,rs76866939,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+10,113036358,G,A,0.149597,0.147459,0.0289139,3.39768e-07,rs11196199,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+14,101179973,A,C,0.0576349,0.209088,0.0453332,3.98317e-06,rs77701487,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+16,4812786,C,T,0.145459,-0.146279,0.0290512,4.7731e-07,rs112036394,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+16,69425688,T,C,0.395094,0.101834,0.0217583,2.86566e-06,rs246141,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+17,54261536,C,T,0.520018,-0.0968167,0.0206086,2.62891e-06,rs1865423,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+18,24617988,GC,G,0.401681,-0.098124,0.0212716,3.97073e-06,rs35469714,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2
+19,34032190,C,T,0.0805151,-0.174904,0.0378022,3.7132e-06,rs62103136,4540,Adenosine 5'-diphosphate (ADP) to gluconate ratio,TRUE,reported,FcdQk2

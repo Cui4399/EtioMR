@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.608592,0.143347,0.01552,2.55161e-20,rs1354034,8195,Aspartate to asparagine ratio,TRUE,reported,HgTOXp
+4,177440833,C,T,0.340262,-0.0872374,0.0159992,4.96334e-08,rs13133517,8195,Aspartate to asparagine ratio,TRUE,reported,HgTOXp
+5,36638487,A,G,0.0319501,-0.239514,0.0432969,3.16766e-08,rs62354638,8195,Aspartate to asparagine ratio,TRUE,reported,HgTOXp
+14,104105483,G,C,0.13016,-0.289848,0.0222584,9.1756e-39,rs2282377,8195,Aspartate to asparagine ratio,TRUE,reported,HgTOXp

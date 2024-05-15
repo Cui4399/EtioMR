@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,114171201,rs116016379,T,C,0.1433,1.208e-08,0.025147,35363,0.02533,REXO2_ORN,TRUE,reported,REXO2_ORN
+11,114415947,rs2365626,C,T,-0.06,1.205e-09,0.009869,35363,0.21222,REXO2_ORN,TRUE,reported,REXO2_ORN
+11,114445071,rs28679554,C,A,-0.1551,2.541e-37,0.01215,35365,0.12511,REXO2_ORN,TRUE,reported,REXO2_ORN
+11,114543228,rs35567430,G,C,0.1166,2.521e-08,0.020927,35365,0.03841,REXO2_ORN,TRUE,reported,REXO2_ORN

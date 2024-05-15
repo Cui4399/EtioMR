@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,7703231,rs143275579,A,G,-0.211699,2.68330475344011e-09,0.0355804,33657,0.0119816,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis
+19,7714077,rs7254240,T,C,-0.082357,4.22474012987545e-16,0.0101276,33657,0.844634,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis
+19,7727716,rs140711477,G,A,-0.239274,1.24022362511888e-21,0.0250428,33657,0.0225357,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis
+19,7734566,rs76560987,T,C,0.374421,2.29614864811231e-151,0.0142879,33657,0.0709042,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis
+19,7748450,rs735240,A,G,-0.0538839,2.19179534384413e-13,0.00734459,33657,0.45529,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis
+19,7766543,rs475896,G,C,0.0756575,3.11314966544703e-24,0.00744947,33657,0.42674,clec4g_q6uxb4_oid20590_v1_inflammation,TRUE,reported,clec4g_q6uxb4_oid20590_v1_inflammation,chr19,7732181,cis

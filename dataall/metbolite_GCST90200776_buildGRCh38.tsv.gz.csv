@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135826968,T,A,0.15751,-0.10931,0.0200189,4.75195e-08,rs59243420,8228,Glutamate to glutamine ratio,TRUE,reported,Cgemxe
+5,36638487,A,G,0.0320654,-0.26823,0.0418242,1.4243e-10,rs62354638,8228,Glutamate to glutamine ratio,TRUE,reported,Cgemxe

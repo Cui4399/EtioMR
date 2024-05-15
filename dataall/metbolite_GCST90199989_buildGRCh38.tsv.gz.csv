@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,179793499,T,C,0.0281789,0.228797,0.0496006,3.97294e-06,rs115142749,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+2,107075110,A,T,0.198365,0.0989055,0.0204348,1.2981e-06,rs9967824,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+6,30964905,C,T,0.57148,0.0773829,0.0164999,2.73336e-06,rs2532924,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+7,56091998,T,C,0.144457,0.106815,0.0231404,3.91263e-06,rs73126344,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+7,78055053,G,T,0.148029,0.1121,0.0229498,1.03641e-06,rs7791207,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+13,72718536,T,C,0.175247,-0.0986285,0.021579,4.86387e-06,rs11620035,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+15,35152511,C,T,0.725748,0.0877776,0.0184951,2.07488e-06,rs4482235,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+16,17008878,T,G,0.0404722,0.189743,0.0413165,4.38122e-06,rs79739049,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl
+18,32239808,G,A,0.0115725,0.371315,0.0766811,1.28327e-06,rs118170120,7141,4-methylguaiacol sulfate levels,TRUE,reported,x3CEIl

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,19314336,rs112253053,A,T,0.1119,8.164e-25,0.010879,35353,0.15349,HAPLN4_HPLN4,TRUE,reported,HAPLN4_HPLN4

@@ -1,0 +1,3 @@
+"beta.exposure","samplesize.exposure","pval.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0264523,64937,2e-09,0.00441229,"7",150908614,"ukb-b-1252","rs17173732","C","A",0.020404,"Other fish intake || id:ukb-b-1252",TRUE,"reported","igd"
+0.048978,64937,2.39999e-08,0.00877646,"13",106048087,"ukb-b-1252","rs117820915","A","G",0.005418,"Other fish intake || id:ukb-b-1252",TRUE,"reported","igd"

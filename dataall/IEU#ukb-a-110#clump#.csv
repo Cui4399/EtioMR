@@ -1,0 +1,3 @@
+"samplesize.exposure","beta.exposure","pos.exposure","chr.exposure","se.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,-0.00120696,10825577,"1",0.000158992,3.17541e-14,"ukb-a-110","rs11121615","T","C",0.691425,"Non-cancer illness code  self-reported: varicose veins || id:ukb-a-110",TRUE,"reported","igd"
+337159,-0.00143387,88772046,"16",0.000248512,7.94145e-09,"ukb-a-110","rs6500489","C","T",0.903856,"Non-cancer illness code  self-reported: varicose veins || id:ukb-a-110",TRUE,"reported","igd"

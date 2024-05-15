@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,137098676,rs73216957,C,G,-0.110892,7.66090364436384e-09,0.0191996,32981,0.0431058,il20rb_q6uxl0_oid30461_v1_inflammation_ii,TRUE,reported,il20rb_q6uxl0_oid30461_v1_inflammation_ii,chr3,136957864,cis

@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,4452045,A,G,0.120056,-0.112598,0.0237533,2.13418e-06,rs780598,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+2,223718305,C,G,0.5632,0.0711308,0.0154908,4.39432e-06,rs62185065,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+4,44264328,T,A,0.19316,0.0930846,0.0196272,2.10945e-06,rs12651574,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+7,11785794,T,C,0.025296,0.241647,0.0488327,7.48013e-07,rs61577547,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+7,27411552,G,A,0.0174281,0.278218,0.0582232,1.76622e-06,rs147773070,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+10,92669710,T,C,0.554942,0.0720526,0.0155056,3.37002e-06,rs7918084,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+11,7959165,G,A,0.372713,-0.0734024,0.0158516,3.64607e-06,rs10769857,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+11,95387605,C,T,0.0127475,0.343209,0.0685362,5.50831e-07,rs79879497,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+13,34656395,A,G,0.0109129,0.359193,0.0742272,1.30424e-06,rs149053219,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+13,94159279,T,A,0.102041,-0.116373,0.0251176,3.60149e-06,rs75590589,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+14,48584341,A,T,0.0230128,0.235882,0.050981,3.71262e-06,rs181087352,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+17,63202284,A,G,0.0210683,-0.247876,0.0530119,2.92725e-06,rs139624237,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+18,79720478,A,G,0.154834,0.101122,0.0212015,1.84611e-06,rs522043,8089,Pyridoxate levels,TRUE,reported,6cbcpx
+19,19691756,G,A,0.367863,0.0809662,0.0164631,8.74205e-07,rs11668053,8089,Pyridoxate levels,TRUE,reported,6cbcpx

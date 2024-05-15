@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,183135750,C,A,0.0126482,0.578202,0.0645924,3.5055e-19,rs58423714,8200,N-acetylneuraminate levels,TRUE,reported,USr8P8
+16,20381010,A,G,0.192216,-0.109629,0.0186797,4.38656e-09,rs77924615,8200,N-acetylneuraminate levels,TRUE,reported,USr8P8

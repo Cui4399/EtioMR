@@ -1,0 +1,6 @@
+"chr.exposure","samplesize.exposure","pval.exposure","beta.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",462933,6.19441e-114,-0.00369994,0.000163096,32507752,"ukb-b-17670","rs67382147","G","T",0.772408,"Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670",TRUE,"reported","igd"
+"6",462933,1.59993e-21,-0.00132374,0.000138928,29938368,"ukb-b-17670","rs9378141","C","A",0.284227,"Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670",TRUE,"reported","igd"
+"6",462933,2.39994e-20,-0.00136306,0.000147456,32652877,"ukb-b-17670","rs28746956","G","T",0.237273,"Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670",TRUE,"reported","igd"
+"6",462933,3.59998e-08,0.000713177,0.000129469,135746884,"ukb-b-17670","rs7759971","T","C",0.367932,"Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670",TRUE,"reported","igd"
+"14",462933,4.60002e-08,-0.000698506,0.000127791,69253984,"ukb-b-17670","rs4899257","T","G",0.394594,"Non-cancer illness code, self-reported: multiple sclerosis || id:ukb-b-17670",TRUE,"reported","igd"

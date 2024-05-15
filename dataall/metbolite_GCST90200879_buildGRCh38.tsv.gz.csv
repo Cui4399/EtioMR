@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53297465,A,G,0.0190709,0.25425,0.0530518,1.64733e-06,rs116175622,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+1,112023789,T,G,0.250247,0.0777915,0.0168328,3.81128e-06,rs34751177,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+4,101062645,C,T,0.529595,-0.0721072,0.014712,9.52296e-07,rs2851063,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+5,66599365,G,A,0.231276,0.0801978,0.0173776,3.9306e-06,rs4587034,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+7,1343251,A,G,0.0221195,-0.231458,0.0498421,3.42034e-06,rs147568733,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+7,50892374,G,A,0.412982,-0.0716159,0.0147482,1.19841e-06,rs10481008,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+9,9256524,T,C,0.213362,0.0843722,0.017861,2.31457e-06,rs4628307,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+12,116397262,A,G,0.145213,0.105117,0.020833,4.51832e-07,rs10466932,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+14,44437871,G,A,0.024702,0.218647,0.0470285,3.33143e-06,rs143539374,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+15,78341747,A,G,0.0348568,-0.200844,0.0396238,4.00385e-07,rs75240989,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+15,100729296,C,T,0.189243,-0.0917439,0.0187992,1.05975e-06,rs28706671,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+16,75230076,C,T,0.803549,-0.0923976,0.0184548,5.53739e-07,rs6564241,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+20,19383335,C,T,0.136447,-0.0967299,0.0209121,3.73601e-06,rs2424234,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R
+21,43950686,A,G,0.151553,0.0941731,0.0203204,3.57949e-06,rs57209759,8213,Adenosine 5'-monophosphate (AMP) to glutamate ratio,TRUE,reported,oilF8R

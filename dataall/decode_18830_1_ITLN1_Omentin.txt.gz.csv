@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,160682684,rs79602253,A,G,-0.2517,1.213e-19,0.027757,35355,0.02314,ITLN1_Omentin,TRUE,reported,ITLN1_Omentin
+1,160888766,rs10908809,ATTTGTGAGATATATATATATTTGTGAG,ATTTGTGAGATATATATATATTTGTAAG,-0.0566,1.32e-10,0.00881,35365,0.351,ITLN1_Omentin,TRUE,reported,ITLN1_Omentin
+1,160903377,rs28541440,T,C,0.517,5.004e-28,0.047104,35365,0.00813,ITLN1_Omentin,TRUE,reported,ITLN1_Omentin
+1,161026366,rs142774883,T,G,0.3767,5.694e-20,0.041169,35366,0.00991,ITLN1_Omentin,TRUE,reported,ITLN1_Omentin
+1,161400982,rs74625706,TAAAAAAAAAAAAAAAAAAG,CAAAAAAAAAAAAAAAAAAG,-0.406,2.388e-23,0.040782,35348,0.01125,ITLN1_Omentin,TRUE,reported,ITLN1_Omentin

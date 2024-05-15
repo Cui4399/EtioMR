@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.349307,0.102828,0.0172056,2.28074e-09,rs3811444,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+2,23586021,A,G,0.0118051,-0.357009,0.076405,2.97438e-06,rs72780363,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+3,25811092,C,T,0.0658111,0.165646,0.0330197,5.25973e-07,rs1387212,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+3,56815721,C,T,0.613001,0.0786842,0.0169609,3.49847e-06,rs1354034,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+3,148784541,A,G,0.121709,-0.132938,0.0250571,1.12428e-07,rs144977626,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+4,43786897,C,G,0.0121733,-0.395791,0.0753168,1.4801e-07,rs142556011,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+6,138325346,C,T,0.0505563,-0.175168,0.0381578,4.41913e-06,rs77486380,7295,Spermidine to choline ratio,TRUE,reported,rRTae1
+6,151966712,T,G,0.0345065,-0.207145,0.0448528,3.86861e-06,rs74493226,7295,Spermidine to choline ratio,TRUE,reported,rRTae1

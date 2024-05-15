@@ -1,0 +1,7 @@
+pos.exposure,beta.exposure,se.exposure,pval.exposure,chr.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+198151688,1.335,0.2281,5.36303e-09,1,3427,ebi-a-GCST90001574,rs113435341,G,A,0.0032,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd
+38920621,0.202,0.02624,1.77501e-14,2,3427,ebi-a-GCST90001574,rs6729180,T,C,0.3844,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd
+87035076,0.1903,0.03241,4.74602e-09,2,3427,ebi-a-GCST90001574,rs6755452,G,T,0.1886,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd
+32586383,-0.2109,0.0345,1.09099e-09,6,3427,ebi-a-GCST90001574,rs28383283,T,C,0.281,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd
+32545293,0.2271,0.04024,1.81001e-08,6,3427,ebi-a-GCST90001574,rs9269614,G,A,0.7677,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd
+32584977,-0.2092,0.03717,1.97301e-08,6,3427,ebi-a-GCST90001574,rs113016235,G,T,0.1994,Terminally Differentiated CD4-CD8- T cell %T cell || id:ebi-a-GCST90001574,TRUE,reported,igd

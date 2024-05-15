@@ -1,0 +1,5 @@
+"chr.exposure","pos.exposure","se.exposure","samplesize.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",72811904,0.000963258,360806,0.00535716,2.67658e-08,"ukb-d-1418_3","rs11209948","T","G",0.599691,"Milk type used: Skimmed || id:ukb-d-1418_3",TRUE,"reported","igd"
+"11",47650993,0.000960284,360806,0.00564232,4.21493e-09,"ukb-d-1418_3","rs3817334","T","C",0.407661,"Milk type used: Skimmed || id:ukb-d-1418_3",TRUE,"reported","igd"
+"12",97916146,0.00115574,360806,-0.00665365,8.56781e-09,"ukb-d-1418_3","rs10777875","A","G",0.783523,"Milk type used: Skimmed || id:ukb-d-1418_3",TRUE,"reported","igd"
+"16",53809123,0.000964085,360806,0.00849863,1.1995e-18,"ukb-d-1418_3","rs55872725","T","C",0.402076,"Milk type used: Skimmed || id:ukb-d-1418_3",TRUE,"reported","igd"

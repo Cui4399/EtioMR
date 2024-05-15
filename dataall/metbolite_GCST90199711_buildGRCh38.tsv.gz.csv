@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,132984079,T,C,0.107732,0.116878,0.0250738,3.14147e-06,rs56040563,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+3,183360291,G,A,0.0509605,0.161317,0.0348424,3.65862e-06,rs9853845,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+4,156785921,A,G,0.0502242,-0.169616,0.0352489,1.49457e-06,rs116530753,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+7,150410020,C,G,0.0854899,-0.138964,0.0281639,8.05107e-07,rs117324423,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+8,122978585,T,C,0.196318,0.0895899,0.0194533,4.11696e-06,rs72609841,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+9,110873692,T,C,0.0454435,0.173967,0.0366861,2.11579e-06,rs79950608,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+12,30885715,A,G,0.0419542,0.180811,0.0385142,2.67064e-06,rs11051139,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+18,67385308,A,G,0.0113471,0.331737,0.0714648,3.45112e-06,rs118125312,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+19,14266923,G,A,0.0273807,-0.226753,0.0465248,1.09469e-06,rs79373650,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi
+19,56248371,G,C,0.0607414,-0.161136,0.0319426,4.54581e-07,rs111949383,8264,Docosadienoate (22:2n6) levels,TRUE,reported,EmiZPi

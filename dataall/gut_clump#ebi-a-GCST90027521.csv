@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,130195963,-0.156658,0.0333638,2.66011e-06,7738,ebi-a-GCST90027521,rs62174134,T,C,0.209295,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+3,193676416,0.277949,0.0595021,2.99371e-06,7738,ebi-a-GCST90027521,rs2636908,C,T,0.0737234,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+5,34816722,0.125289,0.027247,4.2604e-06,7738,ebi-a-GCST90027521,rs6451170,A,G,0.550576,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+8,23396084,-0.175101,0.038039,4.16026e-06,7738,ebi-a-GCST90027521,rs17698956,G,A,0.148196,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+10,11376999,-0.208775,0.0448265,3.20214e-06,7738,ebi-a-GCST90027521,rs1051765,G,A,0.101125,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+13,112606790,0.130758,0.0278127,2.58393e-06,7738,ebi-a-GCST90027521,rs942033,T,C,0.591911,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+15,28041904,0.128463,0.0266247,1.4003e-06,7738,ebi-a-GCST90027521,rs4238492,G,A,0.546024,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd
+22,17807116,-0.223827,0.0425987,1.48576e-07,7738,ebi-a-GCST90027521,rs9619066,T,C,0.124649,PWY0.1415..superpathway.of.heme.biosynthesis.from.uroporphyrinogen.III,TRUE,reported,igd

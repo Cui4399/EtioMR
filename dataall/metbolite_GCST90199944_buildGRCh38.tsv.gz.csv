@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,40847202,C,T,0.570252,-0.167321,0.0163687,1.58008e-24,rs56113850,7027,Indolin-2-one levels,TRUE,reported,EVyM2i

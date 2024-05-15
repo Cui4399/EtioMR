@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,234191055,C,A,0.0288377,0.308262,0.0616985,5.84507e-07,rs80332390,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+7,119632797,A,G,0.172111,-0.132155,0.0272066,1.18886e-06,rs10236510,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+8,100846652,G,T,0.156197,-0.149533,0.0298132,5.28467e-07,rs7829662,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+9,7908256,T,C,0.0868164,0.173401,0.0371825,3.10854e-06,rs66628241,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+10,78256774,T,G,0.215727,0.115203,0.0251552,4.65658e-06,rs11591530,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+11,17419838,T,C,0.20682,-0.118598,0.0255413,3.42754e-06,rs2299639,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+12,5278207,T,C,0.0190748,-0.348101,0.0751199,3.58787e-06,rs117717775,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+12,43770886,A,G,0.272402,-0.106029,0.0232198,4.9633e-06,rs1461567,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+12,76187259,C,T,0.0183799,-0.355529,0.076586,3.44701e-06,rs118110285,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix
+17,54664475,A,T,0.843504,0.132965,0.0288457,4.03559e-06,rs1530382,4569,Adenosine 5'-diphosphate (ADP) to glutamine ratio,TRUE,reported,n7E1Ix

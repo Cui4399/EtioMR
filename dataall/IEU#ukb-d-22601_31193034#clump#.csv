@@ -1,0 +1,3 @@
+"chr.exposure","se.exposure","samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"14",0.0019942,89866,0.0109062,4.53889e-08,83278248,"ukb-d-22601_31193034","rs117249570","G","A",0.0233714,"Job coding: other science technician, materials technician, technical assistant, technical officer || id:ukb-d-22601_31193034",TRUE,"reported","igd"
+"18",0.00282823,89866,0.0154788,4.43752e-08,54652141,"ukb-d-22601_31193034","rs74687969","A","G",0.010821,"Job coding: other science technician, materials technician, technical assistant, technical officer || id:ukb-d-22601_31193034",TRUE,"reported","igd"

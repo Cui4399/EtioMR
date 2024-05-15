@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,103628983,rs12884809,A,G,0.0886,1.36e-24,0.008655,35225,0.3519,KLC1_KLC1,TRUE,reported,KLC1_KLC1

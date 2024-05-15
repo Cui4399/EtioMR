@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62690427,C,T,0.656745,0.078877,0.0162487,1.20777e-06,rs1168113,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+2,117239334,T,C,0.0627528,-0.15061,0.0320785,2.66529e-06,rs35469300,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+2,176464738,C,T,0.022952,0.236527,0.0514699,4.31819e-06,rs17339699,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+3,1601171,A,C,0.499871,-0.0746752,0.0159152,2.7046e-06,rs6762950,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+3,21766187,T,C,0.334209,-0.0758537,0.016419,3.83981e-06,rs12633231,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+5,54530900,T,C,0.979888,-0.261963,0.0557413,2.60639e-06,rs2565001,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+5,161004198,AT,A,0.0644866,0.148752,0.031791,2.88184e-06,rs147424366,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+6,65407495,T,C,0.0253645,0.247017,0.0497368,6.81788e-07,rs141715143,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+7,123041656,C,T,0.0627374,0.148131,0.0321129,3.97265e-06,rs73444001,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+8,1161140,C,T,0.833395,0.0948924,0.0207369,4.73913e-06,rs1451885,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+11,132105020,T,A,0.0123593,0.33436,0.0697352,1.62906e-06,rs75995596,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu
+17,70157895,C,T,0.418136,-0.0743557,0.0160582,3.64982e-06,rs987634,8201,Alpha-tocopherol to sulfate ratio,TRUE,reported,8CQMhu

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25794203,G,A,0.562064,0.30171,0.0161178,3.46245e-78,rs2762353,7332,Ferulic acid 4-sulfate levels,TRUE,reported,p4tJPp

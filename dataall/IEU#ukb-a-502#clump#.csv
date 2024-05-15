@@ -1,0 +1,8 @@
+"beta.exposure","se.exposure","samplesize.exposure","chr.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0251524,0.00358131,190606,"3",2.1752e-12,49902544,"ukb-a-502","rs9821675","G","A",0.508062,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+0.0248294,0.00368247,190606,"4",1.56027e-11,106211443,"ukb-a-502","rs2647268","G","A",0.388005,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+-0.0244333,0.00411338,190606,"5",2.85588e-09,87968864,"ukb-a-502","rs6882046","G","A",0.264184,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+-0.0301794,0.00359147,190606,"6",4.37824e-17,98565211,"ukb-a-502","rs1487445","T","C",0.483723,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+-0.0272476,0.00433427,190606,"7",3.25319e-10,133702097,"ukb-a-502","rs4731992","G","A",0.782072,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+-0.0226619,0.0040851,190606,"16",2.90262e-08,24517364,"ukb-a-502","rs7198115","C","T",0.264457,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"
+-0.0229353,0.00407322,190606,"16",1.79676e-08,71943511,"ukb-a-502","rs9302632","G","A",0.737557,"Job involves mainly walking or standing || id:ukb-a-502",TRUE,"reported","igd"

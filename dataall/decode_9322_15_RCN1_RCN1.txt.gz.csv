@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,32089877,rs531576,A,G,-0.1735,4.211e-51,0.011538,35366,0.13047,RCN1_RCN1,TRUE,reported,RCN1_RCN1

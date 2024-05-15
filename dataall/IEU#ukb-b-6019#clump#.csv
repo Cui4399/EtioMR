@@ -1,0 +1,7 @@
+"beta.exposure","chr.exposure","pval.exposure","se.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.0204415,"6",1.2e-08,0.00358499,26205293,108946,"ukb-b-6019","rs806795","A","G",0.468999,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"
+-0.0215269,"8",1.29999e-08,0.00378982,64853009,108946,"ukb-b-6019","rs10105127","C","T",0.649599,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"
+-0.0259692,"8",5.1e-09,0.00444329,42652714,108946,"ukb-b-6019","rs7841834","A","G",0.206911,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"
+0.0779086,"15",3.50026e-94,0.00378415,78849779,108946,"ukb-b-6019","rs72740955","T","C",0.339111,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"
+-0.0666359,"19",4e-09,0.0113239,41294910,108946,"ukb-b-6019","rs113557544","T","C",0.025758,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"
+0.0505475,"19",4.49987e-44,0.00363008,41353107,108946,"ukb-b-6019","rs56113850","C","T",0.581759,"Number of cigarettes previously smoked daily || id:ukb-b-6019",TRUE,"reported","igd"

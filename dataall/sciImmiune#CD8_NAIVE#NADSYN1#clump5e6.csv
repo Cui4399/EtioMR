@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",71203790,"rs12807827","A","C",2.0527645479e-07,0.821990372045,0.158242600223844,89,"CD8_NAIVE#NADSYN1",TRUE,"reported","55Dg5t",NA

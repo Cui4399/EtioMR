@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,47368537,rs35687416,T,G,-0.1668,1.399e-25,0.015955,35367,0.06493,CMPK1_Cytidylate_kinase,TRUE,reported,CMPK1_Cytidylate_kinase

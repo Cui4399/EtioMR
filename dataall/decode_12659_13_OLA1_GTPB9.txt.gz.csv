@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,174087522,rs139509080,CT,C,0.1701,1.359e-62,0.010187,35353,0.19238,OLA1_GTPB9,TRUE,reported,OLA1_GTPB9
+2,174259878,rs4026961,TCAAAAAAAAAAAAAAAAAA,TCAAAAAAAAAAAAAAAAAG,-0.0663,4.329e-16,0.008156,35349,0.47064,OLA1_GTPB9,TRUE,reported,OLA1_GTPB9

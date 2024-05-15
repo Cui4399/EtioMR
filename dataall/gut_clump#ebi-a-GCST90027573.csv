@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,244778044,0.0906401,0.0193856,2.93056e-06,7738,ebi-a-GCST90027573,rs2813909,T,C,0.220554,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+6,168170440,-0.0951399,0.0201767,2.41313e-06,7738,ebi-a-GCST90027573,rs75060356,A,G,0.201451,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+7,98159418,0.155616,0.033323,3.01308e-06,7738,ebi-a-GCST90027573,rs1093520,G,T,0.915857,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+12,88286940,-0.174885,0.0358193,1.04792e-06,7738,ebi-a-GCST90027573,rs73200771,A,G,0.0520806,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+15,95979517,-0.14606,0.0312382,2.92995e-06,7738,ebi-a-GCST90027573,rs62018962,A,C,0.0988924,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+18,32384187,0.159255,0.0341364,3.08255e-06,7738,ebi-a-GCST90027573,rs62097226,A,T,0.0639117,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd
+22,47369660,0.095786,0.0202343,2.20303e-06,7738,ebi-a-GCST90027573,rs136110,C,T,0.208243,PWY.6163..chorismate.biosynthesis.from.3.dehydroquinate,TRUE,reported,igd

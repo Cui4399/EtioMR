@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",125931022,"rs900641","T","G",9.19523546173e-07,0.995687867825,0.202865319913099,89,"Classical monocyte#ALDH7A1",TRUE,"reported","fwgkzG",NA

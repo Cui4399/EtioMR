@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","pos.exposure","pval.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00406513,104420,85517507,1.2e-08,0.0231739,"3","ukb-b-4801","rs13070166","A","T",0.232076,"Number of unsuccessful stop-smoking attempts || id:ukb-b-4801",TRUE,"reported","igd"
+0.00548733,104420,27406607,3.29997e-10,-0.0344951,"6","ukb-b-4801","rs35716472","G","C",0.109524,"Number of unsuccessful stop-smoking attempts || id:ukb-b-4801",TRUE,"reported","igd"
+0.00350721,104420,78911181,5e-09,0.0205096,"15","ukb-b-4801","rs8040868","C","T",0.400034,"Number of unsuccessful stop-smoking attempts || id:ukb-b-4801",TRUE,"reported","igd"

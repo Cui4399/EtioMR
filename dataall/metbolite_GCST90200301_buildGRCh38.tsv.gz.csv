@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,56471554,G,A,0.194492,-0.21245,0.0193581,5.05459e-28,rs2657879,8217,Gamma-glutamylglutamine levels,TRUE,reported,lCY8dj
+16,16032907,C,T,0.610616,0.116171,0.0161686,6.72268e-13,rs924138,8217,Gamma-glutamylglutamine levels,TRUE,reported,lCY8dj
+22,24589774,A,C,0.0344785,0.264435,0.0432091,9.36401e-10,rs200426740,8217,Gamma-glutamylglutamine levels,TRUE,reported,lCY8dj

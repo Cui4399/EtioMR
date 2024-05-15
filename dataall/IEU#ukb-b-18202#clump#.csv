@@ -1,0 +1,4 @@
+"samplesize.exposure","pos.exposure","pval.exposure","beta.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,188699330,1.6e-08,-0.00155648,0.000275239,"3","ukb-b-18202","rs710496","C","G",0.747482,"PCT where patients GP was registered: OXFORDSHIRE PCT || id:ukb-b-18202",TRUE,"reported","igd"
+463010,38867427,3.2e-08,0.00174601,0.000315715,"4","ukb-b-18202","rs17582830","G","A",0.171318,"PCT where patients GP was registered: OXFORDSHIRE PCT || id:ukb-b-18202",TRUE,"reported","igd"
+463010,37057557,7.49998e-09,0.00301734,0.000522165,"18","ukb-b-18202","rs74578867","A","G",0.061571,"PCT where patients GP was registered: OXFORDSHIRE PCT || id:ukb-b-18202",TRUE,"reported","igd"

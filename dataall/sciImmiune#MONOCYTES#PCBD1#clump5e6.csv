@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",72650574,"rs2691148","G","A",5.73673851879e-07,-0.660139283331,0.132031147789328,89,"Classical monocyte#PCBD1",TRUE,"reported","hSByPO",NA

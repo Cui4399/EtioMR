@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.00649501,0.00140132,3.57979e-06,"1",237825087,"C","T","rs10925487",0.966032,0.589836,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,-0.022679,0.00494715,4.56669e-06,"3",8596850,"C","T","rs143727185",0.901037,0.0208517,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,0.0272909,0.00583469,2.91338e-06,"3",164972370,"C","A","rs76315187",0.892649,0.0143538,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,-0.00800363,0.00171918,3.24033e-06,"10",112292360,"C","T","rs11195171",0.993408,0.191592,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,0.0255711,0.005429,2.4825e-06,"16",85783781,"C","A","rs116979869",0.892409,0.0171113,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,-0.0164204,0.00341955,1.57607e-06,"18",68708889,"G","A","rs1942202",0.993411,0.959574,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"
+51427,-0.00647088,0.00135262,1.72348e-06,"20",810707,"A","G","rs805883",1,0.542808,2529,"Type milk consumed: did not have milk",TRUE,"reported","EDHypX","Diet","ukb385"

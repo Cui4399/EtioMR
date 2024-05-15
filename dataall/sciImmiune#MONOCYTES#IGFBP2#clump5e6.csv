@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",217488575,"rs12694394","C","T",3.46793957248e-06,0.760050292655,0.163770052603441,89,"Classical monocyte#IGFBP2",TRUE,"reported","xNCQCT",NA

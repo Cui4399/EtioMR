@@ -1,0 +1,7 @@
+"chr.exposure","pval.exposure","pos.exposure","se.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",9.74675e-09,56009382,0.000497869,0.00285538,361194,"ukb-d-G6_NERPLEX","rs62167688","A","C",0.20685,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"
+"2",1.49383e-12,218134109,0.000462616,0.00327315,361194,"ukb-d-G6_NERPLEX","rs12470054","A","C",0.745762,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"
+"10",1.30305e-08,99912544,0.000419789,-0.00238684,361194,"ukb-d-G6_NERPLEX","rs7083160","T","C",0.606589,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"
+"15",2.52552e-08,100692953,0.000634109,0.00353302,361194,"ukb-d-G6_NERPLEX","rs72755233","A","G",0.113121,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"
+"15",4.22066e-08,67034812,0.00042199,0.00231313,361194,"ukb-d-G6_NERPLEX","rs1866745","A","G",0.35021,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"
+"19",4.18129e-08,8670147,0.00111651,0.00612196,361194,"ukb-d-G6_NERPLEX","rs62621197","T","C",0.0361289,"Nerve, nerve root and plexus disorders || id:ukb-d-G6_NERPLEX",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+"pval.exposure","samplesize.exposure","pos.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.29985e-11,463010,114419368,"1",0.00115959,0.000173413,"ukb-b-10694","rs2358816","T","A",0.204111,"Diagnoses - secondary ICD10: E10.9 Without complications || id:ukb-b-10694",TRUE,"reported","igd"
+1.30017e-143,463010,32627480,"6",0.00411056,0.000161095,"ukb-b-10694","rs1064173","A","G",0.284524,"Diagnoses - secondary ICD10: E10.9 Without complications || id:ukb-b-10694",TRUE,"reported","igd"
+3.29989e-39,463010,32410137,"6",0.00209834,0.00016018,"ukb-b-10694","rs3129883","C","T",0.749683,"Diagnoses - secondary ICD10: E10.9 Without complications || id:ukb-b-10694",TRUE,"reported","igd"
+1.59993e-19,463010,32626086,"6",-0.00134987,0.00014937,"ukb-b-10694","rs7744001","A","G",0.312913,"Diagnoses - secondary ICD10: E10.9 Without complications || id:ukb-b-10694",TRUE,"reported","igd"
+8.30042e-19,463010,2182224,"11",0.00136518,0.000154145,"ukb-b-10694","rs689","T","A",0.710801,"Diagnoses - secondary ICD10: E10.9 Without complications || id:ukb-b-10694",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,34810794,rs113008712,CAGGAA,CAGG,0.0597,5.707e-12,0.008669,35378,0.27973,PDHX_ODPX,TRUE,reported,PDHX_ODPX
+11,34873553,rs2033359,C,T,0.1299,1.184e-23,0.012958,35378,0.09887,PDHX_ODPX,TRUE,reported,PDHX_ODPX
+11,34978135,rs35560997,C,G,-0.457,2.39e-35,0.036834,35377,0.01117,PDHX_ODPX,TRUE,reported,PDHX_ODPX

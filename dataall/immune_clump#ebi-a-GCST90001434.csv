@@ -1,0 +1,4 @@
+pval.exposure,samplesize.exposure,beta.exposure,se.exposure,chr.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1.21099e-08,3656,-0.1437,0.02516,8,144984956,ebi-a-GCST90001434,rs7840395,G,A,0.5715,Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434,TRUE,reported,igd
+2.91199e-10,3656,0.1567,0.02479,13,108957063,ebi-a-GCST90001434,rs9520836,G,A,0.5044,Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434,TRUE,reported,igd
+2.298e-09,3656,-0.1491,0.02489,17,2716535,ebi-a-GCST90001434,rs11653761,T,G,0.592,Switched memory B cell %lymphocyte || id:ebi-a-GCST90001434,TRUE,reported,igd

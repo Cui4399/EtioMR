@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,125315958,rs10744203,G,A,0.0835,2.237e-22,0.008581,35377,0.37725,TMEM132B_T132B,TRUE,reported,TMEM132B_T132B
+12,125652317,rs3825381,T,C,-0.1682,6.446e-71,0.009447,35381,0.25837,TMEM132B_T132B,TRUE,reported,TMEM132B_T132B

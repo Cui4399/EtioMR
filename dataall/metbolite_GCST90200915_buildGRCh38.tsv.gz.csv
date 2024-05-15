@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,235424954,G,T,0.0140481,0.317987,0.065678,1.28793e-06,rs150071634,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+2,69949411,T,C,0.0890403,0.139107,0.0273072,3.50345e-07,rs10165166,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+2,147611235,T,C,0.249201,0.083125,0.0179084,3.45581e-06,rs13405066,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+2,237882913,C,T,0.271115,0.0812059,0.0173714,2.94415e-06,rs60262967,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+6,140953846,T,C,0.445563,0.0722444,0.0157847,4.72035e-06,rs9385926,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+6,158872861,A,G,0.018051,0.27156,0.0582036,3.07573e-06,rs77046718,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+17,46800521,TA,T,0.561816,-0.0732263,0.01574,3.28328e-06,rs5820622,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz
+19,7828045,C,T,0.350334,-0.0755241,0.0162762,3.48121e-06,rs12974297,8214,Glucose to fructose ratio,TRUE,reported,gyDhoz

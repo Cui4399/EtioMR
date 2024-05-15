@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,7407812,C,A,0.426049,-0.0850834,0.018259,3.16512e-06,rs4689734,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+6,26144492,AT,A,0.0139918,0.3559,0.0759459,2.78277e-06,rs111470172,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+6,147023312,T,G,0.0783202,0.154984,0.0328649,2.40785e-06,rs1997340,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+7,151387704,G,A,0.710442,-0.0941185,0.019954,2.39627e-06,rs740512,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+8,50422442,T,G,0.956161,-0.211244,0.0445797,2.15242e-06,rs9298323,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+8,121287779,T,G,0.321939,0.101749,0.0193505,1.45445e-07,rs13266546,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+9,15360064,T,C,0.0923052,0.145009,0.031157,3.25367e-06,rs113400337,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+12,120684858,A,C,0.251767,0.0929421,0.0203086,4.72853e-06,rs1464515,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+14,104899012,G,A,0.0110872,0.404085,0.0863133,2.84639e-06,rs147377490,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+15,35078710,T,G,0.0516193,0.20873,0.0406898,2.90077e-07,rs117977986,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1
+20,53993466,T,C,0.0229115,0.316032,0.0598438,1.28511e-07,rs2299724,6090,Glucuronide of C10H18O2 (7) levels,TRUE,reported,tx3mm1

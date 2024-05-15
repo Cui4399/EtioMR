@@ -1,0 +1,7 @@
+"pval.exposure","pos.exposure","chr.exposure","se.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.90117e-08,33951693,"5",0.000548113,0.00298995,361194,"ukb-d-C43","rs16891982","G","C",0.977159,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"
+2.39409e-08,1344458,"5",0.000165517,0.000923736,361194,"ukb-d-C43","rs31490","A","G",0.432898,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"
+1.94617e-09,21790755,"9",0.000164381,-0.000986682,361194,"ukb-d-C43","rs1542076","T","A",0.515796,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"
+3.35197e-25,89986117,"16",0.000267044,0.00276978,361194,"ukb-d-C43","rs1805007","T","C",0.104538,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"
+1.7084e-08,89990843,"16",0.000291814,0.00164564,361194,"ukb-d-C43","rs74415461","T","C",0.0872427,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"
+7.37564e-11,32665748,"20",0.00027222,-0.00177297,361194,"ukb-d-C43","rs6059655","G","A",0.894181,"Diagnoses - main ICD10: C43 Malignant melanoma of skin || id:ukb-d-C43",TRUE,"reported","igd"

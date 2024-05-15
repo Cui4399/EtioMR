@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,157352780,rs12668458,C,T,0.051,2.768e-10,0.008081,35323,0.43846,DNAJB6_DNJB6,TRUE,reported,DNAJB6_DNJB6

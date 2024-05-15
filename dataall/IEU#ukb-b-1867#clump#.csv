@@ -1,0 +1,3 @@
+"chr.exposure","pval.exposure","samplesize.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",4.60002e-09,459354,156290656,0.00458209,0.000781896,"ukb-b-1867","rs11548200","C","T",0.066035,"Attendance/disability/mobility allowance: Blue badge || id:ukb-b-1867",TRUE,"reported","igd"
+"9",2.59998e-08,459354,128748180,0.00242829,0.000436209,"ukb-b-1867","rs1571571","A","G",0.723972,"Attendance/disability/mobility allowance: Blue badge || id:ukb-b-1867",TRUE,"reported","igd"

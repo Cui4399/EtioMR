@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75734132,T,C,0.336896,0.155071,0.0151517,1.38819e-24,rs7541058,8171,3-hydroxybutyroylglycine levels,TRUE,reported,U7VG4w
+2,210675783,A,C,0.310214,0.323747,0.0153364,6.48189e-99,rs1047891,8171,3-hydroxybutyroylglycine levels,TRUE,reported,U7VG4w
+11,67592132,G,T,0.57194,-0.102531,0.0145144,1.61633e-12,rs596603,8171,3-hydroxybutyroylglycine levels,TRUE,reported,U7VG4w

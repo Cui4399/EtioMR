@@ -1,0 +1,6 @@
+"chr.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",0.000731808,0.00603232,308780,127892810,1.68539e-16,"ukb-a-210","rs6733839","T","C",0.392069,"Illnesses of mother: Alzheimer's disease/dementia || id:ukb-a-210",TRUE,"reported","igd"
+"10",0.00468761,-0.0255852,308780,24430071,4.81759e-08,"ukb-a-210","rs148794023","T","C",0.00605874,"Illnesses of mother: Alzheimer's disease/dementia || id:ukb-a-210",TRUE,"reported","igd"
+"19",0.000965115,0.0466965,308780,45411941,1e-200,"ukb-a-210","rs429358","C","T",0.156331,"Illnesses of mother: Alzheimer's disease/dementia || id:ukb-a-210",TRUE,"reported","igd"
+"19",0.000722753,-0.00564381,308780,45251156,5.79295e-15,"ukb-a-210","rs2965169","C","A",0.386002,"Illnesses of mother: Alzheimer's disease/dementia || id:ukb-a-210",TRUE,"reported","igd"
+"19",0.000710565,0.00732492,308780,45335676,6.50429e-25,"ukb-a-210","rs56394238","G","A",0.44602,"Illnesses of mother: Alzheimer's disease/dementia || id:ukb-a-210",TRUE,"reported","igd"

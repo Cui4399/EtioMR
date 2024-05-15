@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,100680659,rs221790,C,G,0.0691,8.034e-17,0.008295,35367,0.41039,EPO_Epo,TRUE,reported,EPO_Epo

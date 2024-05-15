@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,20979253,G,A,0.0531372,0.311512,0.033659,2.14323e-20,rs7306128,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ
+12,20979640,G,A,0.0531372,0.311512,0.033659,2.14323e-20,rs11829410,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ
+12,21162039,T,A,0.714615,0.235804,0.0168823,2.46032e-44,rs4762697,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ
+12,21178615,C,T,0.155441,0.557749,0.0200331,1.36917e-170,rs4149056,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ
+19,15665520,T,C,0.0135876,0.38976,0.0660181,3.55154e-09,rs147509526,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ
+19,15879621,T,C,0.296643,-0.168743,0.0164704,1.24348e-24,rs2108622,8231,Octadecadienedioate (C18:2-DC) levels,TRUE,reported,vblREJ

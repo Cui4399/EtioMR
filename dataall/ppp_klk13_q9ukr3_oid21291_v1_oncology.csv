@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,51025576,rs62117661,T,C,0.13802,4.81060834147956e-20,0.0150542,32846,0.0902148,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51030161,rs11669237,G,C,-0.431321,1e-200,0.0079977,32846,0.362187,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51043709,rs77342236,G,C,0.209256,1.72703047042569e-17,0.0245871,32846,0.0289445,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51044518,rs2691230,A,T,-0.0656679,3.22181055517712e-12,0.0094246,32846,0.28654,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51061055,rs2691261,A,G,-0.0615968,2.19684795392972e-12,0.00877274,32846,0.75763,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51063608,rs112237160,T,C,-0.58098,1e-200,0.0184073,32846,0.0433691,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51071337,rs7253072,T,C,0.237055,1.73141031289015e-79,0.0125573,32846,0.10263,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51092294,rs34093024,C,T,-0.101891,9.84237708779112e-18,0.0118813,32846,0.113393,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51093635,rs117865974,C,T,0.103241,7.26440418592476e-12,0.0150664,32846,0.06532,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51164706,rs73053089,C,T,-0.154638,5.41963451599609e-09,0.0265076,32846,0.0202308,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51206208,rs111784580,T,C,-0.155991,6.43531781701611e-10,0.0252438,32846,0.0228671,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis
+19,51640836,rs11883114,T,G,-0.126268,7.99079519883359e-09,0.0218886,32846,0.0369827,klk13_q9ukr3_oid21291_v1_oncology,TRUE,reported,klk13_q9ukr3_oid21291_v1_oncology,chr19,51065110,cis

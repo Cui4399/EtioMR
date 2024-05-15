@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,75487238,rs12422952,T,C,-0.0859,2.529e-26,0.008092,35371,0.3989,GLIPR1_GLIP1,TRUE,reported,GLIPR1_GLIP1

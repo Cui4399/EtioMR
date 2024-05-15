@@ -1,0 +1,4 @@
+"pval.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.88597e-17,0.000447813,-0.00376913,337199,"2",144314247,"ukb-a-555","rs6734367","G","T",0.820228,"Diagnoses - main ICD10: K57 Diverticular disease of intestine || id:ukb-a-555",TRUE,"reported","igd"
+1.17999e-08,0.00203346,0.0115963,337199,"7",133085535,"ukb-a-555","rs79022230","A","G",0.00721532,"Diagnoses - main ICD10: K57 Diverticular disease of intestine || id:ukb-a-555",TRUE,"reported","igd"
+3.50542e-08,0.000343566,-0.0018945,337199,"10",25819228,"ukb-a-555","rs7077800","T","C",0.474505,"Diagnoses - main ICD10: K57 Diverticular disease of intestine || id:ukb-a-555",TRUE,"reported","igd"

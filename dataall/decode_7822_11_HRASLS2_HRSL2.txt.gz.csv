@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,63559149,rs4963424,T,A,-0.0522,3.552e-10,0.008322,35361,0.33104,HRASLS2_HRSL2,TRUE,reported,HRASLS2_HRSL2

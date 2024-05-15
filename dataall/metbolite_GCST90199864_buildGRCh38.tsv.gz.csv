@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233672032,C,T,0.0146738,0.393433,0.0640884,8.30914e-10,rs72551330,8258,Gamma-CEHC levels,TRUE,reported,veyWKT
+19,15879621,T,C,0.296132,-0.303931,0.0164749,5.39596e-76,rs2108622,8258,Gamma-CEHC levels,TRUE,reported,veyWKT

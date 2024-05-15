@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,20589745,A,G,0.317447,0.0998269,0.0162117,7.3811e-10,rs66731853,7846,Phosphate to 2'-deoxyuridine ratio,TRUE,reported,ks5k8U
+22,50525724,C,T,0.771087,0.285229,0.0178276,1.29236e-57,rs131805,7846,Phosphate to 2'-deoxyuridine ratio,TRUE,reported,ks5k8U

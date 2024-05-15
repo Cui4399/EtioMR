@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",50426361,"rs4498896","C","T",2.05956413825e-08,-0.809783354237,0.144425649841196,89,"NK#C10orf128",TRUE,"reported","MnO3p2",NA

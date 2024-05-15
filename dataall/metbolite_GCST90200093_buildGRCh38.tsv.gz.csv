@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88098583,G,A,0.0942234,0.151636,0.026985,1.91761e-08,rs1383585,7798,Caffeic acid sulfate levels,TRUE,reported,tPXu6b
+6,25827288,G,A,0.535921,-0.0869832,0.0158905,4.40186e-08,rs1165178,7798,Caffeic acid sulfate levels,TRUE,reported,tPXu6b

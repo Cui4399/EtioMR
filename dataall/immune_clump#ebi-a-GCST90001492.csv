@@ -1,0 +1,5 @@
+samplesize.exposure,beta.exposure,pval.exposure,pos.exposure,se.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3405,-1.201,5.94005e-10,199999121,0.1934,1,ebi-a-GCST90001492,rs11579717,A,G,0.0044,Secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001492,TRUE,reported,igd
+3405,-2.032,8.6856e-19,198151688,0.2282,1,ebi-a-GCST90001492,rs113435341,G,A,0.0032,Secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001492,TRUE,reported,igd
+3405,-1.455,9.40091e-10,190079170,0.2371,1,ebi-a-GCST90001492,rs138915779,A,C,0.0034,Secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001492,TRUE,reported,igd
+3405,0.3436,2.274e-09,6094697,0.05734,10,ebi-a-GCST90001492,rs61839660,T,C,0.0542,Secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001492,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.587149,0.211453,0.0149412,1.80524e-45,rs1260326,8166,Mannonate levels,TRUE,reported,2hwvmI

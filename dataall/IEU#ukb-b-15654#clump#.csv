@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","chr.exposure","se.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,-0.00077409,"5",0.000127656,1.29999e-09,1325590,"ukb-b-15654","rs421284","C","T",0.442597,"Operative procedures - main OPCS: M65.3 Endoscopic resection of prostate NEC || id:ukb-b-15654",TRUE,"reported","igd"
+463010,0.000746198,"10",0.000136099,4.20001e-08,122616604,"ukb-b-15654","rs768799","A","G",0.329572,"Operative procedures - main OPCS: M65.3 Endoscopic resection of prostate NEC || id:ukb-b-15654",TRUE,"reported","igd"
+463010,0.000900966,"10",0.000151974,3.09999e-09,123052728,"ukb-b-15654","rs12413088","T","C",0.227607,"Operative procedures - main OPCS: M65.3 Endoscopic resection of prostate NEC || id:ukb-b-15654",TRUE,"reported","igd"
+463010,-0.000732383,"19",0.000132786,3.50002e-08,32104979,"ukb-b-15654","rs11084596","C","T",0.384355,"Operative procedures - main OPCS: M65.3 Endoscopic resection of prostate NEC || id:ukb-b-15654",TRUE,"reported","igd"

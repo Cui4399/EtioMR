@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233656637,C,A,0.0855313,0.203436,0.0267873,3.09021e-14,rs11892031,7969,P-cresol glucuronide levels,TRUE,reported,EKtxld

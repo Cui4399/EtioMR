@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,141476596,T,C,0.419034,0.0995294,0.0209339,1.98969e-06,rs6729073,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+5,120528585,A,G,0.131418,0.140428,0.030005,2.86636e-06,rs56946198,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+6,10974455,A,G,0.173798,0.13318,0.0271589,9.40284e-07,rs12154017,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+6,51506664,G,A,0.0170529,0.364358,0.0790958,4.09426e-06,rs75240627,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+7,119618012,T,C,0.178094,-0.133302,0.0266271,5.54989e-07,rs11767407,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+8,143435722,A,G,0.9212,-0.187265,0.038116,8.96774e-07,rs4490854,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+9,29482054,T,C,0.221148,-0.120625,0.0246735,1.0143e-06,rs10491671,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+10,122384116,T,C,0.0692442,-0.185408,0.0399583,3.48323e-06,rs77506352,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+12,1591768,A,G,0.0158262,-0.400775,0.0818736,9.82855e-07,rs3741975,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+12,132699806,A,G,0.0454744,0.227124,0.0493528,4.18353e-06,rs76764456,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi
+17,54347806,A,G,0.301564,-0.106726,0.0227134,2.61664e-06,rs12940910,4587,Adenosine 5'-diphosphate (ADP) to mannose ratio,TRUE,reported,Yp3Uwi

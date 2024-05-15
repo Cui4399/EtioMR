@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,31277172,rs111758762,T,C,-0.1859,1.694e-08,0.032957,35361,0.01666,TINAGL1_TINAL,TRUE,reported,TINAGL1_TINAL
+1,31567785,rs3008403,G,A,-0.1062,9.402e-15,0.013708,35363,0.10247,TINAGL1_TINAL,TRUE,reported,TINAGL1_TINAL
+1,31581704,rs945214,G,A,-0.1075,1.618e-37,0.008398,35362,0.45552,TINAGL1_TINAL,TRUE,reported,TINAGL1_TINAL

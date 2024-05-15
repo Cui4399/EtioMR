@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,48463526,T,C,0.105114,-0.155821,0.0281216,3.00778e-08,rs72783089,6806,1-stearoyl-GPG (18:0) levels,TRUE,reported,R83ClL
+12,21178615,C,T,0.161544,0.229643,0.0228637,9.76355e-24,rs4149056,6806,1-stearoyl-GPG (18:0) levels,TRUE,reported,R83ClL
+15,58391167,G,A,0.62073,-0.112161,0.0176033,1.87072e-10,rs1532085,6806,1-stearoyl-GPG (18:0) levels,TRUE,reported,R83ClL

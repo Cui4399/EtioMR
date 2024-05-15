@@ -1,0 +1,6 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,0.0505107,0.0103681,1.10951e-06,"1",214630783,"A","G","rs4375234",0.993165,0.170255,NA,"Carrot intake",TRUE,"reported","VG0ZWW","Diet","ukb353"
+51427,0.070722,0.0139735,4.18176e-07,"3",90383377,"T","C","rs9831318",0.928527,0.909283,NA,"Carrot intake",TRUE,"reported","VG0ZWW","Diet","ukb353"
+51427,-0.0392111,0.00790454,7.05092e-07,"4",187762849,"T","C","rs13152551",0.967844,0.48042,NA,"Carrot intake",TRUE,"reported","VG0ZWW","Diet","ukb353"
+51427,0.0573015,0.0115045,6.35297e-07,"12",7441164,"A","T","rs11048856",0.987482,0.134199,NA,"Carrot intake",TRUE,"reported","VG0ZWW","Diet","ukb353"
+51427,-0.0623992,0.0135241,3.96088e-06,"21",16560348,"T","C","rs7275186",0.990974,0.0890546,NA,"Carrot intake",TRUE,"reported","VG0ZWW","Diet","ukb353"

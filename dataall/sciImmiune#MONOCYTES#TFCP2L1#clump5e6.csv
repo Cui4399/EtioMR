@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",121880562,"rs13383826","T","G",2.08859387862e-07,0.846363909742,0.163035860036312,89,"Classical monocyte#TFCP2L1",TRUE,"reported","DyEWAZ",NA
+"2",122047352,"rs2580344","T","C",6.4611607377e-08,0.698482477478,0.129215920096939,89,"Classical monocyte#TFCP2L1",TRUE,"reported","DyEWAZ",NA

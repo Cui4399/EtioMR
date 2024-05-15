@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,157863943,rs62389053,T,C,-0.076,2.03e-11,0.011337,35348,0.14639,CLINT1_EPN4,TRUE,reported,CLINT1_EPN4

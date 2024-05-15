@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,124824136,A,G,0.832123,-0.143552,0.0208154,5.33265e-12,rs10846742,8256,Carotene diol (1) levels,TRUE,reported,wjOMF4
+16,81227181,T,C,0.480938,0.246529,0.0153225,3.02833e-58,rs9708919,8256,Carotene diol (1) levels,TRUE,reported,wjOMF4

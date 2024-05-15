@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,8304581,rs11044462,T,A,-1.7416,7.419e-14,0.232827,35379,2e-04,A2M_a2_Macroglobulin,TRUE,reported,A2M_a2_Macroglobulin
+12,9115989,rs226379,C,T,-0.0982,7.595e-30,0.008654,35387,0.34878,A2M_a2_Macroglobulin,TRUE,reported,A2M_a2_Macroglobulin
+12,9218736,rs6487679,T,C,-0.0615,7.695e-09,0.010649,35387,0.18593,A2M_a2_Macroglobulin,TRUE,reported,A2M_a2_Macroglobulin
+12,9553685,rs141020875,G,A,-0.2985,1.053e-13,0.040153,35386,0.00915,A2M_a2_Macroglobulin,TRUE,reported,A2M_a2_Macroglobulin

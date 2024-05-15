@@ -1,0 +1,4 @@
+"samplesize.exposure","pos.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,169324793,0.000889332,"1",-0.00562035,2.62301e-10,"ukb-d-D17","rs1209731","C","T",0.976713,"Diagnoses - main ICD10: D17 Benign lipomatous neoplasm || id:ukb-d-D17",TRUE,"reported","igd"
+361194,105676465,0.000388087,"10",-0.00225777,5.972e-09,"ukb-d-D17","rs9420907","A","C",0.869523,"Diagnoses - main ICD10: D17 Benign lipomatous neoplasm || id:ukb-d-D17",TRUE,"reported","igd"
+361194,186604,0.000418723,"11",0.00273849,6.15602e-11,"ukb-d-D17","rs7124615","C","T",0.87938,"Diagnoses - main ICD10: D17 Benign lipomatous neoplasm || id:ukb-d-D17",TRUE,"reported","igd"

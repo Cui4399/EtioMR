@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.669071,0.100084,0.0160218,4.19239e-10,rs1168041,8231,1-stearoyl-2-linoleoyl-gpc (18:0/18:2) levels,TRUE,reported,qMvCLV
+11,61802358,T,C,0.340102,0.226865,0.0155121,1.94379e-48,rs174546,8231,1-stearoyl-2-linoleoyl-gpc (18:0/18:2) levels,TRUE,reported,qMvCLV
+16,15056648,A,C,0.290762,-0.0905156,0.0163371,3.01637e-08,rs12928099,8231,1-stearoyl-2-linoleoyl-gpc (18:0/18:2) levels,TRUE,reported,qMvCLV

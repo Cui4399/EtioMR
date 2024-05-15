@@ -1,0 +1,7 @@
+"chr.exposure","pval.exposure","samplesize.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",1.29999e-08,352094,-0.00684284,85370492,0.00120378,"ukb-b-13423","rs9362076","G","A",0.72749,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"
+"6",9.09997e-09,352094,-0.00792952,31060219,0.00138004,"ukb-b-13423","rs2535296","G","A",0.184179,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"
+"7",1.29999e-08,352094,-0.00679094,132691858,0.00119472,"ukb-b-13423","rs56182580","C","T",0.281309,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"
+"14",2.39999e-08,352094,-0.00649892,42499198,0.00116421,"ukb-b-13423","rs8010613","T","C",0.305984,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"
+"16",3.2e-09,352094,0.00675222,8277742,0.00114062,"ukb-b-13423","rs9925536","C","G",0.332785,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"
+"18",2e-08,352094,0.00628669,37308349,0.0011206,"ukb-b-13423","rs1567820","T","C",0.357595,"Breastfed as a baby || id:ukb-b-13423",TRUE,"reported","igd"

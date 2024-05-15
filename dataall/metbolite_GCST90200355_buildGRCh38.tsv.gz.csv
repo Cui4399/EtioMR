@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39896111,C,G,0.181568,-0.125642,0.0272501,4.01314e-06,rs41297593,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+1,92125215,A,G,0.0279354,0.293407,0.0622129,2.40311e-06,rs76969758,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+2,234191055,C,A,0.0291431,0.294646,0.0613979,1.59496e-06,rs80332390,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+3,118567183,T,C,0.0837525,-0.169155,0.0366935,4.02772e-06,rs142622373,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+7,119632797,A,G,0.171331,-0.130581,0.0272453,1.64476e-06,rs10236510,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+8,26932905,C,T,0.0201437,0.362441,0.0724372,5.62936e-07,rs74754867,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+8,100846652,G,T,0.155928,-0.148503,0.0298332,6.43163e-07,rs7829662,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+9,29378733,G,A,0.706568,0.11101,0.023015,1.41135e-06,rs12003375,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+10,11975968,C,A,0.0679188,-0.188259,0.0410057,4.41017e-06,rs72777711,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+10,122384116,T,C,0.0688343,-0.189269,0.0403677,2.75052e-06,rs77506352,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+13,83396878,G,T,0.0184256,0.352965,0.0769012,4.43556e-06,rs117739522,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+14,95684913,T,C,0.40085,0.0983768,0.021393,4.25452e-06,rs2181066,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+16,4812786,C,T,0.145624,-0.142313,0.0290321,9.49014e-07,rs112036394,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+17,54661426,G,A,0.842936,0.135423,0.0287772,2.52752e-06,rs10468503,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO
+21,42119054,T,C,0.0504458,-0.223812,0.0470955,2.01103e-06,rs76209394,4607,Adenosine 5'-diphosphate (ADP) levels,TRUE,reported,M9K6RO

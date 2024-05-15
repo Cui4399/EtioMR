@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,30725028,rs148666188,C,T,-0.298,2.113e-14,0.038987,35346,0.01098,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31342896,rs9966043,TAATT,TGATT,-0.0759,6.599e-12,0.011054,35346,0.16565,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31409711,rs1020839,T,C,-0.0893,8.199e-16,0.011092,35350,0.16092,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31503667,rs9304098,T,G,-0.1905,1.584e-119,0.008195,35348,0.45421,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31526091,rs147145691,T,C,-0.2669,3.4e-21,0.028244,35348,0.02249,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31571253,rs79917854,A,G,-0.1526,7.621e-11,0.023448,35350,0.03203,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31718714,rs116915337,A,G,0.1616,2.598e-08,0.02903,35349,0.0207,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31731741,rs77137848,G,A,-0.116,1.282e-09,0.019112,35348,0.04861,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31797171,rs75426668,A,G,-0.1675,7.348e-11,0.025716,35350,0.02597,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2
+18,31989388,rs17742319,C,T,0.0632,1.462e-08,0.011154,35346,0.1569,DSG2_Desmoglein_2,TRUE,reported,DSG2_Desmoglein_2

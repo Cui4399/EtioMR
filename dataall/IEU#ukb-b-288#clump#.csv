@@ -1,0 +1,5 @@
+"se.exposure","chr.exposure","samplesize.exposure","pos.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000314456,"1",462933,114303808,1.39991e-11,0.00212509,"ukb-b-288","rs6679677","A","C",0.100758,"Treatment/medication code: folic acid product || id:ukb-b-288",TRUE,"reported","igd"
+0.000245633,"6",462933,32583099,1.69981e-52,0.00374495,"ukb-b-288","rs6605556","G","A",0.185334,"Treatment/medication code: folic acid product || id:ukb-b-288",TRUE,"reported","igd"
+0.000300872,"6",462933,32530029,2.60016e-33,0.00361788,"ukb-b-288","rs35175534","C","A",0.14,"Treatment/medication code: folic acid product || id:ukb-b-288",TRUE,"reported","igd"
+0.000293353,"6",462933,32461871,4.19952e-14,0.00221656,"ukb-b-288","rs112923147","G","A",0.219662,"Treatment/medication code: folic acid product || id:ukb-b-288",TRUE,"reported","igd"

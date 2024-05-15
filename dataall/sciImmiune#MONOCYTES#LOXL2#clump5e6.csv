@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"8",23302164,"rs2272640","A","G",1.0156404956e-07,0.823795077656,0.154735176283559,89,"Classical monocyte#LOXL2",TRUE,"reported","XriaHv",NA

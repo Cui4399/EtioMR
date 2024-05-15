@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"15",48605447,"rs74012002","T","C",1.10206223695e-15,1.31714249298,0.164336267152906,89,"Classical monocyte#SLC12A1",TRUE,"reported","iXBg03",NA

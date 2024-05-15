@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000230045,337159,1.78435e-09,0.00138406,176799992,"5","ukb-a-72","rs10051765","C","T",0.331813,"Non-cancer illness code  self-reported: kidney stone/ureter stone/bladder stone || id:ukb-a-72",TRUE,"reported","igd"
+0.000247045,337159,7.44938e-09,-0.00142807,52731402,"20","ukb-a-72","rs6127099","T","A",0.277873,"Non-cancer illness code  self-reported: kidney stone/ureter stone/bladder stone || id:ukb-a-72",TRUE,"reported","igd"
+0.000224923,337159,1.96277e-09,-0.00134977,37818871,"21","ukb-a-72","rs2776288","G","A",0.374003,"Non-cancer illness code  self-reported: kidney stone/ureter stone/bladder stone || id:ukb-a-72",TRUE,"reported","igd"

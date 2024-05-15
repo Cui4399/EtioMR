@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,114230144,A,T,0.024663,-0.26624,0.0570875,3.10541e-06,rs77599553,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+2,52595363,T,G,0.231638,0.0960714,0.0209226,4.39555e-06,rs952263,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+2,175869870,C,A,0.219483,0.109484,0.0215719,3.86888e-07,rs4972489,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+3,194026260,C,T,0.0314905,0.237339,0.0507469,2.91221e-06,rs7643986,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+4,21558733,A,C,0.0908947,-0.140175,0.0306696,4.86572e-06,rs12498693,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+4,127836164,G,A,0.018813,0.297064,0.0645441,4.17461e-06,rs190199861,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+6,116234813,T,C,0.0182161,0.311867,0.0660179,2.31267e-06,rs4946146,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+8,10927516,T,C,0.233493,0.0964238,0.0209287,4.0802e-06,rs59927118,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+12,26030131,A,C,0.0711024,0.160187,0.03428,2.96979e-06,rs111764634,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+12,129450796,A,G,0.0248153,0.280524,0.0568874,8.17175e-07,rs189863837,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+17,78409221,T,C,0.106214,-0.132143,0.0284005,3.27423e-06,rs56327721,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9
+21,44330365,A,G,0.587463,0.0845951,0.0181892,3.30593e-06,rs11552067,6378,2-linoleoylglycerol (18:2) levels,TRUE,reported,ToA6g9

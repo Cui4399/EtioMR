@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",43777881,"rs1724423","T","G",2.63197047832e-13,1.10750973778,0.151464700146658,89,"NK#KANSL1-AS1",TRUE,"reported","dyaoCy",NA
+"17",44367939,"rs2668650","G","A",4.06073629072e-15,1.17512673588,0.14963973279905,89,"NK#KANSL1-AS1",TRUE,"reported","dyaoCy",NA

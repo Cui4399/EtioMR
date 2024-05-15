@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,120981974,rs41260544,G,A,0.1654,2.631e-31,0.014212,35376,0.08623,C5_C5a,TRUE,reported,C5_C5a
+9,121025721,rs17220750,A,G,0.186,4.105e-48,0.012762,35376,0.10741,C5_C5a,TRUE,reported,C5_C5a
+9,121048169,rs2300936,G,A,0.1067,8.191e-15,0.013742,35376,0.09158,C5_C5a,TRUE,reported,C5_C5a
+9,121184248,rs10985174,C,T,-0.0977,3.722e-08,0.017752,35374,0.0549,C5_C5a,TRUE,reported,C5_C5a
+9,121207923,rs111861726,ATGTGTGTGTGTGTGTGTG,ATGTGTG,-0.0607,4.672e-08,0.01111,35370,0.1638,C5_C5a,TRUE,reported,C5_C5a

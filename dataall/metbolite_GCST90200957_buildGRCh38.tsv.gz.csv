@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,182959122,C,A,0.0121768,0.562621,0.0712611,2.89845e-15,rs147824896,7988,N-acetylneuraminate to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,8i8iOm
+4,129143723,A,C,0.666795,0.20726,0.0166438,1.35205e-35,rs1709422,7988,N-acetylneuraminate to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,8i8iOm
+6,167294271,T,C,0.108818,-0.383465,0.0247031,2.42505e-54,rs2076007,7988,N-acetylneuraminate to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,8i8iOm

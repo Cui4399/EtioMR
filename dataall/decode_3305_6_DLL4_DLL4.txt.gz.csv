@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,40935116,rs35748882,T,C,0.1821,5.021e-12,0.026372,35364,0.02345,DLL4_DLL4,TRUE,reported,DLL4_DLL4

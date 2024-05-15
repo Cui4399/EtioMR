@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"22",41558365,"rs1033612","C","G",2.24050503928e-07,1.30496444472,0.252011757532396,89,"Classical monocyte#NDUFA6",TRUE,"reported","1iOM45",NA
+"22",42480421,"rs139043947","G","A",2.86955279122e-11,1.56298657307,0.234925557610263,89,"Classical monocyte#NDUFA6",TRUE,"reported","1iOM45",NA

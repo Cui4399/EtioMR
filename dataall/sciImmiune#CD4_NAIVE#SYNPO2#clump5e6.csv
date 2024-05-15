@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",119773002,"rs10014331","C","G",1.06731537546e-16,1.08252748862,0.130471424746367,89,"CD4_NAIVE#SYNPO2",TRUE,"reported","bZVteq",NA

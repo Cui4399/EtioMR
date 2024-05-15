@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",86372188,"rs113573381","C","CAGGCAGT",9.77132079453e-07,-0.666514437394,0.136129236240121,89,"Classical monocyte#IMMT",TRUE,"reported","VmeGxE",NA

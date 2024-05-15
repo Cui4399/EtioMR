@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,3519553,rs10179340,G,A,-0.1107,7.689e-22,0.011526,35323,0.13216,ADI1_MTND,TRUE,reported,ADI1_MTND

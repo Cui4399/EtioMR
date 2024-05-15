@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,80662999,A,C,0.0174857,-0.342311,0.0661828,2.31343e-07,rs115863668,6497,Pristanate levels,TRUE,reported,OvaIwk
+4,39285146,T,G,0.428751,-0.0827778,0.0179135,3.81949e-06,rs2062229,6497,Pristanate levels,TRUE,reported,OvaIwk
+4,180355149,C,T,0.809349,0.104799,0.0224728,3.11105e-06,rs10520445,6497,Pristanate levels,TRUE,reported,OvaIwk
+10,122059412,T,G,0.10953,-0.139977,0.0279044,5.2674e-07,rs79708704,6497,Pristanate levels,TRUE,reported,OvaIwk
+12,1630670,C,G,0.0197533,-0.287183,0.0622017,3.89404e-06,rs11061881,6497,Pristanate levels,TRUE,reported,OvaIwk
+14,77232936,G,A,0.209946,0.101333,0.0214329,2.2684e-06,rs7143692,6497,Pristanate levels,TRUE,reported,OvaIwk

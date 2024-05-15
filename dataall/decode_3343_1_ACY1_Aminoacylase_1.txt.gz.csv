@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,51204933,rs185199659,A,G,-0.0744,4.196e-09,0.012661,35341,0.12234,ACY1_Aminoacylase_1,TRUE,reported,ACY1_Aminoacylase_1
+3,51343768,rs7633708,G,A,0.0747,3.487e-11,0.011277,35341,0.16433,ACY1_Aminoacylase_1,TRUE,reported,ACY1_Aminoacylase_1
+3,52078217,rs148804382,A,C,-0.8196,1.01e-112,0.036326,35336,0.01318,ACY1_Aminoacylase_1,TRUE,reported,ACY1_Aminoacylase_1
+3,52523429,rs116423614,A,G,-0.2521,2.29e-23,0.025312,35352,0.02776,ACY1_Aminoacylase_1,TRUE,reported,ACY1_Aminoacylase_1
+3,52896787,rs149827784,A,G,-0.1991,3.178e-18,0.022872,35351,0.03374,ACY1_Aminoacylase_1,TRUE,reported,ACY1_Aminoacylase_1

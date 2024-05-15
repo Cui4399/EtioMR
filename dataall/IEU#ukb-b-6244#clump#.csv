@@ -1,0 +1,8 @@
+"chr.exposure","pos.exposure","beta.exposure","se.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",243171980,-0.0118738,0.00195021,391502,1.09999e-09,"ukb-b-6244","rs61833087","T","C",0.125697,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"3",117611485,0.00721553,0.00132144,391502,4.79999e-08,"ukb-b-6244","rs1993408","C","A",0.376784,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"6",98452680,-0.00786113,0.00130774,391502,1.79999e-09,"ukb-b-6244","rs9401452","C","T",0.394596,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"6",26180634,-0.00846726,0.00145427,391502,5.80003e-09,"ukb-b-6244","rs62396185","C","G",0.26111,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"7",117512601,0.0077438,0.00133394,391502,6.4e-09,"ukb-b-6244","rs7795627","G","A",0.645176,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"15",70508281,-0.00722387,0.00128203,391502,1.79999e-08,"ukb-b-6244","rs8023398","C","T",0.47794,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"
+"16",77649251,-0.0165648,0.00278827,391502,2.80001e-09,"ukb-b-6244","rs115041337","A","G",0.05687,"Exposure to tobacco smoke outside home || id:ukb-b-6244",TRUE,"reported","igd"

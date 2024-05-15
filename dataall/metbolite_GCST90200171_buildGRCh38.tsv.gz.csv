@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,76569409,T,A,0.0662628,0.142431,0.0299745,2.01687e-06,rs34427182,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+1,156727264,C,T,0.0586009,-0.156771,0.0321238,1.05975e-06,rs3795737,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+2,212506784,C,T,0.0240596,0.249581,0.048763,3.08402e-07,rs114686372,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+4,88122482,C,G,0.109162,0.12728,0.023968,1.09373e-07,rs45499402,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+6,3157620,C,T,0.0471814,-0.176552,0.0356929,7.55982e-07,rs9501929,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+6,25479571,C,T,0.743987,-0.080834,0.0172189,2.67261e-06,rs396050,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+7,31153356,G,A,0.0263448,-0.211358,0.0461935,4.75097e-06,rs75640656,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+7,78051952,C,G,0.092147,0.117256,0.0256833,4.98388e-06,rs7788282,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+9,38569030,A,G,0.0520049,0.156687,0.0337694,3.4855e-06,rs62541425,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+10,97158385,C,G,0.535641,0.0710823,0.0152491,3.14065e-06,rs9420708,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+11,64454510,T,C,0.01188,-0.345309,0.0695354,6.83652e-07,rs182036014,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+17,77645834,C,T,0.0568793,0.163608,0.0319824,3.12834e-07,rs7219584,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep
+22,44650691,A,G,0.0353491,0.195539,0.0410745,1.93033e-06,rs113579942,8199,Perfluorooctanoate (PFOA) levels,TRUE,reported,NwAyep

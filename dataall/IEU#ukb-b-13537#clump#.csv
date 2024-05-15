@@ -1,0 +1,8 @@
+"samplesize.exposure","pval.exposure","se.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,2.60016e-11,0.000159766,"2",-0.00106495,234289895,"ukb-b-13537","rs838713","G","C",0.403216,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,4.70002e-10,0.000164761,"5",0.00102619,176794191,"ukb-b-13537","rs12654812","A","G",0.344137,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,2e-08,0.000170118,"6",-0.000954265,32615945,"ukb-b-13537","rs17612712","T","A",0.417097,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,1.10002e-11,0.000187633,"16",0.00127544,20350459,"ukb-b-13537","rs71384446","C","A",0.234659,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,2.80027e-13,0.000178587,"20",-0.00130476,52731402,"ukb-b-13537","rs6127099","T","A",0.279356,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,2.90001e-14,0.000177806,"21",-0.00135192,37832621,"ukb-b-13537","rs219781","T","G",0.262722,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"
+462933,1.9002e-12,0.000178116,"22",0.00125373,23406619,"ukb-b-13537","rs9612225","A","G",0.262649,"Operation code: percutaneous/open kidney stone surgery/lithotripsy || id:ukb-b-13537",TRUE,"reported","igd"

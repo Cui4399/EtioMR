@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,73569796,T,C,0.0214571,-0.33181,0.0511335,8.63596e-11,rs146968042,8256,"Branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid levels",TRUE,reported,xqrxi7
+14,73573432,A,G,0.029344,-0.479922,0.0437033,4.69692e-28,rs151154986,8256,"Branched-chain, straight-chain, or cyclopropyl 12:1 fatty acid levels",TRUE,reported,xqrxi7

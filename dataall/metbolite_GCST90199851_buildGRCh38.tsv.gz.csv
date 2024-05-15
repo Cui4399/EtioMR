@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,26526216,C,T,0.251266,0.0869856,0.0158319,3.92232e-08,rs12096570,8205,"Androstenediol (3beta,17beta) disulfate (2) levels",TRUE,reported,yGzOYo
+6,25814852,G,T,0.555142,-0.0909328,0.0137866,4.23129e-11,rs1165195,8205,"Androstenediol (3beta,17beta) disulfate (2) levels",TRUE,reported,yGzOYo
+10,5203233,A,G,0.14828,-0.131323,0.0194131,1.33626e-11,rs74827952,8205,"Androstenediol (3beta,17beta) disulfate (2) levels",TRUE,reported,yGzOYo
+12,21238418,A,G,0.166463,0.208519,0.0181843,1.93301e-30,rs12369881,8205,"Androstenediol (3beta,17beta) disulfate (2) levels",TRUE,reported,yGzOYo

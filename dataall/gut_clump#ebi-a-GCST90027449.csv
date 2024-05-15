@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,155128375,-0.138428,0.0301616,4.44232e-06,7738,ebi-a-GCST90027449,rs7576386,A,G,0.7686,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+6,81567568,-0.17033,0.0349944,1.13099e-06,7738,ebi-a-GCST90027449,rs9344056,A,G,0.162359,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+8,23419176,0.120592,0.0258595,3.11071e-06,7738,ebi-a-GCST90027449,rs2942201,A,C,0.438055,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+8,145040108,0.119426,0.0261095,4.78377e-06,7738,ebi-a-GCST90027449,rs6993022,C,T,0.3798,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+9,27435733,0.242077,0.050584,1.70443e-06,7738,ebi-a-GCST90027449,rs4878453,G,A,0.0733257,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+10,33188434,-0.23666,0.0514871,4.29655e-06,7738,ebi-a-GCST90027449,rs2504016,G,A,0.0734254,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+10,85841432,0.139505,0.0290043,1.51074e-06,7738,ebi-a-GCST90027449,rs7923287,T,A,0.723875,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd
+13,68143423,-0.210428,0.0447813,2.61439e-06,7738,ebi-a-GCST90027449,rs61074222,C,G,0.0941941,ARGORNPROST.PWY..arginine..ornithine.and.proline.interconversion,TRUE,reported,igd

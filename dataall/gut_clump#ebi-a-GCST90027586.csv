@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5,33410770,0.141461,0.0267929,1.29315e-07,7738,ebi-a-GCST90027586,rs271787,C,T,0.100812,PWY.6608..guanosine.nucleotides.degradation.III,TRUE,reported,igd
+10,113756550,-0.161589,0.0343715,2.58583e-06,7738,ebi-a-GCST90027586,rs17129454,C,G,0.0582692,PWY.6608..guanosine.nucleotides.degradation.III,TRUE,reported,igd
+10,6813426,0.134426,0.0291059,3.86518e-06,7738,ebi-a-GCST90027586,rs75292198,T,C,0.101679,PWY.6608..guanosine.nucleotides.degradation.III,TRUE,reported,igd
+12,69500397,0.143427,0.0295413,1.2031e-06,7738,ebi-a-GCST90027586,rs77117941,G,T,0.0818668,PWY.6608..guanosine.nucleotides.degradation.III,TRUE,reported,igd
+17,40846131,-0.0755773,0.0165077,4.68749e-06,7738,ebi-a-GCST90027586,rs11079051,C,A,0.590187,PWY.6608..guanosine.nucleotides.degradation.III,TRUE,reported,igd

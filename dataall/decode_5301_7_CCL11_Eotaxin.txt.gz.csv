@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,34175372,rs41527847,T,C,0.0847,1.601e-11,0.01257,35372,0.12159,CCL11_Eotaxin,TRUE,reported,CCL11_Eotaxin
+17,34214241,rs9675315,C,T,-0.0759,4.387e-20,0.00827,35374,0.40133,CCL11_Eotaxin,TRUE,reported,CCL11_Eotaxin
+17,34227435,rs1989357,T,A,-0.1157,2.707e-44,0.008288,35374,0.39124,CCL11_Eotaxin,TRUE,reported,CCL11_Eotaxin

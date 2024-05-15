@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46930301,A,G,0.792302,0.130433,0.0185725,2.17326e-12,rs1126743,8217,Dodecenedioate (C12:1-DC) levels,TRUE,reported,FiKD8P
+14,73566890,G,A,0.422976,-0.191563,0.0152189,2.48383e-36,rs11626972,8217,Dodecenedioate (C12:1-DC) levels,TRUE,reported,FiKD8P

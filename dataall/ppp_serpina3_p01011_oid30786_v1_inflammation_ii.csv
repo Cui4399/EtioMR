@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,94303570,rs67922411,G,A,0.0524735,1.8678844214069e-08,0.0093306,33864,0.204967,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94469229,rs4900231,A,G,0.0766667,1.92841277563943e-15,0.00964864,33864,0.186806,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94520380,rs74075804,G,T,0.0804338,5.42375420696102e-21,0.00855621,33864,0.285253,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94602951,rs10129374,T,C,0.188308,5.94976756758985e-84,0.0096999,33864,0.184733,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94611890,rs111397271,A,G,-0.399715,1.15877735615513e-29,0.0353389,33864,0.0116813,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94627677,rs56361564,C,G,-0.444645,1e-200,0.00985567,33864,0.185867,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94638315,rs34353715,A,G,0.219127,3.29609712177458e-16,0.0268473,33864,0.0229003,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94650868,rs12147885,C,T,0.133611,1.12641908462864e-19,0.0147214,33864,0.928834,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94703364,rs116975499,T,C,0.176705,3.81109697743555e-08,0.0321318,33864,0.0160764,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94735077,rs2003136,C,A,0.0723589,1.56602972068605e-21,0.00759238,33864,0.404788,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis
+14,94799285,rs34312657,A,G,-0.146971,1.54953003958275e-09,0.0243365,33864,0.0263937,serpina3_p01011_oid30786_v1_inflammation_ii,TRUE,reported,serpina3_p01011_oid30786_v1_inflammation_ii,chr14,94612376,cis

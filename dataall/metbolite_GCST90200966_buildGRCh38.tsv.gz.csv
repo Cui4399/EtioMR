@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,48236268,T,C,0.0498786,0.228194,0.0475296,1.578e-06,rs12130095,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF
+6,10974455,A,G,0.174274,0.138121,0.0272848,4.14459e-07,rs12154017,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF
+7,75790818,T,C,0.0880539,0.167053,0.036475,4.6514e-06,rs11534087,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF
+8,105577019,T,C,0.29087,-0.118853,0.0231255,2.75522e-07,rs16873402,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF
+17,17424179,A,G,0.297127,0.104546,0.0228806,4.89604e-06,rs11652787,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF
+17,54261536,C,T,0.521787,-0.0948799,0.0206143,4.17193e-06,rs1865423,4565,Adenosine 5'-diphosphate (ADP) to uridine ratio,TRUE,reported,quEoiF

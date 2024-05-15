@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",95537171,"rs10745718","G","A",1.37496813393e-11,1.36396245566,0.201754057707786,89,"Classical monocyte#FGD6",TRUE,"reported","OZma4g",NA
+"12",95673609,"rs150538811","A","AGTAATCCTCCCACG",5.38004180569e-10,-1.2472919993,0.200929879210525,89,"Classical monocyte#FGD6",TRUE,"reported","OZma4g",NA

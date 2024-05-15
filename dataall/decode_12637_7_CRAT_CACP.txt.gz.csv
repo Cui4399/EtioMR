@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,129092024,rs6478861,T,C,0.0903,1.18e-25,0.008624,35355,0.31613,CRAT_CACP,TRUE,reported,CRAT_CACP
+9,129113066,rs9409310,GTCAC,GTCGC,-0.085,2.591e-22,0.008749,35355,0.30021,CRAT_CACP,TRUE,reported,CRAT_CACP

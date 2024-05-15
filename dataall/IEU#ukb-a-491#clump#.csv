@@ -1,0 +1,8 @@
+"pval.exposure","beta.exposure","se.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.00217e-15,0.00544829,0.000686008,154702,114303808,"1","ukb-a-491","rs6679677","A","C",0.102573,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+2.23821e-29,0.00541541,0.000481141,154702,32410576,"6","ukb-a-491","rs3129886","C","T",0.750078,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+2.37958e-16,0.0100924,0.00123046,154702,32265881,"6","ukb-a-491","rs114355928","T","G",0.029404,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+2.34153e-88,0.00962375,0.000482623,154702,32627480,"6","ukb-a-491","rs1064173","A","G",0.294648,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+3.98749e-12,-0.00313006,0.000451135,154702,32626086,"6","ukb-a-491","rs7744001","A","G",0.309722,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+1.02494e-16,0.00381188,0.000459108,154702,114758349,"10","ukb-a-491","rs7903146","T","C",0.290466,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"
+1.99434e-15,-0.00397095,0.000499961,154702,2184336,"11","ukb-a-491","rs3842729","A","G",0.226101,"Medication for cholesterol  blood pressure or diabetes: Insulin || id:ukb-a-491",TRUE,"reported","igd"

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,84941232,-0.0882622,0.0187952,2.65314e-06,7738,ebi-a-GCST90027780,rs1728059,C,T,0.265891,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_shahii,TRUE,reported,igd
+4,88801072,0.115968,0.0241116,1.51224e-06,7738,ebi-a-GCST90027780,rs4693197,A,G,0.134327,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_shahii,TRUE,reported,igd
+9,23442387,0.113549,0.0245784,3.8399e-06,7738,ebi-a-GCST90027780,rs7043141,T,G,0.134128,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_shahii,TRUE,reported,igd
+14,29958756,-0.0800937,0.0170429,2.60741e-06,7738,ebi-a-GCST90027780,rs11161058,T,C,0.483784,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__Alistipes_shahii,TRUE,reported,igd

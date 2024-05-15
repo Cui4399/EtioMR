@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75738165,G,C,0.280007,-0.216327,0.0201867,8.53468e-27,rs7539246,5576,4-methylhexanoylglutamine levels,TRUE,reported,qbsK8I
+6,25840718,G,A,0.541113,0.10712,0.0186147,8.68608e-09,rs1408273,5576,4-methylhexanoylglutamine levels,TRUE,reported,qbsK8I

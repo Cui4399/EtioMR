@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",13581844,"rs2804916","T","C",9.78688433202e-08,-0.677225871853,0.127044078522116,89,"Classical monocyte#SIRT5",TRUE,"reported","tbUMpr",NA

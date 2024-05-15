@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,33109920,rs62250512,A,G,0.0447,9.726e-09,0.007794,35340,0.39917,GLB1_BGAL,TRUE,reported,GLB1_BGAL

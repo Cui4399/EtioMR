@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,234191055,C,A,0.0289808,0.295781,0.0612699,1.38253e-06,rs80332390,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+7,119632797,A,G,0.171986,-0.133109,0.0270619,8.71308e-07,rs10236510,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+8,100846652,G,T,0.156024,-0.151293,0.0296785,3.43744e-07,rs7829662,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+9,29378733,G,A,0.705823,0.11195,0.022864,9.7633e-07,rs12003375,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+11,121728732,T,C,0.0137705,-0.407901,0.0878024,3.38972e-06,rs117847906,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+12,1591768,A,G,0.015847,-0.398038,0.08209,1.2421e-06,rs3741975,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+12,132760645,C,T,0.0737813,0.183769,0.0391959,2.75249e-06,rs61951313,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+14,95335809,A,G,0.166335,-0.128596,0.0277992,3.73027e-06,rs11849211,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7
+17,54661552,A,T,0.843031,0.141317,0.0286552,8.15416e-07,rs10468504,4581,Adenosine 5'-diphosphate (ADP) to glucose ratio,TRUE,reported,XajHQ7

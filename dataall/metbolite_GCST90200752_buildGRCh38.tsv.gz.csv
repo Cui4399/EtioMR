@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,109417637,A,C,0.134409,0.119612,0.0249517,1.63716e-06,rs6775559,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+4,7202447,C,T,0.0824582,-0.144393,0.0312582,3.84923e-06,rs2240200,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+6,34503548,T,C,0.0616753,-0.166378,0.0358025,3.36629e-06,rs116779278,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+6,115272795,C,G,0.0491189,-0.186956,0.0398307,2.68228e-06,rs61253071,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+7,36528277,G,C,0.0350323,0.217037,0.0463806,2.87613e-06,rs3779223,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+9,15044789,T,C,0.0400184,0.219753,0.0442095,6.67028e-07,rs72715698,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+9,85018768,A,C,0.0396069,0.212223,0.0440854,1.48009e-06,rs79056907,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R
+10,3118431,G,A,0.161689,-0.122612,0.0234446,1.6963e-07,rs75728123,6829,Succinate to acetoacetate ratio,TRUE,reported,6rWn4R

@@ -1,0 +1,2 @@
+"beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.000810022,111732114,"4",463010,1.2e-10,0.000125834,"ukb-b-686","rs3866831","A","G",0.636666," || id:ukb-b-686",TRUE,"reported","igd"

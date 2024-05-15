@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,165066144,G,A,0.171363,0.0989001,0.0204935,1.39357e-06,rs68172624,8223,Sarcosine levels,TRUE,reported,8BVdpN
+3,322415,A,G,0.212398,0.0901662,0.0188238,1.66772e-06,rs162588,8223,Sarcosine levels,TRUE,reported,8BVdpN
+3,49864217,G,A,0.0150907,0.30078,0.0631093,1.87911e-06,rs141352122,8223,Sarcosine levels,TRUE,reported,8BVdpN
+5,52400046,C,T,0.0148261,-0.290666,0.0634701,4.65928e-06,rs116737246,8223,Sarcosine levels,TRUE,reported,8BVdpN
+7,48151263,T,C,0.55624,0.0719548,0.0154652,3.27608e-06,rs10951948,8223,Sarcosine levels,TRUE,reported,8BVdpN
+7,118476110,G,T,0.0296698,-0.206897,0.0450425,4.36135e-06,rs112011575,8223,Sarcosine levels,TRUE,reported,8BVdpN
+8,82507219,G,C,0.171646,0.100805,0.0206135,1.0071e-06,rs80300433,8223,Sarcosine levels,TRUE,reported,8BVdpN
+8,130546164,T,C,0.230476,-0.0910592,0.0186365,1.02871e-06,rs35012921,8223,Sarcosine levels,TRUE,reported,8BVdpN
+9,29588191,T,C,0.029185,0.217363,0.0458552,2.13512e-06,rs116433135,8223,Sarcosine levels,TRUE,reported,8BVdpN
+9,133741108,T,G,0.166563,-0.106095,0.0209381,4.04021e-07,rs10465165,8223,Sarcosine levels,TRUE,reported,8BVdpN
+11,112571454,G,C,0.0274517,0.230853,0.0475679,1.21533e-06,rs143387685,8223,Sarcosine levels,TRUE,reported,8BVdpN
+12,23746404,T,C,0.196164,0.0930401,0.0197718,2.52996e-06,rs61925680,8223,Sarcosine levels,TRUE,reported,8BVdpN
+14,47919824,A,G,0.270911,-0.0872243,0.017535,6.54896e-07,rs56077946,8223,Sarcosine levels,TRUE,reported,8BVdpN
+17,812639,C,T,0.381948,-0.073396,0.0160618,4.88664e-06,rs581726,8223,Sarcosine levels,TRUE,reported,8BVdpN

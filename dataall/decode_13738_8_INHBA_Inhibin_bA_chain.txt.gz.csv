@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,41718700,rs73100943,T,A,-0.0945,1.921e-24,0.009262,35352,0.26082,INHBA_Inhibin_bA_chain,TRUE,reported,INHBA_Inhibin_bA_chain

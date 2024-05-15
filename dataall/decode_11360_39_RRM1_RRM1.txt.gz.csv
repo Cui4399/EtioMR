@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,4153145,rs11031142,T,C,-0.055,1.205e-11,0.008113,35366,0.43826,RRM1_RRM1,TRUE,reported,RRM1_RRM1
+11,4173032,rs4460801,A,G,0.0478,8.401e-09,0.008298,35365,0.3804,RRM1_RRM1,TRUE,reported,RRM1_RRM1

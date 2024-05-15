@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,70844835,rs372223773,CTTTTTTGCGGGGGGGGGGGGT,CTTTTTTGGGGGGGGGGGGT,-0.5462,3.556e-15,0.069406,35337,0.00337,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type
+4,71166534,rs115160065,A,C,-0.2441,2.399e-12,0.034826,35346,0.0132,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type
+4,71337423,rs114952461,C,T,-0.3636,1.213e-15,0.045432,35350,0.00782,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type
+4,71759380,rs7697091,C,A,-0.1219,2.623e-46,0.008532,35353,0.35008,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type
+4,71930249,rs113292111,T,C,0.127,8.582e-09,0.022062,35352,0.03516,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type
+4,72232851,rs200207171,A,G,0.2083,5.154e-13,0.028846,35353,0.02013,GC_Gc_Globulin__Mixed_Type,TRUE,reported,GC_Gc_Globulin__Mixed_Type

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,137612787,G,A,0.806967,0.11205,0.0196677,1.21808e-08,rs610803,7965,Methylsuccinate levels,TRUE,reported,0YuVH3
+12,120739469,C,G,0.265586,0.386215,0.0168416,2.21794e-116,rs3916,7965,Methylsuccinate levels,TRUE,reported,0YuVH3

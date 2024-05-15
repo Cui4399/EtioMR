@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,34659076,rs1810819,T,C,-0.0483,1.747e-08,0.008571,35350,0.33245,CCL19_MIP_3b,TRUE,reported,CCL19_MIP_3b

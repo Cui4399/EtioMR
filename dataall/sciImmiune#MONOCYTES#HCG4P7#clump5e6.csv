@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",29751129,"rs9258357","T","C",7.32246276788e-08,-1.26557218618,0.235102156876007,89,"Classical monocyte#HCG4P7",TRUE,"reported","3CVViM",NA
+"6",29857965,"rs9259269","G","A",1.30862017905e-13,-1.1088306853,0.149734900049496,89,"Classical monocyte#HCG4P7",TRUE,"reported","3CVViM",NA

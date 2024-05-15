@@ -1,0 +1,6 @@
+"beta.exposure","chr.exposure","samplesize.exposure","pos.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00834074,"1",459600,91089379,1.6e-08,0.00147504,"ukb-b-698","rs17476313","T","C",0.109494,"How are people in household related to participant: Husband, wife or partner || id:ukb-b-698",TRUE,"reported","igd"
+-0.00664566,"1",459600,197702401,5.39995e-09,0.00113917,"ukb-b-698","rs2488401","T","C",0.206891,"How are people in household related to participant: Husband, wife or partner || id:ukb-b-698",TRUE,"reported","igd"
+-0.00633653,"6",459600,396321,5.89997e-09,0.00108903,"ukb-b-698","rs12203592","T","C",0.219566,"How are people in household related to participant: Husband, wife or partner || id:ukb-b-698",TRUE,"reported","igd"
+-0.00585224,"7",459600,115033079,2.19999e-10,0.000922142,"ukb-b-698","rs1534373","T","G",0.443522,"How are people in household related to participant: Husband, wife or partner || id:ukb-b-698",TRUE,"reported","igd"
+-0.00572814,"19",459600,30321561,8.10009e-10,0.000932355,"ukb-b-698","rs34331990","G","T",0.4188,"How are people in household related to participant: Husband, wife or partner || id:ukb-b-698",TRUE,"reported","igd"

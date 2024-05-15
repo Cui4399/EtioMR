@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,87608069,T,G,0.161239,0.102335,0.0218181,2.72694e-06,rs74705350,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+1,99338919,G,A,0.025266,-0.240659,0.0498835,1.40415e-06,rs141269963,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+3,15483079,A,C,0.396717,0.0730753,0.0158867,4.22917e-06,rs6801382,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+4,7700314,G,A,0.112299,-0.129512,0.0252746,2.988e-07,rs73204710,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+6,61863839,T,C,0.173378,-0.100267,0.0206859,1.25257e-06,rs1715045,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+7,2711808,T,C,0.112136,-0.113622,0.0248682,4.90137e-06,rs140357239,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+8,5847953,G,A,0.0143903,0.298861,0.065354,4.80876e-06,rs148405661,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+8,34687055,G,C,0.751846,0.0872574,0.0184173,2.16065e-06,rs4278149,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+10,24497362,G,A,0.179766,0.0957605,0.0207006,3.7283e-06,rs12782580,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+11,11747359,T,C,0.166073,-0.103614,0.0209011,7.14582e-07,rs11022020,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+11,68420280,A,C,0.0141652,-0.313556,0.0660562,2.06653e-06,rs35564408,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+13,84335671,C,T,0.0392244,0.187725,0.0400478,2.76534e-06,rs116954057,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+14,22700503,G,C,0.605462,-0.0743962,0.0162235,4.52468e-06,rs1952428,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+15,66339299,T,C,0.0174675,-0.271854,0.0593534,4.64385e-06,rs62627329,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+21,34362884,G,A,0.280237,-0.0834074,0.0178624,3.02007e-06,rs34886364,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5
+22,19963748,A,G,0.514311,0.0796668,0.0155991,3.27056e-07,rs4680,7950,Sulfate of piperine metabolite C16H19NO3 (2) levels,TRUE,reported,GPKlY5

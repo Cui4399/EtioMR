@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,70261338,T,C,0.14132,0.247518,0.0249084,2.8694e-23,rs2706762,6188,Adenosine 5'-monophosphate (AMP) to flavin adenine dinucleotide (FAD) ratio,TRUE,reported,BHzwKA

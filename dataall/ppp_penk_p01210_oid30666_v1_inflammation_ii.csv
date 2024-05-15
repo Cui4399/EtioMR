@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+8,55972087,rs79117436,A,G,-0.160967,4.53210538548104e-08,0.029434,33187,0.0182082,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56035854,rs141588258,T,C,-0.199598,4.36113971393064e-13,0.0275541,33187,0.0189538,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56399228,rs13250714,G,A,-0.297369,1e-200,0.00750834,33187,0.461758,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56533573,rs117973873,G,A,0.19405,7.66302072273918e-12,0.0283503,33187,0.0174678,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56558954,rs117515982,A,C,0.184499,7.83664186612367e-10,0.0300086,33187,0.0155784,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56590907,rs66791545,A,G,0.162592,3.09171889389171e-47,0.0112633,33187,0.124306,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56641252,rs72661032,T,C,0.251889,2.26412291400066e-21,0.0265366,33187,0.0224533,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56644845,rs148167464,A,G,-0.189458,1.32281770800993e-12,0.0267147,33187,0.020492,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56819181,rs72661093,A,C,-0.122382,5.09565480608115e-16,0.0150917,33187,0.0700991,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56888522,rs6996264,A,G,-0.139561,6.62064040270464e-43,0.0101639,33187,0.162497,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis
+8,56925547,rs11785913,C,A,0.164754,8.23758672761877e-20,0.0180849,33187,0.045997,penk_p01210_oid30666_v1_inflammation_ii,TRUE,reported,penk_p01210_oid30666_v1_inflammation_ii,chr8,56446734,cis

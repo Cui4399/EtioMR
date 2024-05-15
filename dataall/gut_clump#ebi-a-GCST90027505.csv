@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,91522713,0.0863005,0.0189045,4.9931e-06,7738,ebi-a-GCST90027505,rs151701,T,C,0.254949,PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I,TRUE,reported,igd
+10,18460822,-0.0814196,0.0174091,2.91327e-06,7738,ebi-a-GCST90027505,rs61844177,C,T,0.316294,PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I,TRUE,reported,igd
+11,119361224,-0.117625,0.0254276,3.73044e-06,7738,ebi-a-GCST90027505,rs2509667,A,C,0.120838,PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I,TRUE,reported,igd
+13,71978130,0.0930947,0.0203682,4.8634e-06,7738,ebi-a-GCST90027505,rs9599845,C,T,0.237425,PANTOSYN.PWY..pantothenate.and.coenzyme.A.biosynthesis.I,TRUE,reported,igd

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,47543124,A,C,0.176799,0.300353,0.0198764,1.36982e-51,rs35818294,8232,Glycosyl-N-behenoyl-sphingadienine (d18:2/22:0) levels,TRUE,reported,OONarQ
+4,48036699,A,G,0.368972,0.163258,0.015626,1.49884e-25,rs11722463,8232,Glycosyl-N-behenoyl-sphingadienine (d18:2/22:0) levels,TRUE,reported,OONarQ
+9,35739879,A,G,0.425369,0.103985,0.0153983,1.44811e-11,rs3750434,8232,Glycosyl-N-behenoyl-sphingadienine (d18:2/22:0) levels,TRUE,reported,OONarQ
+10,70890201,AT,A,0.496014,0.10208,0.0153564,2.98315e-11,rs34835357,8232,Glycosyl-N-behenoyl-sphingadienine (d18:2/22:0) levels,TRUE,reported,OONarQ

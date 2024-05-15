@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,187771,rs2739240,A,C,0.123,5.29e-42,0.009058,35342,0.25195,BET1L_BET1L,TRUE,reported,BET1L_BET1L

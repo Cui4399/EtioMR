@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,237000173,rs139126374,A,G,-0.1696,8.58e-11,0.026132,35367,0.02237,COL6A3_Collagen_alpha_3_VI_,TRUE,reported,COL6A3_Collagen_alpha_3_VI_
+2,237369152,rs2646260,G,A,-0.1301,1.872e-54,0.008372,35343,0.31548,COL6A3_Collagen_alpha_3_VI_,TRUE,reported,COL6A3_Collagen_alpha_3_VI_
+2,237391512,rs200150873,TTGTTTGTTTGTTTGTTTGTTTGT,TTGTTTGTTTGTTTGTTTGTTTGTTTGTTTGT,-0.1014,3.156e-31,0.008724,35341,0.28087,COL6A3_Collagen_alpha_3_VI_,TRUE,reported,COL6A3_Collagen_alpha_3_VI_
+2,237699507,rs79742330,A,C,-0.2736,6.163e-09,0.047073,35336,0.00779,COL6A3_Collagen_alpha_3_VI_,TRUE,reported,COL6A3_Collagen_alpha_3_VI_

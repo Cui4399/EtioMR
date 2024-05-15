@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,107327437,rs35827173,C,T,0.0628,1.072e-10,0.009727,35358,0.20991,RAD23B_RD23B,TRUE,reported,RAD23B_RD23B

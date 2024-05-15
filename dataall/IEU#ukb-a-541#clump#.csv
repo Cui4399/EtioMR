@@ -1,0 +1,8 @@
+"chr.exposure","samplesize.exposure","pval.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",337199,3.23542e-09,0.000181632,-0.00107514,71545798,"ukb-a-541","rs62247034","A","C",0.323368,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"5",337199,7.0583e-15,0.000192968,0.00150202,110401872,"ukb-a-541","rs1837253","C","T",0.739738,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"6",337199,1.28056e-22,0.000210061,0.00205601,32603798,"ukb-a-541","rs1391371","T","A",0.2065,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"6",337199,3.62593e-10,0.000176792,-0.0011084,90871587,"ukb-a-541","rs62408206","A","G",0.3651,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"9",337199,1.22349e-12,0.00019413,-0.0013789,6197392,"ukb-a-541","rs1888909","C","T",0.744417,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"10",337199,1.74333e-08,0.000171321,-0.00096554,9057422,"ukb-a-541","rs1031163","T","G",0.423228,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"
+"17",337199,3.1002e-10,0.000587479,-0.00369752,4535314,"ukb-a-541","rs34210653","A","G",0.0211759,"Diagnoses - main ICD10: J33 Nasal polyp || id:ukb-a-541",TRUE,"reported","igd"

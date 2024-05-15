@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,239437125,-0.14908,0.031022,1.54287e-06,7738,ebi-a-GCST90027719,rs11578868,G,A,0.0850534,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+7,18760347,0.142582,0.0306241,3.22597e-06,7738,ebi-a-GCST90027719,rs4721723,G,C,0.0819166,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+8,81956395,0.0829852,0.0173216,1.66066e-06,7738,ebi-a-GCST90027719,rs7000832,A,C,0.456351,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+11,4745154,-0.0802979,0.017437,4.12401e-06,7738,ebi-a-GCST90027719,rs10836532,T,G,0.351034,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+11,2306168,0.0939107,0.0186646,4.86687e-07,7738,ebi-a-GCST90027719,rs7104786,T,C,0.432431,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+12,11150054,-0.0948408,0.0207598,4.91292e-06,7738,ebi-a-GCST90027719,rs79420812,T,C,0.198004,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+13,112770727,0.0807651,0.0172394,2.80066e-06,7738,ebi-a-GCST90027719,rs2317916,C,T,0.630847,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+17,34055935,0.0989134,0.0208453,2.08391e-06,7738,ebi-a-GCST90027719,rs72829932,G,A,0.183187,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd
+21,26181265,-0.0798621,0.017152,3.22196e-06,7738,ebi-a-GCST90027719,rs4816989,G,A,0.665608,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum,TRUE,reported,igd

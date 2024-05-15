@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+19344,0.153026,0.0322938,0.0000021677,"5",29819492,"C","T","rs79899309",0.992884,0.0245367,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,0.0507837,0.0104376,0.0000011509,"6",80328886,"G","C","rs2812676",0.969163,0.43951,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,-0.0644326,0.01363,0.00000229187,"8",13012692,"C","G","rs60739531",0.983853,0.165883,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,0.0684757,0.0143269,0.00000177002,"9",90659805,"A","G","rs78077793",1,0.142966,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,-0.0574399,0.012265,0.00000284299,"11",20956905,"C","T","rs10734294",0.991842,0.77815,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,0.0560519,0.012246,0.00000474235,"16",22733759,"G","A","rs12595872",0.993449,0.226358,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"
+19344,-0.0656569,0.0140756,0.00000311279,"18",52258548,"T","C","rs35428499",1,0.152754,NA,"Consecutive night shifts during mixed shift periods",TRUE,"reported","rtEiUJ","Occupation","ukb2136"

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,88106917,rs77188672,T,C,-0.250195,1.23651673934917e-11,0.0369244,33649,0.0113168,fabp1_p07148_oid20778_v1_inflammation,TRUE,reported,fabp1_p07148_oid20778_v1_inflammation,chr2,88128131,cis
+2,88124547,rs2241883,C,T,-0.236988,6.25172692775675e-195,0.00795681,33649,0.306829,fabp1_p07148_oid20778_v1_inflammation,TRUE,reported,fabp1_p07148_oid20778_v1_inflammation,chr2,88128131,cis
+2,88252801,rs116441370,C,G,-0.128508,2.30419908590189e-09,0.0215085,33649,0.0352769,fabp1_p07148_oid20778_v1_inflammation,TRUE,reported,fabp1_p07148_oid20778_v1_inflammation,chr2,88128131,cis
+2,88324481,rs1258397,G,A,0.0499519,3.73215781768847e-08,0.00907709,33649,0.211435,fabp1_p07148_oid20778_v1_inflammation,TRUE,reported,fabp1_p07148_oid20778_v1_inflammation,chr2,88128131,cis
+2,88873908,rs231544,A,G,0.0528155,2.07826057959786e-08,0.00942233,33649,0.252026,fabp1_p07148_oid20778_v1_inflammation,TRUE,reported,fabp1_p07148_oid20778_v1_inflammation,chr2,88128131,cis

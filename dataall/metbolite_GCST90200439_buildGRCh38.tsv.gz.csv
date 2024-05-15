@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,61868638,G,A,0.0191672,0.258189,0.0561337,4.23419e-06,rs138776082,8216,Cysteine levels,TRUE,reported,Y0C6au
+3,150683031,T,G,0.807633,0.0937023,0.0198681,2.4026e-06,rs12054209,8216,Cysteine levels,TRUE,reported,Y0C6au
+8,9302798,G,A,0.0280317,-0.222572,0.0469195,2.09856e-06,rs117189628,8216,Cysteine levels,TRUE,reported,Y0C6au
+17,3919632,T,C,0.155102,0.102096,0.0217627,2.71466e-06,rs56307755,8216,Cysteine levels,TRUE,reported,Y0C6au
+17,73979910,G,T,0.0108075,0.352583,0.0734903,1.60513e-06,rs56181922,8216,Cysteine levels,TRUE,reported,Y0C6au
+18,61905510,G,A,0.404472,0.0770378,0.015617,8.09969e-07,rs1539958,8216,Cysteine levels,TRUE,reported,Y0C6au
+21,39755443,T,C,0.316752,-0.0798462,0.0168201,2.06392e-06,rs62235542,8216,Cysteine levels,TRUE,reported,Y0C6au
+21,41708775,A,G,0.0393196,-0.180563,0.039444,4.70124e-06,rs111505931,8216,Cysteine levels,TRUE,reported,Y0C6au
+22,27644578,G,A,0.0363959,0.189418,0.041197,4.26842e-06,rs77736323,8216,Cysteine levels,TRUE,reported,Y0C6au

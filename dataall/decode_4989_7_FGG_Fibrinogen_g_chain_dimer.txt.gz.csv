@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,154255972,rs144431619,G,A,0.1323,2.072e-08,0.0236,35378,0.03174,FGG_Fibrinogen_g_chain_dimer,TRUE,reported,FGG_Fibrinogen_g_chain_dimer
+4,154545516,rs199705573,AAAAAAAAAAG,AAAAAAAAAAAG,-0.0549,4.316e-10,0.008795,35381,0.32175,FGG_Fibrinogen_g_chain_dimer,TRUE,reported,FGG_Fibrinogen_g_chain_dimer
+4,154570607,rs4220,A,G,0.1767,2.865e-54,0.011391,35381,0.15374,FGG_Fibrinogen_g_chain_dimer,TRUE,reported,FGG_Fibrinogen_g_chain_dimer

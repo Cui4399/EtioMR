@@ -1,0 +1,3 @@
+"se.exposure","pos.exposure","pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0019545,39420981,3.17424e-08,-0.0108121,124798,"4","ukb-a-314","rs12639940","G","A",0.371375,"Reason for reducing amount of alcohol drunk: Health precaution || id:ukb-a-314",TRUE,"reported","igd"
+0.0063277,100239319,7.94877e-16,0.0509763,124798,"4","ukb-a-314","rs1229984","C","T",0.977549,"Reason for reducing amount of alcohol drunk: Health precaution || id:ukb-a-314",TRUE,"reported","igd"

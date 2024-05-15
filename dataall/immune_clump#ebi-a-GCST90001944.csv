@@ -1,0 +1,3 @@
+pos.exposure,pval.exposure,se.exposure,samplesize.exposure,beta.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+84160279,4.47713e-23,0.03055,2872,-0.3048,4,ebi-a-GCST90001944,rs7658518,A,G,0.294,CD123 on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001944,TRUE,reported,igd
+50309890,4.67951e-11,0.03318,2872,-0.2192,7,ebi-a-GCST90001944,rs62447171,A,G,0.2429,CD123 on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001944,TRUE,reported,igd

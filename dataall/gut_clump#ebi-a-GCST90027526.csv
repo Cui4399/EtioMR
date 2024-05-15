@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,52345613,0.0807865,0.0167566,1.42722e-06,7738,ebi-a-GCST90027526,rs1266788,A,G,0.615349,PWY0.781..aspartate.superpathway,TRUE,reported,igd
+7,122872010,-0.113712,0.0245455,3.60928e-06,7738,ebi-a-GCST90027526,rs10953974,T,G,0.12518,PWY0.781..aspartate.superpathway,TRUE,reported,igd
+9,36032315,0.163124,0.0350464,3.24751e-06,7738,ebi-a-GCST90027526,rs77354939,T,C,0.0665235,PWY0.781..aspartate.superpathway,TRUE,reported,igd
+11,133725481,0.174336,0.0354376,8.67481e-07,7738,ebi-a-GCST90027526,rs35751200,G,A,0.0586888,PWY0.781..aspartate.superpathway,TRUE,reported,igd
+13,34300469,-0.0852612,0.0183628,3.43147e-06,7738,ebi-a-GCST90027526,rs61945524,T,C,0.30013,PWY0.781..aspartate.superpathway,TRUE,reported,igd

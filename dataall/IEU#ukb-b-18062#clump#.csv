@@ -1,0 +1,7 @@
+"se.exposure","pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000211921,5.30005e-10,462933,"1",109817192,-0.00131624,"ukb-b-18062","rs7528419","G","A",0.222228,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"
+0.000186418,5.89997e-09,462933,"2",21263900,0.001085,"ukb-b-18062","rs1367117","A","G",0.335113,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"
+0.000180602,5.30005e-09,462933,"8",126500031,-0.00105446,"ukb-b-18062","rs28601761","G","C",0.418699,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"
+0.000258831,1.6e-10,462933,"11",116648917,-0.00165585,"ukb-b-18062","rs964184","C","G",0.866372,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"
+0.000272424,4.49997e-09,462933,"19",11198502,-0.00159746,"ukb-b-18062","rs17248727","C","T",0.118902,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"
+0.000244037,3.59998e-23,462933,"19",45411941,0.00241919,"ukb-b-18062","rs429358","C","T",0.154145,"Treatment/medication code: lipitor 10mg tablet || id:ukb-b-18062",TRUE,"reported","igd"

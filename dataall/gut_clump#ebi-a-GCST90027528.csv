@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,137569033,-0.0775693,0.0164645,2.46122e-06,7738,ebi-a-GCST90027528,rs1346730,G,T,0.582161,PWY.1269..CMP.3.deoxy.D.manno.octulosonate.biosynthesis.I,TRUE,reported,igd
+2,24701645,-0.074864,0.016338,4.60108e-06,7738,ebi-a-GCST90027528,rs2339975,C,G,0.580122,PWY.1269..CMP.3.deoxy.D.manno.octulosonate.biosynthesis.I,TRUE,reported,igd
+11,21639207,0.0838326,0.018242,4.31529e-06,7738,ebi-a-GCST90027528,rs963497,C,T,0.282733,PWY.1269..CMP.3.deoxy.D.manno.octulosonate.biosynthesis.I,TRUE,reported,igd
+20,58078143,0.140128,0.0270826,2.28992e-07,7738,ebi-a-GCST90027528,rs72626602,T,C,0.10203,PWY.1269..CMP.3.deoxy.D.manno.octulosonate.biosynthesis.I,TRUE,reported,igd

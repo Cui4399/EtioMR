@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,9836128,rs71447602,C,T,0.1001,5.543e-09,0.01717,35385,0.06078,CLEC1B_CLC1B,TRUE,reported,CLEC1B_CLC1B
+12,9934353,rs34575901,ATT,AT,0.1273,1.019e-26,0.011897,35383,0.13756,CLEC1B_CLC1B,TRUE,reported,CLEC1B_CLC1B
+12,9956576,rs673173,A,G,-0.0807,8.692e-11,0.012438,35385,0.12355,CLEC1B_CLC1B,TRUE,reported,CLEC1B_CLC1B
+12,9964497,rs144371859,T,G,-0.1456,1.717e-15,0.018291,35386,0.05235,CLEC1B_CLC1B,TRUE,reported,CLEC1B_CLC1B
+12,9996104,rs659928,A,G,0.1722,5.522e-70,0.009737,35387,0.22486,CLEC1B_CLC1B,TRUE,reported,CLEC1B_CLC1B

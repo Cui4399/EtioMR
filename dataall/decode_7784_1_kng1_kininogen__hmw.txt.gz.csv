@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,186029574,rs12696554,C,A,-0.0677,1.363e-09,0.011172,35358,0.15973,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186426705,rs55663055,A,C,0.0816,2.81e-14,0.010727,35366,0.17033,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186434441,rs115096635,C,T,0.2561,1.456e-10,0.039954,35366,0.01112,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186571021,rs3733160,A,G,-0.0712,1.428e-08,0.012557,35367,0.11823,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186661794,rs114450524,TTCCCCA,TTCCCCG,0.1228,8.459e-10,0.020013,35368,0.04286,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186727263,rs2304456,G,T,0.3389,2.198e-168,0.012253,35368,0.12203,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186733795,rs35477316,T,C,-0.1905,3.332e-33,0.015868,35367,0.07014,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186735735,rs112323692,A,G,-0.0938,3.687e-11,0.014177,35367,0.08919,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186743735,rs76438938,T,C,-0.711,7.812e-155,0.026822,35366,0.02321,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186758681,rs138437490,G,C,0.1533,9.075e-11,0.023652,35365,0.03128,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186793167,rs144395569,C,T,-0.3052,2.461e-10,0.048219,35367,0.00732,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw
+3,186885521,rs12636245,C,A,-0.1116,4.579e-13,0.01542,35363,0.0768,kng1_kininogen__hmw,TRUE,reported,kng1_kininogen__hmw

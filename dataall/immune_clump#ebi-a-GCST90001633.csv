@@ -1,0 +1,7 @@
+se.exposure,pos.exposure,beta.exposure,samplesize.exposure,pval.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.0646,100468602,0.5556,3652,1.15691e-17,6,ebi-a-GCST90001633,rs79251210,A,G,0.0379,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd
+0.05419,101417409,0.3487,3652,1.39601e-10,6,ebi-a-GCST90001633,rs115536607,T,C,0.0548,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd
+0.0755,101980039,0.6679,3652,1.37911e-18,6,ebi-a-GCST90001633,rs117147408,G,A,0.0277,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd
+0.05826,97889936,0.3428,3652,4.39602e-09,6,ebi-a-GCST90001633,rs9488834,A,G,0.0465,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd
+0.03929,112751407,-0.3231,3652,2.69215e-16,11,ebi-a-GCST90001633,rs77738700,A,G,0.1069,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd
+0.02455,33797371,0.1472,3652,2.201e-09,17,ebi-a-GCST90001633,rs9916257,T,G,0.5685,CD8dim Natural Killer T Absolute Count || id:ebi-a-GCST90001633,TRUE,reported,igd

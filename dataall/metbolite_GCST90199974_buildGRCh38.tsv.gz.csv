@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,55222480,G,A,0.0802071,0.128028,0.0279063,4.47948e-06,rs67942738,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+1,85195128,T,C,0.0888679,-0.141314,0.0266453,1.13578e-07,rs860140,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+2,181219141,G,T,0.0102836,-0.356155,0.0753818,2.30477e-06,rs143830551,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+3,12988790,A,C,0.0529675,0.168026,0.0340706,8.15182e-07,rs145414193,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+4,156757359,G,T,0.140314,0.110234,0.0215848,3.27332e-07,rs17035181,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+7,44846,G,C,0.0748814,0.143945,0.0306454,2.63869e-06,rs6950543,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+8,6598082,C,T,0.674942,-0.0776407,0.0162611,1.80054e-06,rs2515539,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+9,29556818,C,A,0.803589,0.0956018,0.0190805,5.43075e-07,rs681151,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+10,100315722,A,G,0.172518,-0.115187,0.019933,7.52921e-09,rs603424,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+10,133105348,T,C,0.146883,0.0982625,0.0212436,3.73659e-06,rs11101932,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+12,99321551,A,G,0.0452959,-0.173021,0.0372361,3.37437e-06,rs7397873,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+16,51095265,A,G,0.0502431,-0.162646,0.0348983,3.15318e-06,rs144165507,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+16,85641565,A,G,0.138896,-0.100573,0.0218723,4.26176e-06,rs34026165,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+18,32490734,T,A,0.193716,0.0995139,0.0192964,2.50781e-07,rs4470224,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl
+19,42433184,G,A,0.0152353,-0.286696,0.0620612,3.84536e-06,rs140440902,7474,9-hydroxystearate levels,TRUE,reported,Tp1ojl

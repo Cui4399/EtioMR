@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.0333248,0.00701915,2.06296e-06,2,62900336,"C","T","rs62177746",0.976644,0.0521091,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,0.0151286,0.00312672,1.312e-06,2,142112901,"C","A","rs2714206",0.984601,0.533409,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,-0.0456389,0.00925086,8.10318e-07,5,15959387,"C","T","rs981592",0.990294,0.0287546,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,0.0407659,0.00740419,3.6928e-08,5,83618074,"G","T","rs116424018",0.98391,0.0459573,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,-0.0280518,0.00611817,4.55057e-06,8,1433465,"C","T","rs73172568",1,0.0703486,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,0.0171861,0.00372849,4.0481e-06,10,13338747,"C","CAGG","rs201791170",0.962311,0.235072,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"
+51427,-0.025845,0.00561624,4.19768e-06,22,49318900,"G","A","rs113834218",0.908721,0.0913104,23245,"Cheese consumers",TRUE,"reported","U4Gv82","Diet","ukb337"

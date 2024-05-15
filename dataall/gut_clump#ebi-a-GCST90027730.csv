@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,13839382,0.0864227,0.0187368,3.97942e-06,7738,ebi-a-GCST90027730,rs2990682,G,C,0.304692,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila,TRUE,reported,igd
+2,216484768,0.0910688,0.01924,2.20897e-06,7738,ebi-a-GCST90027730,rs2579005,G,T,0.70095,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila,TRUE,reported,igd
+7,158240602,-0.090388,0.0189915,1.94178e-06,7738,ebi-a-GCST90027730,rs6958516,C,G,0.305548,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila,TRUE,reported,igd
+19,20484610,-0.161697,0.0341716,2.22418e-06,7738,ebi-a-GCST90027730,rs73539554,T,C,0.0863916,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila,TRUE,reported,igd
+20,37001409,0.0805221,0.0174397,3.89e-06,7738,ebi-a-GCST90027730,rs1780628,T,A,0.406348,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila,TRUE,reported,igd

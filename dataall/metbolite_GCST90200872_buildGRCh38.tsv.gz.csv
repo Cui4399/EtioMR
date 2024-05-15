@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,3468663,A,G,0.0451428,0.185413,0.0364215,3.56629e-07,rs1417898,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+1,21497422,T,C,0.20094,-0.0877305,0.018947,3.65134e-06,rs61506820,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+1,225597602,G,T,0.888854,0.114163,0.0241633,2.30534e-06,rs475794,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+2,166335711,C,T,0.0240655,-0.229413,0.0491883,3.10171e-06,rs7608288,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+3,11623385,A,C,0.55644,0.071225,0.0155073,4.36952e-06,rs6766610,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+4,162398706,A,T,0.950645,-0.169979,0.0341605,6.49495e-07,rs2712725,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+8,40382447,T,C,0.0159255,-0.308098,0.0602633,3.17867e-07,rs75338921,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+9,98823710,A,G,0.450642,-0.0734483,0.0155969,2.48747e-06,rs2295925,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+10,52099866,G,A,0.0679892,0.147415,0.0300823,9.56449e-07,rs16926524,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+10,85799756,C,T,0.169241,-0.0947742,0.0199745,2.08765e-06,rs4031530,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+16,54314031,T,C,0.630498,0.0749995,0.0156555,1.66266e-06,rs7186973,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR
+17,73979910,G,T,0.0107748,-0.33613,0.0717106,2.76813e-06,rs56181922,8195,Phosphate to cysteine ratio,TRUE,reported,zCSKCR

@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,94006933,C,T,0.898106,0.112081,0.0233124,1.52596e-06,rs557026,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+1,95453650,G,A,0.0220789,-0.229465,0.0479766,1.72829e-06,rs140031315,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+1,172823806,A,G,0.0178571,0.250889,0.0534829,2.71845e-06,rs146383847,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+1,207931971,C,T,0.964145,0.181986,0.0382611,1.97059e-06,rs494790,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+2,27427062,G,T,0.433819,0.0752895,0.0142329,1.22448e-07,rs1728911,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+2,104464151,C,A,0.0259419,0.204691,0.0437637,2.9084e-06,rs149146854,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+4,154349473,G,T,0.942558,0.140889,0.0304728,3.77422e-06,rs6535998,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+5,135020371,T,C,0.293923,-0.0730767,0.0155855,2.74861e-06,rs72800392,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+5,179803321,C,T,0.419597,0.0713789,0.0143816,6.93401e-07,rs6883116,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+6,11087547,T,C,0.243052,-0.077211,0.0163786,2.42738e-06,rs9366722,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+10,3744284,G,A,0.431961,0.0725304,0.0148965,1.12193e-06,rs10904088,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+11,35011338,C,T,0.0157529,-0.271964,0.0566912,1.60831e-06,rs117888740,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+11,116778201,C,G,0.869469,0.113178,0.0208097,5.36661e-08,rs964184,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm
+14,45242113,T,C,0.0425584,-0.166535,0.0348812,1.80306e-06,rs34862991,8140,Sphingomyelin (d18:2/24:2) levels,TRUE,reported,CPRvIm

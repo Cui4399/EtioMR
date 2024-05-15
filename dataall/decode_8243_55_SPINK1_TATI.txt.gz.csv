@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,147153114,rs7733882,G,A,0.058,4.128e-08,0.010574,35360,0.16321,SPINK1_TATI,TRUE,reported,SPINK1_TATI
+5,147830245,rs114139234,A,G,0.3855,4.83e-15,0.049226,35356,0.00658,SPINK1_TATI,TRUE,reported,SPINK1_TATI
+5,147838260,rs7725017,A,C,-0.1133,1.872e-45,0.008007,35355,0.39053,SPINK1_TATI,TRUE,reported,SPINK1_TATI

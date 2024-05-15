@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,52005010,0.130987,0.02854,4.44109e-06,7738,ebi-a-GCST90027477,rs10166293,A,G,0.451165,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd
+5,167742383,0.183866,0.0372448,7.94548e-07,7738,ebi-a-GCST90027477,rs72822615,T,C,0.172729,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd
+6,15744768,-0.140188,0.0305659,4.50931e-06,7738,ebi-a-GCST90027477,rs2327909,C,T,0.308441,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd
+10,105428152,0.166232,0.0362705,4.5811e-06,7738,ebi-a-GCST90027477,rs3781339,T,C,0.187134,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd
+10,112365004,0.159157,0.0335114,2.04089e-06,7738,ebi-a-GCST90027477,rs61861701,G,A,0.257808,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd
+19,30163014,-0.210026,0.0444604,2.31377e-06,7738,ebi-a-GCST90027477,rs73024197,A,C,0.116768,GLYCOL.GLYOXDEG.PWY..superpathway.of.glycol.metabolism.and.degradation,TRUE,reported,igd

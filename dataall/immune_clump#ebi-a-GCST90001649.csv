@@ -1,0 +1,8 @@
+pos.exposure,pval.exposure,beta.exposure,se.exposure,samplesize.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+161410253,1.32008e-15,0.2582,0.03216,3596,1,ebi-a-GCST90001649,rs115805162,T,C,0.2076,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+161533055,1.30317e-124,-0.6848,0.02772,3596,1,ebi-a-GCST90001649,rs71632989,G,T,0.2474,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+161559327,1.04299e-08,0.1574,0.02744,3596,1,ebi-a-GCST90001649,rs3933769,G,A,0.6143,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+156896164,4.96604e-08,-0.1371,0.02509,3596,1,ebi-a-GCST90001649,rs865239,G,A,0.5004,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+160793560,5.41302e-09,-0.1543,0.02638,3596,1,ebi-a-GCST90001649,rs509749,G,A,0.4066,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+80259074,8.73575e-17,-0.2525,0.03019,3596,15,ebi-a-GCST90001649,rs7180804,A,G,0.2162,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd
+33797371,6.72094e-09,0.1457,0.02506,3596,17,ebi-a-GCST90001649,rs9916257,T,G,0.5698,HLA DR+ Natural Killer %Natural Killer || id:ebi-a-GCST90001649,TRUE,reported,igd

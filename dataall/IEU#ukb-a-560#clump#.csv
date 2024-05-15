@@ -1,0 +1,4 @@
+"se.exposure","beta.exposure","samplesize.exposure","pval.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00101032,0.00571028,337199,1.58752e-08,"3",54124473,"ukb-a-560","rs146637044","T","C",0.0134846,"Diagnoses - main ICD10: L03 Cellulitis || id:ukb-a-560",TRUE,"reported","igd"
+0.000255644,0.00172584,337199,1.47096e-11,"5",127388844,"ukb-a-560","rs2250127","A","G",0.247837,"Diagnoses - main ICD10: L03 Cellulitis || id:ukb-a-560",TRUE,"reported","igd"
+0.000227312,0.0012708,337199,2.26532e-08,"15",63605080,"ukb-a-560","rs16946801","T","C",0.625681,"Diagnoses - main ICD10: L03 Cellulitis || id:ukb-a-560",TRUE,"reported","igd"

@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","pval.exposure","samplesize.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",49916710,2.53875e-09,108925,0.00993956,0.00166787,"ukb-a-378","rs7613360","T","C",0.397952,"Ever highly irritable/argumentative for 2 days || id:ukb-a-378",TRUE,"reported","igd"
+"13",66642011,9.76517e-09,108925,0.0257178,0.00448421,"ukb-a-378","rs78993426","A","G",0.0343358,"Ever highly irritable/argumentative for 2 days || id:ukb-a-378",TRUE,"reported","igd"

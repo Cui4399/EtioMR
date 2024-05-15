@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,34551066,rs6120675,C,T,0.0496,1.228e-09,0.008163,35366,0.48415,MAP1LC3A_MLP3A,TRUE,reported,MAP1LC3A_MLP3A

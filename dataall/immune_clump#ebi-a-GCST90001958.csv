@@ -1,0 +1,3 @@
+se.exposure,beta.exposure,pos.exposure,chr.exposure,samplesize.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.02585,-0.4307,6894164,12,3112,8.59607e-60,ebi-a-GCST90001958,rs7296859,G,C,0.4549,CD4 on monocyte || id:ebi-a-GCST90001958,TRUE,reported,igd
+0.03367,0.2953,72144174,16,3112,2.86682e-18,ebi-a-GCST90001958,rs9302635,C,T,0.1984,CD4 on monocyte || id:ebi-a-GCST90001958,TRUE,reported,igd

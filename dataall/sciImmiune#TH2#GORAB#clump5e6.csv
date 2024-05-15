@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",170383504,"rs72707653","G","A",1.49576572577e-08,-0.98567828029,0.174085101601625,89,"TH2#GORAB",TRUE,"reported","CeaMel",NA

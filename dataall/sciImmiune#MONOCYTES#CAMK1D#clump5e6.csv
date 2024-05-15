@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",12261810,"rs35674932","A","T",2.60809090317e-07,0.831237845643,0.161412683459683,89,"Classical monocyte#CAMK1D",TRUE,"reported","BKMf5n",NA

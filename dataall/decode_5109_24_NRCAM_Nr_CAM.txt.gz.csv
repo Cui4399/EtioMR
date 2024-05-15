@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,108443160,rs1034826,C,T,-0.0679,3.345e-12,0.009752,35365,0.22809,NRCAM_Nr_CAM,TRUE,reported,NRCAM_Nr_CAM

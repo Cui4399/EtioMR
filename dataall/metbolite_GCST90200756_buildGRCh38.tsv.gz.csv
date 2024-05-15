@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.307008,0.310186,0.0162688,4.81436e-81,rs1047891,8173,Glycine to pyridoxal ratio,TRUE,reported,uDR73p

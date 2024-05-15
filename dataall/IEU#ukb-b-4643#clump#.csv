@@ -1,0 +1,5 @@
+"chr.exposure","se.exposure","pval.exposure","beta.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.0088626,5.39995e-10,-0.0550085,22465820,46207,"ukb-b-4643","rs61768001","C","T",0.167702,"Age at hysterectomy || id:ukb-b-4643",TRUE,"reported","igd"
+"6",0.0090111,3.2e-08,0.0498199,32594470,46207,"ukb-b-4643","rs114309058","A","G",0.249103,"Age at hysterectomy || id:ukb-b-4643",TRUE,"reported","igd"
+"8",0.00660092,5.39995e-09,0.0385128,10811829,46207,"ukb-b-4643","rs11250097","C","T",0.523678,"Age at hysterectomy || id:ukb-b-4643",TRUE,"reported","igd"
+"20",0.00963823,1.40001e-08,-0.0546346,61072021,46207,"ukb-b-4643","rs80171623","A","C",0.139716,"Age at hysterectomy || id:ukb-b-4643",TRUE,"reported","igd"

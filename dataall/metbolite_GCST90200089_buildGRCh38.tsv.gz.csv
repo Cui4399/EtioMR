@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53213557,G,A,0.227421,-0.309205,0.0180659,1.13871e-65,rs1799822,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+1,53293400,A,G,0.401036,0.113243,0.0158368,8.6379e-13,rs958825,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+6,160122116,T,C,0.0692172,0.239199,0.0299842,1.49329e-15,rs12208357,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+6,160154334,A,G,0.165307,0.167972,0.0205925,3.43575e-16,rs11753995,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+10,59709332,T,C,0.769503,0.104973,0.0186439,1.79753e-08,rs1171615,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+12,120738280,A,G,0.266162,0.323775,0.0170223,1.15243e-80,rs1799958,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw
+20,46608139,C,T,0.191333,-0.185891,0.0196725,3.41098e-21,rs6124830,8004,Methylsuccinoylcarnitine levels,TRUE,reported,uCVONw

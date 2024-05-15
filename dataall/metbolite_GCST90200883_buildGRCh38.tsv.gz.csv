@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,31054780,A,G,0.118029,-0.122214,0.0264639,3.87192e-06,rs2523853,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+6,107161531,T,G,0.815266,0.103299,0.0224792,4.32077e-06,rs11153053,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+6,165508129,C,T,0.052261,0.18492,0.0395447,2.92191e-06,rs76821212,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+7,8697688,G,A,0.039281,-0.220242,0.0434963,4.11695e-07,rs7782383,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+7,84116655,T,C,0.746501,-0.0943544,0.019669,1.60975e-06,rs4732545,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+8,13604889,A,G,0.529403,0.0814283,0.0171991,2.19647e-06,rs9650348,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+8,26914827,C,G,0.0136478,-0.343517,0.0735575,3.01117e-06,rs149745602,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+9,117120721,G,A,0.440044,-0.0828308,0.0171371,1.34218e-06,rs13292869,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+10,21624520,A,T,0.0200207,-0.316196,0.0606324,1.8385e-07,rs187195838,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+11,115912499,A,G,0.0205368,0.276568,0.0602677,4.45386e-06,rs144284715,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+16,7576845,A,G,0.0234444,0.26684,0.0557426,1.69294e-06,rs72774946,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+18,4062988,C,A,0.347465,-0.0836834,0.0180111,3.38084e-06,rs4797141,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+18,68508425,T,C,0.27373,0.0915899,0.0192557,1.96968e-06,rs12959780,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG
+21,29922164,A,C,0.021881,0.291975,0.0584909,5.98215e-07,rs149095400,6791,Phosphate to acetoacetate ratio,TRUE,reported,No29MG

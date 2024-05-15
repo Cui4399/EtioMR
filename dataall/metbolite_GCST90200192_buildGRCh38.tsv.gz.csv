@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,45772602,A,G,0.0991962,0.221212,0.025695,7.35966e-18,rs17279437,8219,"N,N-dimethylalanine levels",TRUE,reported,hpeHiB
+5,151460503,T,G,0.341091,0.116618,0.0164717,1.44287e-12,rs36039116,8219,"N,N-dimethylalanine levels",TRUE,reported,hpeHiB
+10,59653595,G,A,0.165834,-0.14051,0.0210071,2.25178e-11,rs12356193,8219,"N,N-dimethylalanine levels",TRUE,reported,hpeHiB
+10,88675831,A,T,0.019186,0.31165,0.0565641,3.59473e-08,rs860081,8219,"N,N-dimethylalanine levels",TRUE,reported,hpeHiB
+17,39274266,C,T,0.738465,-0.0998628,0.0176105,1.42274e-08,rs644173,8219,"N,N-dimethylalanine levels",TRUE,reported,hpeHiB

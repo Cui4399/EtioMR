@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73062430,T,C,0.0871945,0.153895,0.0273381,1.80917e-08,rs58469852,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+2,73503403,T,C,0.17182,0.884784,0.0178666,1e-200,rs112006497,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+2,73539537,T,C,0.131087,-0.175406,0.0224389,5.4072e-15,rs11689767,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+2,73873827,G,A,0.118745,0.362454,0.0232493,8.5309e-55,rs11885317,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+10,59707424,T,G,0.769646,0.152433,0.0185038,1.75208e-16,rs1171617,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+14,22813127,A,G,0.0198451,0.299824,0.0545966,3.9827e-08,rs11568438,8271,N-acetylarginine levels,TRUE,reported,1VFcuf
+17,19538723,T,A,0.393038,0.107413,0.0158065,1.07919e-11,rs2453583,8271,N-acetylarginine levels,TRUE,reported,1VFcuf

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,31977167,rs140904849,T,C,0.1795,8.761e-14,0.024067,35368,0.02788,KPNA6_IMA7,TRUE,reported,KPNA6_IMA7

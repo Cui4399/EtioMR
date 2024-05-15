@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,74463780,rs62087202,A,G,-0.62258,1e-200,0.0167105,33187,0.0485431,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis
+17,74473033,rs11869299,T,C,0.193703,1.61138753572e-73,0.0106797,33187,0.132449,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis
+17,74476352,rs61108724,T,C,0.184615,3.27868731174549e-16,0.0226172,33187,0.026192,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis
+17,74482578,rs112743758,T,G,-0.213286,3.58591507517175e-11,0.0322172,33187,0.0130565,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis
+17,74495560,rs139283922,A,G,0.109352,2.74802070121853e-10,0.0173234,33187,0.0555386,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis
+17,74503620,rs2382845,T,A,-0.207185,3.38454271866308e-33,0.0172596,33187,0.0458556,cd300a_q9ugn4_oid30576_v1_inflammation_ii,TRUE,reported,cd300a_q9ugn4_oid30576_v1_inflammation_ii,chr17,74466372,cis

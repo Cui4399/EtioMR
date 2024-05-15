@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.305733,-0.104752,0.017993,5.82115e-09,rs1047891,7051,Picolinate levels,TRUE,reported,QnaVWs
+16,20552206,C,T,0.0258486,0.539266,0.051931,2.92349e-25,rs77863699,7051,Picolinate levels,TRUE,reported,QnaVWs
+16,20559339,C,T,0.971309,-0.41449,0.0495836,6.30235e-17,rs8056693,7051,Picolinate levels,TRUE,reported,QnaVWs
+16,89641816,G,T,0.476969,0.14552,0.0164579,9.40488e-19,rs164749,7051,Picolinate levels,TRUE,reported,QnaVWs

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",38848194,"rs4286777","A","C",3.36937387078e-07,-0.791241804591,0.155099242959757,89,"TREG_MEM#RP1-207H1.3",TRUE,"reported","XREcEn",NA

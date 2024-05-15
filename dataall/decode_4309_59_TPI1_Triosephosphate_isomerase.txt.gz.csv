@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,6867905,rs2071065,C,T,-0.0562,2.15e-10,0.00885,35390,0.28809,TPI1_Triosephosphate_isomerase,TRUE,reported,TPI1_Triosephosphate_isomerase

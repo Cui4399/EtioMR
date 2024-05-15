@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,58026287,T,C,0.082322,-0.12773,0.027691,3.97499e-06,rs10210198,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+4,182091567,G,A,0.0789905,0.146508,0.0279764,1.63349e-07,rs75729769,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+9,100850066,C,A,0.0161149,0.295039,0.0602861,9.88168e-07,rs12684699,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+11,125972164,A,G,0.298635,0.0765385,0.016588,3.94827e-06,rs11220291,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+14,69295481,T,A,0.0974298,0.119764,0.0261277,4.56636e-06,rs113576138,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+15,89186568,G,A,0.108726,-0.111916,0.024194,3.73168e-06,rs2238314,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN
+15,100254306,A,G,0.0193053,-0.26411,0.0551238,1.65771e-06,rs74440514,8018,"2,3-dihydroxy-2-methylbutyrate levels",TRUE,reported,7JxMiN

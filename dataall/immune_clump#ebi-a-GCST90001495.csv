@@ -1,0 +1,7 @@
+beta.exposure,samplesize.exposure,pos.exposure,chr.exposure,pval.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.4715,3405,97016742,10,3.67621e-24,0.04614,ebi-a-GCST90001495,rs202211780,G,A,0.0878,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd
+-0.2549,3405,98205222,10,1.32801e-15,0.03174,ebi-a-GCST90001495,rs11188757,C,A,0.2213,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd
+-0.1932,3405,97069472,10,3.39313e-11,0.02906,ebi-a-GCST90001495,rs10786199,A,G,0.2894,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd
+0.9765,3405,97565783,10,1e-200,0.02064,ebi-a-GCST90001495,rs7914286,A,G,0.4258,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd
+-0.4069,3405,97741071,10,3.19374e-56,0.02528,ebi-a-GCST90001495,rs10882701,C,A,0.514,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd
+0.4322,3405,97294154,10,4.98196e-17,0.05126,ebi-a-GCST90001495,rs72809762,T,C,0.0675,CD39+ secreting CD4 regulatory T cell Absolute Count || id:ebi-a-GCST90001495,TRUE,reported,igd

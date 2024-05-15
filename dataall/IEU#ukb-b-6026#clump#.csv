@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","pos.exposure","pval.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,0.00202997,59691981,1.29999e-08,"1",0.00035716,"ukb-b-6026","rs79624528","A","G",0.108486,"Diagnoses - main ICD10: M20.1 Hallux valgus (acquired) || id:ukb-b-6026",TRUE,"reported","igd"
+463010,-0.00148428,127268152,3.59998e-11,"4",0.000224202,"ukb-b-6026","rs2391043","T","C",0.433662,"Diagnoses - main ICD10: M20.1 Hallux valgus (acquired) || id:ukb-b-6026",TRUE,"reported","igd"
+463010,-0.00164259,34025983,8.10028e-13,"20",0.000229409,"ukb-b-6026","rs143383","G","A",0.361931,"Diagnoses - main ICD10: M20.1 Hallux valgus (acquired) || id:ukb-b-6026",TRUE,"reported","igd"

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27518370,C,T,0.597782,-0.0824749,0.0158312,1.89194e-07,rs780094,8215,2-hydroxybutyrate/2-hydroxyisobutyrate levels,TRUE,reported,FfKInz
+4,88322666,T,C,0.4489,-0.0815387,0.0157023,2.07173e-07,rs10022462,8215,2-hydroxybutyrate/2-hydroxyisobutyrate levels,TRUE,reported,FfKInz
+7,157754202,A,G,0.0996814,0.142185,0.0259851,4.4548e-08,rs887417,8215,2-hydroxybutyrate/2-hydroxyisobutyrate levels,TRUE,reported,FfKInz
+13,110333507,T,C,0.103879,0.120408,0.0260123,3.67649e-06,rs12859068,8215,2-hydroxybutyrate/2-hydroxyisobutyrate levels,TRUE,reported,FfKInz
+15,66233917,T,C,0.364552,-0.0754319,0.0161058,2.8198e-06,rs7181304,8215,2-hydroxybutyrate/2-hydroxyisobutyrate levels,TRUE,reported,FfKInz

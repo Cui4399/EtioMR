@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+91149,0.0200788,0.00388362,0.000000234442,"2",125814441,"T","C","rs77360903",1,0.0292031,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,0.0102765,0.00221156,0.00000337759,"3",56720395,"G","C","rs4681736",0.99859,0.0952867,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,0.0067261,0.00145235,0.00000364106,"3",70619731,"T","G","rs59253386",0.91313,0.689316,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,0.0190458,0.00416358,0.00000478277,"3",157421831,"T","A","rs9883481",0.973448,0.025125,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,-0.00637689,0.00137069,0.00000328698,"10",99100432,"T","C","rs10882900",0.987996,0.341502,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,-0.00641538,0.00138059,0.00000337555,"11",63884027,"C","T","rs614035",1,0.675043,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"
+91149,0.00636977,0.00138741,0.00000441485,"19",56706018,"G","A","rs11084428",0.984158,0.326845,7682,"Job SOC coding: Secondary education teaching professionals",TRUE,"reported","LzAZVu","Occupation","ukb1913"

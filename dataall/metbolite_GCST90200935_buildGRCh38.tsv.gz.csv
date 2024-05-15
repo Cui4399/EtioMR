@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132401338,T,C,0.312477,-0.102328,0.0161661,2.45539e-10,rs4705857,8185,Carnitine to propionylcarnitine (C3) ratio,TRUE,reported,bQo8BK
+6,160143444,G,C,0.174247,0.179625,0.01979,1.12075e-19,rs662138,8185,Carnitine to propionylcarnitine (C3) ratio,TRUE,reported,bQo8BK
+13,100381667,A,G,0.0109176,-0.649382,0.0724353,3.10296e-19,rs145025874,8185,Carnitine to propionylcarnitine (C3) ratio,TRUE,reported,bQo8BK

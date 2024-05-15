@@ -1,0 +1,7 @@
+"pos.exposure","pval.exposure","beta.exposure","chr.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+74853605,2.55294e-08,0.033197,"4",292053,0.00596021,"ukb-a-202","rs16850295","G","A",0.0119558,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"
+161010118,9.50605e-16,-0.0185544,"6",292053,0.00230961,"ukb-a-202","rs10455872","G","A",0.0810412,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"
+22103183,3.89404e-15,-0.0100311,"9",292053,0.00127643,"ukb-a-202","rs1537372","T","G",0.43275,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"
+91429042,3.88454e-10,0.00791186,"15",292053,0.00126411,"ukb-a-202","rs1894401","A","G",0.525353,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"
+11202306,2.51831e-09,0.0115964,"19",292053,0.00194557,"ukb-a-202","rs6511720","T","G",0.118816,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"
+45394336,2.30781e-11,-0.011835,"19",292053,0.00177029,"ukb-a-202","rs71352238","C","T",0.149603,"Illnesses of father: None of the above (group 1) || id:ukb-a-202",TRUE,"reported","igd"

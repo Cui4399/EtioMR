@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,136062506,T,C,0.629022,-0.0861776,0.01577,4.63824e-08,rs11681248,8153,Indolepropionate levels,TRUE,reported,TTUjXU
+16,20463360,C,T,0.278471,-0.175473,0.0171848,1.7712e-24,rs8061485,8153,Indolepropionate levels,TRUE,reported,TTUjXU

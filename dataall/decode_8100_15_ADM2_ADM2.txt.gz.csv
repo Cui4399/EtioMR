@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,50478154,rs8142906,A,G,0.149,1.813e-41,0.011046,35333,0.16004,ADM2_ADM2,TRUE,reported,ADM2_ADM2

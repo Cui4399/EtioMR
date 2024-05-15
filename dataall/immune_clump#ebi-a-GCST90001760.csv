@@ -1,0 +1,5 @@
+samplesize.exposure,chr.exposure,se.exposure,beta.exposure,pval.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3657,6,0.03694,0.2282,7.24803e-10,15858996,ebi-a-GCST90001760,rs6459417,T,C,0.8737,CD20 on unswitched memory B cell || id:ebi-a-GCST90001760,TRUE,reported,igd
+3657,6,0.0461,0.2604,1.74699e-08,31809504,ebi-a-GCST90001760,rs112405902,A,G,0.1069,CD20 on unswitched memory B cell || id:ebi-a-GCST90001760,TRUE,reported,igd
+3657,11,0.04163,-0.2525,1.45301e-09,60249734,ebi-a-GCST90001760,rs4447195,T,C,0.0982,CD20 on unswitched memory B cell || id:ebi-a-GCST90001760,TRUE,reported,igd
+3657,19,0.02912,-0.2404,2.09218e-16,49853881,ebi-a-GCST90001760,rs6509428,T,C,0.2323,CD20 on unswitched memory B cell || id:ebi-a-GCST90001760,TRUE,reported,igd

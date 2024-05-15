@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"7",141490238,"rs2227264","G","T",2.56201062295e-14,0.952946118858,0.12507953608746,89,"TREG_NAIVE#WEE2-AS1",TRUE,"reported","Kymyu5",NA

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,1531630,C,T,0.0229893,0.248542,0.0529996,2.73868e-06,rs61777887,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+3,10695400,C,G,0.0140124,0.314774,0.0655192,1.5529e-06,rs147339316,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+3,46984611,A,G,0.0157294,-0.298914,0.0621823,1.53167e-06,rs73075635,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+4,21909533,C,T,0.295788,-0.083495,0.0173332,1.45692e-06,rs55782812,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+8,32258632,C,T,0.0132204,-0.327938,0.067975,1.4043e-06,rs59465288,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+9,101969494,G,A,0.0311246,0.210975,0.0443011,1.91406e-06,rs58331764,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+15,39285620,A,C,0.101798,-0.130278,0.0257648,4.27172e-07,rs34947582,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+15,40479619,A,T,0.365762,0.0751059,0.0161136,3.14645e-06,rs36122190,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+16,20429731,G,C,0.306292,0.0799252,0.0168878,2.21534e-06,rs8062344,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+16,26811073,T,C,0.267882,-0.0826874,0.0175699,2.52398e-06,rs73527994,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73
+19,10032406,A,G,0.0236938,0.239676,0.0505597,2.13232e-06,rs10410885,8241,2-hydroxyhippurate levels,TRUE,reported,Q5KA73

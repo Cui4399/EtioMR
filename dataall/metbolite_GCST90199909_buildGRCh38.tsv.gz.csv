@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,24308575,T,C,0.0792121,-0.153677,0.0279697,3.92031e-08,rs60953408,8258,Eicosanedioate (C20-DC) levels,TRUE,reported,xqXqpT
+12,21204777,T,C,0.1559,0.16543,0.020708,1.36337e-15,rs58310495,8258,Eicosanedioate (C20-DC) levels,TRUE,reported,xqXqpT

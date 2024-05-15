@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25758838,T,G,0.412185,-0.109871,0.0158617,4.30449e-12,rs12212049,8063,Thymol sulfate levels,TRUE,reported,hvlCOj
+10,94934834,A,G,0.0646964,0.214506,0.0317371,1.391e-11,rs75794524,8063,Thymol sulfate levels,TRUE,reported,hvlCOj

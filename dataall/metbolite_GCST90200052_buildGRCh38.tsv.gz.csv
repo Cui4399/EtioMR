@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61790331,C,T,0.344959,-0.475997,0.0152485,1e-200,rs102275,8251,1-(1-enyl-palmitoyl)-2-arachidonoyl-gpc (p-16:0/20:4) levels,TRUE,reported,7tpAyL
+14,67502391,A,G,0.477783,-0.226397,0.0151003,8.16967e-51,rs72719193,8251,1-(1-enyl-palmitoyl)-2-arachidonoyl-gpc (p-16:0/20:4) levels,TRUE,reported,7tpAyL
+16,15056648,A,C,0.29154,0.106269,0.0167839,2.42616e-10,rs12928099,8251,1-(1-enyl-palmitoyl)-2-arachidonoyl-gpc (p-16:0/20:4) levels,TRUE,reported,7tpAyL

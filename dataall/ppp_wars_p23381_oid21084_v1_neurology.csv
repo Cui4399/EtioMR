@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,100318633,rs8007716,T,C,-0.050416,9.90603823670606e-11,0.00779422,33687,0.599856,wars_p23381_oid21084_v1_neurology,TRUE,reported,wars_p23381_oid21084_v1_neurology,chr14,100376343,cis
+14,100376300,rs2273804,G,C,-0.257646,1.91866874067023e-199,0.00855095,33687,0.259874,wars_p23381_oid21084_v1_neurology,TRUE,reported,wars_p23381_oid21084_v1_neurology,chr14,100376343,cis
+14,100526896,rs112937372,A,T,-0.088353,2.04503149098987e-23,0.00886113,33687,0.449435,wars_p23381_oid21084_v1_neurology,TRUE,reported,wars_p23381_oid21084_v1_neurology,chr14,100376343,cis
+14,100720690,rs72631672,T,C,-0.110981,1.29807564023897e-21,0.0116212,33687,0.120301,wars_p23381_oid21084_v1_neurology,TRUE,reported,wars_p23381_oid21084_v1_neurology,chr14,100376343,cis

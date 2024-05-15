@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,48871590,rs182801617,T,C,-0.193,1.756e-11,0.028699,35355,0.01868,GNGT2_GBGT2,TRUE,reported,GNGT2_GBGT2

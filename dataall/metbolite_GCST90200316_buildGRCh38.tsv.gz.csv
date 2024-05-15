@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,177440833,C,T,0.340305,0.145101,0.0159894,1.13817e-19,rs13133517,8144,N-acetylglucosaminylasparagine levels,TRUE,reported,5R9c8W
+6,167294271,T,C,0.105759,-0.53958,0.0238664,3.58851e-113,rs2076007,8144,N-acetylglucosaminylasparagine levels,TRUE,reported,5R9c8W
+6,167331779,C,G,0.328196,-0.107232,0.0162621,4.28132e-11,rs6935105,8144,N-acetylglucosaminylasparagine levels,TRUE,reported,5R9c8W
+14,94378610,T,C,0.0178242,0.441029,0.0571309,1.16663e-14,rs28929474,8144,N-acetylglucosaminylasparagine levels,TRUE,reported,5R9c8W
+17,66308933,G,A,0.0297443,0.352596,0.0449571,4.4005e-15,rs78357146,8144,N-acetylglucosaminylasparagine levels,TRUE,reported,5R9c8W

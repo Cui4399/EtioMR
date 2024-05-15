@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,99752583,G,A,0.0207323,0.278831,0.0496107,1.90552e-08,rs118105552,8257,Tricosanoyl sphingomyelin (d18:1/23:0) levels,TRUE,reported,x7rvMV
+19,44913574,G,T,0.10752,-0.126255,0.0228898,3.47237e-08,rs390082,8257,Tricosanoyl sphingomyelin (d18:1/23:0) levels,TRUE,reported,x7rvMV

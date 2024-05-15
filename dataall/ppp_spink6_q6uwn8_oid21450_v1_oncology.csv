@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+5,147687608,rs17107200,G,T,-0.0674211,4.78905693268266e-09,0.0115164,33966,0.110793,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,147938124,rs181850224,A,T,0.218365,4.6924537413644e-09,0.0372781,33966,0.0105544,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,147958481,rs67500254,T,G,-0.0836083,1.64892157315083e-20,0.00900667,33966,0.260344,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,147992892,rs17538716,A,G,-0.0961533,2.96961398639916e-23,0.00967949,33966,0.176817,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148010451,rs112861203,C,T,0.19867,9.42323452603068e-21,0.0212655,33966,0.0298387,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148142991,rs62387549,C,G,-0.303454,1e-200,0.00727084,33966,0.51208,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148321342,rs4529184,G,A,0.226818,3.33887376725123e-14,0.0299057,33966,0.983581,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148387018,rs146772705,A,G,-0.214607,6.12632454443863e-18,0.0248671,33966,0.0241108,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148404147,rs17638781,G,A,-0.111737,5.3802195718911e-27,0.0103855,33966,0.140891,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis
+5,148546102,rs115852630,G,A,0.212524,4.21599415398428e-12,0.0306683,33966,0.0151271,spink6_q6uwn8_oid21450_v1_oncology,TRUE,reported,spink6_q6uwn8_oid21450_v1_oncology,chr5,148202793,cis

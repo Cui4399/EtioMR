@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,12699174,rs111909987,G,C,0.1207,1.416e-19,0.013335,35371,0.09925,CDKN1B_p27Kip1,TRUE,reported,CDKN1B_p27Kip1

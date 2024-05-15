@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"16",71287530,"rs375566347","GTA","G",8.78982653847e-07,1.29131444078,0.26262452851707,89,"NK#HYDIN",TRUE,"reported","fgDtfD",NA
+"16",71292538,"rs74764076","C","T",1.68051469804e-06,1.14231534336,0.238555023587771,89,"NK#HYDIN",TRUE,"reported","fgDtfD",NA

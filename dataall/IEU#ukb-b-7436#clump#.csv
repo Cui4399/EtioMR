@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","chr.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,0.00158081,0.000276594,"1",109818530,1.09999e-08,"ukb-b-7436","rs646776","T","C",0.777917,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,0.00136725,0.0002343,"6",12903957,5.39995e-09,"ukb-b-7436","rs9349379","G","A",0.405488,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,0.00542194,0.000425372,"6",161005610,3.29989e-37,"ukb-b-7436","rs55730499","T","C",0.079714,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,0.00258768,0.00022993,"9",22124123,2.19989e-29,"ukb-b-7436","rs1333046","A","T",0.499668,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,0.00150489,0.000251997,"10",91008873,2.30001e-09,"ukb-b-7436","rs2250645","T","C",0.298898,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,-0.00137879,0.000230695,"12",111973358,2.30001e-09,"ukb-b-7436","rs597808","G","A",0.515991,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"
+463010,-0.00249213,0.000424025,"19",45412079,4.20001e-09,"ukb-b-7436","rs7412","T","C",0.080155,"Diagnoses - secondary ICD10: I25.1 Atherosclerotic heart disease || id:ukb-b-7436",TRUE,"reported","igd"

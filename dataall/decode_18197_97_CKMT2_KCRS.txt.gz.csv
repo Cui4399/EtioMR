@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,81233359,rs142913020,A,G,0.1574,3.42e-08,0.028522,35339,0.01956,CKMT2_KCRS,TRUE,reported,CKMT2_KCRS

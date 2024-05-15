@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,4716225,C,A,0.750161,-0.108734,0.0228908,2.0329e-06,rs4654595,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+1,23046388,T,A,0.950138,-0.211717,0.0458032,3.79492e-06,rs4655144,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+2,142236759,C,T,0.189364,0.123971,0.0249959,7.06255e-07,rs1446355,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+3,62554061,G,A,0.738897,0.111602,0.0225337,7.32013e-07,rs2251423,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+4,178587486,T,C,0.738622,0.106652,0.0227359,2.72002e-06,rs2252533,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+6,159958064,C,T,0.0978737,0.150745,0.0327822,4.25795e-06,rs12202350,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+7,73764105,A,G,0.459207,-0.105728,0.019815,9.51441e-08,rs11764572,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+9,94536773,G,C,0.353496,-0.096417,0.0204351,2.37928e-06,rs10993232,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+9,133494060,G,A,0.24014,-0.105363,0.0229109,4.24919e-06,rs736418,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+13,22807657,ATG,A,0.0145428,-0.385075,0.0828075,3.31534e-06,rs201080974,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE
+13,73075014,G,A,0.347273,0.0978485,0.0209031,2.85409e-06,rs45597035,4803,5-hydroxymethyl-2-furoylcarnitine levels,TRUE,reported,hE0amE

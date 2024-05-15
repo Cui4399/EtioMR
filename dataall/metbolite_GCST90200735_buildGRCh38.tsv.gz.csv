@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,131522043,A,T,0.218046,0.13504,0.0186471,4.42608e-13,rs2608900,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV
+6,131573218,T,C,0.0193313,-0.638151,0.0549643,3.65421e-31,rs17788484,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV
+10,45495477,C,T,0.0545576,-0.185952,0.0334255,2.64906e-08,rs17157861,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV
+10,98388596,G,C,0.352905,0.0879106,0.0158989,3.2141e-08,rs2182168,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV
+12,120749754,C,T,0.651716,-0.0986996,0.016101,8.78529e-10,rs791210,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV
+19,12891586,C,G,0.365488,-0.109459,0.0157333,3.47128e-12,rs1799918,8250,Arginine to ornithine ratio,TRUE,reported,CpPIwV

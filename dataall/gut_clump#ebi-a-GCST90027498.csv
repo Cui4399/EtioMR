@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,229353849,0.0850658,0.0180993,2.60226e-06,7738,ebi-a-GCST90027498,rs10933259,G,A,0.287238,P162.PWY..L.glutamate.degradation.V..via.hydroxyglutarate.,TRUE,reported,igd
+11,33383339,0.0841692,0.0180774,3.22359e-06,7738,ebi-a-GCST90027498,rs3908395,G,A,0.674308,P162.PWY..L.glutamate.degradation.V..via.hydroxyglutarate.,TRUE,reported,igd
+13,63330978,-0.078216,0.0169931,4.16821e-06,7738,ebi-a-GCST90027498,rs9570722,G,A,0.393238,P162.PWY..L.glutamate.degradation.V..via.hydroxyglutarate.,TRUE,reported,igd
+16,78349809,0.116686,0.0243562,1.66092e-06,7738,ebi-a-GCST90027498,rs77890687,G,A,0.131645,P162.PWY..L.glutamate.degradation.V..via.hydroxyglutarate.,TRUE,reported,igd
+16,62680398,0.123882,0.0258491,1.64718e-06,7738,ebi-a-GCST90027498,rs288625,A,G,0.884763,P162.PWY..L.glutamate.degradation.V..via.hydroxyglutarate.,TRUE,reported,igd

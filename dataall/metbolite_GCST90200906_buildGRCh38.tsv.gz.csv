@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,84961789,C,T,0.0578199,0.200677,0.0340059,3.60798e-09,rs72754978,7410,2'-deoxyuridine to cytidine ratio,TRUE,reported,YTNb75
+22,50533323,C,A,0.779316,-0.181284,0.0190013,1.4198e-21,rs131794,7410,2'-deoxyuridine to cytidine ratio,TRUE,reported,YTNb75

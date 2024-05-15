@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61802358,T,C,0.339212,-0.205114,0.0155289,7.82763e-40,rs174546,8257,Eicosapentaenoate (EPA; 20:5n3) levels,TRUE,reported,a5mtQd

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241550102,T,C,0.246249,0.33555,0.0171159,1.4118e-85,rs61825638,8241,Kynurenate levels,TRUE,reported,EF1wo0
+4,170040496,T,C,0.0923218,0.198132,0.0261276,3.37011e-14,rs7676821,8241,Kynurenate levels,TRUE,reported,EF1wo0
+16,58733944,A,G,0.0780737,0.187106,0.0279306,2.09913e-11,rs12921667,8241,Kynurenate levels,TRUE,reported,EF1wo0

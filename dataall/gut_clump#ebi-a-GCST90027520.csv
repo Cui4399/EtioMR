@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,65804266,0.149611,0.032136,3.23132e-06,7738,ebi-a-GCST90027520,rs12472695,T,C,0.299909,PWY0.1338..polymyxin.resistance,TRUE,reported,igd
+13,44665868,0.224867,0.041483,5.93649e-08,7738,ebi-a-GCST90027520,rs4942275,T,C,0.141655,PWY0.1338..polymyxin.resistance,TRUE,reported,igd
+16,83333772,-0.241937,0.045853,1.31768e-07,7738,ebi-a-GCST90027520,rs76296650,G,A,0.123104,PWY0.1338..polymyxin.resistance,TRUE,reported,igd
+17,505227,-0.154749,0.0331496,3.0383e-06,7738,ebi-a-GCST90027520,rs7225041,C,G,0.317453,PWY0.1338..polymyxin.resistance,TRUE,reported,igd

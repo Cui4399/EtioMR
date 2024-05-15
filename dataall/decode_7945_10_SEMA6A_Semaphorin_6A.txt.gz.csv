@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,116372236,rs17139611,G,A,-0.1127,7.942e-13,0.015735,35359,0.07418,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116420700,rs11241390,A,G,-0.0845,1.592e-10,0.013211,35361,0.11167,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116441813,rs3984965,GTGCAGTGGCATGATCTTGGCTCAC,GTGCAGTGGCACGATCTTGGCTCAC,0.1474,1.534e-28,0.013301,35361,0.11093,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116448600,rs28121,A,G,0.1275,2.733e-08,0.022941,35362,0.03368,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116483743,rs78036614,G,A,0.2538,8.734e-24,0.025241,35360,0.02877,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116511514,rs72812713,C,T,0.067,2.056e-09,0.011179,35360,0.16415,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A
+5,116613097,rs607350,T,A,0.0836,3.637e-16,0.010258,35359,0.20708,SEMA6A_Semaphorin_6A,TRUE,reported,SEMA6A_Semaphorin_6A

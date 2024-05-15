@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135649909,G,A,0.322523,-0.121817,0.0166585,2.61978e-13,rs1446585,7518,Galactonate levels,TRUE,reported,z43WQ6

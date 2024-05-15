@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,63050913,A,G,0.0707877,0.681648,0.0290974,2.30179e-121,rs142131421,5582,17alpha-hydroxypregnanolone glucuronide levels,TRUE,reported,AHxwkH
+11,63077115,C,T,0.282746,-0.0971036,0.0171469,1.48703e-08,rs11231334,5582,17alpha-hydroxypregnanolone glucuronide levels,TRUE,reported,AHxwkH
+11,63312298,C,T,0.581372,-0.0993954,0.0157566,2.82314e-10,rs540582,5582,17alpha-hydroxypregnanolone glucuronide levels,TRUE,reported,AHxwkH

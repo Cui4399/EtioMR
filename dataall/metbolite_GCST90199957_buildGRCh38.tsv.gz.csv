@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,221490994,A,G,0.0934295,-0.148969,0.0318347,2.8765e-06,rs77676315,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+2,54842814,A,C,0.0581544,-0.185881,0.0406796,4.8915e-06,rs17046412,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+3,53514004,G,C,0.0383543,-0.22214,0.0482419,4.13054e-06,rs59968724,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+6,54036653,A,C,0.0345786,-0.233538,0.0510772,4.82511e-06,rs74796258,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+7,37346633,A,C,0.575555,-0.0908811,0.0187432,1.24234e-06,rs2700987,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+10,14658073,G,A,0.0419861,0.215684,0.0471872,4.85817e-06,rs117252366,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+14,56661436,A,G,0.0205996,0.337389,0.0653016,2.3836e-07,rs139182841,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+16,28826014,T,A,0.0156469,-0.346608,0.0750268,3.84138e-06,rs117447452,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+17,79331576,A,G,0.11978,0.131583,0.0286829,4.48556e-06,rs72849088,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+18,79470567,A,G,0.0101457,0.431567,0.0928063,3.31621e-06,rs117309233,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ
+19,43431486,T,C,0.0358383,0.228373,0.0499723,4.87731e-06,rs139392252,5773,3-(3-hydroxyphenyl)propionate sulfate levels,TRUE,reported,FKmPqQ

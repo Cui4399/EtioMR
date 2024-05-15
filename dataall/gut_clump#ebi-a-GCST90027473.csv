@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,71038802,-0.150857,0.0326449,3.81601e-06,7738,ebi-a-GCST90027473,rs75506401,C,T,0.0687763,GLUCONEO.PWY..gluconeogenesis.I,TRUE,reported,igd
+4,59288104,-0.0846938,0.0168551,5.03895e-07,7738,ebi-a-GCST90027473,rs10866460,T,C,0.393209,GLUCONEO.PWY..gluconeogenesis.I,TRUE,reported,igd
+14,32115228,0.1793,0.036777,1.08633e-06,7738,ebi-a-GCST90027473,rs77004407,A,C,0.0531697,GLUCONEO.PWY..gluconeogenesis.I,TRUE,reported,igd
+19,35175877,-0.19331,0.0361138,8.66024e-08,7738,ebi-a-GCST90027473,rs117665320,A,G,0.0631703,GLUCONEO.PWY..gluconeogenesis.I,TRUE,reported,igd

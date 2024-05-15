@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,137017711,rs1167852,T,A,-0.0622,5.994e-12,0.009041,35364,0.26379,IL20RA_IL_20_Ra,TRUE,reported,IL20RA_IL_20_Ra

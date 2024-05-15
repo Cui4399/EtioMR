@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,161432924,0.170761,0.0360083,2.11339e-06,7738,ebi-a-GCST90027605,rs72697193,T,C,0.114898,PWY.7003..glycerol.degradation.to.butanol,TRUE,reported,igd
+6,75293345,0.260292,0.0508447,3.06598e-07,7738,ebi-a-GCST90027605,rs72958820,T,C,0.0540698,PWY.7003..glycerol.degradation.to.butanol,TRUE,reported,igd
+8,50785702,0.245734,0.0455545,6.87955e-08,7738,ebi-a-GCST90027605,rs56059900,A,G,0.0657438,PWY.7003..glycerol.degradation.to.butanol,TRUE,reported,igd

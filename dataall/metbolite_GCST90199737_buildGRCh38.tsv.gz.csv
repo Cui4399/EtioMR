@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,18973132,T,C,0.0947736,0.175317,0.0282182,5.2013e-10,rs2518814,7100,N-acetylproline levels,TRUE,reported,vr2qwN

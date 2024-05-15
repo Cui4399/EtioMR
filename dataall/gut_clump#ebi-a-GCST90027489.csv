@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,34652075,-0.362288,0.0759395,1.83544e-06,7738,ebi-a-GCST90027489,rs111549352,C,T,0.0529533,METHGLYUT.PWY..superpathway.of.methylglyoxal.degradation,TRUE,reported,igd
+8,134963609,-0.340848,0.0732542,3.2722e-06,7738,ebi-a-GCST90027489,rs72727948,A,C,0.0622588,METHGLYUT.PWY..superpathway.of.methylglyoxal.degradation,TRUE,reported,igd
+11,61645967,0.219293,0.0447067,9.3362e-07,7738,ebi-a-GCST90027489,rs174453,G,C,0.173317,METHGLYUT.PWY..superpathway.of.methylglyoxal.degradation,TRUE,reported,igd
+17,50199900,0.267527,0.0500129,8.8367e-08,7738,ebi-a-GCST90027489,rs12601384,A,G,0.141719,METHGLYUT.PWY..superpathway.of.methylglyoxal.degradation,TRUE,reported,igd

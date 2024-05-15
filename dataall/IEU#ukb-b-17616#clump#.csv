@@ -1,0 +1,6 @@
+"se.exposure","samplesize.exposure","beta.exposure","pval.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000111207,462933,-0.000714352,1.29999e-10,"4",7887974,"ukb-b-17616","rs28715921","C","T",0.59814,"Treatment/medication code: xalatan 0.005% eye drops || id:ukb-b-17616",TRUE,"reported","igd"
+0.000110655,462933,-0.000608217,3.89996e-08,"9",107695848,"ukb-b-17616","rs2472493","A","G",0.557934,"Treatment/medication code: xalatan 0.005% eye drops || id:ukb-b-17616",TRUE,"reported","igd"
+0.00010987,462933,0.000629328,1e-08,"9",22036112,"ukb-b-17616","rs1008878","T","G",0.567102,"Treatment/medication code: xalatan 0.005% eye drops || id:ukb-b-17616",TRUE,"reported","igd"
+0.000111715,462933,0.000663267,2.90001e-09,"14",60847001,"ukb-b-17616","rs1254276","T","C",0.390234,"Treatment/medication code: xalatan 0.005% eye drops || id:ukb-b-17616",TRUE,"reported","igd"
+0.00011285,462933,-0.000635135,1.79999e-08,"17",10031183,"ukb-b-17616","rs9913911","G","A",0.376303,"Treatment/medication code: xalatan 0.005% eye drops || id:ukb-b-17616",TRUE,"reported","igd"

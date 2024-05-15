@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,49389237,rs55689129,AAGACCCCTGAAATCCAGCCAG,AAGACCCCCGAAATCCAGCCAG,-0.0516,1.174e-10,0.008009,35378,0.44411,DKKL1_Soggy_1,TRUE,reported,DKKL1_Soggy_1

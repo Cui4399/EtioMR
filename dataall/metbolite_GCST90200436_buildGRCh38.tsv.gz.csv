@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,56121640,T,A,0.110535,-0.126918,0.025103,4.28349e-07,rs17047499,8005,Caffeine levels,TRUE,reported,tJpTki
+2,114755923,G,A,0.0780249,-0.135111,0.0292374,3.81589e-06,rs17729212,8005,Caffeine levels,TRUE,reported,tJpTki
+4,120660993,C,T,0.182412,-0.0919477,0.0200996,4.77114e-06,rs12507590,8005,Caffeine levels,TRUE,reported,tJpTki
+6,139532654,T,C,0.0242382,-0.242334,0.0513804,2.39963e-06,rs150285070,8005,Caffeine levels,TRUE,reported,tJpTki
+6,150310633,A,G,0.125557,-0.110062,0.0239051,4.14198e-06,rs75517156,8005,Caffeine levels,TRUE,reported,tJpTki
+7,132520767,T,C,0.0246243,-0.263324,0.0510634,2.51213e-07,rs4728259,8005,Caffeine levels,TRUE,reported,tJpTki
+11,118634373,A,G,0.313915,-0.0801987,0.017031,2.48947e-06,rs645637,8005,Caffeine levels,TRUE,reported,tJpTki
+14,62528429,G,A,0.0321066,-0.207653,0.0446353,3.28368e-06,rs75565805,8005,Caffeine levels,TRUE,reported,tJpTki
+15,57361427,C,T,0.0124749,-0.346256,0.0706332,9.47865e-07,rs140021197,8005,Caffeine levels,TRUE,reported,tJpTki
+21,42705218,C,A,0.435688,-0.087151,0.0160402,5.53208e-08,rs2245730,8005,Caffeine levels,TRUE,reported,tJpTki
+22,48665557,C,T,0.153411,-0.10197,0.0220256,3.66336e-06,rs79404120,8005,Caffeine levels,TRUE,reported,tJpTki

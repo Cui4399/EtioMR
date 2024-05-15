@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,15632436,rs7206272,C,A,0.0787,1.742e-16,0.009553,35381,0.22061,NDE1_NDE1,TRUE,reported,NDE1_NDE1

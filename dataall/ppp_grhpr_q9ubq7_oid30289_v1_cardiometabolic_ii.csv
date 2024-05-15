@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+9,36863530,rs75966320,A,G,0.252579,3.58591507517175e-11,0.0381525,33942,0.0102496,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37389479,rs13300875,A,G,-0.0573335,9.22146665124265e-14,0.00769412,33942,0.414523,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37395946,rs62533850,G,A,-0.149663,2.54513017518282e-08,0.0268686,33942,0.0196512,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37422659,rs4878690,T,C,0.26902,1e-200,0.00798506,33942,0.326343,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37428581,rs41303225,T,C,-0.182354,7.5803629451655e-09,0.0315626,33942,0.0141123,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37489082,rs3758225,A,G,0.0835157,1.04039917705135e-20,0.00894954,33942,0.21997,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37530813,rs4354400,C,T,-0.119568,1.02188023688844e-12,0.0167756,33942,0.948446,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37602920,rs74426109,G,A,0.205354,1.37385215721084e-09,0.0338952,33942,0.013024,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,37661113,rs10973466,A,G,-0.0996922,3.94784415374954e-08,0.0181484,33942,0.0438496,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis
+9,38074530,rs78622592,C,A,0.0616823,9.04253086875286e-09,0.0107315,33942,0.144954,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,TRUE,reported,grhpr_q9ubq7_oid30289_v1_cardiometabolic_ii,chr9,37422434,cis

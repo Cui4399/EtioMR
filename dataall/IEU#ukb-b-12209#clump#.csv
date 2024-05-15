@@ -1,0 +1,6 @@
+"beta.exposure","se.exposure","chr.exposure","pos.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.0016518,0.000214108,"1",114173410,462933,1.20005e-14,"ukb-b-12209","rs1230666","G","A",0.852245,"Treatment/medication code: methotrexate || id:ukb-b-12209",TRUE,"reported","igd"
+0.00217593,0.000233558,"6",32461871,462933,1.20005e-20,"ukb-b-12209","rs112923147","G","A",0.219662,"Treatment/medication code: methotrexate || id:ukb-b-12209",TRUE,"reported","igd"
+0.00462301,0.000195565,"6",32583099,462933,1.49968e-123,"ukb-b-12209","rs6605556","G","A",0.185334,"Treatment/medication code: methotrexate || id:ukb-b-12209",TRUE,"reported","igd"
+-0.000920991,0.000151294,"6",33066594,462933,1.09999e-09,"ukb-b-12209","rs2894316","G","A",0.469828,"Treatment/medication code: methotrexate || id:ukb-b-12209",TRUE,"reported","igd"
+0.00151308,0.000156011,"6",32741487,462933,3.10027e-22,"ukb-b-12209","rs9276609","G","C",0.372094,"Treatment/medication code: methotrexate || id:ukb-b-12209",TRUE,"reported","igd"

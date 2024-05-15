@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46405089,A,C,0.212175,0.226748,0.0190987,1.64534e-32,rs324420,7591,N-oleoylserine levels,TRUE,reported,7xqFyr
+12,21208279,C,A,0.169704,0.203372,0.0207931,1.3625e-22,rs73063122,7591,N-oleoylserine levels,TRUE,reported,7xqFyr

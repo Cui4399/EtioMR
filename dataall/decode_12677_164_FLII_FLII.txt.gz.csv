@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,18261705,rs138865936,T,C,0.2508,1.024e-21,0.026195,35348,0.02428,FLII_FLII,TRUE,reported,FLII_FLII

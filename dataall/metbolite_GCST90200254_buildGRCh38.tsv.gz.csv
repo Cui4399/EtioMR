@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,156294857,T,C,0.106352,0.140763,0.0229274,8.27775e-10,rs1570805,8185,(S)-a-amino-omega-caprolactam levels,TRUE,reported,wE03D3
+11,113180763,G,A,0.0189556,-0.292046,0.0511374,1.12313e-08,rs118162901,8185,(S)-a-amino-omega-caprolactam levels,TRUE,reported,wE03D3
+16,68297987,A,G,0.718054,-0.0912402,0.0157196,6.46592e-09,rs2863979,8185,(S)-a-amino-omega-caprolactam levels,TRUE,reported,wE03D3

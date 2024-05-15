@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,131282664,0.0792971,0.0168695,2.5937e-06,7738,ebi-a-GCST90027642,rs13122223,A,T,0.36947,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+5,18250247,0.0747709,0.0161338,3.57956e-06,7738,ebi-a-GCST90027642,rs2962154,C,T,0.516585,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+7,110830388,-0.163478,0.0352828,3.59799e-06,7738,ebi-a-GCST90027642,rs16873261,C,G,0.058672,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+8,59481292,0.0832046,0.0176068,2.29303e-06,7738,ebi-a-GCST90027642,rs10094910,C,T,0.306622,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+10,103066893,-0.0795601,0.0172222,3.84424e-06,7738,ebi-a-GCST90027642,rs35450589,T,A,0.323876,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+15,98902733,-0.0888725,0.0182414,1.10456e-06,7738,ebi-a-GCST90027642,rs7182175,T,A,0.73131,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd
+18,3595011,0.0923448,0.0187529,8.46623e-07,7738,ebi-a-GCST90027642,rs2240899,C,G,0.552783,SER.GLYSYN.PWY..superpathway.of.L.serine.and.glycine.biosynthesis.I,TRUE,reported,igd

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61820833,G,A,0.346433,-0.413649,0.0154511,6.93663e-158,rs174564,8162,Arachidonate (20:4n6) to linoleate (18:2n6) ratio,TRUE,reported,BXMHO3
+16,15046800,G,A,0.30713,-0.101035,0.0166436,1.27514e-09,rs6498541,8162,Arachidonate (20:4n6) to linoleate (18:2n6) ratio,TRUE,reported,BXMHO3

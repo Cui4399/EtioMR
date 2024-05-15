@@ -1,0 +1,9 @@
+se.exposure,chr.exposure,pos.exposure,pval.exposure,samplesize.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.03572,22,42874781,3.97558e-23,3657,-0.3562,ebi-a-GCST90001712,rs2142827,A,G,0.1416,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.1043,22,40727723,8.26609e-14,3657,-0.7814,ebi-a-GCST90001712,rs118137006,C,A,0.015,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.06701,22,39876838,3.72735e-13,3657,-0.4887,ebi-a-GCST90001712,rs117086217,G,A,0.0343,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.05866,22,44395926,1.438e-08,3657,-0.3333,ebi-a-GCST90001712,rs142780018,A,G,0.0463,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.04459,22,42605548,7.61728e-49,3657,-0.6648,ebi-a-GCST90001712,rs5758649,T,C,0.0871,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.02906,22,44297686,1.19399e-26,3657,-0.313,ebi-a-GCST90001712,rs9614288,T,A,0.2346,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.03414,22,42315371,1e-200,3657,-1.461,ebi-a-GCST90001712,rs73165129,T,C,0.099,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd
+0.04729,22,43349884,3.88061e-38,3657,-0.6176,ebi-a-GCST90001712,rs75056525,A,G,0.0762,BAFF-R on IgD- CD38- B cell || id:ebi-a-GCST90001712,TRUE,reported,igd

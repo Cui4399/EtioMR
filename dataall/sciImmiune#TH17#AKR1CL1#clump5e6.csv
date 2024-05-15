@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",5333146,"rs12771527","G","C",7.20049892799e-07,-0.904507123336,0.18251204317671,89,"TH17#AKR1CL1",TRUE,"reported","AMiLCE",NA

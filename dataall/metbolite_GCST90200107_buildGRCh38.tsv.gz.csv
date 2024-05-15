@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,68278961,G,A,0.728248,0.0963073,0.0173669,2.93195e-08,rs9925773,8250,Gamma-glutamyl-alpha-lysine levels,TRUE,reported,ts6PWt
+22,37024849,T,C,0.0542739,-0.23204,0.0339889,8.67507e-12,rs60296118,8250,Gamma-glutamyl-alpha-lysine levels,TRUE,reported,ts6PWt

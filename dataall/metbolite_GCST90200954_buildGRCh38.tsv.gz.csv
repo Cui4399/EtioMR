@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,84955430,C,T,0.0599528,-0.254105,0.033706,4.74035e-14,rs55990066,7683,Cytidine to N-acetylneuraminate ratio,TRUE,reported,qyd9XU

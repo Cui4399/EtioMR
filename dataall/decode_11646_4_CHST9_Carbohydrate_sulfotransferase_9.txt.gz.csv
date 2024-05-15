@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,26819687,rs35072345,C,T,-0.107,6.481e-10,0.017319,35359,0.0577,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,26873649,rs117290778,A,G,-0.1554,1.581e-08,0.027492,35359,0.02245,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,26924940,rs2020157,T,G,-0.0968,1.853e-30,0.008439,35361,0.36592,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27107407,rs9953270,C,T,0.2596,1e-200,0.008573,35361,0.32985,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27238476,rs140656414,A,G,-0.1774,1.265e-10,0.027584,35360,0.02146,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27277604,rs16943430,A,G,0.1703,4.363e-22,0.017625,35358,0.05763,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27296565,rs11664582,A,G,0.1091,5.993e-13,0.015151,35358,0.07686,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27353942,rs117530995,T,C,0.1851,6.86e-17,0.022169,35360,0.03538,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9
+18,27626768,rs8094952,C,T,0.0539,3.971e-11,0.00816,35362,0.47205,CHST9_Carbohydrate_sulfotransferase_9,TRUE,reported,CHST9_Carbohydrate_sulfotransferase_9

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,150449701,0.211625,0.0386425,4.3388e-08,7738,ebi-a-GCST90027482,rs78778914,C,T,0.0527473,HISTSYN.PWY..L.histidine.biosynthesis,TRUE,reported,igd
+4,155007625,0.13034,0.0284145,4.4948e-06,7738,ebi-a-GCST90027482,rs10005886,G,T,0.0920829,HISTSYN.PWY..L.histidine.biosynthesis,TRUE,reported,igd
+10,53364281,-0.170832,0.036039,2.13501e-06,7738,ebi-a-GCST90027482,rs12098656,C,T,0.0596567,HISTSYN.PWY..L.histidine.biosynthesis,TRUE,reported,igd
+12,10563592,-0.0758565,0.016285,3.19191e-06,7738,ebi-a-GCST90027482,rs10772275,C,T,0.454918,HISTSYN.PWY..L.histidine.biosynthesis,TRUE,reported,igd
+14,29213100,-0.138166,0.0293574,2.52197e-06,7738,ebi-a-GCST90027482,rs7145596,T,C,0.0823276,HISTSYN.PWY..L.histidine.biosynthesis,TRUE,reported,igd

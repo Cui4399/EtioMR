@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,121657567,rs7666178,T,A,-0.0886,4.546e-24,0.008756,35353,0.28044,ANXA5_Annexin_V,TRUE,reported,ANXA5_Annexin_V
+4,121694605,rs9995591,A,G,0.2632,3.965e-64,0.015567,35353,0.06845,ANXA5_Annexin_V,TRUE,reported,ANXA5_Annexin_V
+4,121733165,rs3109091,T,C,-0.0943,2.494e-10,0.014904,35351,0.07517,ANXA5_Annexin_V,TRUE,reported,ANXA5_Annexin_V

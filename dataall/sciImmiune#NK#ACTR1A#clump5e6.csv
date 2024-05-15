@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",104635103,"rs12764899","G","A",4.09601473265e-06,0.726467672945,0.157706622551785,89,"NK#ACTR1A",TRUE,"reported","s383Iw",NA

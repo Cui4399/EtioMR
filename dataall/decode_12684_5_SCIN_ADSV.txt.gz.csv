@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,12566109,rs6460966,CG,CT,-0.0903,6.605e-29,0.008093,35359,0.46069,SCIN_ADSV,TRUE,reported,SCIN_ADSV

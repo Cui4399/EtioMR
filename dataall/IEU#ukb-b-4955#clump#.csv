@@ -1,0 +1,4 @@
+"samplesize.exposure","pos.exposure","se.exposure","pval.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+64941,151616105,0.0120341,4.60002e-10,"1",0.0750047,"ukb-b-4955","rs144388020","T","C",0.009216,"Dairy smoothie intake || id:ukb-b-4955",TRUE,"reported","igd"
+64941,159352024,0.0133672,1.2e-09,"6",0.0812926,"ukb-b-4955","rs6909603","A","C",0.008039,"Dairy smoothie intake || id:ukb-b-4955",TRUE,"reported","igd"
+64941,38042225,0.00868669,6.1e-09,"9",0.0504943,"ukb-b-4955","rs73646137","G","A",0.016962,"Dairy smoothie intake || id:ukb-b-4955",TRUE,"reported","igd"

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+10,91366170,rs147042664,T,A,0.123735,9.93207522001732e-10,0.0202496,33853,0.0337049,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,91398327,rs117471638,A,G,-0.147227,3.37217418955226e-09,0.0249016,33853,0.0214752,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,91461114,rs12775728,G,A,0.149029,2.55505351051327e-14,0.01956,33853,0.0372226,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,91572883,rs61874524,C,T,-0.0683247,1.11121987376873e-11,0.0100606,33853,0.81372,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,91717728,rs74535165,T,A,-0.148897,5.82907978867232e-12,0.0216301,33853,0.0288752,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,91898782,rs10748571,C,T,-0.352824,1e-200,0.00768785,33853,0.33022,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92318950,rs11817488,C,A,0.108433,3.08318795024936e-14,0.0142774,33853,0.0932622,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92339542,rs138188517,T,C,-0.242305,2.4797048987987e-18,0.0277459,33853,0.0184157,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92411326,rs7894946,G,A,0.127364,1.07473155424174e-65,0.00743999,33853,0.386257,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92465436,rs79133297,T,C,-0.114959,1.18467711758149e-12,0.0161751,33853,0.0528895,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92741369,rs117975154,T,C,0.158702,1.40896433504064e-08,0.0279785,33853,0.0170886,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis
+10,92762680,rs112572746,T,C,-0.0885736,6.83124717979293e-12,0.0129095,33853,0.0857491,fgfbp3_q8tat2_oid31108_v1_neurology_ii,TRUE,reported,fgfbp3_q8tat2_oid31108_v1_neurology_ii,chr10,91909501,cis

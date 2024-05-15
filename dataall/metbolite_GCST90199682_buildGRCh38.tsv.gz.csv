@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,39464094,G,A,0.740662,-0.0943027,0.0172638,4.69609e-08,rs4390625,7998,Homocitrulline levels,TRUE,reported,j08eRc
+19,32847167,C,T,0.14745,-0.256594,0.0212901,1.88715e-33,rs11667586,7998,Homocitrulline levels,TRUE,reported,j08eRc
+19,32851497,T,C,0.507921,-0.120814,0.0151785,1.72668e-15,rs200399858,7998,Homocitrulline levels,TRUE,reported,j08eRc
+19,32873722,T,C,0.606808,0.254197,0.0152966,5.17004e-62,rs8101881,7998,Homocitrulline levels,TRUE,reported,j08eRc

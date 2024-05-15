@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,2962264,rs737872,T,G,0.1754,1.047e-66,0.010166,35367,0.19152,NAP1L4_NAP2L,TRUE,reported,NAP1L4_NAP2L

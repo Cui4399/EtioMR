@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","chr.exposure","samplesize.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000106165,-0.000589634,"4",462933,2.80001e-08,111765495,"ukb-b-10272","rs6838973","T","C",0.433065,"Treatment/medication code: digoxin || id:ukb-b-10272",TRUE,"reported","igd"
+0.000109482,-0.00120143,"4",462933,5.10035e-28,111728614,"ukb-b-10272","rs13141190","G","A",0.64391,"Treatment/medication code: digoxin || id:ukb-b-10272",TRUE,"reported","igd"

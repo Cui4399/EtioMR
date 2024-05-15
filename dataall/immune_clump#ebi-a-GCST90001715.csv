@@ -1,0 +1,11 @@
+pos.exposure,pval.exposure,beta.exposure,chr.exposure,se.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+43339331,2.94578e-32,-0.5694,22,0.04769,3657,ebi-a-GCST90001715,rs146069723,T,C,0.0756,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+42874781,1.21591e-20,-0.3357,22,0.03582,3657,ebi-a-GCST90001715,rs2142827,A,G,0.1416,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+44297686,2.28613e-26,-0.3115,22,0.02909,3657,ebi-a-GCST90001715,rs9614288,T,A,0.2346,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+39641412,6.48903e-10,-0.3667,22,0.0592,3657,ebi-a-GCST90001715,rs13058590,T,C,0.0468,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+42605548,3.36899e-40,-0.6016,22,0.04478,3657,ebi-a-GCST90001715,rs5758649,T,C,0.0871,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+39876838,5.38642e-14,-0.5069,22,0.06712,3657,ebi-a-GCST90001715,rs117086217,G,A,0.0343,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+40727723,9.14324e-13,-0.7493,22,0.1045,3657,ebi-a-GCST90001715,rs118137006,C,A,0.015,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+44698304,2.90202e-09,-0.6487,22,0.109,3657,ebi-a-GCST90001715,rs189503542,A,T,0.0138,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+42315371,1e-200,-1.488,22,0.0339,3657,ebi-a-GCST90001715,rs73165129,T,C,0.099,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd
+41305795,1.2331e-18,-0.5177,22,0.05843,3657,ebi-a-GCST90001715,rs187315152,T,A,0.0535,BAFF-R on memory B cell || id:ebi-a-GCST90001715,TRUE,reported,igd

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,34739467,G,T,0.0249004,-0.227241,0.0496835,4.79007e-06,rs79417575,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+3,41773029,A,G,0.0180406,-0.285808,0.0575233,6.74515e-07,rs138959835,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+3,72344161,C,A,0.515588,0.07519,0.0156586,1.57221e-06,rs9815886,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+3,171812145,G,T,0.853592,0.104851,0.0219866,1.85273e-06,rs6792151,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+6,111051863,T,C,0.0142066,0.311907,0.0653698,1.82932e-06,rs144722112,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+7,1015946,G,T,0.484459,-0.071889,0.0154904,3.46918e-06,rs11971790,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+10,63344740,G,A,0.42726,0.0737316,0.0154492,1.81945e-06,rs7896518,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+11,44878875,GA,G,0.0215146,0.248137,0.0532771,3.20106e-06,rs200165871,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+12,116397262,A,G,0.144983,0.107491,0.0220458,1.08367e-06,rs10466932,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY
+15,45065212,G,T,0.876529,0.117756,0.0238246,7.70777e-07,rs2854437,8188,Adenosine 5'-monophosphate (AMP) to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,oSJ0MY

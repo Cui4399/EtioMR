@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,5886044,rs36054946,C,T,-0.2873,1.461e-16,0.034784,35371,0.01431,CHGB_SCG1,TRUE,reported,CHGB_SCG1

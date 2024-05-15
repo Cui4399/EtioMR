@@ -1,0 +1,4 @@
+"samplesize.exposure","chr.exposure","pos.exposure","beta.exposure","se.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+83529,"6",32561327,-0.00838711,0.00135425,5.92339e-10,"ukb-a-259","rs9270588","T","C",0.53094,"Bring up phlegm/sputum/mucus on most days || id:ukb-a-259",TRUE,"reported","igd"
+83529,"11",1113133,0.00853899,0.00145341,4.24082e-09,"ukb-a-259","rs10902094","A","G",0.6826,"Bring up phlegm/sputum/mucus on most days || id:ukb-a-259",TRUE,"reported","igd"
+83529,"19",49208978,0.00766531,0.00135834,1.67521e-08,"ukb-a-259","rs632111","G","A",0.533694,"Bring up phlegm/sputum/mucus on most days || id:ukb-a-259",TRUE,"reported","igd"

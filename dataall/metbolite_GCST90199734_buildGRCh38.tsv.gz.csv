@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,52444459,C,G,0.0119584,-0.396945,0.0858444,3.76409e-06,rs72764531,5782,Hyocholate levels,TRUE,reported,BmFbmp
+6,7204503,A,G,0.574537,0.0922803,0.0188518,9.82896e-07,rs9405331,5782,Hyocholate levels,TRUE,reported,BmFbmp
+7,123675168,A,G,0.115559,0.140451,0.0292856,1.61939e-06,rs12669002,5782,Hyocholate levels,TRUE,reported,BmFbmp
+8,8852949,A,T,0.0680682,0.189412,0.0381136,6.70682e-07,rs117640571,5782,Hyocholate levels,TRUE,reported,BmFbmp
+10,30651958,C,T,0.0110502,0.412204,0.0886732,3.34235e-06,rs138604147,5782,Hyocholate levels,TRUE,reported,BmFbmp
+16,4390396,C,G,0.749392,0.100446,0.0211267,1.98985e-06,rs4786487,5782,Hyocholate levels,TRUE,reported,BmFbmp
+16,5911092,G,C,0.0266163,0.268057,0.0580204,3.83657e-06,rs75929318,5782,Hyocholate levels,TRUE,reported,BmFbmp

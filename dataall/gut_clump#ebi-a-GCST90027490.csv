@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,116990217,0.0846475,0.0178187,2.02913e-06,7738,ebi-a-GCST90027490,rs11916439,T,C,0.304223,NAGLIPASYN.PWY..lipid.IVA.biosynthesis,TRUE,reported,igd
+6,24403039,-0.0837878,0.0180916,3.63362e-06,7738,ebi-a-GCST90027490,rs1321819,A,G,0.282419,NAGLIPASYN.PWY..lipid.IVA.biosynthesis,TRUE,reported,igd
+8,29233822,0.0820111,0.0177587,3.87284e-06,7738,ebi-a-GCST90027490,rs12677665,G,A,0.688302,NAGLIPASYN.PWY..lipid.IVA.biosynthesis,TRUE,reported,igd
+10,111524436,-0.0923156,0.0199879,3.86367e-06,7738,ebi-a-GCST90027490,rs2244670,A,T,0.208219,NAGLIPASYN.PWY..lipid.IVA.biosynthesis,TRUE,reported,igd
+21,35371782,0.0874062,0.0180324,1.2523e-06,7738,ebi-a-GCST90027490,rs2096694,T,C,0.296603,NAGLIPASYN.PWY..lipid.IVA.biosynthesis,TRUE,reported,igd

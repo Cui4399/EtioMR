@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",132316248,"rs4964927","C","T",6.28260817679e-08,0.770191714933,0.142349581123861,89,"B_CELL_NAIVE#RNU6-1017P",TRUE,"reported","duCjac",NA

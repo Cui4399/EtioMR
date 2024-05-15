@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,15581637,C,A,0.550523,-0.459947,0.0140263,1e-200,rs140527149,8144,4-guanidinobutanoate levels,TRUE,reported,CErtbq
+12,246676,T,C,0.545855,0.0903542,0.0151665,2.56147e-09,rs7969761,8144,4-guanidinobutanoate levels,TRUE,reported,CErtbq

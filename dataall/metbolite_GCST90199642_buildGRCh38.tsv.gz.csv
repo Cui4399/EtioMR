@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,45585381,A,G,0.0538338,-0.603321,0.0335227,2.04224e-72,rs72688441,8128,Ribitol levels,TRUE,reported,4ImNyP
+15,45031276,T,C,0.123722,-0.141262,0.0235479,1.98631e-09,rs72722075,8128,Ribitol levels,TRUE,reported,4ImNyP

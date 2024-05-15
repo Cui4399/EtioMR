@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,102854494,G,A,0.600341,-0.144273,0.0157831,6.18579e-20,rs937475,8228,Phenylalanine levels,TRUE,reported,AaWq8B

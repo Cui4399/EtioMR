@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.34967,0.104572,0.0172967,1.48694e-09,rs3811444,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+9,26001634,CT,C,0.0990533,-0.135891,0.0278489,1.0631e-06,rs199857577,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+13,18813958,T,G,0.0114203,-0.359113,0.0778233,3.94099e-06,rs144557514,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+13,65710704,T,C,0.298065,0.0953859,0.0180313,1.22299e-07,rs66959455,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+14,35012816,A,G,0.149849,-0.105987,0.0230512,4.26761e-06,rs810193,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+15,32906438,T,C,0.0549209,-0.182662,0.0361911,4.48466e-07,rs8026200,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+15,84014154,G,C,0.411557,0.0810817,0.0168539,1.50283e-06,rs2895953,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+15,97218494,A,G,0.290202,0.0851779,0.0186247,4.79929e-06,rs12441481,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+16,27186837,A,G,0.0650927,0.164671,0.034809,2.23747e-06,rs113481882,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+16,78724717,G,A,0.0147831,0.31891,0.0683383,3.06165e-06,rs72799097,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63
+17,50293588,C,T,0.0329837,0.225384,0.0463278,1.14461e-06,rs62060100,7296,Spermidine to pyruvate ratio,TRUE,reported,cBIp63

@@ -1,0 +1,5 @@
+"pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+97606672,-0.00431847,6.1e-09,461384,0.000742746,"3","ukb-b-7043","rs12637414","G","A",0.143489,"Mineral and other dietary supplements: Calcium || id:ukb-b-7043",TRUE,"reported","igd"
+65733836,0.00929022,1.2e-08,461384,0.00162903,"12","ukb-b-7043","rs112241441","T","C",0.02669,"Mineral and other dietary supplements: Calcium || id:ukb-b-7043",TRUE,"reported","igd"
+42951449,0.00314385,1.5e-09,461384,0.000519866,"13","ukb-b-7043","rs9533090","T","C",0.480522,"Mineral and other dietary supplements: Calcium || id:ukb-b-7043",TRUE,"reported","igd"
+4432973,0.00366138,1.50003e-12,461384,0.000517819,"19","ukb-b-7043","rs243372","A","G",0.516654,"Mineral and other dietary supplements: Calcium || id:ukb-b-7043",TRUE,"reported","igd"

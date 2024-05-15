@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,24461489,T,C,0.364894,0.076107,0.0164859,3.90294e-06,rs195721,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+1,64956975,C,T,0.0109876,0.367673,0.0761293,1.36818e-06,rs114806857,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+2,119036389,C,G,0.0282515,0.218907,0.0476593,4.36593e-06,rs72836171,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+2,148746780,A,G,0.0283706,-0.218408,0.0472223,3.74425e-06,rs80268353,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+2,218345162,C,G,0.0731628,-0.142512,0.0303397,2.63738e-06,rs73088173,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+2,227944103,A,G,0.302703,-0.080136,0.0173727,3.97357e-06,rs6737422,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+3,47209901,G,A,0.043566,0.184508,0.0383788,1.52791e-06,rs115141604,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+4,7926464,G,A,0.392852,-0.0744438,0.0162048,4.34962e-06,rs1320071,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+5,38120326,G,A,0.945348,-0.162272,0.0347671,3.05025e-06,rs2453328,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+7,77330498,G,A,0.300039,0.0784256,0.0170561,4.26363e-06,rs3750046,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM
+7,125823663,G,A,0.15043,-0.105177,0.0221652,2.08381e-06,rs6963314,7695,Glucose to sucrose ratio,TRUE,reported,jd5RgM

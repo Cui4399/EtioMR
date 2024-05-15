@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,34348912,-0.232995,0.0480959,1.27005e-06,7738,ebi-a-GCST90027800,rs1321631,G,A,0.0931154,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__Ruminococcus_callidus,TRUE,reported,igd
+1,222927951,-0.168061,0.0363491,3.77294e-06,7738,ebi-a-GCST90027800,rs35200886,A,G,0.173258,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__Ruminococcus_callidus,TRUE,reported,igd
+10,64396790,-0.158097,0.0331076,1.7949e-06,7738,ebi-a-GCST90027800,rs12098699,G,A,0.210189,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__Ruminococcus_callidus,TRUE,reported,igd

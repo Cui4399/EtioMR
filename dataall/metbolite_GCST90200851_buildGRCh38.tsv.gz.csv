@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.31006,-0.294617,0.0164582,1.161e-71,rs1047891,8195,Adenosine 5'-monophosphate (AMP) to glycine ratio,TRUE,reported,f8ZPgq

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,104751842,A,G,0.208868,-0.120348,0.0186145,1.01094e-10,rs10820721,8238,3-hydroxy-2-ethylpropionate levels,TRUE,reported,ngJyeL
+10,95096253,G,A,0.558642,0.129488,0.0154587,5.45942e-17,rs10786187,8238,3-hydroxy-2-ethylpropionate levels,TRUE,reported,ngJyeL

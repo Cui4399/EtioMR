@@ -1,0 +1,4 @@
+beta.exposure,samplesize.exposure,se.exposure,pos.exposure,pval.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.1948,3395,0.026,38920621,8.39267e-14,2,ebi-a-GCST90001572,rs6729180,T,C,0.3848,Terminally Differentiated CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001572,TRUE,reported,igd
+-0.2535,3395,0.03713,32584894,1.02991e-11,6,ebi-a-GCST90001572,rs508318,A,G,0.2022,Terminally Differentiated CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001572,TRUE,reported,igd
+-0.2671,3395,0.03751,32586382,1.30497e-12,6,ebi-a-GCST90001572,rs61126090,G,A,0.1973,Terminally Differentiated CD4-CD8- T cell Absolute Count || id:ebi-a-GCST90001572,TRUE,reported,igd

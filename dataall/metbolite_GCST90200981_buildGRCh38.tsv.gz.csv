@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,58301893,T,A,0.540532,-0.0867954,0.0157325,3.44905e-08,rs7813352,7939,Caffeine to linoleate (18:2n6) ratio,TRUE,reported,gtgxAW

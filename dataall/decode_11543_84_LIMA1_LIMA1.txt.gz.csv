@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,50279701,rs7967954,A,G,0.0595,1.051e-13,0.008003,35359,0.42293,LIMA1_LIMA1,TRUE,reported,LIMA1_LIMA1

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",48014480,"rs13151608","G","C",4.30429920405e-07,-0.875573083362,0.173209909072309,89,"CD8_NAIVE#NIPAL1",TRUE,"reported","nvSC1a",NA

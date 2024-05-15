@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62568551,C,T,0.340393,-0.12313,0.0159989,1.40219e-14,rs10789114,8271,1-palmitoyl-2-stearoyl-gpc (16:0/18:0) levels,TRUE,reported,bUU2Fv
+11,61814292,C,T,0.30787,-0.232056,0.0164792,4.91645e-45,rs174560,8271,1-palmitoyl-2-stearoyl-gpc (16:0/18:0) levels,TRUE,reported,bUU2Fv
+11,116778201,C,G,0.868874,-0.152957,0.0227725,1.85872e-11,rs964184,8271,1-palmitoyl-2-stearoyl-gpc (16:0/18:0) levels,TRUE,reported,bUU2Fv

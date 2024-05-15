@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,122310940,rs61871680,A,G,0.1095,7.104e-26,0.01041,35381,0.19538,HTRA1_HTRA1,TRUE,reported,HTRA1_HTRA1
+10,122443012,rs142468844,GACTACA,GACTAC,0.0743,2.596e-19,0.00827,35382,0.44647,HTRA1_HTRA1,TRUE,reported,HTRA1_HTRA1
+10,122566573,rs1810412,A,G,-0.1069,9.22e-11,0.016499,35378,0.06653,HTRA1_HTRA1,TRUE,reported,HTRA1_HTRA1

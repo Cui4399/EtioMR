@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,66080771,G,A,0.349581,-0.100284,0.0198686,4.48026e-07,rs12474197,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+2,118809860,A,G,0.839447,-0.130077,0.0261138,6.3205e-07,rs1898707,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+5,56419740,G,C,0.6706,0.0950278,0.0202609,2.72923e-06,rs286018,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+5,174750559,A,G,0.206534,0.115722,0.0233184,6.95211e-07,rs879815,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+7,5279756,A,G,0.318308,-0.0942161,0.0206287,4.94191e-06,rs10279978,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+8,83020759,G,A,0.793959,-0.11378,0.0238503,1.83699e-06,rs1375791,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+9,70583398,A,T,0.0265291,-0.277871,0.0586787,2.18556e-06,rs113281912,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+9,118450871,T,C,0.0985422,0.151638,0.032398,2.86207e-06,rs7022505,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+11,126756308,G,A,0.603235,-0.090111,0.0195248,3.92722e-06,rs1946084,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+15,39533395,T,C,0.557787,0.088027,0.0192655,4.8968e-06,rs11070219,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+15,62130745,G,C,0.15748,0.125215,0.0263605,2.03324e-06,rs8043403,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+17,33970264,C,G,0.267599,0.105057,0.0222949,2.45087e-06,rs11656324,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+19,16305846,T,A,0.266854,-0.107849,0.0216224,6.10594e-07,rs73016721,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+20,39620206,C,T,0.0201695,0.344135,0.0670826,2.89701e-07,rs115343247,5440,N-methyltaurine levels,TRUE,reported,OZMicW
+22,36685763,T,C,0.121942,-0.142643,0.0294418,1.26668e-06,rs2284011,5440,N-methyltaurine levels,TRUE,reported,OZMicW

@@ -1,0 +1,4 @@
+"pval.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.30398e-09,0.00832209,0.0488866,23205,42547623,"8","ukb-a-342","rs6987704","C","T",0.796678,"Number of cigarettes currently smoked daily (current cigarette smokers) || id:ukb-a-342",TRUE,"reported","igd"
+2.44287e-29,0.00702664,0.0791253,23205,78806023,"15","ukb-a-342","rs8034191","C","T",0.334227,"Number of cigarettes currently smoked daily (current cigarette smokers) || id:ukb-a-342",TRUE,"reported","igd"
+7.32656e-19,0.00668724,0.0593656,23205,41353107,"19","ukb-a-342","rs56113850","C","T",0.577736,"Number of cigarettes currently smoked daily (current cigarette smokers) || id:ukb-a-342",TRUE,"reported","igd"

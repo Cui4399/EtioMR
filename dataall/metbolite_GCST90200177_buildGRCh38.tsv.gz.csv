@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,70736005,C,T,0.0226038,-0.262185,0.0570891,4.37833e-06,rs79188300,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+2,164331298,CT,C,0.0505117,-0.181071,0.0387415,2.9563e-06,rs148745220,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+2,203694389,G,A,0.0201016,-0.280476,0.0599957,2.94035e-06,rs78467544,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+8,34849206,C,T,0.0168963,-0.333829,0.0653772,3.28707e-07,rs74319599,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+8,138811374,T,C,0.742743,0.10315,0.0200868,2.81808e-07,rs9693739,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+11,3499250,G,A,0.121153,-0.119596,0.0261105,4.64112e-06,rs140920938,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+15,34709893,A,G,0.0902879,0.152247,0.0292083,1.86367e-07,rs28501211,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+19,7572513,A,G,0.0123331,0.359318,0.0760805,2.3255e-06,rs78223725,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9
+20,12509509,G,C,0.0398732,-0.2016,0.042897,2.60636e-06,rs763987,6902,N-methylhydroxyproline levels,TRUE,reported,DRUFM9

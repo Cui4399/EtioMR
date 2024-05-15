@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,106631214,rs11211830,T,C,0.0588,2.368e-08,0.010533,35359,0.18282,AASDHPPT_ADPPT,TRUE,reported,AASDHPPT_ADPPT

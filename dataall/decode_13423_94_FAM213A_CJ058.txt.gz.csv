@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,80436305,rs10887871,G,A,-0.0928,4.59e-32,0.007874,35362,0.44209,FAM213A_CJ058,TRUE,reported,FAM213A_CJ058

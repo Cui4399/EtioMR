@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",227586685,"rs3014275","C","T",5.81375810424e-08,-0.850649634222,0.156818058351811,89,"TH2#CDC42BPA",TRUE,"reported","TarJUI",NA

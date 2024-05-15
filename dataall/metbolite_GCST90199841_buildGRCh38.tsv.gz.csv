@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309605,0.0922583,0.0165756,2.60808e-08,rs1047891,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+10,99840980,A,C,0.0591019,-0.47499,0.0320607,1.1664e-49,rs112344408,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+10,100126891,C,T,0.0169306,0.383146,0.0596738,1.35675e-10,rs189017081,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+11,63372563,T,C,0.686291,-0.0988197,0.016438,1.83614e-09,rs510547,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+11,110376121,A,T,0.316907,0.183286,0.0164934,1.08891e-28,rs2724417,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+12,20979253,G,A,0.0535064,0.322557,0.0335272,6.53491e-22,rs7306128,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+12,20979640,G,A,0.0535064,0.322557,0.0335272,6.53491e-22,rs11829410,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+12,21162039,T,A,0.715103,0.232217,0.0169158,6.9232e-43,rs4762697,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+12,21178615,C,T,0.156072,0.611847,0.019827,1e-200,rs4149056,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9
+13,103065958,T,C,0.0473965,0.210053,0.0360898,5.87446e-09,rs55971546,8250,Glycocholenate sulfate levels,TRUE,reported,csWLU9

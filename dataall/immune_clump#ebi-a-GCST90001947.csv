@@ -1,0 +1,5 @@
+beta.exposure,se.exposure,pos.exposure,pval.exposure,chr.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.4272,0.06754,52097261,3.28799e-10,19,1577,ebi-a-GCST90001947,rs58301181,G,C,0.0843,CD33 on CD33+ HLA DR+ CD14dim || id:ebi-a-GCST90001947,TRUE,reported,igd
+-0.326,0.04234,51574038,2.42996e-14,19,1577,ebi-a-GCST90001947,rs7351079,G,A,0.2613,CD33 on CD33+ HLA DR+ CD14dim || id:ebi-a-GCST90001947,TRUE,reported,igd
+0.288,0.03704,51588018,1.35114e-14,19,1577,ebi-a-GCST90001947,rs62114147,T,C,0.5568,CD33 on CD33+ HLA DR+ CD14dim || id:ebi-a-GCST90001947,TRUE,reported,igd
+-1.214,0.03655,51727962,7.8343e-184,19,1577,ebi-a-GCST90001947,rs3865444,A,C,0.1934,CD33 on CD33+ HLA DR+ CD14dim || id:ebi-a-GCST90001947,TRUE,reported,igd

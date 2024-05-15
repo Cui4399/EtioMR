@@ -1,0 +1,3 @@
+"pos.exposure","samplesize.exposure","chr.exposure","beta.exposure","se.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+105366561,463010,"1",0.000986201,0.000174023,1.5e-08,"ukb-b-18629","rs74855440","A","G",0.192348,"Diagnoses - main ICD10: N20.1 Calculus of ureter || id:ukb-b-18629",TRUE,"reported","igd"
+37818871,463010,"21",-0.000865789,0.000140687,7.59994e-10,"ukb-b-18629","rs2776288","G","A",0.374107,"Diagnoses - main ICD10: N20.1 Calculus of ureter || id:ukb-b-18629",TRUE,"reported","igd"

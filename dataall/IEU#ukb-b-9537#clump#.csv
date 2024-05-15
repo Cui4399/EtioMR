@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","beta.exposure","pos.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+6.4998e-12,463010,0.00276372,89017961,0.000402414,"11","ukb-b-9537","rs1126809","A","G",0.304061,"Operative procedures - main OPCS: S06.9 Unspecified other excision of lesion of skin || id:ukb-b-9537",TRUE,"reported","igd"
+2.70023e-14,463010,0.00513551,89795360,0.000674728,"16","ukb-b-9537","rs79139787","T","C",0.089875,"Operative procedures - main OPCS: S06.9 Unspecified other excision of lesion of skin || id:ukb-b-9537",TRUE,"reported","igd"
+1e-14,463010,-0.00486681,33690010,0.000629331,"20","ukb-b-9537","rs4911466","T","C",0.902267,"Operative procedures - main OPCS: S06.9 Unspecified other excision of lesion of skin || id:ukb-b-9537",TRUE,"reported","igd"

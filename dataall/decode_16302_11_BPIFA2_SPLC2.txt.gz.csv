@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,33225117,rs3818222,A,G,-0.0768,7.002e-21,0.008193,35367,0.4925,BPIFA2_SPLC2,TRUE,reported,BPIFA2_SPLC2

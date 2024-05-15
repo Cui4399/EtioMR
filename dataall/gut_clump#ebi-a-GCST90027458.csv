@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,7727245,0.226024,0.049242,4.43098e-06,7738,ebi-a-GCST90027458,rs112209173,C,G,0.063751,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd
+9,101261111,0.108725,0.023115,2.55558e-06,7738,ebi-a-GCST90027458,rs56301029,C,G,0.316134,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd
+10,25767497,0.204076,0.0446233,4.80098e-06,7738,ebi-a-GCST90027458,rs1621183,G,A,0.0696815,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd
+15,86053697,0.101402,0.0218724,3.55132e-06,7738,ebi-a-GCST90027458,rs35899940,G,A,0.382337,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd
+18,59520360,0.106916,0.0214352,6.10478e-07,7738,ebi-a-GCST90027458,rs7229834,T,C,0.470799,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd
+21,38885506,0.190762,0.0409712,3.22419e-06,7738,ebi-a-GCST90027458,rs17193211,T,C,0.0746269,CRNFORCAT.PWY..creatinine.degradation.I,TRUE,reported,igd

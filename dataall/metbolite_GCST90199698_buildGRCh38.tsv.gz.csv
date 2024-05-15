@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88314718,G,C,0.352048,0.106097,0.0163475,8.57719e-11,rs28504259,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ
+6,160093251,G,A,0.074915,-0.397805,0.0286752,9.26033e-44,rs80254170,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ
+6,160143444,G,C,0.174911,-0.426307,0.0197773,4.72082e-103,rs662138,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ
+10,59708831,T,G,0.769799,0.143846,0.0186464,1.21539e-14,rs1171616,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ
+11,134271204,T,C,0.0276081,0.775156,0.0463532,8.94066e-63,rs7111570,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ
+17,75359688,T,C,0.7305,0.101579,0.0173281,4.57168e-09,rs4350602,8243,Isobutyrylcarnitine (c4) levels,TRUE,reported,h1mTwJ

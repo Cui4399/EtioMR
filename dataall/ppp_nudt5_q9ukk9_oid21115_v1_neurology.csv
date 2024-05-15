@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+10,12202080,rs10508438,A,G,0.0614984,1.0577913224995e-14,0.00795365,33687,0.335603,nudt5_q9ukk9_oid21115_v1_neurology,TRUE,reported,nudt5_q9ukk9_oid21115_v1_neurology,chr10,12196144,cis

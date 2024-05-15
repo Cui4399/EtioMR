@@ -1,0 +1,3 @@
+"pos.exposure","se.exposure","samplesize.exposure","chr.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32607666,0.000115554,462933,"6",0.000998455,5.60015e-18,"ukb-b-16956","rs9272602","A","G",0.474773,"Treatment/medication code: thyroxine sodium || id:ukb-b-16956",TRUE,"reported","igd"
+31349819,0.000110183,462933,"6",0.000679076,7.10003e-10,"ukb-b-16956","rs9266721","A","C",0.592634,"Treatment/medication code: thyroxine sodium || id:ukb-b-16956",TRUE,"reported","igd"

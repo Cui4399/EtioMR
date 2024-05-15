@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,113026568,rs145071104,A,G,-0.2739,4.127e-14,0.036245,34879,0.01321,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113100671,rs9577463,GTTTGTTTGTTTGTTTGTTTG,TTTTGTTTGTTTGTTTGTTTG,-0.0765,1.268e-19,0.008441,34870,0.40834,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113135954,rs3211757,AC,AT,0.1489,1.28e-70,0.008381,34867,0.42623,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113155872,rs7335409,C,T,0.1613,1.142e-43,0.01164,34865,0.15048,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113249479,rs61967872,T,C,0.1994,1.068e-10,0.030881,34866,0.01859,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113376488,rs9549758,A,G,-0.0507,1.87e-09,0.008438,34861,0.41425,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X
+13,113817976,rs117471230,T,G,0.1212,2.23e-08,0.021669,34860,0.03902,F10_Coagulation_Factor_X,TRUE,reported,F10_Coagulation_Factor_X

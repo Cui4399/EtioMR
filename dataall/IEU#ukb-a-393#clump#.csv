@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",1.41889e-09,0.0109327,0.0661917,49610,179725237,"ukb-a-393","rs151041685","T","G",0.0881883,"Maximum heart rate during fitness test || id:ukb-a-393",TRUE,"reported","igd"
+"6",4.26973e-14,0.0103463,0.0781631,49610,122110346,"ukb-a-393","rs1012020","G","A",0.0980044,"Maximum heart rate during fitness test || id:ukb-a-393",TRUE,"reported","igd"
+"12",3.38626e-10,0.00835403,-0.0524738,49610,2177546,"ukb-a-393","rs7314860","A","G",0.170972,"Maximum heart rate during fitness test || id:ukb-a-393",TRUE,"reported","igd"

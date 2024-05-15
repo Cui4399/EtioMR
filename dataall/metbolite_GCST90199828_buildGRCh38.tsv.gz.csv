@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,52078217,A,C,0.0107169,0.489725,0.0707077,4.32749e-12,rs148804382,8217,N-acetylserine levels,TRUE,reported,B32tcw
+4,76490938,T,G,0.524137,0.0876834,0.0144351,1.24508e-09,rs13146163,8217,N-acetylserine levels,TRUE,reported,B32tcw

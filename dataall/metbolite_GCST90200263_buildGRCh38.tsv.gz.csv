@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,4125421,G,A,0.315962,0.15819,0.016168,1.31698e-22,rs659305,8124,(2 or 3)-decenoate (10:1n7 or n8) levels,TRUE,reported,apfhVl
+14,73569796,T,C,0.0214954,-0.306001,0.0519616,3.88588e-09,rs146968042,8124,(2 or 3)-decenoate (10:1n7 or n8) levels,TRUE,reported,apfhVl
+14,73573432,A,G,0.0293248,-0.345378,0.0444053,7.37651e-15,rs151154986,8124,(2 or 3)-decenoate (10:1n7 or n8) levels,TRUE,reported,apfhVl

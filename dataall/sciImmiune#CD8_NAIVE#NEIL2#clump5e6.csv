@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"8",11630915,"rs804263","C","T",2.62627184515e-09,0.727199927439,0.122148661024295,89,"CD8_NAIVE#NEIL2",TRUE,"reported","4Bcan5",NA

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,40695110,C,T,0.0503919,-0.174598,0.0378897,4.06438e-06,rs115067905,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+2,214632448,T,C,0.209862,0.0915193,0.0200273,4.88337e-06,rs75001382,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+5,24335146,C,T,0.0440979,-0.183347,0.0396392,3.7388e-06,rs78499230,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+5,52688213,T,C,0.017144,-0.293497,0.0623481,2.50907e-06,rs78538024,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+5,68627631,A,G,0.0905831,0.130005,0.0284417,4.85525e-06,rs17324835,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+5,148559962,G,C,0.0127406,0.356812,0.0727542,9.3739e-07,rs144745734,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+6,54906289,C,T,0.0111607,-0.359957,0.0774901,3.39742e-06,rs115151170,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+12,100375417,T,C,0.0139544,0.317191,0.0694699,4.97425e-06,rs140230552,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+14,78041119,A,G,0.117623,-0.115585,0.0251784,4.41876e-06,rs28889073,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+15,74735539,T,C,0.250875,0.103927,0.0186847,2.66451e-08,rs2472297,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+17,35429981,A,T,0.141769,0.107886,0.0234391,4.16838e-06,rs12940181,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G
+21,39317658,T,C,0.0232448,0.246707,0.0537827,4.49422e-06,rs144745463,7446,3-hydroxy-2-methylpyridine sulfate levels,TRUE,reported,aH7a2G

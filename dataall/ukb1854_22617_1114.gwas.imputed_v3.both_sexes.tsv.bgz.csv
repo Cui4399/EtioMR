@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+91149,0.0104222,0.00220272,2.23158e-06,"2",163806032,"A","G","rs62168947",0.988177,0.026926,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,0.0184492,0.00382299,1.39621e-06,"2",218140687,"A","T","rs72955691",0.825322,0.00983128,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,0.0167245,0.0035499,2.46537e-06,"3",64064027,"C","T","rs115853942",0.934085,0.01072,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,-0.00332058,0.00071538,3.46037e-06,"4",12990873,"T","A","rs6823448",0.970202,0.497551,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,0.00350598,0.000718656,1.07064e-06,"11",100044328,"C","A","rs1808354",0.964557,0.534275,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,0.0147635,0.00308709,1.73532e-06,"17",39871238,"T","G","rs79715822",1,0.0129819,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"
+91149,0.0118336,0.00247312,1.71357e-06,"18",824293,"C","T","rs8087043",0.991877,0.0204613,2125,"Job SOC coding: Senior officials of special interest organisations",TRUE,"reported","wFpZz2","Occupation","ukb1854"

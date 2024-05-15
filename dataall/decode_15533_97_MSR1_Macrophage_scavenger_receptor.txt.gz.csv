@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,15811971,rs10111516,T,C,-0.2455,2.961e-16,0.030031,35365,0.02048,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,15848286,rs78993928,T,C,-0.1491,1.315e-12,0.021022,35361,0.04126,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,15912656,rs79187056,CGGAGAGAGAGAGAGAGAGGTTATGTGTGTGTGTGTGTGTGTGTG,CGGAGAGAGAGAGAGAGAGGTTATATGTGTGTGTGTGTGTGTGTG,-0.2691,1.946e-14,0.035157,35365,0.01433,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16074325,rs77886010,T,C,-0.4316,4.739e-11,0.065604,35368,0.00388,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16083323,rs79873677,G,C,0.1741,3.165e-13,0.023891,35369,0.03153,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16115440,rs11990499,C,T,0.1651,1.472e-23,0.016504,35367,0.07018,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16150874,rs142358476,ACACACACACACACACATGCG,ACACACACACACATGCG,-0.0965,3.194e-27,0.00893,35366,0.33147,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16200030,rs59251421,T,C,-0.4024,2.578e-113,0.017787,35368,0.05883,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16205526,rs145734953,C,T,0.1574,1.251e-18,0.017866,35368,0.05688,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16335047,rs10640130,TACACACACAC,TAC,-0.0898,2.048e-17,0.010576,35367,0.19884,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16425428,rs76393968,A,G,-1.2235,2.569e-146,0.047498,35368,0.00786,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16556987,rs17583220,C,T,-0.1247,1.936e-48,0.008526,35370,0.39366,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16812813,rs146686900,T,C,-0.2913,7.173e-19,0.032833,35367,0.01613,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,16895781,rs116846581,C,G,-0.3861,9.729e-10,0.063152,35362,0.0043,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor
+8,17134431,rs55780565,TTTTGTTTGTTTGTTTGTTTGTTTGTTTGTTTGTTTGTTTGA,TTTTGTTTGTTTGTTTGTTTGTTTGTTTGTTTGA,-0.2027,1.841e-10,0.031801,35370,0.01734,MSR1_Macrophage_scavenger_receptor,TRUE,reported,MSR1_Macrophage_scavenger_receptor

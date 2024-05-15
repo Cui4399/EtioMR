@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,10627561,0.0959472,0.0208734,4.29388e-06,7738,ebi-a-GCST90027451,rs12490065,A,G,0.22917,ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis,TRUE,reported,igd
+5,86146362,0.0922389,0.01946,2.13801e-06,7738,ebi-a-GCST90027451,rs113902391,A,G,0.217886,ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis,TRUE,reported,igd
+9,6703997,-0.0946927,0.0169759,2.43198e-08,7738,ebi-a-GCST90027451,rs820496,A,C,0.545733,ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis,TRUE,reported,igd
+13,81167981,0.102021,0.0204183,5.83674e-07,7738,ebi-a-GCST90027451,rs9545502,T,C,0.197933,ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis,TRUE,reported,igd
+18,865459,0.0802031,0.0173136,3.6151e-06,7738,ebi-a-GCST90027451,rs2846765,T,C,0.515201,ASPASN.PWY..superpathway.of.L.aspartate.and.L.asparagine.biosynthesis,TRUE,reported,igd

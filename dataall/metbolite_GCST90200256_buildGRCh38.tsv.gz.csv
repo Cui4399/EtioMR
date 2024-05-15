@@ -1,0 +1,18 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,160568011,A,G,0.31688,0.0781429,0.0168139,3.35963e-06,rs56040770,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+5,146353949,A,G,0.112641,-0.115844,0.0247775,2.93435e-06,rs79781690,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+5,170073993,T,C,0.0311026,0.220189,0.0451715,1.09084e-06,rs74592396,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+6,92246564,T,C,0.128015,0.111311,0.0235484,2.27951e-06,rs4145131,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+6,149289626,T,C,0.294051,0.0819904,0.0178497,4.36151e-06,rs9498294,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+7,18205015,A,G,0.176118,0.106912,0.0208649,2.99123e-07,rs2731555,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+9,106466061,G,A,0.0105309,0.357229,0.0774202,3.94696e-06,rs76805761,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+10,120434065,CCT,C,0.0600866,0.157066,0.0330023,1.94304e-06,rs139716239,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+12,12833612,T,A,0.27335,-0.0837766,0.0178764,2.77995e-06,rs61913648,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+12,63086199,C,T,0.0721778,0.15161,0.0305059,6.70046e-07,rs75200236,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+12,99088206,T,C,0.0154799,0.312296,0.0631885,7.72089e-07,rs112627509,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+14,85858313,A,C,0.0115142,0.336012,0.072296,3.35626e-06,rs186840448,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+16,62749394,C,T,0.510237,0.0741375,0.0157826,2.63464e-06,rs16965102,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+16,74217375,C,T,0.0416615,0.18605,0.0392704,2.16176e-06,rs192747010,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+20,10382835,C,T,0.285652,0.0860598,0.0174402,8.03293e-07,rs6039897,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+20,51862632,C,T,0.815753,-0.0932304,0.0202609,4.19472e-06,rs6067977,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe
+21,45122770,T,C,0.0113665,0.347499,0.0728453,1.83883e-06,rs118109808,8099,Dibutyl sulfosuccinate levels,TRUE,reported,6sH2qe

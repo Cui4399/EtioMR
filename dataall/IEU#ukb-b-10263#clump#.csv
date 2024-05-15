@@ -1,0 +1,4 @@
+"pval.exposure","pos.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.2e-08,82019665,463010,0.000228653,"2",-0.00126474,"ukb-b-10263","rs6717916","C","T",0.639308,"Operative procedures - secondary OPCS: Y80.9 Unspecified general anaesthetic || id:ukb-b-10263",TRUE,"reported","igd"
+3.50002e-09,170650661,463010,0.000220645,"2",0.00130354,"ukb-b-10263","rs13010558","G","A",0.505093,"Operative procedures - secondary OPCS: Y80.9 Unspecified general anaesthetic || id:ukb-b-10263",TRUE,"reported","igd"
+8.30004e-09,32767113,463010,0.000325196,"19",0.00187362,"ukb-b-10263","rs242567","G","A",0.130764,"Operative procedures - secondary OPCS: Y80.9 Unspecified general anaesthetic || id:ukb-b-10263",TRUE,"reported","igd"

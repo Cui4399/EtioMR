@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,76659003,rs1320646,C,T,-0.0693,8.37e-14,0.009284,35379,0.26846,LRRC32_LRC32,TRUE,reported,LRRC32_LRC32

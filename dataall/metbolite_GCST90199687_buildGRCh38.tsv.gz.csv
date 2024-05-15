@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,139350290,G,T,0.0304893,-0.293756,0.0441641,2.90219e-11,rs62381620,8151,Threonate levels,TRUE,reported,2V0qRO

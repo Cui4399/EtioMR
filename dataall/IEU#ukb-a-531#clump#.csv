@@ -1,0 +1,5 @@
+"se.exposure","pos.exposure","samplesize.exposure","beta.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00100422,68708867,337199,0.00584385,"1",5.91575e-09,"ukb-a-531","rs146408037","A","C",0.00246442,"Diagnoses - main ICD10: I10 Essential (primary) hypertension || id:ukb-a-531",TRUE,"reported","igd"
+0.000603658,78582897,337199,0.00384054,"3",1.99265e-10,"ukb-a-531","rs144425491","A","G",0.00666669,"Diagnoses - main ICD10: I10 Essential (primary) hypertension || id:ukb-a-531",TRUE,"reported","igd"
+0.000138381,141088570,337199,0.000768526,"5",2.79905e-08,"ukb-a-531","rs75558191","T","C",0.135287,"Diagnoses - main ICD10: I10 Essential (primary) hypertension || id:ukb-a-531",TRUE,"reported","igd"
+0.000331904,62054244,337199,0.00182496,"12",3.83425e-08,"ukb-a-531","rs141878088","T","C",0.0226884,"Diagnoses - main ICD10: I10 Essential (primary) hypertension || id:ukb-a-531",TRUE,"reported","igd"

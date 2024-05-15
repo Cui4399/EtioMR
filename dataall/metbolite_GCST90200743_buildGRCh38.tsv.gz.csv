@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,131577068,C,T,0.159638,0.170614,0.0206533,1.44641e-16,rs2246012,8192,Arginine to citrulline ratio,TRUE,reported,MGr6TU
+8,17561952,A,G,0.0254123,-0.324371,0.0488857,3.23884e-11,rs56335308,8192,Arginine to citrulline ratio,TRUE,reported,MGr6TU
+9,130452448,A,G,0.679398,0.102833,0.0164202,3.78591e-10,rs1615006,8192,Arginine to citrulline ratio,TRUE,reported,MGr6TU
+10,98374279,T,C,0.592396,-0.0960709,0.0156746,8.83954e-10,rs7096654,8192,Arginine to citrulline ratio,TRUE,reported,MGr6TU

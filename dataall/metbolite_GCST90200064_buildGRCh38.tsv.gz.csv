@@ -1,0 +1,18 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.668239,0.0777375,0.0165316,2.57178e-06,rs1168041,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+4,89290258,T,C,0.0696955,0.140672,0.0300536,2.85865e-06,rs76520868,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+7,151746041,T,G,0.102027,-0.11745,0.0257042,4.89391e-06,rs35969034,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+8,5661177,A,G,0.098607,-0.124694,0.025811,1.35814e-06,rs10503319,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+8,61744263,T,A,0.0281923,0.236122,0.0463785,3.5581e-07,rs35757774,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+9,34117712,T,C,0.160751,0.0977751,0.0207949,2.57776e-06,rs10971934,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+9,87836562,T,A,0.593004,-0.0771269,0.0158205,1.0875e-06,rs7024580,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+9,105984901,T,C,0.0151275,0.332354,0.0627018,1.15451e-07,rs116915583,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+11,86656249,G,A,0.167383,0.109608,0.020678,1.15369e-07,rs61904301,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+11,91723705,T,C,0.39621,-0.0796201,0.0159924,6.40365e-07,rs2697073,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+11,116778201,C,G,0.868904,-0.131994,0.022685,5.93581e-09,rs964184,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+14,63765668,A,G,0.164217,-0.112155,0.020647,5.57236e-08,rs17101394,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+17,37712966,A,G,0.0216293,0.250722,0.0528935,2.13589e-06,rs112271315,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+18,69751727,A,G,0.0430338,0.176435,0.0381067,3.65612e-06,rs75398805,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+19,13933474,A,G,0.0611538,-0.150581,0.0327268,4.20149e-06,rs2305778,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+19,44908822,T,C,0.0831098,0.135645,0.0277775,1.04338e-06,rs7412,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj
+20,34845826,G,A,0.358134,0.0853821,0.0159987,9.45906e-08,rs55845370,8208,N-palmitoyl-sphinganine (d18:0/16:0) levels,TRUE,reported,bE69aj

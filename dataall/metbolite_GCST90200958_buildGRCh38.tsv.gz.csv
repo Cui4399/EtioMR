@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,170010689,C,G,0.0435886,0.231307,0.0503591,4.36621e-06,rs35540647,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+2,140538324,A,G,0.0635304,-0.192758,0.042032,4.51833e-06,rs35804355,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+2,234191055,C,A,0.0290046,0.294771,0.0612205,1.47267e-06,rs80332390,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+4,31309559,T,G,0.0499889,0.224659,0.0471836,1.92268e-06,rs114175471,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+6,10989709,A,G,0.170951,0.125361,0.0273361,4.51968e-06,rs12195587,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+7,119632797,A,G,0.172567,-0.124443,0.0270302,4.14727e-06,rs10236510,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+10,122384116,T,C,0.0687761,-0.203941,0.040147,3.77745e-07,rs77506352,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+12,1612638,T,C,0.717133,0.10736,0.0227442,2.3544e-06,rs4765831,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+16,4812786,C,T,0.145368,-0.144348,0.0289225,6.01088e-07,rs112036394,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+17,54661426,G,A,0.84292,0.143085,0.0286467,5.88846e-07,rs10468503,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+21,42119054,T,C,0.0506371,-0.224729,0.0467741,1.55094e-06,rs76209394,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78
+22,47566825,T,G,0.0141665,-0.398632,0.0872883,4.95126e-06,rs79369357,4560,Adenosine 5'-diphosphate (ADP) to choline ratio,TRUE,reported,reZx78

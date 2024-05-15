@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,87360805,G,A,0.923445,-0.165904,0.0287679,8.07031e-09,rs2406753,8198,Succinate to trans-4-hydroxyproline ratio,TRUE,reported,9uVeIv

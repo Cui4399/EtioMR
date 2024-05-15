@@ -1,0 +1,7 @@
+"chr.exposure","pos.exposure","pval.exposure","samplesize.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",199891438,1.0539e-10,30245,0.0480518,0.00743688,"ukb-a-351","rs6670899","A","C",0.397193,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"
+"2",227781150,1.03727e-09,30245,0.0445272,0.00729297,"ukb-a-351","rs10186145","G","A",0.508797,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"
+"8",25248615,1.72385e-11,30245,0.0560627,0.00832995,"ukb-a-351","rs13261573","A","G",0.249164,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"
+"11",30226528,1.14762e-39,30245,0.13515,0.0102396,"ukb-a-351","rs11031006","A","G",0.143581,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"
+"11",2146053,2.47988e-08,30245,-0.0453302,0.00812928,"ukb-a-351","rs4929958","C","T",0.723951,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"
+"15",67378033,4.80485e-08,30245,0.040376,0.00739517,"ukb-a-351","rs11856909","G","A",0.595153,"Length of menstrual cycle || id:ukb-a-351",TRUE,"reported","igd"

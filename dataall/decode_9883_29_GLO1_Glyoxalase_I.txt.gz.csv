@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,37772428,rs6458023,T,G,0.5876,1.412e-11,0.086966,35363,0.0025,GLO1_Glyoxalase_I,TRUE,reported,GLO1_Glyoxalase_I
+6,38613629,rs79058690,AAA,TAA,0.0931,2.438e-16,0.011356,35363,0.15141,GLO1_Glyoxalase_I,TRUE,reported,GLO1_Glyoxalase_I
+6,38697164,rs9462450,C,T,-0.1615,7.422e-29,0.014488,35363,0.08733,GLO1_Glyoxalase_I,TRUE,reported,GLO1_Glyoxalase_I
+6,38758639,rs9357282,C,T,-0.0599,7.779e-11,0.009209,35362,0.26357,GLO1_Glyoxalase_I,TRUE,reported,GLO1_Glyoxalase_I

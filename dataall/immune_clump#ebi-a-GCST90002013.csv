@@ -1,0 +1,4 @@
+chr.exposure,pval.exposure,pos.exposure,beta.exposure,samplesize.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,2.75398e-09,161557154,0.2363,2870,0.03961,ebi-a-GCST90002013,rs2169052,C,T,0.1476,CCR2 on myeloid Dendritic Cell || id:ebi-a-GCST90002013,TRUE,reported,igd
+1,2.58583e-37,161515326,-0.4101,2870,0.03167,ebi-a-GCST90002013,rs55971447,T,C,0.2369,CCR2 on myeloid Dendritic Cell || id:ebi-a-GCST90002013,TRUE,reported,igd
+3,7.75354e-13,46259296,-0.4223,2870,0.05867,ebi-a-GCST90002013,rs35587265,G,A,0.0624,CCR2 on myeloid Dendritic Cell || id:ebi-a-GCST90002013,TRUE,reported,igd

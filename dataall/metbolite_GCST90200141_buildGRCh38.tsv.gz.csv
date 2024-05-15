@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,4724790,T,C,0.0337241,-0.230948,0.0473881,1.09618e-06,rs4554693,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+2,105924350,T,C,0.0941588,-0.138203,0.0294038,2.59936e-06,rs7576413,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+2,235918447,C,T,0.357607,0.0864458,0.0179691,1.50318e-06,rs7572513,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+3,32844944,G,T,0.468214,0.0799549,0.0173557,4.08845e-06,rs57546471,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+3,69365044,G,A,0.0218227,0.271049,0.0587174,3.90907e-06,rs79325776,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+3,175862513,G,T,0.106327,0.131571,0.0278694,2.34711e-06,rs34191913,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+4,168006685,A,G,0.0631547,-0.16434,0.0353724,3.38457e-06,rs35162819,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+5,105168678,T,A,0.197951,0.105087,0.021329,8.35116e-07,rs10042017,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+6,53694529,A,G,0.364552,-0.0834235,0.0180563,3.83374e-06,rs12660664,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+7,155666196,G,A,0.010223,0.430093,0.0863223,6.27984e-07,rs144094744,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+8,62363004,G,T,0.0275299,0.238806,0.0521886,4.74357e-06,rs116923340,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+12,8123836,T,C,0.985997,-0.361097,0.0729928,7.53599e-07,rs7295783,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+12,22905981,G,A,0.380952,0.089537,0.0176783,4.08841e-07,rs2433640,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+13,41545706,C,T,0.0769638,-0.156364,0.0319081,9.56096e-07,rs12429969,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+14,87810040,A,G,0.089012,0.140305,0.0300683,3.06815e-06,rs117314683,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO
+20,8718872,C,T,0.178601,-0.109562,0.0233677,2.7507e-06,rs17446308,6620,Ethyl alpha-glucopyranoside levels,TRUE,reported,sYIFVO

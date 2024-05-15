@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","beta.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+117727,2.00037e-09,0.0126252,0.00210481,"6",31326175,"ukb-d-20441","rs2523598","T","G",0.666969,"Ever had prolonged loss of interest in normal activities || id:ukb-d-20441",TRUE,"reported","igd"
+117727,5.86894e-09,-0.0597738,0.0102689,"7",26048343,"ukb-d-20441","rs73089485","T","C",0.00990435,"Ever had prolonged loss of interest in normal activities || id:ukb-d-20441",TRUE,"reported","igd"

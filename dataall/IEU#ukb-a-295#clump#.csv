@@ -1,0 +1,4 @@
+"chr.exposure","beta.exposure","pval.exposure","se.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",0.00651476,2.55476e-08,0.00116969,32608998,334053,"ukb-a-295","rs34763586","C","T",0.192371,"Chest pain or discomfort || id:ukb-a-295",TRUE,"reported","igd"
+"10",0.00495066,4.81371e-08,0.000907016,119344435,334053,"ukb-a-295","rs10749244","C","T",0.602508,"Chest pain or discomfort || id:ukb-a-295",TRUE,"reported","igd"
+"15",0.00822979,9.28945e-09,0.00143292,52360346,334053,"ukb-a-295","rs36046047","C","A",0.108434,"Chest pain or discomfort || id:ukb-a-295",TRUE,"reported","igd"

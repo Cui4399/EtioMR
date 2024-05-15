@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,36219608,T,C,0.0239655,0.344649,0.0502748,7.11586e-12,rs138373837,8250,Lysine levels,TRUE,reported,qn2Rk0
+8,49082409,G,T,0.538358,0.12435,0.0154543,8.53419e-16,rs1876717,8250,Lysine levels,TRUE,reported,qn2Rk0
+16,68278961,G,A,0.728491,0.168922,0.0172095,9.6447e-23,rs9925773,8250,Lysine levels,TRUE,reported,qn2Rk0
+22,37024849,T,C,0.0543953,-0.232116,0.0338236,6.76367e-12,rs60296118,8250,Lysine levels,TRUE,reported,qn2Rk0

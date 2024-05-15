@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,171109864,T,G,0.417303,0.0869797,0.0148823,5.08083e-09,rs16864042,8157,Hypotaurine to taurine ratio,TRUE,reported,D6QMed
+4,138098202,T,C,0.326988,-0.101912,0.0155118,5.03278e-11,rs1982203,8157,Hypotaurine to taurine ratio,TRUE,reported,D6QMed
+5,115713487,T,C,0.531169,-0.0805733,0.0145036,2.76977e-08,rs1366463,8157,Hypotaurine to taurine ratio,TRUE,reported,D6QMed

@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,234191055,C,A,0.0292455,0.319919,0.0610081,1.57243e-07,rs80332390,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+3,118600849,T,C,0.0756615,-0.18117,0.0382793,2.21394e-06,rs78479492,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+3,144021887,G,A,0.404445,-0.0988718,0.0205672,1.5302e-06,rs6786284,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+7,119632797,A,G,0.171844,-0.141919,0.0270807,1.60068e-07,rs10236510,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+8,16856688,C,T,0.588547,-0.100321,0.0209771,1.73204e-06,rs10503585,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+8,26932905,C,T,0.0200305,0.350425,0.0723269,1.26602e-06,rs74754867,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+10,11975968,C,A,0.0679039,-0.196834,0.0408247,1.42528e-06,rs72777711,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+10,122384116,T,C,0.0690367,-0.21797,0.0401176,5.53295e-08,rs77506352,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+12,60314450,CT,C,0.461377,0.0977508,0.0208518,2.76048e-06,rs5798535,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+13,41453253,T,C,0.106381,0.168735,0.0335172,4.7964e-07,rs12583707,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+13,83396878,G,T,0.0184216,0.366082,0.0765657,1.7419e-06,rs117739522,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+14,95335809,A,G,0.166117,-0.127465,0.0278303,4.64778e-06,rs11849211,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+16,4812786,C,T,0.145264,-0.134682,0.0289585,3.30572e-06,rs112036394,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+17,54661426,G,A,0.843236,0.142125,0.0286565,7.06297e-07,rs10468503,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+18,75472023,C,T,0.333297,-0.101614,0.0219552,3.68751e-06,rs3213876,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs
+22,26498297,C,T,0.932379,-0.193125,0.0409911,2.4605e-06,rs5761565,4608,Adenosine 5'-diphosphate (ADP) to valine ratio,TRUE,reported,YX0jfs

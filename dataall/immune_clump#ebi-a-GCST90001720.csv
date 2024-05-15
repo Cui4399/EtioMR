@@ -1,0 +1,9 @@
+beta.exposure,pos.exposure,pval.exposure,se.exposure,samplesize.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.4832,40629980,7.94511e-21,0.05131,3655,22,ebi-a-GCST90001720,rs1894588,T,C,0.0622,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-1.385,42315371,1e-200,0.03524,3655,22,ebi-a-GCST90001720,rs73165129,T,C,0.099,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-0.4046,43393437,1.32404e-28,0.03616,3655,22,ebi-a-GCST90001720,rs5759079,A,G,0.1406,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+0.2113,39843409,5.84386e-16,0.026,3655,22,ebi-a-GCST90001720,rs5757678,T,C,0.6419,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-0.6734,41957510,2.03704e-24,0.06556,3655,22,ebi-a-GCST90001720,rs117705111,A,G,0.0365,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-0.6664,40246055,1.93821e-17,0.07803,3655,22,ebi-a-GCST90001720,rs76146864,T,C,0.0264,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-0.4717,42525756,1.85994e-25,0.0449,3655,22,ebi-a-GCST90001720,rs1081003,A,G,0.0873,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd
+-0.4771,40774205,1.72584e-16,0.05763,3655,22,ebi-a-GCST90001720,rs149806587,G,A,0.0525,BAFF-R on transitional B cell || id:ebi-a-GCST90001720,TRUE,reported,igd

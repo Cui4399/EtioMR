@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,7541174,rs140157839,C,G,-0.117496,3.35482599881463e-09,0.01987,33825,0.0265733,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7647275,rs55954306,T,C,0.0578257,4.09166434829046e-11,0.00876051,33825,0.147148,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7692867,rs62110731,A,C,-0.0773883,5.22997966182154e-29,0.00692331,33825,0.277069,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7706268,rs113607124,T,C,0.17009,6.08415122291709e-12,0.0247308,33825,0.0178895,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7707287,rs4804774,C,G,-0.413514,1e-200,0.00754895,33825,0.23677,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7728748,rs150301323,A,T,0.237861,3.5034828830157e-19,0.0265719,33825,0.0167531,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7735262,rs11673689,C,T,0.256566,1e-200,0.00624215,33825,0.543736,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7751660,rs4804805,G,A,-0.073549,1.36993512158625e-28,0.00663074,33825,0.323503,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7769096,rs1045997,T,C,-0.100142,3.62242998416697e-34,0.00821675,33825,0.170835,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7791183,rs8102423,T,C,0.129999,1.63493315112983e-12,0.0184069,33825,0.0297457,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis
+19,7904462,rs41284492,G,C,0.0928081,3.4476248310666e-08,0.0168221,33825,0.035838,cd209_q9nnx6_oid20262_v1_cardiometabolic,TRUE,reported,cd209_q9nnx6_oid20262_v1_cardiometabolic,chr19,7747609,cis

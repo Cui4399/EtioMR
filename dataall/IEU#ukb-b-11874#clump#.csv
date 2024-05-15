@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","pos.exposure","beta.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",2.5e-08,1080927,0.000972395,0.000174441,463010,"ukb-b-11874","rs4512588","C","T",0.384114,"Diagnoses - secondary ICD10: M06.99 Rheumatoid arthritis, unspecified (Site unspecified) || id:ukb-b-11874",TRUE,"reported","igd"
+"6",9.49948e-65,32582577,0.00213886,0.000125877,463010,"ukb-b-11874","rs3104415","C","A",0.337981,"Diagnoses - secondary ICD10: M06.99 Rheumatoid arthritis, unspecified (Site unspecified) || id:ukb-b-11874",TRUE,"reported","igd"
+"6",1.80011e-29,32615945,0.00145753,0.000129276,463010,"ukb-b-11874","rs17612712","T","A",0.41709,"Diagnoses - secondary ICD10: M06.99 Rheumatoid arthritis, unspecified (Site unspecified) || id:ukb-b-11874",TRUE,"reported","igd"

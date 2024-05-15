@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.310004,-0.0975934,0.0159272,8.92775e-10,rs1047891,8261,5-methylthioadenosine (MTA) to phosphate ratio,TRUE,reported,DuDEg2
+6,42951484,C,T,0.580273,0.0903349,0.0148411,1.15195e-09,rs9471975,8261,5-methylthioadenosine (MTA) to phosphate ratio,TRUE,reported,DuDEg2
+6,149588355,T,C,0.306899,-0.114751,0.0157678,3.39874e-13,rs9322188,8261,5-methylthioadenosine (MTA) to phosphate ratio,TRUE,reported,DuDEg2
+6,160143444,G,C,0.175365,-0.12591,0.0193196,7.16357e-11,rs662138,8261,5-methylthioadenosine (MTA) to phosphate ratio,TRUE,reported,DuDEg2

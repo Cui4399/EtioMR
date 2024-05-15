@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,76499468,rs512269,C,T,0.0759,1.09e-17,0.008863,35343,0.27539,RFK_RIFK,TRUE,reported,RFK_RIFK
+9,76634348,rs116114894,G,A,0.1046,3.116e-08,0.018899,35343,0.04507,RFK_RIFK,TRUE,reported,RFK_RIFK
+9,76698613,rs591411,T,C,0.129,3.566e-44,0.009253,35343,0.23986,RFK_RIFK,TRUE,reported,RFK_RIFK

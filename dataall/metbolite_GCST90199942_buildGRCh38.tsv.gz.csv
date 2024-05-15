@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,125713404,G,C,0.0395054,0.222522,0.0400753,2.81433e-08,rs370994899,7905,Dimethyl sulfone levels,TRUE,reported,QBuS3O
+11,79887756,G,A,0.0147077,0.384832,0.0640372,1.86089e-09,rs79603699,7905,Dimethyl sulfone levels,TRUE,reported,QBuS3O

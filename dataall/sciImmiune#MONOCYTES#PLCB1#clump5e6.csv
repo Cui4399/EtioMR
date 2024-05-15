@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"20",8392262,"rs1237071","G","T",5.12858657841e-08,-0.817287557088,0.150049293333352,89,"Classical monocyte#PLCB1",TRUE,"reported","SdWIyS",NA

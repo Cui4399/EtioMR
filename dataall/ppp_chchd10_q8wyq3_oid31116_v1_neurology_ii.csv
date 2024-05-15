@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+22,23907429,rs5751766,C,A,-0.0613607,3.50590383932612e-18,0.007058,33853,0.586182,chchd10_q8wyq3_oid31116_v1_neurology_ii,TRUE,reported,chchd10_q8wyq3_oid31116_v1_neurology_ii,chr22,23767972,cis

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,154592769,0.207054,0.0413744,5.60377e-07,7738,ebi-a-GCST90027814,rs10276776,A,G,0.0554953,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__Bilophila_wadsworthia,TRUE,reported,igd
+7,147419683,-0.0938038,0.02019,3.38345e-06,7738,ebi-a-GCST90027814,rs11768363,C,T,0.640847,k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__Bilophila_wadsworthia,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,102574375,rs230539,A,G,-0.0657,2.597e-15,0.008307,35343,0.35127,NFKB1_NF_kappa_B_p105,TRUE,reported,NFKB1_NF_kappa_B_p105

@@ -1,0 +1,6 @@
+"pval.exposure","samplesize.exposure","pos.exposure","beta.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.19989e-32,461046,32618190,0.00509133,0.00042972,"6","ukb-b-3599","rs185774696","T","C",0.296721,"Never eat eggs, dairy, wheat, sugar: Wheat products || id:ukb-b-3599",TRUE,"reported","igd"
+1.50003e-32,461046,32519791,0.00613647,0.000516636,"6","ukb-b-3599","rs36020935","T","G",0.199675,"Never eat eggs, dairy, wheat, sugar: Wheat products || id:ukb-b-3599",TRUE,"reported","igd"
+3.50026e-40,461046,32604198,0.0120034,0.000904652,"6","ukb-b-3599","rs78933533","A","G",0.06572,"Never eat eggs, dairy, wheat, sugar: Wheat products || id:ukb-b-3599",TRUE,"reported","igd"
+3.69828e-148,461046,32628428,0.0123508,0.000476448,"6","ukb-b-3599","rs2854275","A","C",0.146173,"Never eat eggs, dairy, wheat, sugar: Wheat products || id:ukb-b-3599",TRUE,"reported","igd"
+1.39991e-47,461046,32632200,0.00656279,0.000452886,"6","ukb-b-3599","rs141127771","A","G",0.259608,"Never eat eggs, dairy, wheat, sugar: Wheat products || id:ukb-b-3599",TRUE,"reported","igd"

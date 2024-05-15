@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,54995710,rs2112940,T,G,-0.0758,6.862e-13,0.010554,35363,0.19021,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55003769,rs72764150,G,A,0.1809,2.044e-12,0.025727,35363,0.02662,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55194599,rs466438,C,T,0.1149,1.209e-11,0.016949,35362,0.06506,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55241505,rs113121863,T,C,0.2316,5.575e-09,0.039732,35363,0.01049,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55476031,rs112131726,G,T,-0.1373,8.919e-13,0.019213,35363,0.04916,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55498010,rs4865609,TCAATGGA,GCAATGGA,-0.0787,8.082e-18,0.009153,35362,0.2974,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55924516,rs7728232,A,G,0.0875,7.495e-24,0.008689,35362,0.35662,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55970684,rs7730934,A,G,0.3693,1.376e-188,0.012608,35361,0.12361,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,55976257,rs1063560,C,G,-0.1969,8.684e-09,0.034216,35361,0.01386,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,56146375,rs77366057,T,C,0.0771,1.702e-14,0.01005,35359,0.21703,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,56160370,rs151090048,G,C,-0.1752,9.495e-18,0.02042,35360,0.04238,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,56239189,rs111379648,A,G,-0.2353,2.727e-15,0.029774,35362,0.0195,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble
+5,56324866,rs67298230,A,G,0.0827,2.219e-08,0.014784,35364,0.08579,IL6ST_gp130__soluble,TRUE,reported,IL6ST_gp130__soluble

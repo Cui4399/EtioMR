@@ -1,0 +1,4 @@
+"pval.exposure","pos.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.09996e-10,161089307,463010,0.000214074,"6",0.0013381,"ukb-b-1744","rs56393506","T","C",0.171301,"Operative procedures - secondary OPCS: Y02.2 Insertion of prosthesis into organ NOC || id:ukb-b-1744",TRUE,"reported","igd"
+4.20001e-08,12903957,463010,0.000161043,"6",0.000882769,"ukb-b-1744","rs9349379","G","A",0.405488,"Operative procedures - secondary OPCS: Y02.2 Insertion of prosthesis into organ NOC || id:ukb-b-1744",TRUE,"reported","igd"
+8.10028e-13,22072638,463010,0.000158566,"9",0.00113521,"ukb-b-1744","rs9632885","A","G",0.481824,"Operative procedures - secondary OPCS: Y02.2 Insertion of prosthesis into organ NOC || id:ukb-b-1744",TRUE,"reported","igd"

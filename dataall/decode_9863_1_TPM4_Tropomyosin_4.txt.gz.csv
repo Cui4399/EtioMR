@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,16085954,rs8104011,A,G,-0.244,4.965e-17,0.029091,35363,0.01898,TPM4_Tropomyosin_4,TRUE,reported,TPM4_Tropomyosin_4

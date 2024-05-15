@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,144058338,G,T,0.0830773,0.241753,0.0373642,9.78886e-11,rs3935209,4570,Adenosine 5'-diphosphate (ADP) to 5-oxoproline ratio,TRUE,reported,VU2RD4

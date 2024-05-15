@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,124736367,G,A,0.177823,-0.635252,0.0188653,1e-200,rs16835929,8128,Orotate levels,TRUE,reported,UyOztc
+7,33041902,G,A,0.294963,-0.341496,0.0164847,2.48525e-95,rs4316067,8128,Orotate levels,TRUE,reported,UyOztc
+22,50528485,C,T,0.61057,0.0874342,0.0158691,3.59418e-08,rs470119,8128,Orotate levels,TRUE,reported,UyOztc

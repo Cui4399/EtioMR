@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,70415987,T,C,0.0103061,0.917097,0.075582,6.99288e-34,rs28941785,8014,Cystathionine levels,TRUE,reported,hqqDBj
+19,32911901,C,T,0.201051,0.11527,0.0190321,1.39e-09,rs12608955,8014,Cystathionine levels,TRUE,reported,hqqDBj

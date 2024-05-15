@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,6113667,T,C,0.286409,0.108159,0.0190248,1.3068e-08,rs12186252,7063,Eugenol sulfate levels,TRUE,reported,NKhtrz
+7,45352517,A,C,0.0541649,0.223814,0.0369964,1.45198e-09,rs112575821,7063,Eugenol sulfate levels,TRUE,reported,NKhtrz

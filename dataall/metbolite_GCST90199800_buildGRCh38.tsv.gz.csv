@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88301675,T,C,0.460619,-0.12351,0.01553,1.82011e-15,rs7678928,8097,Carnitine C5:1 levels,TRUE,reported,oVMoyC

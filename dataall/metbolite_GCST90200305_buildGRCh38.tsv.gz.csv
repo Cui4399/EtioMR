@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,64993776,C,T,0.430517,0.165412,0.0154725,1.12461e-26,rs2160387,8242,2-aminobutyrate levels,TRUE,reported,5RwSWF
+4,88322666,T,C,0.448686,-0.122581,0.0156743,5.26012e-15,rs10022462,8242,2-aminobutyrate levels,TRUE,reported,5RwSWF

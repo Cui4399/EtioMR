@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,65235626,rs78007650,A,G,-0.122253,4.9750792135144e-12,0.0177018,33693,0.0490228,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65439065,rs142935509,T,C,0.145896,2.04376049418189e-09,0.0243391,33693,0.0249433,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65458349,rs114403972,G,A,-0.0824614,3.99024902362143e-16,0.0101318,33693,0.169507,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65521993,rs1171277,A,G,0.142945,1.3658405430725e-48,0.00975794,33693,0.175163,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65540814,rs76467619,A,G,-0.146858,4.85869905558327e-10,0.0235969,33693,0.0252945,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65608299,rs10399687,T,C,-0.276043,1.66341265037018e-173,0.00983018,33693,0.171112,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65646117,rs150111309,G,C,0.241656,1.7230584105672e-20,0.0260455,33693,0.0249651,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis
+1,65694771,rs6588157,T,C,0.229254,3.60578643021641e-31,0.0197438,33693,0.0408944,lepr_p48357_oid20128_v1_cardiometabolic,TRUE,reported,lepr_p48357_oid20128_v1_cardiometabolic,chr1,65420651,cis

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,181477189,C,G,0.0419725,0.254451,0.0522178,1.09983e-06,rs587449,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+2,64257521,T,C,0.0403101,-0.250456,0.0521205,1.54501e-06,rs377077993,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+2,183494626,T,C,0.0121816,0.432547,0.0924776,2.9066e-06,rs142856816,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+2,239672054,G,A,0.322139,0.104272,0.0220598,2.28113e-06,rs4852102,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+3,114439871,G,T,0.0552614,-0.214875,0.046019,3.02284e-06,rs79237419,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+3,130914962,A,G,0.0115207,0.444139,0.0962703,3.96032e-06,rs141856445,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+5,82418644,T,C,0.943127,0.20248,0.0443384,4.95452e-06,rs224945,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+9,23110427,C,G,0.755172,-0.113326,0.024745,4.65544e-06,rs10738651,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+11,13806805,T,C,0.613228,-0.102,0.0211662,1.44278e-06,rs2083631,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+11,62465111,G,T,0.960165,0.257931,0.0564801,4.95335e-06,rs2509958,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg
+18,75640379,C,T,0.172846,0.127081,0.0275962,4.1244e-06,rs2011040,4566,Adenosine 5'-diphosphate (ADP) to mannitol to sorbitol ratio,TRUE,reported,qYYyRg

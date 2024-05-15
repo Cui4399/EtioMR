@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,111847338,A,G,0.0226355,-0.261258,0.0558891,2.9456e-06,rs77170495,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+1,177105662,T,C,0.0558372,0.17108,0.036335,2.4965e-06,rs74814187,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+2,63805607,T,A,0.236154,-0.0928174,0.0199288,3.20155e-06,rs78833617,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+2,210675783,A,C,0.308613,-0.0983073,0.0181647,6.23273e-08,rs1047891,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+2,234775130,A,G,0.0704968,0.153881,0.0324942,2.18344e-06,rs72617195,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+3,26871093,C,T,0.042935,0.196208,0.0425577,4.01927e-06,rs17226693,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+4,180133072,A,G,0.0118632,-0.362367,0.0774935,2.92389e-06,rs148362754,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+7,128730139,G,A,0.20417,0.0985992,0.020837,2.22408e-06,rs339067,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+8,130538711,A,T,0.142476,-0.116745,0.0246696,2.21956e-06,rs9642893,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+10,13246802,C,G,0.0535173,0.170726,0.0372437,4.56104e-06,rs11258289,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+11,61850697,G,A,0.160343,0.116049,0.0226645,3.05051e-07,rs61897795,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+12,130912400,A,C,0.0201074,-0.285262,0.060101,2.07091e-06,rs35852777,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+14,100904755,A,G,0.0219484,0.265693,0.0575893,3.95797e-06,rs138097664,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+15,40296801,G,A,0.22816,0.0977531,0.019936,9.42194e-07,rs2229691,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+16,15053481,T,A,0.302155,-0.0939073,0.0183417,3.0573e-07,rs4985149,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz
+20,19067434,G,A,0.0502165,-0.177151,0.0382884,3.71414e-06,rs77895405,6954,Dihomo-linolenoyl-choline levels,TRUE,reported,GKkeWz

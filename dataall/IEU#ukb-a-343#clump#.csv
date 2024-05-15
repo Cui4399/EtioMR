@@ -1,0 +1,4 @@
+"beta.exposure","se.exposure","samplesize.exposure","chr.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.0820155,0.0131709,23265,"9",136485598,4.83537e-10,"ukb-a-343","rs7867984","A","G",0.223978,"Time from waking to first cigarette || id:ukb-a-343",TRUE,"reported","igd"
+-0.095876,0.0113371,23265,"15",78806023,2.90737e-17,"ukb-a-343","rs8034191","C","T",0.334227,"Time from waking to first cigarette || id:ukb-a-343",TRUE,"reported","igd"
+0.0791575,0.0136884,23265,"20",61992005,7.43926e-09,"ukb-a-343","rs11697662","T","C",0.815605,"Time from waking to first cigarette || id:ukb-a-343",TRUE,"reported","igd"

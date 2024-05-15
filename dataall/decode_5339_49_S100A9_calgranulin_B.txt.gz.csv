@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,153365467,rs3014874,A,G,-0.0537,1.035e-08,0.00938,35360,0.25791,S100A9_calgranulin_B,TRUE,reported,S100A9_calgranulin_B

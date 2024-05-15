@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151873174,C,G,0.605298,0.11876,0.0152413,6.59772e-15,rs2338201,8244,Dodecadienoate (12:2) levels,TRUE,reported,2ZfGap
+6,4125707,G,A,0.315031,0.0889172,0.0161566,3.72406e-08,rs660560,8244,Dodecadienoate (12:2) levels,TRUE,reported,2ZfGap
+14,73569796,T,C,0.0214303,-0.370281,0.0517045,7.98123e-13,rs146968042,8244,Dodecadienoate (12:2) levels,TRUE,reported,2ZfGap
+14,73573432,A,G,0.0295118,-0.604805,0.0437026,1.48015e-43,rs151154986,8244,Dodecadienoate (12:2) levels,TRUE,reported,2ZfGap
+16,2248696,A,G,0.148718,0.162427,0.0211176,1.45361e-14,rs11644358,8244,Dodecadienoate (12:2) levels,TRUE,reported,2ZfGap

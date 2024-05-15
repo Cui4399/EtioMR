@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+30871,0.0505979,0.01048,1.38529e-06,"3",65737640,"C","T","rs58698366",0.965825,0.177644,NA,"Cancer year/age first occurred",TRUE,"reported","nBCbj8","Neoplasms","ukb1300"
+30871,-0.0376857,0.00805064,2.8659e-06,"4",124424381,"G","GTC","rs10639623",0.98376,0.567136,NA,"Cancer year/age first occurred",TRUE,"reported","nBCbj8","Neoplasms","ukb1300"
+30871,0.04319,0.00885513,1.08027e-06,"7",150454505,"T","C","rs12673713",0.954225,0.298718,NA,"Cancer year/age first occurred",TRUE,"reported","nBCbj8","Neoplasms","ukb1300"
+30871,-0.0373118,0.00796397,2.81044e-06,"13",84139880,"G","T","rs4441157",0.993215,0.509931,NA,"Cancer year/age first occurred",TRUE,"reported","nBCbj8","Neoplasms","ukb1300"

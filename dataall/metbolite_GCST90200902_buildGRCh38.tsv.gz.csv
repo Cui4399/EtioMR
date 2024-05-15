@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,31674119,G,A,0.0867996,-0.166064,0.0282832,4.31922e-09,rs1651059,7649,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,FTT3TM
+11,61820833,G,A,0.336609,0.309609,0.0166232,2.01136e-77,rs174564,7649,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,FTT3TM
+19,19553268,T,C,0.0780759,0.18211,0.0299914,1.26264e-09,rs17216588,7649,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,FTT3TM
+19,44913484,T,C,0.225481,-0.178794,0.0189961,4.86185e-21,rs438811,7649,Phosphate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,FTT3TM

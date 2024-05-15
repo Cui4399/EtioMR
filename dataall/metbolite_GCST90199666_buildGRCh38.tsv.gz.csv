@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132369766,G,C,0.522391,0.123473,0.0151912,4.36667e-16,rs2631367,8256,Palmitoylcarnitine levels (Metabolon platform),TRUE,reported,kRDH24
+6,110438805,G,A,0.238471,-0.169243,0.0176414,8.51296e-22,rs12210538,8256,Palmitoylcarnitine levels (Metabolon platform),TRUE,reported,kRDH24
+10,59703726,T,G,0.224491,0.105784,0.018426,9.41016e-09,rs1171623,8256,Palmitoylcarnitine levels (Metabolon platform),TRUE,reported,kRDH24

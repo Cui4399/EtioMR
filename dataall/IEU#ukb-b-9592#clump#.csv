@@ -1,0 +1,6 @@
+"samplesize.exposure","pval.exposure","chr.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,4e-08,"1",0.000316524,0.00173751,109817838,"ukb-b-9592","rs660240","C","T",0.784825,"Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC || id:ukb-b-9592",TRUE,"reported","igd"
+463010,1.2e-08,"4",0.000374185,0.00213035,148364920,"ukb-b-9592","rs77028772","A","G",0.140621,"Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC || id:ukb-b-9592",TRUE,"reported","igd"
+463010,1.69981e-19,"6",0.000480493,0.00433872,161005610,"ukb-b-9592","rs55730499","T","C",0.079714,"Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC || id:ukb-b-9592",TRUE,"reported","igd"
+463010,1.99986e-11,"6",0.000546685,0.00366569,160551093,"ukb-b-9592","rs4646272","G","T",0.060618,"Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC || id:ukb-b-9592",TRUE,"reported","igd"
+463010,1.29987e-22,"9",0.000259813,0.00254322,22124504,"ukb-b-9592","rs1333047","T","A",0.493667,"Operative procedures - main OPCS: K63.3 Angiocardiography of left side of heart NEC || id:ukb-b-9592",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,140175923,-0.137245,0.0279684,9.24081e-07,7738,ebi-a-GCST90027721,rs10027188,T,C,0.295017,k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Holdemania,TRUE,reported,igd

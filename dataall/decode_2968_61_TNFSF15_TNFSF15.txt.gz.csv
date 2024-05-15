@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,114798680,rs56339337,G,A,-0.0718,9.505e-10,0.011737,35362,0.13304,TNFSF15_TNFSF15,TRUE,reported,TNFSF15_TNFSF15

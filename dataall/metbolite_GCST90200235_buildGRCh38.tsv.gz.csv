@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46182221,A,G,0.524924,-0.102077,0.0158748,1.27497e-10,rs12076680,7897,Succinoyltaurine levels,TRUE,reported,b88xuF
+1,46405089,A,C,0.210283,0.392985,0.0184358,7.99762e-101,rs324420,7897,Succinoyltaurine levels,TRUE,reported,b88xuF
+9,101364001,A,C,0.14864,-0.194097,0.0216383,2.96317e-19,rs1341761,7897,Succinoyltaurine levels,TRUE,reported,b88xuF
+19,15879621,T,C,0.292887,-0.336663,0.0165042,1.7209e-92,rs2108622,7897,Succinoyltaurine levels,TRUE,reported,b88xuF

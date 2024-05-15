@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"14",36166496,"rs12886001","G","C",1.06196427557e-08,1.22379328605,0.213930301422482,89,"CD8_NAIVE#RALGAPA1",TRUE,"reported","pTabex",NA

@@ -1,0 +1,2 @@
+pos.exposure,chr.exposure,pval.exposure,samplesize.exposure,beta.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+101266753,3,4.68296e-06,1634,1.423,0.3097,ebi-a-GCST90002107,rs148887724,G,A,0.0031, || id:ebi-a-GCST90002107,TRUE,reported,igd

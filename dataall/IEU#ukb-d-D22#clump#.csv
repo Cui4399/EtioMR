@@ -1,0 +1,8 @@
+"se.exposure","samplesize.exposure","chr.exposure","pval.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000244599,361194,"6",4.91077e-10,-0.00152192,385735,"ukb-d-D22","rs2671427","C","T",0.630294,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.000506395,361194,"6",2.99116e-09,0.00300405,393868,"ukb-d-D22","rs2666957","G","A",0.0564323,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.00023497,361194,"9",6.47247e-10,-0.0014518,21818310,"ukb-d-D22","rs3928894","T","C",0.546181,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.000241258,361194,"9",1.05779e-17,-0.00206707,16898119,"ukb-d-D22","rs10962672","A","G",0.618892,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.000788233,361194,"9",4.2924e-12,-0.00546044,21995044,"ukb-d-D22","rs55797833","G","T",0.0225253,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.000372661,361194,"14",4.36355e-08,0.00204054,69225594,"ukb-d-D22","rs7153386","G","A",0.111567,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"
+0.000252862,361194,"16",4.96844e-08,0.00137875,90026512,"ukb-d-D22","rs4268748","C","T",0.311321,"Diagnoses - main ICD10: D22 Melanocytic naevi || id:ukb-d-D22",TRUE,"reported","igd"

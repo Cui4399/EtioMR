@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",174971682,"rs6425310","A","G",4.139686897e-06,-0.726939384217,0.157884666264671,89,"Classical monocyte#CACYBP",TRUE,"reported","KlM11y",NA

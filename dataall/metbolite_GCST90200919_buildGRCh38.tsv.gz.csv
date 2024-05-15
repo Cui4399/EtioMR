@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,57311266,T,C,0.0330493,-0.232668,0.0445861,1.8047e-07,rs924849,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+2,152514677,G,C,0.333788,0.0793087,0.0169448,2.86287e-06,rs10168692,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+5,150342933,T,C,0.0721998,-0.152186,0.0308028,7.78583e-07,rs113402031,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+6,63345318,A,G,0.0467715,-0.187674,0.0381096,8.4533e-07,rs11970340,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+6,139504440,G,T,0.0308634,-0.21703,0.0459902,2.36944e-06,rs145924060,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+7,4296845,A,G,0.191931,0.0959215,0.0208535,4.22947e-06,rs10232703,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+8,31188777,A,C,0.0601577,0.170221,0.0335098,3.77947e-07,rs117325880,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+8,63285400,T,C,0.0146508,-0.326904,0.0664815,8.77832e-07,rs117392095,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+14,62685670,A,G,0.0486714,-0.176615,0.0370021,1.81404e-06,rs7154824,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu
+18,40448201,A,G,0.376393,-0.0847149,0.016446,2.5897e-07,rs977143,7756,Caffeine to theophylline ratio,TRUE,reported,yDuAbu

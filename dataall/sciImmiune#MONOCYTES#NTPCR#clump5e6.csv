@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",233081593,"rs6673130","C","T",5.53008610657e-19,1.15778586548,0.130072368326484,89,"Classical monocyte#NTPCR",TRUE,"reported","CXOL9a",NA

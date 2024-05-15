@@ -1,0 +1,7 @@
+"samplesize.exposure","pos.exposure","se.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,185503456,0.000238857,0.00145536,1.10907e-09,"3","ukb-a-139","rs6780171","A","T",0.312187,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"
+337159,20703952,0.000251137,0.00142737,1.31962e-08,"6","ukb-a-139","rs6931514","G","A",0.263144,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"
+337159,71332301,0.00056494,0.00312685,3.11745e-08,"10","ukb-a-139","rs41277236","T","C",0.042168,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"
+337159,114754071,0.000243547,0.00379918,7.68069e-55,"10","ukb-a-139","rs34872471","C","T",0.291319,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"
+337159,2735534,0.000239017,0.00132781,2.7737e-08,"11","ukb-a-139","rs2411884","G","C",0.318262,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"
+337159,80760789,0.000224602,0.00140617,3.8369e-10,"13","ukb-a-139","rs9574587","G","A",0.430932,"Treatment/medication code: gliclazide || id:ukb-a-139",TRUE,"reported","igd"

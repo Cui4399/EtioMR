@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,149770776,G,A,0.359882,0.178766,0.016832,2.39021e-26,rs9688867,6142,S-adenosylhomocysteine (SAH) levels,TRUE,reported,oNnoZB

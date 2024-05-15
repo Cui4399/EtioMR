@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,24653338,rs17243374,A,G,0.3022,2.45e-12,0.043134,35380,0.00855,ACOT13_ACO13,TRUE,reported,ACOT13_ACO13
+6,24682169,rs112965562,A,T,-0.2118,5.399e-12,0.030719,35380,0.01735,ACOT13_ACO13,TRUE,reported,ACOT13_ACO13
+6,25306502,rs4712905,CCG,CCC,-0.4596,5.861e-09,0.07896,35376,0.00258,ACOT13_ACO13,TRUE,reported,ACOT13_ACO13

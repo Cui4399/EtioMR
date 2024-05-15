@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,171139697,T,C,0.24723,-0.202079,0.0179454,2.05018e-29,rs2235193,8182,Mannose to S-methylcysteine ratio,TRUE,reported,8vEGkZ
+2,27508073,C,T,0.585732,0.132695,0.0157382,3.41584e-17,rs1260326,8182,Mannose to S-methylcysteine ratio,TRUE,reported,8vEGkZ

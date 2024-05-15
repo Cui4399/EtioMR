@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"13",43566373,"rs3825511","A","C",2.35806451477e-13,-0.954648348703,0.130296344853708,89,"CD4_NAIVE#EPSTI1",TRUE,"reported","dFrWTD",NA

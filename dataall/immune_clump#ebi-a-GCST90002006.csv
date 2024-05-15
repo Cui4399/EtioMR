@@ -1,0 +1,9 @@
+se.exposure,chr.exposure,beta.exposure,samplesize.exposure,pos.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.04948,1,-0.446,3622,149716369,3.16301e-19,ebi-a-GCST90002006,rs112755578,G,A,0.0758,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.1115,1,0.8668,3622,149858520,1.00508e-14,ebi-a-GCST90002006,rs144823175,G,C,0.0133,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.05946,1,-0.5571,3622,150401679,1.25314e-20,ebi-a-GCST90002006,rs188268415,T,C,0.0451,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.02617,1,0.3944,3622,161479745,8.1677e-50,ebi-a-GCST90002006,rs1801274,G,A,0.3259,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.05896,1,-0.3227,3622,120233380,4.72705e-08,ebi-a-GCST90002006,rs145828126,A,G,0.0478,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.03619,1,0.7181,3622,149738590,2.75613e-83,ebi-a-GCST90002006,rs150145799,C,T,0.1327,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.1104,1,0.8229,3622,150863650,1.14895e-13,ebi-a-GCST90002006,rs116275309,A,G,0.0133,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd
+0.1176,8,-0.6492,3622,59726631,3.65401e-08,ebi-a-GCST90002006,rs80178684,G,A,0.011,CD64 on monocyte || id:ebi-a-GCST90002006,TRUE,reported,igd

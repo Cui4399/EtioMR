@@ -1,0 +1,8 @@
+"pos.exposure","pval.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+44097438,1.76084e-09,0.00126635,-0.00762172,"1",289727,"ukb-a-39","rs12405972","T","G",0.347464,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+140939110,4.3394e-09,0.00124187,-0.00729089,"4",289727,"ukb-a-39","rs36072649","A","T",0.383119,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+26159356,2.72829e-09,0.00144412,-0.00858868,"6",289727,"ukb-a-39","rs2183947","A","G",0.224329,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+136467344,2.25424e-11,0.00192264,0.0128601,"9",289727,"ukb-a-39","rs3025327","C","G",0.111243,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+78870803,2.31686e-12,0.0014396,-0.0100977,"15",289727,"ukb-a-39","rs576982","T","C",0.227517,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+24798079,4.9364e-08,0.00138167,-0.00753525,"16",289727,"ukb-a-39","rs12923476","A","G",0.255263,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"
+61986949,7.42848e-13,0.00171613,0.0123074,"20",289727,"ukb-a-39","rs2273500","C","T",0.144699,"Maternal smoking around birth || id:ukb-a-39",TRUE,"reported","igd"

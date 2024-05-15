@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"15",83543958,"rs1256454","C","T",4.08548022592e-09,0.756844009343,0.128699761328638,89,"Classical monocyte#HOMER2",TRUE,"reported","eZCrLg",NA

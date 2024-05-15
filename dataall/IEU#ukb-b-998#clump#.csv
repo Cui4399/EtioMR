@@ -1,0 +1,5 @@
+"beta.exposure","chr.exposure","pos.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00834641,"2",61371267,3.40001e-08,64947,0.0015124,"ukb-b-998","rs62151039","C","T",0.08679,"Soya dessert intake || id:ukb-b-998",TRUE,"reported","igd"
+0.0274962,"7",70047254,4.30002e-08,64947,0.00502018,"ukb-b-998","rs144004344","G","C",0.008501,"Soya dessert intake || id:ukb-b-998",TRUE,"reported","igd"
+0.0119526,"14",23785281,9.09997e-09,64947,0.00207963,"ukb-b-998","rs183468306","T","C",0.043271,"Soya dessert intake || id:ukb-b-998",TRUE,"reported","igd"
+0.0314921,"17",75982380,1.2e-09,64947,0.00517967,"ukb-b-998","rs147317193","T","C",0.008227,"Soya dessert intake || id:ukb-b-998",TRUE,"reported","igd"

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.609155,-0.15691,0.0151829,4.91005e-25,rs1354034,8272,Alpha-ketoglutarate to aspartate ratio,TRUE,reported,cy0dpw
+11,26631555,A,G,0.771685,-0.0999695,0.0175993,1.34456e-08,rs7112236,8272,Alpha-ketoglutarate to aspartate ratio,TRUE,reported,cy0dpw

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132304843,G,A,0.553717,-0.0933562,0.0146796,2.023e-10,rs6860806,8263,Palmitoleoylcarnitine (C16:1) levels,TRUE,reported,4IU4z1
+10,100315722,A,G,0.176138,-0.130369,0.0189289,5.68692e-12,rs603424,8263,Palmitoleoylcarnitine (C16:1) levels,TRUE,reported,4IU4z1

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,3717347,rs34058426,TGTCTCAA,TGTCTC,-0.1911,9.282e-12,0.028032,35375,0.02124,SIGLEC1_Sialoadhesin,TRUE,reported,SIGLEC1_Sialoadhesin

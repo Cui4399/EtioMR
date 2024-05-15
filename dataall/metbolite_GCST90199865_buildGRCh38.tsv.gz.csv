@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,241769948,G,A,0.370108,0.102087,0.0164427,5.34494e-10,rs6707874,7769,2-hydroxyglutarate levels,TRUE,reported,Nh0lrM
+14,91170188,T,C,0.329339,0.136591,0.0167003,2.86375e-16,rs4900072,7769,2-hydroxyglutarate levels,TRUE,reported,Nh0lrM

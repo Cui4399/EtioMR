@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75729746,TG,T,0.307051,0.092548,0.0159813,6.99554e-09,rs145024038,8262,Glycine levels,TRUE,reported,QDpLva
+2,210675783,A,C,0.308122,0.574475,0.0149118,1e-200,rs1047891,8262,Glycine levels,TRUE,reported,QDpLva
+3,126190826,C,T,0.424784,0.0849393,0.0152422,2.50902e-08,rs1992855,8262,Glycine levels,TRUE,reported,QDpLva
+7,56023185,G,C,0.753909,0.0945722,0.0173335,4.86894e-08,rs13241866,8262,Glycine levels,TRUE,reported,QDpLva
+9,6540540,C,T,0.291126,-0.120226,0.016222,1.25071e-13,rs2297442,8262,Glycine levels,TRUE,reported,QDpLva

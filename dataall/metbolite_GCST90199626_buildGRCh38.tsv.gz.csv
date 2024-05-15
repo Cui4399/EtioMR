@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,143129515,T,C,0.587063,0.0973775,0.0160404,1.27297e-09,rs354710,7965,Xanthurenate levels,TRUE,reported,ophDbE
+2,233764663,T,C,0.326316,0.160369,0.0164451,1.81218e-22,rs4148325,7965,Xanthurenate levels,TRUE,reported,ophDbE
+4,169940405,A,G,0.114498,0.145764,0.0245961,3.09841e-09,rs80253618,7965,Xanthurenate levels,TRUE,reported,ophDbE
+6,25799448,A,G,0.556451,0.108263,0.0156013,3.93898e-12,rs1165213,7965,Xanthurenate levels,TRUE,reported,ophDbE

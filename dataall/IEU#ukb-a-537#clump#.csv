@@ -1,0 +1,7 @@
+"pval.exposure","chr.exposure","samplesize.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+8.94643e-10,"1",337199,0.00325568,169031755,0.000531338,"ukb-a-537","rs113079063","T","G",0.0263465,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"
+2.36048e-105,"1",337199,-0.0127566,169467654,0.000584978,"ukb-a-537","rs1894692","A","G",0.978035,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"
+8.45279e-11,"4",337199,0.00110813,187173571,0.000170678,"ukb-a-537","rs4253304","C","G",0.41383,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"
+2.36755e-13,"4",337199,0.0014383,155527436,0.000196315,"ukb-a-537","rs2066861","T","C",0.24073,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"
+1.07944e-36,"9",337199,0.00228646,136149500,0.000180686,"ukb-a-537","rs529565","C","T",0.317842,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"
+1.7185e-08,"10",337199,-0.00137168,71214798,0.000243277,"ukb-a-537","rs75583483","G","A",0.139069,"Diagnoses - main ICD10: I80 Phlebitis and thrombophlebitis || id:ukb-a-537",TRUE,"reported","igd"

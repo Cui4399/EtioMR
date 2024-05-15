@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,217774436,T,C,0.464491,-0.0698035,0.0149862,3.19514e-06,rs7563530,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+5,3538648,C,G,0.573505,0.0698791,0.0150629,3.49833e-06,rs9313052,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+5,138192228,G,C,0.239295,-0.0797859,0.017418,4.63489e-06,rs2231478,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+5,160646451,G,C,0.0214443,-0.240585,0.0509604,2.34674e-06,rs116300679,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+6,23950678,T,C,0.702763,-0.0765384,0.0163021,2.66624e-06,rs539570,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+11,102331439,C,G,0.059149,0.158812,0.0314806,4.54071e-07,rs17769668,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+16,58171206,T,C,0.0338735,-0.189292,0.0408539,3.59727e-06,rs75509729,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+17,72747350,T,C,0.0566442,0.159056,0.0318346,5.843e-07,rs112105024,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS
+19,40909207,A,T,0.580976,-0.0695242,0.0151839,4.67655e-06,rs3844442,8223,N-lactoyl phenylalanine levels,TRUE,reported,GMzdyS

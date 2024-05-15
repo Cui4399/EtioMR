@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31431289,A,G,0.0167092,0.314387,0.0560897,2.08157e-08,rs72790679,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+2,31580756,T,C,0.0329852,0.308706,0.0406463,3.07954e-14,rs9282858,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+2,233759924,T,C,0.320898,0.336937,0.0150767,1.25779e-110,rs887829,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+7,99533211,T,G,0.0320219,0.241033,0.0409138,3.83345e-09,rs34670419,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+11,63075350,T,C,0.0620317,-0.957967,0.0279053,1e-200,rs377204392,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+11,63312298,C,T,0.59047,0.132681,0.0146243,1.1619e-19,rs540582,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+12,21178615,C,T,0.155881,0.116003,0.0198127,4.76979e-09,rs4149056,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD
+19,47871693,A,C,0.162831,-0.145512,0.0195911,1.10687e-13,rs62129966,7888,"Bilirubin (Z,Z) to androsterone glucuronide ratio",TRUE,reported,51LjpD

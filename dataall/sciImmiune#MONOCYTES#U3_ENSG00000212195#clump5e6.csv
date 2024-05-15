@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",56762655,"rs159980","A","G",2.3951634677e-06,-0.619842931798,0.131410170061351,89,"Classical monocyte#U3_ENSG00000212195",TRUE,"reported","uOWS16",NA

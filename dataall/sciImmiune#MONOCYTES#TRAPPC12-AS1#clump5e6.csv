@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",3481857,"rs4641971","G","T",2.29044859393e-08,-0.720989598383,0.129013176105397,89,"Classical monocyte#TRAPPC12-AS1",TRUE,"reported","IKm9p9",NA

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,33393272,T,C,0.75367,-0.103264,0.0176513,4.90998e-09,rs10798945,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+7,75977837,G,A,0.286203,-0.0991977,0.0169825,5.18349e-09,rs76021834,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+10,45588795,A,G,0.245917,-0.101079,0.0178134,1.39261e-08,rs12242611,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+12,20846411,A,G,0.671939,0.101058,0.0163741,6.75102e-10,rs975657,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+13,103049340,A,G,0.0131822,-0.487976,0.0673596,4.34546e-13,rs56398830,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+13,103065958,T,C,0.0476396,0.385491,0.0359146,7.08375e-27,rs55971546,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+17,30259885,G,T,0.332574,0.140148,0.0162013,5.13247e-18,rs3794806,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT
+19,47871693,A,C,0.159568,-0.303027,0.0206972,1.53776e-48,rs62129966,8123,Glycochenodeoxycholate 3-sulfate levels,TRUE,reported,JkLQHT

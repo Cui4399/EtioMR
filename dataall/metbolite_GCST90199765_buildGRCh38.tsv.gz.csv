@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,238475324,C,T,0.0197376,0.257301,0.054388,2.23604e-06,rs138557597,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+2,98357926,G,T,0.278148,0.0764968,0.0166186,4.1629e-06,rs937729,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+4,33533444,C,T,0.0522741,-0.163887,0.0341548,1.59963e-06,rs116040531,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+6,69725820,A,G,0.0262361,0.220517,0.0472613,3.07262e-06,rs117712099,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+9,24372435,A,C,0.0220705,0.244724,0.0512895,1.82918e-06,rs117207518,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+11,40153249,T,A,0.0295477,0.207419,0.0442977,2.83567e-06,rs75043930,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+11,47945947,A,G,0.127924,-0.103232,0.0224522,4.26922e-06,rs76424117,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+12,12896085,A,G,0.140625,-0.101076,0.0216503,3.03325e-06,rs34176686,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+13,74169081,T,G,0.0882676,0.126879,0.0266062,1.85357e-06,rs57215963,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+13,100929348,A,T,0.0350225,0.190719,0.0405244,2.52296e-06,rs9557550,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+14,97615705,A,G,0.0126759,-0.305696,0.0665886,4.4152e-06,rs117488453,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H
+16,69498567,TTC,T,0.92732,-0.135141,0.0293024,3.9893e-06,rs147203483,8259,4-hydroxyhippurate levels,TRUE,reported,Cp436H

@@ -1,0 +1,6 @@
+"samplesize.exposure","pos.exposure","pval.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+25891,74794538,2.01354e-08,0.0026209,"3",-0.01471,"ukb-d-5540_0","rs112926706","GC","G",0.0317551,"Surgery/amputation of toe or leg: No || id:ukb-d-5540_0",TRUE,"reported","igd"
+25891,74796747,2.91179e-08,0.00259056,"3",-0.0143734,"ukb-d-5540_0","rs144687884","A","ATTTG",0.0323781,"Surgery/amputation of toe or leg: No || id:ukb-d-5540_0",TRUE,"reported","igd"
+25891,111551444,9.80618e-13,0.0144622,"4",-0.103213,"ukb-d-5540_0","rs1448820","T","C",0.00106252,"Surgery/amputation of toe or leg: No || id:ukb-d-5540_0",TRUE,"reported","igd"
+25891,56626764,3.08063e-08,0.0106137,"5",-0.0587837,"ukb-d-5540_0","rs143754143","A","G",0.00197957,"Surgery/amputation of toe or leg: No || id:ukb-d-5540_0",TRUE,"reported","igd"
+25891,12780765,4.93208e-08,0.0137093,"11",-0.0747894,"ukb-d-5540_0","rs76352939","C","T",0.0012673,"Surgery/amputation of toe or leg: No || id:ukb-d-5540_0",TRUE,"reported","igd"

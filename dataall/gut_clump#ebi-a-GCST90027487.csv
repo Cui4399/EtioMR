@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,55518752,-0.130382,0.0277244,2.56649e-06,7738,ebi-a-GCST90027487,rs7552841,T,C,0.36844,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd
+5,116730016,-0.240451,0.0514641,2.97982e-06,7738,ebi-a-GCST90027487,rs2624489,G,A,0.0771916,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd
+5,4540543,-0.266455,0.0576131,3.74792e-06,7738,ebi-a-GCST90027487,rs2895499,A,G,0.0744206,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd
+7,155148917,-0.209856,0.0444018,2.28665e-06,7738,ebi-a-GCST90027487,rs3923652,C,A,0.101974,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd
+9,33230471,0.228551,0.0437442,1.74434e-07,7738,ebi-a-GCST90027487,rs557948,T,C,0.117478,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd
+9,137907690,0.165422,0.0361546,4.7527e-06,7738,ebi-a-GCST90027487,rs4842206,G,A,0.17556,KETOGLUCONMET.PWY..ketogluconate.metabolism,TRUE,reported,igd

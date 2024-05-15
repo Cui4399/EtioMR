@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,52291729,rs141697993,T,G,0.1534,2.202e-09,0.025643,35364,0.02484,KRT5_K2C5,TRUE,reported,KRT5_K2C5
+12,52357876,rs10506306,C,G,-0.0585,4.407e-08,0.010687,35363,0.16797,KRT5_K2C5,TRUE,reported,KRT5_K2C5
+12,52519122,rs641621,T,G,-0.1558,1.808e-61,0.009418,35363,0.2322,KRT5_K2C5,TRUE,reported,KRT5_K2C5

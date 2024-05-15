@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,93956351,rs62466701,C,T,0.1089,1.612e-11,0.016163,35348,0.06581,TFPI2_TFPI__2,TRUE,reported,TFPI2_TFPI__2

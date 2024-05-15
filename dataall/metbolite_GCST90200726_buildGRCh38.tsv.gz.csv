@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,150824227,T,C,0.339804,0.16439,0.0161473,2.41915e-24,rs4725950,8144,N-acetylputrescine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,sCRj3G
+7,150861427,T,C,0.332559,-0.118088,0.0164674,7.44526e-13,rs4725969,8144,N-acetylputrescine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,sCRj3G
+8,18414956,A,G,0.776593,-0.549075,0.0173742,1e-200,rs4921915,8144,N-acetylputrescine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,sCRj3G
+10,133382797,A,C,0.714,0.181881,0.0170181,1.16511e-26,rs4838735,8144,N-acetylputrescine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,sCRj3G
+22,50123655,G,A,0.018876,-0.327542,0.0563188,6.03267e-09,rs148381953,8144,N-acetylputrescine to (N(1) + N(8))-acetylspermidine ratio,TRUE,reported,sCRj3G

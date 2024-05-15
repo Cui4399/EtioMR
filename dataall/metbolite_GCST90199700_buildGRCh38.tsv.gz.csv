@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151910380,G,C,0.601933,0.107101,0.0152709,2.3263e-12,rs10788817,8206,3-hydroxylaurate levels,TRUE,reported,uSrht6

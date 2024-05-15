@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,28031535,0.192771,0.0410252,2.61644e-06,7738,ebi-a-GCST90027847,rs13106159,T,G,0.0591382,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_longicatena,TRUE,reported,igd
+5,21365427,0.149319,0.0315947,2.28897e-06,7738,ebi-a-GCST90027847,rs9292972,G,C,0.101138,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_longicatena,TRUE,reported,igd
+7,38834068,-0.0932584,0.0185033,4.65307e-07,7738,ebi-a-GCST90027847,rs6957565,T,C,0.489232,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_longicatena,TRUE,reported,igd
+11,24628879,-0.0907211,0.0198043,4.6302e-06,7738,ebi-a-GCST90027847,rs11028061,C,T,0.683668,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__Dorea_longicatena,TRUE,reported,igd

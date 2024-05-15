@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,24618473,C,A,0.31514,-0.102128,0.016794,1.19265e-09,rs4049869,8267,Gamma-glutamylisoleucine levels,TRUE,reported,oMLKXk

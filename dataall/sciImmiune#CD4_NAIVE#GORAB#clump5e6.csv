@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",170381446,"rs6427248","A","T",1.11841222218e-10,1.03723356562,0.160811103861769,89,"CD4_NAIVE#GORAB",TRUE,"reported","ocJtmH",NA

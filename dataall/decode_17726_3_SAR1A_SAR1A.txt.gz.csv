@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,70169990,rs870801,A,C,0.1499,5.582e-73,0.008296,35372,0.3952,SAR1A_SAR1A,TRUE,reported,SAR1A_SAR1A
+10,70302388,rs118085384,C,T,-0.1252,5.774e-09,0.0215,35373,0.03682,SAR1A_SAR1A,TRUE,reported,SAR1A_SAR1A

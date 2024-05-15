@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,78691701,G,A,0.295093,0.0838184,0.0147829,1.4283e-08,rs784420,8228,DHEAS levels,TRUE,reported,qy9mym
+7,99477415,C,T,0.034138,-0.423259,0.036657,7.69047e-31,rs148982377,8228,DHEAS levels,TRUE,reported,qy9mym
+13,21724936,T,A,0.403268,0.0868089,0.013953,4.9235e-10,rs955783,8228,DHEAS levels,TRUE,reported,qy9mym
+16,81547979,T,C,0.0689424,0.158165,0.0264428,2.21235e-09,rs76294479,8228,DHEAS levels,TRUE,reported,qy9mym

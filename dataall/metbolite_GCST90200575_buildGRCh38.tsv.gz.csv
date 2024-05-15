@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,15691085,C,A,0.117993,-0.6073,0.0246622,6.85523e-134,rs55803452,7055,X-21283 levels,TRUE,reported,WHRO1n

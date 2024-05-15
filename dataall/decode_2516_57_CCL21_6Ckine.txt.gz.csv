@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,33747288,rs67032625,AAAAAAAATAAAAAAAAAT,AAAAAAAATAAAAAAAAAA,-0.0603,8.072e-13,0.008422,35343,0.36691,CCL21_6Ckine,TRUE,reported,CCL21_6Ckine
+9,34725050,rs1697616,T,C,-0.0803,4.747e-17,0.009568,35341,0.4041,CCL21_6Ckine,TRUE,reported,CCL21_6Ckine
+9,34729993,rs10972211,A,G,0.1461,1.309e-37,0.011399,35349,0.14707,CCL21_6Ckine,TRUE,reported,CCL21_6Ckine

@@ -1,0 +1,8 @@
+"chr.exposure","se.exposure","samplesize.exposure","pos.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",0.00107728,336650,33145369,0.00643467,2.33029e-09,"ukb-a-476","rs2076311","A","C",0.312193,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"9",0.00101398,336650,4282942,0.00594852,4.45441e-09,"ukb-a-476","rs3892354","G","T",0.587752,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"9",0.00115035,336650,116911147,0.00818214,1.13999e-12,"ukb-a-476","rs919642","T","A",0.26829,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"15",0.00101406,336650,58215727,0.00622594,8.28266e-10,"ukb-a-476","rs4775006","A","C",0.409144,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"16",0.00100021,336650,60667039,-0.00556981,2.56963e-08,"ukb-a-476","rs11639899","A","G",0.515712,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"19",0.0010352,336650,10794793,-0.00589743,1.2209e-08,"ukb-a-476","rs892087","T","C",0.63361,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"
+"20",0.00101595,336650,34025756,-0.00881832,3.97832e-18,"ukb-a-476","rs143384","G","A",0.402796,"Pain type(s) experienced in last month: Knee pain || id:ukb-a-476",TRUE,"reported","igd"

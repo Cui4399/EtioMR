@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,151954480,-0.233394,0.0506614,4.0862e-06,7738,ebi-a-GCST90027544,rs11684212,T,C,0.0510055,PWY.5173..superpathway.of.acetyl.CoA.biosynthesis,TRUE,reported,igd
+3,105180455,-0.127888,0.0272418,2.67208e-06,7738,ebi-a-GCST90027544,rs10433369,A,T,0.212694,PWY.5173..superpathway.of.acetyl.CoA.biosynthesis,TRUE,reported,igd
+9,110766582,-0.195776,0.0386241,4.00433e-07,7738,ebi-a-GCST90027544,rs9969725,G,A,0.0970736,PWY.5173..superpathway.of.acetyl.CoA.biosynthesis,TRUE,reported,igd
+18,71504308,-0.11424,0.0246148,3.46521e-06,7738,ebi-a-GCST90027544,rs9965721,C,A,0.57824,PWY.5173..superpathway.of.acetyl.CoA.biosynthesis,TRUE,reported,igd
+19,690902,-0.107435,0.02236,1.54917e-06,7738,ebi-a-GCST90027544,rs8100936,C,T,0.556737,PWY.5173..superpathway.of.acetyl.CoA.biosynthesis,TRUE,reported,igd

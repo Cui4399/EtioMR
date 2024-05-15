@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,30708912,C,A,0.454768,-0.19402,0.0155858,1.4254e-35,rs6780429,8114,Beta-alanine levels,TRUE,reported,5bYgkw

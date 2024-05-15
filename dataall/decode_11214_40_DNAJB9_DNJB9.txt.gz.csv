@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,108229176,rs147800199,C,T,-0.2242,3.845e-13,0.030878,35358,0.01737,DNAJB9_DNJB9,TRUE,reported,DNAJB9_DNJB9

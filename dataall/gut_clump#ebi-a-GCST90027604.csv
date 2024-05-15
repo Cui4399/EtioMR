@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,88641534,0.0778646,0.0170332,4.84641e-06,7738,ebi-a-GCST90027604,rs12725757,T,A,0.351997,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+3,113445802,-0.149104,0.0300847,7.19068e-07,7738,ebi-a-GCST90027604,rs78769049,T,C,0.0931358,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+6,90622187,0.0793277,0.0165815,1.71751e-06,7738,ebi-a-GCST90027604,rs367274,T,C,0.453617,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+7,126881702,-0.133938,0.0271446,8.046e-07,7738,ebi-a-GCST90027604,rs17866154,C,G,0.102088,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+7,16068628,0.0803806,0.0164359,1.00554e-06,7738,ebi-a-GCST90027604,rs35006616,A,G,0.467885,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+8,94698620,0.116933,0.0251395,3.29739e-06,7738,ebi-a-GCST90027604,rs62522935,C,T,0.124382,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+8,119605433,0.085412,0.0177628,1.52086e-06,7738,ebi-a-GCST90027604,rs1915542,T,A,0.673225,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd
+13,105346499,-0.110748,0.0240566,4.15136e-06,7738,ebi-a-GCST90027604,rs9300960,T,C,0.161616,PWY.6969..TCA.cycle.V..2.oxoglutarate.ferredoxin.oxidoreductase.,TRUE,reported,igd

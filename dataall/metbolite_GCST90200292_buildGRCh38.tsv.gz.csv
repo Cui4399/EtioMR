@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,65004111,G,A,0.130459,-0.124263,0.0224032,2.9119e-08,rs11891502,8252,Trans-4-hydroxyproline levels,TRUE,reported,SLh7UW
+19,35800075,T,C,0.0542805,0.218983,0.033857,9.9384e-11,rs3761097,8252,Trans-4-hydroxyproline levels,TRUE,reported,SLh7UW
+20,51892375,C,T,0.0113042,-0.421069,0.0723318,5.83757e-09,rs57173949,8252,Trans-4-hydroxyproline levels,TRUE,reported,SLh7UW

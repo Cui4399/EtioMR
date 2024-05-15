@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,21171589,0.30954,0.0625379,7.43498e-07,7738,ebi-a-GCST90027580,rs28433201,C,A,0.103038,PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.,TRUE,reported,igd
+11,86208644,-0.194498,0.0416848,3.07227e-06,7738,ebi-a-GCST90027580,rs610790,T,C,0.306114,PWY.6471..peptidoglycan.biosynthesis.IV..Enterococcus.faecium.,TRUE,reported,igd

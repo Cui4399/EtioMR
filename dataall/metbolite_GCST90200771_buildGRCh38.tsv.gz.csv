@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,237882913,C,T,0.271125,0.08474,0.0173038,9.72145e-07,rs60262967,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+4,138707970,G,A,0.499803,-0.0817645,0.0159217,2.81502e-07,rs9996776,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+8,17725669,T,A,0.0206658,0.263833,0.0545558,1.32465e-06,rs75220534,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+8,126441367,G,T,0.959792,0.189337,0.0393463,1.49383e-06,rs2735975,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+10,22261903,G,A,0.705613,-0.0790924,0.0171738,4.11634e-06,rs2148958,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+14,22514585,T,C,0.462896,0.077142,0.0155566,7.0929e-07,rs1964574,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+14,57915700,C,T,0.0266814,-0.223681,0.0477743,2.84042e-06,rs142051919,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr
+17,34629267,A,G,0.473075,-0.071597,0.0155865,4.35799e-06,rs758403,8209,Phosphate to fructose ratio,TRUE,reported,f6aPNr

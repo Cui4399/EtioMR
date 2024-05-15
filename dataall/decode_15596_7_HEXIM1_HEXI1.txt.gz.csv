@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,45167333,rs4792858,C,A,0.0875,1.79e-23,0.008764,35365,0.3038,HEXIM1_HEXI1,TRUE,reported,HEXIM1_HEXI1

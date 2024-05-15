@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,185056021,A,G,0.0465636,-0.171301,0.036733,3.11005e-06,rs59173308,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+2,233759924,T,C,0.324211,0.0820467,0.0165917,7.61251e-07,rs887829,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+5,123961638,G,A,0.121513,0.114291,0.0243102,2.58439e-06,rs2407999,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+6,66591545,G,T,0.0209884,0.254733,0.0544181,2.8543e-06,rs142706506,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+10,30545016,A,G,0.0266753,0.227853,0.0482807,2.36619e-06,rs150981358,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+11,24360811,T,C,0.0252273,-0.239692,0.0496341,1.37102e-06,rs188242626,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+11,73348103,T,C,0.0245285,-0.234768,0.0504297,3.23437e-06,rs117742113,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+16,81252545,G,A,0.0268893,-0.236693,0.0482055,9.10349e-07,rs117546625,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY
+19,16997625,T,C,0.0442732,-0.177624,0.0377539,2.54124e-06,rs112755187,7862,Isovalerate (i5:0) levels,TRUE,reported,xHlZyY

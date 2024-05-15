@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+89866,0.0173742,0.00346793,5.45423e-07,"6",21974159,"T","G","rs139281147",0.923492,0.0254074,4748,"Job coding: local government administrative officer or assistant or clerk",TRUE,"reported","RJEYNu","Occupation","ukb1662"
+89866,-0.00557963,0.00118515,2.50593e-06,"7",83787131,"C","T","rs34892444",1,0.730007,4748,"Job coding: local government administrative officer or assistant or clerk",TRUE,"reported","RJEYNu","Occupation","ukb1662"
+89866,0.0152068,0.00330571,4.22703e-06,"7",96580822,"C","T","rs17598174",1,0.0262075,4748,"Job coding: local government administrative officer or assistant or clerk",TRUE,"reported","RJEYNu","Occupation","ukb1662"
+89866,-0.011834,0.00250824,2.38444e-06,"13",53299145,"G","A","rs9536258",1,0.0459296,4748,"Job coding: local government administrative officer or assistant or clerk",TRUE,"reported","RJEYNu","Occupation","ukb1662"

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,152048802,A,C,0.401901,-0.0788912,0.0146939,7.91804e-08,rs72696919,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+2,159434655,C,T,0.0154968,0.273329,0.0579424,2.39051e-06,rs148620988,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+3,1322878,G,A,0.18724,-0.0884532,0.0183839,1.49834e-06,rs1391967,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+4,152333620,C,T,0.0273938,-0.216838,0.0447137,1.2379e-06,rs113020642,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+10,83106126,A,T,0.0143118,-0.315533,0.0594802,1.12764e-07,rs117917716,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+10,100315722,A,G,0.17585,-0.112258,0.018715,1.9941e-09,rs603424,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+12,70769855,A,G,0.0650501,0.136108,0.0291508,3.02517e-06,rs180670669,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs
+13,42887507,G,A,0.522383,0.0696478,0.0146727,2.06706e-06,rs2281810,8248,5-dodecenoate (12:1n7) levels,TRUE,reported,lZZ5Fs

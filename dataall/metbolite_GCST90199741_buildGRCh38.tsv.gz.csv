@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75729746,TG,T,0.306952,0.100476,0.0161128,4.49551e-10,rs145024038,8263,Gamma-glutamylglycine levels,TRUE,reported,e52I9q
+2,210675783,A,C,0.30857,0.48432,0.0154368,1e-200,rs1047891,8263,Gamma-glutamylglycine levels,TRUE,reported,e52I9q
+3,126190826,C,T,0.424855,0.0862072,0.015371,2.04151e-08,rs1992855,8263,Gamma-glutamylglycine levels,TRUE,reported,e52I9q
+9,6540540,C,T,0.290909,-0.101178,0.0163767,6.48498e-10,rs2297442,8263,Gamma-glutamylglycine levels,TRUE,reported,e52I9q

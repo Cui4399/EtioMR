@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,36352270,rs74790207,T,G,0.1687,3.31e-11,0.025437,35363,0.02744,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,36679278,rs115031935,T,C,-0.2989,1.627e-18,0.034041,35361,0.01652,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,36892709,rs140151144,C,T,-0.4114,4.18e-24,0.040623,35364,0.0105,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37123469,rs112052557,T,C,-0.1842,4.001e-11,0.027892,35363,0.02211,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37161990,rs10207372,G,A,-0.2644,4.265e-10,0.042345,35363,0.01076,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37191401,rs142575100,CTATAT,CTATGT,-0.3629,7.478e-25,0.035253,35363,0.01537,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37224098,rs35448037,G,A,-0.2121,8.205e-31,0.018378,35363,0.055,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37240114,rs192480401,G,T,-0.8572,1.761e-22,0.087875,35363,0.00251,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37328827,rs9309007,CAAAAAAAAAAAAAAAAAAG,CGAAAAAAAAAAAAAAAAAG,0.2997,3.314e-44,0.02149,35363,0.04105,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37363141,rs4384764,A,G,0.2206,3.192e-127,0.009194,35362,0.28728,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37428543,rs75718313,T,C,0.1338,4.376e-13,0.018472,35361,0.05419,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37532425,rs76282930,C,G,0.1763,2.766e-09,0.029656,35363,0.01957,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,37675447,rs12615921,G,A,0.0703,3.639e-10,0.011214,35362,0.17041,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase
+2,38235369,rs62144660,C,G,-0.9106,1.192e-45,0.06421,35366,0.00415,QPCT_Glutaminyl_cyclase,TRUE,reported,QPCT_Glutaminyl_cyclase

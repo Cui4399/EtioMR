@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,155153238,0.181742,0.0360849,4.74056e-07,7738,ebi-a-GCST90027636,rs7798574,C,T,0.886375,PWY_TCA.GLYOX.BYPASS..superpathway.of.glyoxylate.bypass.and.TCA,TRUE,reported,igd
+10,95941459,0.185814,0.0398171,3.06091e-06,7738,ebi-a-GCST90027636,rs72814612,C,A,0.105935,PWY_TCA.GLYOX.BYPASS..superpathway.of.glyoxylate.bypass.and.TCA,TRUE,reported,igd
+19,51525703,-0.173197,0.0371547,3.13899e-06,7738,ebi-a-GCST90027636,rs1048344,C,T,0.169473,PWY_TCA.GLYOX.BYPASS..superpathway.of.glyoxylate.bypass.and.TCA,TRUE,reported,igd

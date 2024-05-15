@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",110055298,"rs11101966","C","A",2.81523796435e-10,0.937709425421,0.148639252091989,89,"Classical monocyte#AMIGO1",TRUE,"reported","E6Wqcg",NA

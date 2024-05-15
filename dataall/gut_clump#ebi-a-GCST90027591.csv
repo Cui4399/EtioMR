@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,36527733,0.129542,0.0252135,2.77946e-07,7738,ebi-a-GCST90027591,rs12472996,C,T,0.477207,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+3,76547588,-0.122309,0.0261994,3.03606e-06,7738,ebi-a-GCST90027591,rs11127546,T,C,0.361736,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+4,129522518,0.130923,0.0264873,7.69875e-07,7738,ebi-a-GCST90027591,rs904477,A,G,0.350847,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+7,17617132,0.131293,0.0277397,2.21182e-06,7738,ebi-a-GCST90027591,rs6975001,G,C,0.715942,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+8,119872998,0.126243,0.027356,3.93432e-06,7738,ebi-a-GCST90027591,rs1353171,C,G,0.685913,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+9,18127674,-0.212981,0.0412569,2.43905e-07,7738,ebi-a-GCST90027591,rs80113686,C,G,0.112653,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+12,20129090,-0.274184,0.053266,2.64071e-07,7738,ebi-a-GCST90027591,rs79754311,C,A,0.0591669,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+12,5481950,0.130785,0.0279042,2.77351e-06,7738,ebi-a-GCST90027591,rs61909500,T,C,0.290429,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd
+21,33382820,-0.140104,0.0306707,4.92368e-06,7738,ebi-a-GCST90027591,rs2096489,T,C,0.212284,PWY.6630..superpathway.of.L.tyrosine.biosynthesis,TRUE,reported,igd

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+5,37418468,rs185497198,T,C,-0.100937,6.61881130486776e-09,0.017402,32922,0.0491314,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37709529,rs72743175,C,T,0.156278,4.53732616937942e-12,0.0225856,32922,0.0280815,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37820639,rs62360373,A,G,-0.393059,1e-200,0.0127449,32922,0.0951924,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37847056,rs74843650,T,C,-0.150067,2.53921806988671e-12,0.0214347,32922,0.0315057,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37891950,rs143757647,G,T,0.587338,6.84069141889361e-87,0.0297265,32922,0.0182115,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37899885,rs62360400,T,C,-0.122802,9.34975003088602e-26,0.0117038,32922,0.122218,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,37912641,rs11958863,T,G,0.18903,2.61216135439922e-82,0.00983604,32922,0.173446,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,38014441,rs77471178,C,T,-0.136867,2.86648715499727e-08,0.0246633,32922,0.0235824,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,38045979,rs2642682,A,G,0.105735,1.26444516469007e-23,0.010554,32922,0.146582,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis
+5,38057720,rs67837765,G,A,0.104199,1.51112364094588e-14,0.013556,32922,0.10286,gdnf_p39905_oid20861_v1_neurology,TRUE,reported,gdnf_p39905_oid20861_v1_neurology,chr5,37840044,cis

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,80607670,-0.0961367,0.0200962,1.72001e-06,7738,ebi-a-GCST90027587,rs10496240,G,A,0.205664,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+2,36332984,0.164921,0.0335498,8.84627e-07,7738,ebi-a-GCST90027587,rs71437543,C,T,0.0715998,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+3,113309928,-0.141659,0.0306065,3.68519e-06,7738,ebi-a-GCST90027587,rs13096036,G,A,0.075084,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+6,31313646,-0.116905,0.0230318,3.85807e-07,7738,ebi-a-GCST90027587,rs28380908,T,A,0.14264,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+9,2499251,-0.0764608,0.0162214,2.43394e-06,7738,ebi-a-GCST90027587,rs10812126,C,T,0.528559,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+10,125216011,-0.0870071,0.0188301,3.82569e-06,7738,ebi-a-GCST90027587,rs697368,C,T,0.746264,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+17,59554377,0.0772012,0.0166346,3.46697e-06,7738,ebi-a-GCST90027587,rs17601633,G,A,0.360364,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+20,8112399,-0.0980389,0.0211132,3.42571e-06,7738,ebi-a-GCST90027587,rs6108110,T,C,0.188376,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd
+20,51532070,-0.0779399,0.016697,3.04278e-06,7738,ebi-a-GCST90027587,rs6022157,C,A,0.547714,PWY.6609..adenine.and.adenosine.salvage.III,TRUE,reported,igd

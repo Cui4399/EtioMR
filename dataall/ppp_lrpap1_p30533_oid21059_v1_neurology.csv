@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,2710395,rs11726971,G,C,0.0449626,2.68225460760849e-12,0.00642926,33962,0.474403,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,2765639,rs148641227,G,A,-0.108698,9.94282967900781e-09,0.0189643,33962,0.0308184,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,2907996,rs55700772,C,T,-0.247429,6.12491406847485e-16,0.0305966,33962,0.011793,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3388240,rs138913052,T,C,0.130518,8.08704761199182e-10,0.0212459,33962,0.0243065,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3505656,rs140653273,T,C,-0.11542,2.51750301880464e-09,0.0193647,33962,0.0281708,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3514833,rs11549512,A,G,0.143878,4.4493851397458e-21,0.0152714,33962,0.0461019,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3517592,rs73197133,A,G,-0.273453,1.63945688526357e-38,0.0210711,33962,0.023675,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3523929,rs143486729,A,G,-0.550285,1e-200,0.0178503,33962,0.033849,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3552223,rs7681674,T,G,0.278347,1.75630525187312e-17,0.0327127,33962,0.0109929,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis
+4,3566778,rs1741573,T,C,-0.0556276,3.8264848659511e-13,0.00766056,33962,0.528774,lrpap1_p30533_oid21059_v1_neurology,TRUE,reported,lrpap1_p30533_oid21059_v1_neurology,chr4,3532497,cis

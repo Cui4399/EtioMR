@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,95042415,T,A,0.124118,0.199025,0.0249157,1.37253e-15,rs11572168,6391,X-24546 levels,TRUE,reported,hQsBiC
+12,21162039,T,A,0.724334,0.127276,0.0183799,4.36783e-12,rs4762697,6391,X-24546 levels,TRUE,reported,hQsBiC
+12,21178615,C,T,0.169225,0.379803,0.0210749,1.31912e-72,rs4149056,6391,X-24546 levels,TRUE,reported,hQsBiC
+19,47873738,C,T,0.84717,0.160783,0.0227913,1.73156e-12,rs212100,6391,X-24546 levels,TRUE,reported,hQsBiC

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+22,40962889,rs5995972,G,T,-0.127562,4.89327924081938e-16,0.0157211,33084,0.0661319,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41269991,rs139764778,A,G,-0.409106,1.00299784519833e-78,0.0217784,33084,0.0339254,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41346433,rs117047903,T,A,-0.368573,1.81802562377426e-39,0.0280391,33084,0.0191615,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41500305,rs5758375,A,T,-0.323222,5.62989117394242e-22,0.0335429,33084,0.0168451,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41570669,rs2064164,A,C,0.145466,1.59330896584039e-50,0.00973116,33084,0.187597,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41836584,rs73163373,A,G,-0.437262,1e-200,0.0104203,33084,0.155627,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41929013,rs75743846,A,G,-0.233225,5.951137709938e-16,0.0288277,33084,0.0177881,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,41996807,rs1062753,A,G,0.147838,5.45129895688919e-72,0.00823935,33084,0.299632,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,42127941,rs16947,G,A,0.132409,1.28380777047247e-63,0.00786367,33084,0.673771,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis
+22,42299339,rs73886026,G,C,0.0950328,1.31643675705561e-14,0.0123352,33084,0.107052,tnfrsf13c_q96rj3_oid20480_v1_inflammation,TRUE,reported,tnfrsf13c_q96rj3_oid20480_v1_inflammation,chr22,41926817,cis

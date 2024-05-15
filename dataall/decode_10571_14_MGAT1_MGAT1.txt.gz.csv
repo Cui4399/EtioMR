@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,180791668,rs634501,G,A,0.0628,2.797e-12,0.008987,35309,0.25799,MGAT1_MGAT1,TRUE,reported,MGAT1_MGAT1

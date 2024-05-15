@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,232337188,rs143549263,C,T,0.242806,1.45411917037518e-21,0.0254562,33874,0.0206898,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232426991,rs2981375,G,T,0.046639,1.65725752627312e-10,0.00729858,33874,0.398518,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232628983,rs13003774,A,G,-0.285413,1.11070825591886e-48,0.0194647,33874,0.0359273,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232637489,rs144363025,A,G,-0.0997429,3.09934555723628e-09,0.0168307,33874,0.0520909,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232637954,rs77399214,G,A,0.192689,2.27080582712594e-08,0.0344704,33874,0.0127088,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232644575,rs112445216,T,C,0.219555,3.19447872420867e-49,0.0148877,33874,0.0608267,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232655869,rs146096867,T,C,0.324893,3.97191549469431e-137,0.0130347,33874,0.0839956,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,232728245,rs36038193,C,T,0.0935873,1.01367795088865e-23,0.00932117,33874,0.178765,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis
+2,233036147,rs374566933,A,G,0.0613555,2.6771949677451e-09,0.0103114,33874,0.151367,efhd1_q9bup0_oid31044_v1_neurology_ii,TRUE,reported,efhd1_q9bup0_oid31044_v1_neurology_ii,chr2,232606056,cis

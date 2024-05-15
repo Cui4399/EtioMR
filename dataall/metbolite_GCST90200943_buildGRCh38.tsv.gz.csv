@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21493549,G,A,0.399147,0.0723998,0.0152496,2.05787e-06,rs12132412,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+1,108035560,A,G,0.606169,0.0806603,0.0151121,9.42502e-08,rs1777451,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+2,212695652,C,T,0.139686,0.102891,0.021187,1.19596e-06,rs78613266,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+4,130301983,T,C,0.0203173,0.246341,0.0524823,2.68192e-06,rs28588878,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+4,162397239,C,T,0.950202,-0.15317,0.0332076,3.97858e-06,rs1450383,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+10,87205358,A,G,0.0342224,0.189202,0.0407952,3.52051e-06,rs140412810,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+10,104418069,C,T,0.185487,-0.0965184,0.0190435,4.01351e-07,rs11594462,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+19,50244171,A,G,0.176257,-0.0950894,0.0193462,8.87113e-07,rs600730,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+20,37349094,T,C,0.256516,0.0769797,0.0168407,4.85249e-06,rs6017943,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno
+22,49122304,C,T,0.567936,-0.0699877,0.0148949,2.61733e-06,rs135237,8225,Phosphate to EDTA ratio,TRUE,reported,m42Yno

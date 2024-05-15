@@ -1,0 +1,5 @@
+"beta.exposure","chr.exposure","pval.exposure","pos.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00800918,"1",4.79999e-10,43974091,278328,0.00128643,"ukb-b-14294","rs34898652","A","G",0.381991,"Invitation to complete online 24-hour recall dietary questionnaire, acceptance || id:ukb-b-14294",TRUE,"reported","igd"
+0.00731692,"2",8.30004e-09,144152539,278328,0.00126985,"ukb-b-14294","rs17824247","C","T",0.409328,"Invitation to complete online 24-hour recall dietary questionnaire, acceptance || id:ukb-b-14294",TRUE,"reported","igd"
+0.00701234,"8",2.1e-08,35051793,278328,0.00125194,"ukb-b-14294","rs13255011","T","C",0.479876,"Invitation to complete online 24-hour recall dietary questionnaire, acceptance || id:ukb-b-14294",TRUE,"reported","igd"
+-0.00714062,"8",3.69999e-08,4208282,278328,0.00129704,"ukb-b-14294","rs10105349","C","G",0.369902,"Invitation to complete online 24-hour recall dietary questionnaire, acceptance || id:ukb-b-14294",TRUE,"reported","igd"

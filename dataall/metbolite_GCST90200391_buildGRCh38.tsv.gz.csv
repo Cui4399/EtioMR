@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,92474854,T,C,0.121486,0.117437,0.023807,8.10357e-07,rs41313373,8222,Methionine levels,TRUE,reported,dvTDoy
+1,218796257,A,G,0.0196485,0.261269,0.0549138,1.95708e-06,rs149942876,8222,Methionine levels,TRUE,reported,dvTDoy
+2,6246094,T,C,0.216122,-0.0911228,0.018531,8.77393e-07,rs4669047,8222,Methionine levels,TRUE,reported,dvTDoy
+2,88347629,A,T,0.198358,0.0945487,0.0191134,7.54744e-07,rs1258432,8222,Methionine levels,TRUE,reported,dvTDoy
+2,165099470,C,G,0.0942083,0.128887,0.0261227,8.06045e-07,rs112414844,8222,Methionine levels,TRUE,reported,dvTDoy
+6,100350014,T,G,0.146093,0.106156,0.0219586,1.33557e-06,rs1876155,8222,Methionine levels,TRUE,reported,dvTDoy
+6,127519647,C,T,0.0188507,-0.26383,0.0567217,3.29824e-06,rs77721269,8222,Methionine levels,TRUE,reported,dvTDoy
+7,44199925,G,T,0.0137682,0.322425,0.0651535,7.47107e-07,rs7780890,8222,Methionine levels,TRUE,reported,dvTDoy
+10,13934810,T,C,0.208033,-0.0962758,0.0188049,3.05979e-07,rs7094952,8222,Methionine levels,TRUE,reported,dvTDoy
+12,3140340,G,C,0.469186,-0.0822858,0.0156965,1.58582e-07,rs687448,8222,Methionine levels,TRUE,reported,dvTDoy
+12,104000637,C,T,0.201449,0.0890793,0.0189975,2.74545e-06,rs2629804,8222,Methionine levels,TRUE,reported,dvTDoy
+14,43910941,A,T,0.0127751,0.317519,0.0677755,2.80144e-06,rs112387872,8222,Methionine levels,TRUE,reported,dvTDoy
+17,69062290,T,A,0.0154715,0.295729,0.0615476,1.54839e-06,rs74963919,8222,Methionine levels,TRUE,reported,dvTDoy

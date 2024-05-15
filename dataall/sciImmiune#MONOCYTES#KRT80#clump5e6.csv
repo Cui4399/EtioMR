@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",52583202,"rs10876243","G","A",3.02234627217e-09,-1.13517929571,0.19141763589855,89,"Classical monocyte#KRT80",TRUE,"reported","DBtF53",NA

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+20,3093394,rs1078152,A,G,-0.057609,1.20586863727985e-08,0.0101088,33848,0.755292,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3183573,rs77552846,G,A,-0.558068,4.32812704220228e-89,0.0278866,33848,0.0176968,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3449617,rs6133042,G,T,0.0602117,3.11099992042456e-15,0.00763491,33848,0.366802,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3616949,rs16988756,A,G,0.0788123,1.22039382074432e-25,0.00752936,33848,0.602656,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3702010,rs73078430,A,G,-0.394482,5.88843655355603e-180,0.0137909,33848,0.0751628,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3704313,rs735294,C,T,0.167511,4.54464537209508e-45,0.0118909,33848,0.105359,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3723440,rs139113395,A,G,0.286135,1.76807221773431e-23,0.0286557,33848,0.0172268,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3724485,rs28887921,G,A,-0.468683,1e-200,0.0129918,33848,0.0873725,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3730317,rs79905917,A,G,0.182413,1.63455673719756e-15,0.022898,33848,0.0263679,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3745137,rs41279386,A,G,-0.273603,1.67455725057512e-21,0.0287293,33848,0.016571,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3765423,rs6139202,T,A,0.112102,2.18122265608352e-16,0.0136516,33848,0.0787872,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis
+20,3813674,rs6107351,G,A,-0.112828,4.37320665169644e-23,0.0114024,33848,0.117514,siglec1_q9bzz2_oid20690_v1_inflammation,TRUE,reported,siglec1_q9bzz2_oid20690_v1_inflammation,chr20,3712558,cis

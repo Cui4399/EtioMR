@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,64068875,rs6011275,G,T,-0.1453,1.986e-64,0.008573,34864,0.32709,TCEA2_TCEA2,TRUE,reported,TCEA2_TCEA2

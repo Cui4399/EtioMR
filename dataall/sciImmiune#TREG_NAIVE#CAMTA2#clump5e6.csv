@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",4883045,"rs79255821","C","T",1.28548204421e-08,1.37902468587,0.242445266341968,89,"TREG_NAIVE#CAMTA2",TRUE,"reported","WBt71Q",NA

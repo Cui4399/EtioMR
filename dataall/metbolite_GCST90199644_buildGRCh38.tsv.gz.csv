@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,74873835,T,C,0.726808,0.101541,0.0178971,1.39856e-08,rs2529273,8137,Theobromine levels,TRUE,reported,MVWfYy
+19,40847202,C,T,0.576193,-0.105914,0.0155754,1.04562e-11,rs56113850,8137,Theobromine levels,TRUE,reported,MVWfYy

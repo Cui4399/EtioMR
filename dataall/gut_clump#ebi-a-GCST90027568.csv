@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,116156419,-0.0989242,0.0207844,1.9403e-06,7738,ebi-a-GCST90027568,rs949889,T,C,0.823369,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd
+2,76674303,0.0778904,0.0168419,3.74956e-06,7738,ebi-a-GCST90027568,rs7422743,T,C,0.640166,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd
+7,155059791,0.103922,0.0216546,1.59404e-06,7738,ebi-a-GCST90027568,rs4960720,G,T,0.841949,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd
+8,17620546,-0.108652,0.0237076,4.58311e-06,7738,ebi-a-GCST90027568,rs7012282,C,G,0.130547,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd
+19,35666550,-0.129859,0.028176,4.04893e-06,7738,ebi-a-GCST90027568,rs112199808,A,C,0.0920788,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd
+20,54115358,0.0823632,0.0163353,4.60606e-07,7738,ebi-a-GCST90027568,rs4356721,T,A,0.546723,PWY.6121..5.aminoimidazole.ribonucleotide.biosynthesis.I,TRUE,reported,igd

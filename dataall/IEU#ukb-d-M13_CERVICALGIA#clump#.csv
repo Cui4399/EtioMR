@@ -1,0 +1,3 @@
+"samplesize.exposure","chr.exposure","beta.exposure","pos.exposure","se.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,"8",0.00340355,120006577,0.000600921,1.48091e-08,"ukb-d-M13_CERVICALGIA","rs117044571","C","G",0.0125891,"Cervicalgia || id:ukb-d-M13_CERVICALGIA",TRUE,"reported","igd"
+361194,"16",0.00294125,57563510,0.000473981,5.4611e-10,"ukb-d-M13_CERVICALGIA","rs117999051","T","C",0.0186975,"Cervicalgia || id:ukb-d-M13_CERVICALGIA",TRUE,"reported","igd"

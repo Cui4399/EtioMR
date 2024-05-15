@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,127407902,rs61185143,C,T,0.1422,1.716e-70,0.008011,35366,0.42836,PROC_Protein_C,TRUE,reported,PROC_Protein_C
+2,127864696,rs144565814,T,C,-0.2131,1.16e-10,0.033067,35365,0.01325,PROC_Protein_C,TRUE,reported,PROC_Protein_C
+2,127928857,rs57021213,GTCTAA,GTCT,-0.291,5.652e-12,0.042246,35365,0.00919,PROC_Protein_C,TRUE,reported,PROC_Protein_C
+2,128278142,rs111339203,T,C,-0.1401,1.019e-09,0.022943,35362,0.03132,PROC_Protein_C,TRUE,reported,PROC_Protein_C

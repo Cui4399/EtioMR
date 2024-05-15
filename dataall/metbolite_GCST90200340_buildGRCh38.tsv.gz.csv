@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,35513542,C,A,0.0911187,-0.147136,0.0268566,4.28781e-08,rs12334629,8249,1-palmitoyl-2-oleoyl-gpc (16:0/18:1) levels,TRUE,reported,1eeJ7e
+15,58386313,T,C,0.288558,0.0962521,0.0170361,1.60546e-08,rs10468017,8249,1-palmitoyl-2-oleoyl-gpc (16:0/18:1) levels,TRUE,reported,1eeJ7e

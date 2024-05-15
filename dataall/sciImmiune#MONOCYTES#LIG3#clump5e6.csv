@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",33331575,"rs1052536","C","T",3.41953801013e-07,-0.764631202133,0.149965257686608,89,"Classical monocyte#LIG3",TRUE,"reported","nBtDFf",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,127701441,rs113520074,TGAATGAATGAAT,TGAAT,-0.2255,7.251e-13,0.03143,35365,0.01568,RPL12_RL12,TRUE,reported,RPL12_RL12

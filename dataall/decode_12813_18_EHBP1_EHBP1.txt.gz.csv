@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,62499374,rs13389363,G,A,0.0718,1.147e-08,0.01258,35341,0.11269,EHBP1_EHBP1,TRUE,reported,EHBP1_EHBP1

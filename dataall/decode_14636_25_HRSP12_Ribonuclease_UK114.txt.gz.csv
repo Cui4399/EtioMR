@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,97599652,rs1904272,G,A,-0.1093,2.636e-08,0.019644,35359,0.04599,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,97831841,rs11773963,G,T,-0.0539,4.188e-09,0.009172,35353,0.28042,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,98106394,rs2242197,C,A,-0.2696,1e-200,0.008509,35351,0.34906,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,98112195,rs144555285,AACACACACACACACACAC,AACAC,0.1502,4.814e-19,0.016845,35349,0.0636,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,98185035,rs13276153,G,A,-0.0768,1.256e-20,0.008248,35349,0.46059,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,98244635,rs11780117,C,T,-0.0973,1.118e-08,0.017035,35349,0.06229,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114
+8,98370934,rs72664876,A,G,-0.0929,6.141e-12,0.01351,35351,0.10315,HRSP12_Ribonuclease_UK114,TRUE,reported,HRSP12_Ribonuclease_UK114

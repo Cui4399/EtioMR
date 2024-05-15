@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,21106756,0.132735,0.0274414,1.31786e-06,7738,ebi-a-GCST90027527,rs4857976,G,A,0.878392,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+4,180320695,0.0969126,0.0196872,8.53945e-07,7738,ebi-a-GCST90027527,rs12508123,T,C,0.226339,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+11,116269470,-0.0927676,0.0186274,6.35243e-07,7738,ebi-a-GCST90027527,rs7102851,C,T,0.271372,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+13,60910291,0.0794238,0.0169979,2.97468e-06,7738,ebi-a-GCST90027527,rs2039970,T,C,0.633971,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+14,49342239,0.0827054,0.0178292,3.50502e-06,7738,ebi-a-GCST90027527,rs17699454,C,A,0.685024,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+16,90007889,0.144856,0.031383,3.91724e-06,7738,ebi-a-GCST90027527,rs80049853,A,G,0.0720914,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd
+18,39049087,0.114277,0.0242361,2.41529e-06,7738,ebi-a-GCST90027527,rs2703175,G,A,0.870736,PWY0.845..superpathway.of.pyridoxal.5..phosphate.biosynthesis.and.salvage,TRUE,reported,igd

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,1355705,rs181929025,T,C,-0.3449,2.394e-22,0.035471,35295,0.01519,MXRA8_MXRA8,TRUE,reported,MXRA8_MXRA8
+1,1379087,rs2313135,TTTTGTTGTTG,TTTTTTTGTTG,-0.1317,5.977e-11,0.020124,35240,0.04868,MXRA8_MXRA8,TRUE,reported,MXRA8_MXRA8

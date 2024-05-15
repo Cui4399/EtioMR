@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,153340595,rs141738509,C,A,-0.1795,1.126e-10,0.027834,35351,0.02076,PGLYRP3_PGRP_I_alpha,TRUE,reported,PGLYRP3_PGRP_I_alpha
+1,153343308,rs1865234,C,T,-0.0834,4.508e-10,0.013375,35349,0.10098,PGLYRP3_PGRP_I_alpha,TRUE,reported,PGLYRP3_PGRP_I_alpha

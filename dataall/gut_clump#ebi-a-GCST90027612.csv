@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,149922960,0.0993128,0.0211468,2.64856e-06,7738,ebi-a-GCST90027612,rs6587723,C,T,0.439362,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+3,171893650,0.0946118,0.0200558,2.38842e-06,7738,ebi-a-GCST90027612,rs6805759,G,A,0.527657,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+3,122859973,-0.0986201,0.0208141,2.15695e-06,7738,ebi-a-GCST90027612,rs836868,T,A,0.60273,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+4,163565725,-0.164383,0.0356172,3.926e-06,7738,ebi-a-GCST90027612,rs10489050,A,G,0.0855044,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+5,132025487,-0.16115,0.0295398,4.88754e-08,7738,ebi-a-GCST90027612,rs11242123,T,A,0.128552,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+6,150752939,-0.188862,0.0406074,3.30446e-06,7738,ebi-a-GCST90027612,rs617079,G,C,0.0630626,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+7,96371760,-0.0976871,0.0204011,1.6819e-06,7738,ebi-a-GCST90027612,rs1474383,C,T,0.637558,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+8,97003139,-0.111062,0.0232431,1.76824e-06,7738,ebi-a-GCST90027612,rs261555,A,G,0.768291,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+11,115095846,0.22683,0.04752,1.81184e-06,7738,ebi-a-GCST90027612,rs11215429,C,T,0.0526883,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd
+16,83249023,-0.221577,0.0439473,4.60988e-07,7738,ebi-a-GCST90027612,rs4783336,A,C,0.931331,PWY.7209..superpathway.of.pyrimidine.ribonucleosides.degradation,TRUE,reported,igd

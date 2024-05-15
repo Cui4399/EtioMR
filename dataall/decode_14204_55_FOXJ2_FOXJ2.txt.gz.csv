@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,8009504,rs12818933,C,T,0.0684,7.37e-17,0.008201,35378,0.3959,FOXJ2_FOXJ2,TRUE,reported,FOXJ2_FOXJ2

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,184449313,rs3775576,A,C,-0.0656,3.877e-09,0.011139,35375,0.14861,IRF2_IRF2,TRUE,reported,IRF2_IRF2

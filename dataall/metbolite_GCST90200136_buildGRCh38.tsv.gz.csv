@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53214206,C,T,0.317064,-0.114753,0.0161506,1.20168e-12,rs1056438,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+5,132341354,T,G,0.477149,-0.133706,0.0150117,5.25146e-19,rs11242109,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+6,53288916,A,C,0.294631,0.0909689,0.0164084,2.9555e-08,rs2294866,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+6,110438805,G,A,0.238909,-0.24632,0.0173304,7.5903e-46,rs12210538,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+8,86469658,T,G,0.266436,0.185867,0.0166699,7.16897e-29,rs13267782,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+11,68442953,T,C,0.146876,-0.127223,0.0213926,2.73021e-09,rs75202638,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC
+11,68631341,T,C,0.109164,0.291343,0.0238196,2.11734e-34,rs112549564,8266,Cerotoylcarnitine (C26) levels,TRUE,reported,TSmQhC

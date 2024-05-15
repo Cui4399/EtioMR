@@ -1,0 +1,4 @@
+"pos.exposure","chr.exposure","pval.exposure","se.exposure","samplesize.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+38801285,"4",3.40001e-09,0.000295252,463010,0.00174572,"ukb-b-15671","rs5743604","G","A",0.202951,"PCT where patients GP was registered: BRISTOL PCT || id:ukb-b-15671",TRUE,"reported","igd"
+176716977,"5",4.60002e-08,0.000243067,463010,0.00132878,"ukb-b-15671","rs10066035","T","C",0.581426,"PCT where patients GP was registered: BRISTOL PCT || id:ukb-b-15671",TRUE,"reported","igd"
+29443474,"15",2.90001e-08,0.000243977,463010,0.00135322,"ukb-b-15671","rs7181630","G","T",0.4178,"PCT where patients GP was registered: BRISTOL PCT || id:ukb-b-15671",TRUE,"reported","igd"

@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,206464055,rs9242,C,T,0.0639,1.166e-13,0.008611,35369,0.46419,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,206473692,rs41295994,A,G,-0.4274,3.207e-16,0.052344,35370,0.00773,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,206823039,rs142860569,T,C,-0.1077,3.482e-09,0.018232,35374,0.05869,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207097413,rs11799737,G,A,-0.1178,1.031e-12,0.01653,35369,0.07102,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207198947,rs61821042,T,G,0.1424,2.033e-15,0.017936,35370,0.06101,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207310047,rs142478061,A,G,0.1488,3.93e-09,0.025276,35375,0.02928,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207443242,rs201066857,CACACATATATATATATATATAT,CACACATATATATATATATATAG,-0.4633,9.201e-37,0.03658,35366,0.01417,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207450585,rs61240730,C,T,-0.2527,2.998e-94,0.01227,35377,0.14193,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207455002,rs41304111,G,A,0.1849,5.319e-12,0.02681,35377,0.02584,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207479647,rs4317805,G,A,-0.1785,7.92e-30,0.015735,35374,0.08135,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207495583,rs142764189,G,T,-0.2436,3.721e-32,0.020637,35370,0.04516,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,207808074,rs761276,G,A,-0.0777,7.434e-20,0.008519,35370,0.49345,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,208047691,rs116001867,T,C,-0.2522,4.033e-12,0.036361,35368,0.01421,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,208101847,rs12130322,A,G,0.1267,1.622e-10,0.019817,35368,0.04988,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2
+1,208237290,rs1272623,G,T,0.0576,2.437e-11,0.008626,35366,0.42983,CR2_Complement_receptor_type_2,TRUE,reported,CR2_Complement_receptor_type_2

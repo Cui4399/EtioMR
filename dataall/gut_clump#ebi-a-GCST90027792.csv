@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,158518939,-0.134336,0.0275221,1.05536e-06,7738,ebi-a-GCST90027792,rs9804152,C,T,0.741779,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ramulus,TRUE,reported,igd
+2,114128721,0.243283,0.0527119,3.92473e-06,7738,ebi-a-GCST90027792,rs12474753,T,C,0.0630051,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ramulus,TRUE,reported,igd
+3,62371898,0.213265,0.0456803,3.03194e-06,7738,ebi-a-GCST90027792,rs113157937,T,C,0.0862479,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ramulus,TRUE,reported,igd
+12,1510640,0.144177,0.0306873,2.62374e-06,7738,ebi-a-GCST90027792,rs10848471,A,C,0.205093,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ramulus,TRUE,reported,igd
+16,62133341,-0.124334,0.0241866,2.73867e-07,7738,ebi-a-GCST90027792,rs12935244,C,A,0.363694,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_ramulus,TRUE,reported,igd

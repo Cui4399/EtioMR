@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,116685849,A,G,0.614532,-0.0877729,0.0172986,3.89543e-07,rs4629532,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp
+6,43820118,A,G,0.106714,-0.12668,0.0272007,3.20477e-06,rs10948097,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp
+13,92142699,T,C,0.115624,-0.123198,0.0257971,1.79143e-06,rs16947062,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp
+14,77003341,G,C,0.0261204,-0.236507,0.0514518,4.29314e-06,rs113090221,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp
+20,41877556,T,C,0.171029,-0.107001,0.022027,1.18745e-06,rs6029865,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp
+20,42054954,A,G,0.230416,-0.0920291,0.0192836,1.82041e-06,rs1884033,7315,O-cresol sulfate levels,TRUE,reported,dLvuCp

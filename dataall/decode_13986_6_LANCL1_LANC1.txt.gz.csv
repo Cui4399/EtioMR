@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,209540477,rs116300280,T,C,-1.1029,3.636e-75,0.060121,35352,0.00424,LANCL1_LANC1,TRUE,reported,LANCL1_LANC1
+2,209971146,rs12476547,T,C,-0.6505,1.186e-47,0.044858,35353,0.0078,LANCL1_LANC1,TRUE,reported,LANCL1_LANC1
+2,210471107,rs3856343,C,A,0.078,1.255e-21,0.008165,35354,0.4979,LANCL1_LANC1,TRUE,reported,LANCL1_LANC1
+2,211167091,rs149640935,G,A,-0.3773,1.001e-15,0.047005,35356,0.00757,LANCL1_LANC1,TRUE,reported,LANCL1_LANC1

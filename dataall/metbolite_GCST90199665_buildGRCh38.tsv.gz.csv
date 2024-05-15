@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,159603660,T,C,0.226866,-0.0892841,0.018538,1.46264e-06,rs6695377,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+2,45870207,A,G,0.0820923,-0.136176,0.0283979,1.62445e-06,rs62127223,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+4,26544901,A,G,0.0114815,-0.330571,0.0723065,4.83537e-06,rs137945171,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+10,88032614,A,G,0.494379,0.0745846,0.0154974,1.48899e-06,rs2248456,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+12,83954847,A,G,0.0128793,-0.335037,0.0692125,1.29385e-06,rs117572246,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+17,72270399,G,A,0.260506,0.0822351,0.0175866,2.92522e-06,rs11868853,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW
+22,22924624,T,C,0.558491,0.0743278,0.0161645,4.26133e-06,rs409751,8148,N-acetylaspartate (naa) levels,TRUE,reported,XtaoSW

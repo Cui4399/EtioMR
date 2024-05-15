@@ -1,0 +1,6 @@
+pos.exposure,chr.exposure,beta.exposure,samplesize.exposure,se.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+188691469,1,0.6084,3437,0.1074,1.57801e-08,ebi-a-GCST90001509,rs61836370,G,A,0.0145,CD25++ CD45RA+ CD4 not regulatory T cell %T cell || id:ebi-a-GCST90001509,TRUE,reported,igd
+198922068,1,1.875,3437,0.1906,1.49589e-22,ebi-a-GCST90001509,rs116517602,T,C,0.0041,CD25++ CD45RA+ CD4 not regulatory T cell %T cell || id:ebi-a-GCST90001509,TRUE,reported,igd
+38895920,2,0.2465,3437,0.02917,4.21697e-17,ebi-a-GCST90001509,rs13024840,A,T,0.2587,CD25++ CD45RA+ CD4 not regulatory T cell %T cell || id:ebi-a-GCST90001509,TRUE,reported,igd
+39112166,2,-0.1952,3437,0.02627,1.35988e-13,ebi-a-GCST90001509,rs11124653,A,C,0.5911,CD25++ CD45RA+ CD4 not regulatory T cell %T cell || id:ebi-a-GCST90001509,TRUE,reported,igd
+6115171,10,0.1734,3437,0.03172,4.88495e-08,ebi-a-GCST90001509,rs10905719,A,G,0.2082,CD25++ CD45RA+ CD4 not regulatory T cell %T cell || id:ebi-a-GCST90001509,TRUE,reported,igd

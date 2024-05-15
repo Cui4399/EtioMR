@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,5296250,G,A,0.0975758,0.179809,0.0362842,7.21146e-07,rs4684474,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+3,35193824,C,G,0.0144945,0.404408,0.0883621,4.72346e-06,rs111453384,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+3,191744500,A,G,0.402466,0.104143,0.021667,1.5356e-06,rs709092,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+7,2663241,C,T,0.189727,-0.126358,0.0273923,3.97104e-06,rs7779625,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+9,93522063,C,G,0.019341,0.35806,0.0770565,3.37253e-06,rs145590927,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+9,127103411,T,C,0.0501074,-0.226375,0.049071,3.96501e-06,rs74514309,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+11,890405,C,T,0.491809,0.100402,0.0215678,3.23729e-06,rs7940112,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+13,94248748,A,C,0.040186,0.248839,0.0539475,3.97654e-06,rs58579729,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+13,109895269,G,A,0.0565654,-0.21231,0.0458343,3.61919e-06,rs76956050,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+16,60990580,T,C,0.0237064,0.357438,0.0703109,3.7019e-07,rs56210737,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+17,72600441,T,G,0.220851,-0.131396,0.0264643,6.86865e-07,rs11077615,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A
+19,15555949,T,C,0.0233285,0.323502,0.0708556,4.97951e-06,rs146106053,4197,4-acetaminophen sulfate levels,TRUE,reported,FrsI4A

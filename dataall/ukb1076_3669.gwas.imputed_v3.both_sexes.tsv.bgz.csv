@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+9387,0.0591015,0.0123809,1.83698e-06,"1",245312162,"A","G","rs4658437",0.943734,0.338143,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,-0.140632,0.0299474,2.69148e-06,"2",240476126,"T","C","rs1386001",0.873999,0.0441674,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,0.0609741,0.011864,2.81153e-07,"4",6000107,"T","A","rs6811952",0.99004,0.369689,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,0.124411,0.0271681,4.72514e-06,"10",56973794,"A","G","rs117417471",0.935735,0.0494167,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,-0.0591956,0.0128417,4.08713e-06,"11",130262526,"C","A","rs10791075",1,0.720867,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,0.0662983,0.0141821,2.98376e-06,"19",55374472,"C","A","rs12980151",0.93336,0.242616,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"
+9387,0.0948446,0.0188374,4.86956e-07,"22",49438481,"G","A","rs11702959",1,0.102855,NA,"Lifetime number of same-sex sexual partners",TRUE,"reported","9HiHjb","Lifestyle and behavior","ukb1076"

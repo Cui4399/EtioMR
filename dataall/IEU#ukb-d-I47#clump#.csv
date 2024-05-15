@@ -1,0 +1,3 @@
+"pval.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.98655e-08,0.000543523,0.00296324,361194,28965430,"2","ukb-d-I47","rs75657792","C","G",0.0252957,"Diagnoses - main ICD10: I47 Paroxysmal tachycardia || id:ukb-d-I47",TRUE,"reported","igd"
+3.34557e-08,0.000285081,0.00157434,361194,7811772,"16","ukb-d-I47","rs2967550","G","A",0.095513,"Diagnoses - main ICD10: I47 Paroxysmal tachycardia || id:ukb-d-I47",TRUE,"reported","igd"

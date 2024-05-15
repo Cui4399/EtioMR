@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,168363957,C,T,0.232714,-0.119409,0.0182893,6.62525e-11,rs41342544,8245,Glycosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,Un6mEu
+4,47411104,T,C,0.356362,0.116376,0.0159791,3.26516e-13,rs7659411,8245,Glycosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,Un6mEu
+4,47543124,A,C,0.176294,0.333482,0.02026,7.0924e-61,rs35818294,8245,Glycosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,Un6mEu
+9,8329348,T,C,0.044797,0.205923,0.0376326,4.45158e-08,rs117779137,8245,Glycosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,Un6mEu

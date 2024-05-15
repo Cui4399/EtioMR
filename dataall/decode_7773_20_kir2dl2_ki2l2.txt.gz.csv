@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,54761378,rs11667854,G,C,0.0515,7.169e-10,0.008357,35372,0.29451,kir2dl2_ki2l2,TRUE,reported,kir2dl2_ki2l2

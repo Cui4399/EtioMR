@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,175596081,rs10913027,T,C,0.076,1.257e-08,0.013353,35342,0.10146,TNR_TENR,TRUE,reported,TNR_TENR
+1,175599911,rs2235256,G,A,-0.1315,1.667e-59,0.008083,35340,0.4708,TNR_TENR,TRUE,reported,TNR_TENR

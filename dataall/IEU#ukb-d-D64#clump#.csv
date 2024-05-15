@@ -1,0 +1,3 @@
+"se.exposure","pos.exposure","chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000273653,32557606,"6",0.00169257,6.21284e-10,361194,"ukb-d-D64","rs17211105","A","G",0.526409,"Diagnoses - main ICD10: D64 Other anaemias || id:ukb-d-D64",TRUE,"reported","igd"
+0.000354572,32618592,"6",0.00232119,5.89929e-11,361194,"ukb-d-D64","rs28811643","A","G",0.196686,"Diagnoses - main ICD10: D64 Other anaemias || id:ukb-d-D64",TRUE,"reported","igd"

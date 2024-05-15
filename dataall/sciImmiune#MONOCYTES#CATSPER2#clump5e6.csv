@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"15",44151299,"rs16977724","C","T",9.06383460089e-13,-1.20632163667,0.168857472545167,89,"Classical monocyte#CATSPER2",TRUE,"reported","T2fZ50",NA

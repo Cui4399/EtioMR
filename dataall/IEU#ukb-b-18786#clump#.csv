@@ -1,0 +1,5 @@
+"beta.exposure","pos.exposure","se.exposure","pval.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00130548,22470451,0.000230173,1.40001e-08,"1",463010,"ukb-b-18786","rs55938609","C","G",0.146827,"Operative procedures - main OPCS: P23.2 Anterior colporrhaphy NEC || id:ukb-b-18786",TRUE,"reported","igd"
+0.000998156,20878406,0.000169179,3.59998e-09,"2",463010,"ukb-b-18786","rs3072","C","T",0.36523,"Operative procedures - main OPCS: P23.2 Anterior colporrhaphy NEC || id:ukb-b-18786",TRUE,"reported","igd"
+-0.0011928,114671418,0.000190029,3.50002e-10,"12",463010,"ukb-b-18786","rs11067004","G","A",0.243084,"Operative procedures - main OPCS: P23.2 Anterior colporrhaphy NEC || id:ukb-b-18786",TRUE,"reported","igd"
+-0.00160182,51488129,0.00020272,2.80027e-15,"16",463010,"ukb-b-18786","rs12325192","T","C",0.201086,"Operative procedures - main OPCS: P23.2 Anterior colporrhaphy NEC || id:ukb-b-18786",TRUE,"reported","igd"

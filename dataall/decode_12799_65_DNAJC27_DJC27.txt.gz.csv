@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,24970202,rs80098057,C,T,0.0675,3.943e-08,0.012288,35360,0.1145,DNAJC27_DJC27,TRUE,reported,DNAJC27_DJC27

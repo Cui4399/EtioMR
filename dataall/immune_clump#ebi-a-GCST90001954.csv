@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,samplesize.exposure,se.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,247719769,0.4881,1555,0.07845,6.29593e-10,ebi-a-GCST90001954,rs56043070,A,G,0.0566,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51538952,0.3421,1555,0.04576,1.26386e-13,ebi-a-GCST90001954,rs79377141,A,G,0.2006,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51742145,-0.4918,1555,0.07051,4.52898e-12,ebi-a-GCST90001954,rs75773078,A,G,0.0707,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51574038,-0.3642,1555,0.04217,1.39991e-17,ebi-a-GCST90001954,rs7351079,G,A,0.2579,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51868443,0.5176,1555,0.07238,1.32892e-12,ebi-a-GCST90001954,rs58483275,T,C,0.0733,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51731176,-1.131,1555,0.03861,1.81134e-150,ebi-a-GCST90001954,rs7245846,A,G,0.1939,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd
+19,51897760,-0.5454,1555,0.06799,2.03798e-15,ebi-a-GCST90001954,rs111695695,A,C,0.0772,CD33 on basophil || id:ebi-a-GCST90001954,TRUE,reported,igd

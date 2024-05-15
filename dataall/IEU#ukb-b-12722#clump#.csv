@@ -1,0 +1,5 @@
+"pos.exposure","pval.exposure","samplesize.exposure","se.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+22468215,3.80014e-12,462933,0.000350424,0.00243396,"1","ukb-b-12722","rs3820282","T","C",0.156452,"Non-cancer illness code, self-reported: uterine fibroids || id:ukb-b-12722",TRUE,"reported","igd"
+152554014,1.20005e-14,462933,0.00035328,0.00272684,"6","ukb-b-12722","rs71575922","G","C",0.155781,"Non-cancer illness code, self-reported: uterine fibroids || id:ukb-b-12722",TRUE,"reported","igd"
+32364187,8.10028e-14,462933,0.000349463,0.00260975,"11","ukb-b-12722","rs2057178","A","G",0.156832,"Non-cancer illness code, self-reported: uterine fibroids || id:ukb-b-12722",TRUE,"reported","igd"
+40711620,3.50026e-11,462933,0.000315053,0.00208742,"22","ukb-b-12722","rs17332320","T","G",0.205786,"Non-cancer illness code, self-reported: uterine fibroids || id:ukb-b-12722",TRUE,"reported","igd"

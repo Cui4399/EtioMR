@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,85716875,T,A,0.248084,0.0854459,0.0184026,3.43142e-06,rs9835772,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+3,85734934,A,C,0.246808,0.0900947,0.0184699,1.07218e-06,rs71626890,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+5,147165476,T,G,0.0105588,0.381588,0.077535,8.58891e-07,rs144572613,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+5,157971209,T,C,0.329224,0.0824692,0.0169246,1.10053e-06,rs4704764,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+6,24406590,G,A,0.0114816,-0.365439,0.0744863,9.28965e-07,rs141908680,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+6,93353191,G,A,0.0590618,0.173847,0.0332941,1.77421e-07,rs12206384,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+9,87562945,T,G,0.0251687,-0.249849,0.0507538,8.53335e-07,rs35922489,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+10,93985771,G,T,0.0467635,0.175524,0.0377985,3.42265e-06,rs76689584,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+13,88360022,C,T,0.0397935,-0.193805,0.0406578,1.87232e-06,rs117318203,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+14,21155677,A,G,0.782521,-0.0890558,0.0189265,2.53432e-06,rs4982419,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+14,65164671,A,G,0.0200443,-0.259369,0.0551402,2.55347e-06,rs146205589,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+15,94562941,A,G,0.0599444,0.163541,0.033811,1.3186e-06,rs12915700,7722,2-methylserine levels,TRUE,reported,ZHzlYN
+17,14098472,A,G,0.838689,-0.103404,0.0217622,2.01896e-06,rs9904926,7722,2-methylserine levels,TRUE,reported,ZHzlYN

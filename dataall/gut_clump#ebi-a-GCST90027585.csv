@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,124367989,0.124899,0.025869,1.37803e-06,7738,ebi-a-GCST90027585,rs13388077,T,C,0.120233,PWY.6590..superpathway.of.Clostridium.acetobutylicum.acidogenic.fermentation,TRUE,reported,igd
+11,2473980,-0.0948002,0.0202008,2.69377e-06,7738,ebi-a-GCST90027585,rs739677,A,G,0.784264,PWY.6590..superpathway.of.Clostridium.acetobutylicum.acidogenic.fermentation,TRUE,reported,igd
+22,43714716,-0.0814187,0.017727,4.37069e-06,7738,ebi-a-GCST90027585,rs5996309,G,A,0.558541,PWY.6590..superpathway.of.Clostridium.acetobutylicum.acidogenic.fermentation,TRUE,reported,igd

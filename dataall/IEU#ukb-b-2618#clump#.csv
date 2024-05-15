@@ -1,0 +1,6 @@
+"se.exposure","pos.exposure","samplesize.exposure","beta.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.002408,396321,456380,0.0159413,"6",3.59998e-11,"ukb-b-2618","rs12203592","T","C",0.219436,"Nitrogen dioxide air pollution; 2005 || id:ukb-b-2618",TRUE,"reported","igd"
+0.00226879,10153460,456380,0.0154062,"8",1.10002e-11,"ukb-b-2618","rs77205736","T","C",0.274855,"Nitrogen dioxide air pollution; 2005 || id:ukb-b-2618",TRUE,"reported","igd"
+0.00280286,120416066,456380,0.0163113,"9",5.89997e-09,"ukb-b-2618","rs10983735","A","G",0.154461,"Nitrogen dioxide air pollution; 2005 || id:ukb-b-2618",TRUE,"reported","igd"
+0.00215704,129281256,456380,0.0127201,"10",3.69999e-09,"ukb-b-2618","rs34623735","T","C",0.33449,"Nitrogen dioxide air pollution; 2005 || id:ukb-b-2618",TRUE,"reported","igd"
+0.0043153,63379906,456380,-0.0248919,"17",8e-09,"ukb-b-2618","rs7225402","C","T",0.058308,"Nitrogen dioxide air pollution; 2005 || id:ukb-b-2618",TRUE,"reported","igd"

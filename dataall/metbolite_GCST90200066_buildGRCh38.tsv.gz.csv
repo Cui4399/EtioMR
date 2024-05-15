@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,68782815,A,G,0.031748,-0.200378,0.0436134,4.33965e-06,rs78540919,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+2,202359473,C,T,0.0215801,0.248474,0.0521137,1.86147e-06,rs148120284,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+5,134577224,T,C,0.0180224,-0.274523,0.0575761,1.86057e-06,rs140711410,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+7,70260661,C,T,0.017831,0.281163,0.0581581,1.33504e-06,rs117658709,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+8,136519462,A,G,0.0471721,-0.164597,0.0359545,4.69602e-06,rs725088,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+12,59950137,C,G,0.222753,-0.0849257,0.0183498,3.68953e-06,rs7965967,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+12,78098591,G,A,0.176323,0.092718,0.0200412,3.72147e-06,rs443544,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+13,80035365,G,A,0.0517494,0.167637,0.0348007,1.457e-06,rs3850072,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+14,54154690,T,A,0.812079,0.0937709,0.0196262,1.77192e-06,rs811150,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+15,36952715,G,T,0.441317,0.0821802,0.015326,8.22406e-08,rs844380,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+19,15879621,T,C,0.297166,0.0860048,0.0164968,1.85391e-07,rs2108622,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL
+22,30362247,T,C,0.162789,-0.108901,0.0205104,1.0989e-07,rs5994294,8231,Gamma-tocopherol/beta-tocopherol levels,TRUE,reported,sWJfHL

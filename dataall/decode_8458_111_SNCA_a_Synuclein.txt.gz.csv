@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,89915368,rs2119785,C,A,0.0461,1.105e-08,0.008068,35345,0.47647,SNCA_a_Synuclein,TRUE,reported,SNCA_a_Synuclein

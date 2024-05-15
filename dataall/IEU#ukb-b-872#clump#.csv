@@ -1,0 +1,6 @@
+"pval.exposure","se.exposure","pos.exposure","chr.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4e-10,0.000202579,60762502,"2",-0.00126661,462933,"ukb-b-872","rs2556378","G","T",0.842826,"Operation code: transurethral resection of prostate (turp) || id:ukb-b-872",TRUE,"reported","igd"
+1.50003e-11,0.000148687,1325590,"5",-0.00100404,462933,"ukb-b-872","rs421284","C","T",0.442594,"Operation code: transurethral resection of prostate (turp) || id:ukb-b-872",TRUE,"reported","igd"
+1.79999e-08,0.000177012,123052728,"10",0.000996035,462933,"ukb-b-872","rs12413088","T","C",0.227606,"Operation code: transurethral resection of prostate (turp) || id:ukb-b-872",TRUE,"reported","igd"
+1.69981e-11,0.000150033,19902868,"18",-0.00100985,462933,"ukb-b-872","rs7240035","C","T",0.588284,"Operation code: transurethral resection of prostate (turp) || id:ukb-b-872",TRUE,"reported","igd"
+1.2e-08,0.000154661,32104979,"19",-0.000881031,462933,"ukb-b-872","rs11084596","C","T",0.384353,"Operation code: transurethral resection of prostate (turp) || id:ukb-b-872",TRUE,"reported","igd"

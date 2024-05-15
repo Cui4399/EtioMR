@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,30414680,rs11640950,A,T,-0.0598,6.975e-10,0.009697,35370,0.23566,DCTPP1_XTP3A,TRUE,reported,DCTPP1_XTP3A

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,82035127,CAATT,C,0.120412,-0.156679,0.0219592,9.68e-13,rs113563509,8219,Arabitol/xylitol levels,TRUE,reported,c9AHBR

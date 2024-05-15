@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61829161,T,C,0.343393,-0.1932,0.0160993,3.52912e-33,rs99780,8170,Arachidonoylcholine levels,TRUE,reported,RTX4UG

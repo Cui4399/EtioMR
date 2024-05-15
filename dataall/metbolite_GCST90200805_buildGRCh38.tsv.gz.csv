@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.34985,0.106237,0.0171421,5.7389e-10,rs3811444,7338,Spermidine to carnitine ratio,TRUE,reported,mphzYl
+10,59707424,T,G,0.768879,-0.180931,0.0197809,5.86543e-20,rs1171617,7338,Spermidine to carnitine ratio,TRUE,reported,mphzYl

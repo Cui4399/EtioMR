@@ -1,0 +1,4 @@
+"pval.exposure","se.exposure","chr.exposure","beta.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.09999e-08,0.00241097,"2",0.013767,127847736,64949,"ukb-b-1004","rs35589443","C","A",0.029631,"Added milk to espresso || id:ukb-b-1004",TRUE,"reported","igd"
+3.2e-09,0.00518651,"6",0.0307116,112641604,64949,"ukb-b-1004","rs145000274","A","G",0.006623,"Added milk to espresso || id:ukb-b-1004",TRUE,"reported","igd"
+1.79999e-08,0.00521927,"8",0.0294029,59121498,64949,"ukb-b-1004","rs185902152","T","C",0.006652,"Added milk to espresso || id:ukb-b-1004",TRUE,"reported","igd"

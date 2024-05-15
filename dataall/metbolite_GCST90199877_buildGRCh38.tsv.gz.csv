@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,55376062,C,A,0.908305,-0.155797,0.0338462,4.16281e-06,rs2746683,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+2,140726295,T,G,0.0560691,-0.203252,0.0424749,1.70789e-06,rs10496852,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+2,233672032,C,T,0.0172691,0.515087,0.0744747,4.63661e-12,rs72551330,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+3,98479801,A,T,0.0166026,0.361472,0.0768442,2.55166e-06,rs186575754,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+6,36941406,A,C,0.198438,-0.116648,0.0254613,4.61894e-06,rs139354998,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+7,140381399,C,G,0.565422,0.0984882,0.0200428,8.92847e-07,rs7786963,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+16,70587483,C,G,0.0100664,0.454444,0.0973791,3.06002e-06,rs138934274,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+16,76376973,G,A,0.0219228,-0.322214,0.0674372,1.7706e-06,rs79121515,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG
+21,24131863,G,T,0.500214,-0.095269,0.0201888,2.37127e-06,rs1632197,4989,Indole-3-carboxylate levels,TRUE,reported,Itp4rG

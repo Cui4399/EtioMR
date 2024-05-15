@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,76489948,A,C,0.52504,0.0827734,0.0145693,1.33641e-08,rs10029860,8210,"5,6-dihydrouridine levels",TRUE,reported,Mx9vIX
+15,84895338,C,T,0.0122726,-0.431655,0.0664494,8.24901e-11,rs117958023,8210,"5,6-dihydrouridine levels",TRUE,reported,Mx9vIX
+15,84935465,T,C,0.015545,-0.341909,0.0589871,6.77817e-09,rs2242047,8210,"5,6-dihydrouridine levels",TRUE,reported,Mx9vIX
+15,84955430,C,T,0.062868,-0.282315,0.0300068,5.03991e-21,rs55990066,8210,"5,6-dihydrouridine levels",TRUE,reported,Mx9vIX

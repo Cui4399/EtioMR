@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,71648236,-0.119933,0.0239168,5.31423e-07,7738,ebi-a-GCST90027640,rs13081091,G,C,0.160773,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+5,9854281,-0.0942458,0.0181659,2.12505e-07,7738,ebi-a-GCST90027640,rs2905195,A,G,0.626723,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+8,131398888,-0.0956524,0.0203682,2.65088e-06,7738,ebi-a-GCST90027640,rs6415517,C,T,0.801812,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+10,65461793,0.0788718,0.0164734,1.68601e-06,7738,ebi-a-GCST90027640,rs10995587,A,G,0.558923,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+12,45418145,0.111306,0.0239608,3.39508e-06,7738,ebi-a-GCST90027640,rs35540499,T,C,0.133727,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+14,101474982,-0.0820298,0.0166931,8.92401e-07,7738,ebi-a-GCST90027640,rs10136671,G,T,0.407849,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd
+16,82364858,0.104983,0.0223873,2.74e-06,7738,ebi-a-GCST90027640,rs1873433,T,C,0.164495,RHAMCAT.PWY..L.rhamnose.degradation.I,TRUE,reported,igd

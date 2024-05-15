@@ -1,0 +1,3 @@
+"pos.exposure","pval.exposure","samplesize.exposure","beta.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+53802494,6.79986e-19,463010,0.00188328,0.000212114,"16","ukb-b-15541","rs11642015","T","C",0.403654,"Diagnoses - secondary ICD10: E66.9 Obesity, unspecified || id:ukb-b-15541",TRUE,"reported","igd"
+57739840,2.19999e-10,463010,0.00149534,0.000235518,"18","ukb-b-15541","rs7231987","T","G",0.267232,"Diagnoses - secondary ICD10: E66.9 Obesity, unspecified || id:ukb-b-15541",TRUE,"reported","igd"

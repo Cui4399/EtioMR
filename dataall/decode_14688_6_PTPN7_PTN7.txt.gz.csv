@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,202160068,rs73085637,C,T,-0.0722,1.253e-10,0.011224,35355,0.14452,PTPN7_PTN7,TRUE,reported,PTPN7_PTN7
+1,202630182,rs113998749,A,G,-0.1566,4.399e-08,0.028608,35360,0.01933,PTPN7_PTN7,TRUE,reported,PTPN7_PTN7

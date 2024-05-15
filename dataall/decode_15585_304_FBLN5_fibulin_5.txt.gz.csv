@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,91882631,rs2430349,G,A,-0.0839,7.089e-20,0.009193,35363,0.26718,FBLN5_fibulin_5,TRUE,reported,FBLN5_fibulin_5
+14,91912809,rs368482801,CAAAAAAAAAAAA,CAAAAAAAAAA,0.0805,1.645e-16,0.009763,35359,0.22989,FBLN5_fibulin_5,TRUE,reported,FBLN5_fibulin_5
+14,91945208,rs57271358,C,G,0.1106,8.664e-12,0.0162,35362,0.06718,FBLN5_fibulin_5,TRUE,reported,FBLN5_fibulin_5

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,182087085,-0.165347,0.0350184,2.33873e-06,7738,ebi-a-GCST90027480,rs55920379,G,A,0.0677707,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd
+1,202675394,-0.0818249,0.0179244,4.99505e-06,7738,ebi-a-GCST90027480,rs4400672,C,T,0.321899,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd
+3,77476968,-0.158737,0.0331685,1.70326e-06,7738,ebi-a-GCST90027480,rs73099859,G,A,0.0727707,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd
+9,136149830,0.111866,0.02158,2.17445e-07,7738,ebi-a-GCST90027480,rs532436,A,G,0.177259,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd
+13,76403224,0.162906,0.0354128,4.22105e-06,7738,ebi-a-GCST90027480,rs79035992,A,G,0.0562931,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd
+20,14523969,0.0774429,0.0168241,4.16246e-06,7738,ebi-a-GCST90027480,rs2208125,G,A,0.375845,HEXITOLDEGSUPER.PWY..superpathway.of.hexitol.degradation..bacteria.,TRUE,reported,igd

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,215621311,T,C,0.0276694,0.212664,0.0449392,2.22046e-06,rs76647235,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ
+4,155995909,C,T,0.0707293,0.134855,0.028999,3.31434e-06,rs72683541,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ
+8,128376977,T,C,0.0139381,-0.292098,0.0636726,4.4858e-06,rs10109687,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ
+8,130805295,T,C,0.257456,-0.0789551,0.017135,4.06872e-06,rs72712449,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ
+11,95025674,T,C,0.0427031,0.169875,0.036857,4.04558e-06,rs16921265,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ
+12,128086659,T,G,0.361649,-0.0804814,0.015422,1.80258e-07,rs10847526,8218,Trimethylamine n-oxide levels,TRUE,reported,YconfQ

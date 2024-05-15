@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"20",9508073,"rs6056670","G","T",1.4816718317e-06,-0.890417557998,0.184976017591028,89,"Classical monocyte#LAMP5",TRUE,"reported","ezNKT4",NA

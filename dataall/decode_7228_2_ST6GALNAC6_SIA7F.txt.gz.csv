@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,127622891,rs72769820,C,A,0.1856,2.279e-20,0.020068,35365,0.04356,ST6GALNAC6_SIA7F,TRUE,reported,ST6GALNAC6_SIA7F
+9,127671144,rs79076703,ACACA,ACACC,0.1424,3.341e-12,0.020452,35365,0.04062,ST6GALNAC6_SIA7F,TRUE,reported,ST6GALNAC6_SIA7F
+9,127897127,rs7027357,A,G,-0.0943,1.382e-12,0.013308,35356,0.10485,ST6GALNAC6_SIA7F,TRUE,reported,ST6GALNAC6_SIA7F
+9,127897953,rs3758330,C,T,-0.1045,2.883e-12,0.014964,35356,0.08026,ST6GALNAC6_SIA7F,TRUE,reported,ST6GALNAC6_SIA7F

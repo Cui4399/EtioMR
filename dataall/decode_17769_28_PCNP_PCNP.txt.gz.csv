@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,101631980,rs13060373,G,A,0.0816,1.213e-23,0.008142,35331,0.48632,PCNP_PCNP,TRUE,reported,PCNP_PCNP

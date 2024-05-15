@@ -1,0 +1,10 @@
+pval.exposure,pos.exposure,chr.exposure,beta.exposure,samplesize.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6.75461e-12,190079170,1,-1.565,3437,0.2272,ebi-a-GCST90001503,rs138915779,A,C,0.0035,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+3.3512e-17,199999121,1,-1.573,3437,0.1855,ebi-a-GCST90001503,rs11579717,A,G,0.0044,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+1.30707e-21,198151688,1,-2.11,3437,0.2195,ebi-a-GCST90001503,rs113435341,G,A,0.0032,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+1.20601e-08,38897249,2,-0.1572,3437,0.02752,ebi-a-GCST90001503,rs12712610,G,A,0.2975,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+5.13098e-09,123422719,4,-2.923,3437,0.4989,ebi-a-GCST90001503,rs138960714,C,A,6e-04,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+3.87097e-08,37427289,7,0.1992,3437,0.03616,ebi-a-GCST90001503,rs74830391,T,C,0.1525,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+2.64101e-09,6185310,10,-0.1567,3437,0.02626,ebi-a-GCST90001503,rs11256966,G,C,0.3848,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+1.38007e-13,6094697,10,0.4097,3437,0.05516,ebi-a-GCST90001503,rs61839660,T,C,0.0543,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd
+2.68398e-08,47814108,22,-2.662,3437,0.4776,ebi-a-GCST90001503,rs147838148,G,T,6e-04,Activated & secreting CD4 regulatory T cell %CD4+ T cell || id:ebi-a-GCST90001503,TRUE,reported,igd

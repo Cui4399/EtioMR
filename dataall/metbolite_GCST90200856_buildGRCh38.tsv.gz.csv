@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21493549,G,A,0.400075,0.106444,0.0156417,1.00939e-11,rs12132412,8258,Phosphate to glutamine ratio,TRUE,reported,2fcM9N
+12,56471554,G,A,0.195162,0.201982,0.018836,7.92201e-27,rs2657879,8258,Phosphate to glutamine ratio,TRUE,reported,2fcM9N

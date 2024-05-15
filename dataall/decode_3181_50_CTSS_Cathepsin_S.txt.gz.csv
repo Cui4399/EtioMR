@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,149801828,rs1321232,C,G,-0.1475,1.174e-30,0.012815,35345,0.12635,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,149817229,rs142146636,C,A,-0.1704,1.337e-16,0.020604,35347,0.04103,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,149904818,rs28642307,T,A,0.0927,4.818e-16,0.011422,35354,0.1456,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,149912127,rs115021769,G,A,-0.1919,7.913e-14,0.025683,35356,0.025,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,150187231,rs111542526,TAA,TA,0.2361,2.736e-123,0.009998,35353,0.20443,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,150494620,rs141935877,A,T,-0.542,1e-200,0.010701,35362,0.09582,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,150570652,rs11204666,T,C,0.1177,1.116e-30,0.010222,35358,0.19498,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,150775658,rs143634417,CTTATTTTATTTTATTTTATT,CTTATTTTATT,-0.305,1e-200,0.009529,35362,0.23279,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,150835138,rs11459475,CAA,C,0.1703,6.486e-40,0.012879,35363,0.11431,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,151564209,rs72692721,T,C,0.0827,2.102e-19,0.009181,35364,0.26508,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,151657890,rs185831765,C,A,-0.4918,3.51e-64,0.029075,35365,0.01974,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S
+1,151764873,rs1196456,A,T,-0.0864,6.066e-15,0.011073,35365,0.16053,CTSS_Cathepsin_S,TRUE,reported,CTSS_Cathepsin_S

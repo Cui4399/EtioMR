@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,3211589,T,C,0.117487,0.121118,0.0238351,3.74526e-07,rs17028699,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+3,158194544,T,C,0.0427283,0.175911,0.0377752,3.21176e-06,rs141988268,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+4,159438824,A,C,0.94961,-0.176649,0.0351179,4.90051e-07,rs949204,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+5,92863313,C,T,0.0100012,0.347447,0.0757916,4.55625e-06,rs140798906,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+6,78464403,T,C,0.584908,-0.0795037,0.0157707,4.62576e-07,rs9294112,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+10,49522298,T,C,0.0194204,0.256704,0.0545011,2.47623e-06,rs117215329,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+10,126043660,T,C,0.212774,-0.0897994,0.0184176,1.08402e-06,rs11244781,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+12,39096642,C,A,0.0116945,-0.325404,0.0704489,3.85587e-06,rs76358805,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+16,4292671,A,G,0.0178239,-0.265368,0.0576737,4.2008e-06,rs11641923,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF
+17,22734962,A,G,0.018654,0.266147,0.0563105,2.2851e-06,rs117088632,8229,Cysteine s-sulfate levels,TRUE,reported,jchCrF

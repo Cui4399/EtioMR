@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,94043929,rs79811936,T,C,-0.1738,2.003e-15,0.021886,35371,0.03226,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94285014,rs56317088,G,A,-0.1383,6.448e-10,0.022382,35372,0.03193,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94474319,rs12898007,C,T,-0.053,1.14e-10,0.008221,35372,0.3431,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94517102,rs66979124,G,A,0.0506,1.167e-09,0.008316,35372,0.33433,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94611890,rs111397271,A,G,-0.2752,3.164e-18,0.031612,35372,0.0137,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94631329,rs61976127,G,A,-0.2405,1.146e-128,0.009966,35372,0.188,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94658230,rs12880775,C,A,0.0965,1.019e-26,0.009019,35372,0.24235,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94733580,rs75248972,T,C,-0.2061,3.666e-22,0.021291,35371,0.03384,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94795946,rs1341000,A,G,-0.183,8.615e-15,0.023588,35364,0.02775,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin
+14,94827420,rs56906827,T,C,-0.0563,1.338e-08,0.00991,35365,0.1882,SERPINA3_a1_Antichymotrypsin,TRUE,reported,SERPINA3_a1_Antichymotrypsin

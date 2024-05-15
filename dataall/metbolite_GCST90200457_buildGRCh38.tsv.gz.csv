@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,63122765,G,T,0.0352164,0.188051,0.0402161,2.9251e-06,rs7543700,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+1,159669141,C,T,0.254412,-0.0828676,0.0171642,1.37967e-06,rs1971863,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+3,47628057,T,A,0.6441,-0.0773527,0.0158291,1.02515e-06,rs12497825,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+3,194249062,C,G,0.141512,-0.102078,0.0222238,4.36555e-06,rs10933724,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+4,156785921,A,G,0.050351,-0.171297,0.0341714,5.36222e-07,rs116530753,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+5,96814807,C,T,0.0357013,-0.185285,0.0402919,4.25407e-06,rs79859092,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+6,156379682,A,G,0.377642,0.0722253,0.0155278,3.29775e-06,rs2819083,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+12,24993537,C,G,0.0199563,0.249889,0.0531438,2.57464e-06,rs79507970,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7
+19,56248382,A,G,0.0627141,-0.159877,0.030565,1.68837e-07,rs113915691,8273,Pentadecanoate (15:0) levels,TRUE,reported,5RWWM7

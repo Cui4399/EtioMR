@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,189133868,G,A,0.11042,-0.125056,0.0263867,2.14421e-06,rs79669700,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+5,53844610,A,G,0.0105169,0.373791,0.0813774,4.36275e-06,rs146479554,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+7,86616820,C,G,0.0162284,0.307688,0.0654801,2.61495e-06,rs144934337,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+8,19039193,A,C,0.387619,-0.0809505,0.0170417,2.03277e-06,rs6984468,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+10,69503068,A,G,0.161711,-0.106353,0.0226239,2.59024e-06,rs12263764,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+13,30206451,C,T,0.236184,0.0885431,0.0193436,4.70822e-06,rs17632858,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+16,785298,T,C,0.243467,-0.0876155,0.0191484,4.74854e-06,rs1052629,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6
+21,36079492,G,C,0.0513488,-0.171554,0.0374041,4.5073e-06,rs73210610,7328,Cholate to taurocholate ratio,TRUE,reported,4EKmt6

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,59708831,T,G,0.770884,-0.118696,0.0163384,3.73543e-13,rs1171616,8235,Glycerol to carnitine ratio,TRUE,reported,fxNM7a
+18,61632432,C,G,0.931801,-0.152141,0.0274311,2.91798e-08,rs7241147,8235,Glycerol to carnitine ratio,TRUE,reported,fxNM7a

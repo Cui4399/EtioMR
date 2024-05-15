@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,120099185,A,C,0.0311103,-0.216364,0.0465553,3.3604e-06,rs75723819,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+4,36572660,C,G,0.0144557,-0.31713,0.0663985,1.78675e-06,rs115356927,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+7,80449843,G,A,0.739495,-0.0850894,0.0182587,3.1589e-06,rs799969,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+7,87131806,G,T,0.0173028,-0.291007,0.0610636,1.88258e-06,rs117829526,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+8,10039531,C,T,0.731288,0.0840071,0.0179943,3.03332e-06,rs7823928,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+8,37171401,A,T,0.0317205,-0.210701,0.0454293,3.51809e-06,rs116935726,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+9,26048982,C,T,0.0306387,-0.216862,0.0464881,3.08776e-06,rs72712651,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+10,28920494,T,C,0.0729685,0.148973,0.0305772,1.10457e-06,rs12259905,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR
+14,49488289,A,G,0.0166731,0.312378,0.0622677,5.257e-07,rs115520044,7867,Theophylline to EDTA ratio,TRUE,reported,sdrtoR

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",219639024,"rs6727147","G","A",1.54971979104e-14,0.930913516661,0.121159724956559,89,"Classical monocyte#CYP27A1",TRUE,"reported","xLgahe",NA

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,176655378,C,T,0.657214,-0.0897283,0.0154608,6.4907e-09,rs6740315,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W
+5,35967898,A,C,0.148626,0.173005,0.0204653,2.82415e-17,rs10491431,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W
+8,95819710,A,G,0.474339,-0.082022,0.0147893,2.92207e-08,rs3102547,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W
+12,21164857,T,C,0.337888,-0.0984538,0.0153302,1.34298e-10,rs4149032,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W
+12,21208114,TTTC,T,0.158089,0.208701,0.0199329,1.1845e-25,rs151231052,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W
+16,81538241,G,A,0.0709119,0.175291,0.028536,8.10729e-10,rs9922045,7772,Pregnenolone sulfate levels,TRUE,reported,RC8h5W

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,52078217,A,C,0.0105283,0.453765,0.071571,2.29652e-10,rs148804382,8220,N-acetyl-L-alanine levels,TRUE,reported,Wj3GGg
+4,76490938,T,G,0.524248,0.0793809,0.0144907,4.30021e-08,rs13146163,8220,N-acetyl-L-alanine levels,TRUE,reported,Wj3GGg

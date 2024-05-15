@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,174776676,rs79904921,T,C,-0.2042,8.865e-50,0.013766,35342,0.09445,CACYBP_CYBP,TRUE,reported,CACYBP_CYBP

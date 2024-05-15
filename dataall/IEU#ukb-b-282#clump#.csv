@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","chr.exposure","pval.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+64949,0.00882611,"7",2e-08,0.0495353,119090427,"ukb-b-282","rs141364295","T","C",0.012208,"Indian snacks intake || id:ukb-b-282",TRUE,"reported","igd"
+64949,0.00510612,"13",7.59994e-09,0.0295038,105653542,"ukb-b-282","rs61966187","C","A",0.026328,"Indian snacks intake || id:ukb-b-282",TRUE,"reported","igd"
+64949,0.0113711,"15",6.4003e-11,0.074295,53983387,"ukb-b-282","rs138151469","T","C",0.005796,"Indian snacks intake || id:ukb-b-282",TRUE,"reported","igd"

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,4084517,-0.207417,0.0451065,4.25775e-06,7738,ebi-a-GCST90027857,rs76776955,C,G,0.104915,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd
+4,136618495,0.129909,0.0283014,4.42802e-06,7738,ebi-a-GCST90027857,rs13127387,A,G,0.349386,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd
+4,31738007,0.17422,0.0379599,4.4414e-06,7738,ebi-a-GCST90027857,rs17665612,G,C,0.148523,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd
+14,42477049,0.152996,0.030965,7.77535e-07,7738,ebi-a-GCST90027857,rs8013597,G,A,0.22529,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd
+15,46098409,0.274038,0.0534904,3.00525e-07,7738,ebi-a-GCST90027857,rs62006238,T,C,0.0742713,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd
+22,45253872,0.123249,0.0263401,2.88065e-06,7738,ebi-a-GCST90027857,rs7289868,T,G,0.411824,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__Roseburia_unclassified,TRUE,reported,igd

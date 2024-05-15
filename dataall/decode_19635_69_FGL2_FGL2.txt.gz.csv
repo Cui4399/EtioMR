@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,77221788,rs66471312,C,T,-0.0717,6.338e-11,0.010971,35351,0.16445,FGL2_FGL2,TRUE,reported,FGL2_FGL2

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,1188170,A,G,0.291059,0.156172,0.0164769,2.58604e-21,rs11133665,8226,1-methylhistidine levels,TRUE,reported,nX4rcJ
+17,39399216,TGA,T,0.261922,0.160128,0.0168914,2.54572e-21,rs10673134,8226,1-methylhistidine levels,TRUE,reported,nX4rcJ
+20,52070514,T,C,0.0664537,0.169952,0.0300921,1.62586e-08,rs35042303,8226,1-methylhistidine levels,TRUE,reported,nX4rcJ

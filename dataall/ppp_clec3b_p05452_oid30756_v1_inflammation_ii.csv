@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,44454502,rs1881916,T,C,-0.0870096,3.54405130280993e-11,0.0131395,33196,0.0882277,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis
+3,44843302,rs143013804,A,G,-0.173538,6.61576393135652e-10,0.0281033,33196,0.0183104,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis
+3,45015616,rs13065490,T,A,0.237963,5.74116462207309e-177,0.00838984,33196,0.269137,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis
+3,45062213,rs148761318,T,C,-0.189278,2.61216135439921e-13,0.0258823,33196,0.0216526,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis
+3,45077898,rs144706330,C,T,-0.111382,3.86901131655109e-15,0.0141723,33196,0.0750248,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis
+3,45100152,rs62242535,G,T,0.0680813,1.80384825243175e-14,0.00888338,33196,0.240407,clec3b_p05452_oid30756_v1_inflammation_ii,TRUE,reported,clec3b_p05452_oid30756_v1_inflammation_ii,chr3,45026206,cis

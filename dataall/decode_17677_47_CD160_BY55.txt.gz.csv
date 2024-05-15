@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,145716953,rs3753436,C,T,-0.1313,1.088e-61,0.007922,35361,0.46088,CD160_BY55,TRUE,reported,CD160_BY55

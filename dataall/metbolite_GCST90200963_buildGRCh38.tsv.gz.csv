@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,152988431,G,A,0.06687,-0.190264,0.0399897,1.95705e-06,rs9864481,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+4,9992591,T,C,0.803193,-0.127292,0.0251359,4.10169e-07,rs6449213,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+4,37760539,A,G,0.0105125,-0.448156,0.0964536,3.37876e-06,rs116823115,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+6,5452946,C,T,0.0289093,0.314139,0.0600184,1.65845e-07,rs140233494,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+6,35196197,A,C,0.0265622,-0.288435,0.0622771,3.63073e-06,rs75992606,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+8,17681820,C,T,0.520925,-0.0929442,0.0202876,4.62047e-06,rs2410498,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+8,126978588,G,T,0.695302,0.100903,0.0214376,2.51617e-06,rs7014448,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+10,79455601,C,T,0.0844375,0.169111,0.0359558,2.5598e-06,rs11002991,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G
+12,103022239,A,C,0.305081,0.108902,0.0218495,6.22268e-07,rs34403863,4598,Inosine 5'-monophosphate (IMP) to urate ratio,TRUE,reported,EUFx7G

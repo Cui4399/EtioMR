@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27561791,rs7570476,T,C,0.0532,3.773e-08,0.009671,35364,0.21639,NRBP1_NRBP,TRUE,reported,NRBP1_NRBP

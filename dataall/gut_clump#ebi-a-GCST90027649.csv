@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+8,17840987,0.100989,0.020629,9.80596e-07,7738,ebi-a-GCST90027649,rs208029,G,T,0.800462,UDPNAGSYN.PWY..UDP.N.acetyl.D.glucosamine.biosynthesis.I,TRUE,reported,igd
+10,25733319,-0.100302,0.0217513,4.00138e-06,7738,ebi-a-GCST90027649,rs11014565,A,G,0.824417,UDPNAGSYN.PWY..UDP.N.acetyl.D.glucosamine.biosynthesis.I,TRUE,reported,igd
+14,91621098,0.163554,0.0351584,3.28836e-06,7738,ebi-a-GCST90027649,rs74083978,C,G,0.0579028,UDPNAGSYN.PWY..UDP.N.acetyl.D.glucosamine.biosynthesis.I,TRUE,reported,igd

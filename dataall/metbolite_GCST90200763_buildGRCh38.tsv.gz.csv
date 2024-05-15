@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,183135750,C,A,0.0131707,-0.486901,0.0637928,2.30178e-14,rs58423714,8256,Phosphate to N-acetylneuraminate ratio,TRUE,reported,dpSsKl

@@ -1,0 +1,5 @@
+"pval.exposure","pos.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.99999e-08,202122995,0.000270585,-0.00150019,462933,"2","ukb-b-6772","rs3769823","G","A",0.715726,"Operation code: removal of mole/skin lesion || id:ukb-b-6772",TRUE,"reported","igd"
+3.69999e-08,89017961,0.000265923,0.00146318,462933,"11","ukb-b-6772","rs1126809","A","G",0.304059,"Operation code: removal of mole/skin lesion || id:ukb-b-6772",TRUE,"reported","igd"
+4.00037e-21,89726550,0.000407537,0.00384381,462933,"16","ukb-b-6772","rs71396950","A","G",0.10019,"Operation code: removal of mole/skin lesion || id:ukb-b-6772",TRUE,"reported","igd"
+2.30001e-08,32505658,0.000416348,0.00232541,462933,"20","ukb-b-6772","rs62209647","C","G",0.100845,"Operation code: removal of mole/skin lesion || id:ukb-b-6772",TRUE,"reported","igd"

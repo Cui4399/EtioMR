@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,146977979,0.090024,0.0192643,2.96702e-06,7738,ebi-a-GCST90027732,rs13138313,T,C,0.41414,k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Escherichia,TRUE,reported,igd
+5,44055894,0.222864,0.0454974,9.66207e-07,7738,ebi-a-GCST90027732,rs115534005,C,T,0.0506552,k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Escherichia,TRUE,reported,igd
+9,125844582,-0.116971,0.0252604,3.64603e-06,7738,ebi-a-GCST90027732,rs2791437,A,G,0.192315,k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Escherichia,TRUE,reported,igd
+12,131911441,0.091836,0.0199224,4.03274e-06,7738,ebi-a-GCST90027732,rs1246347,G,C,0.355647,k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Escherichia,TRUE,reported,igd

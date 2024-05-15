@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,60484531,-0.376771,0.0807643,3.08525e-06,7738,ebi-a-GCST90027493,rs12041866,T,C,0.0747288,ORNDEG.PWY..superpathway.of.ornithine.degradation,TRUE,reported,igd
+5,78856333,-0.225331,0.049199,4.65008e-06,7738,ebi-a-GCST90027493,rs12522600,A,T,0.249899,ORNDEG.PWY..superpathway.of.ornithine.degradation,TRUE,reported,igd
+5,94469728,-0.237472,0.0495125,1.61704e-06,7738,ebi-a-GCST90027493,rs6868622,T,C,0.28369,ORNDEG.PWY..superpathway.of.ornithine.degradation,TRUE,reported,igd
+7,74482794,0.337718,0.0722672,2.96565e-06,7738,ebi-a-GCST90027493,rs111457769,C,T,0.112527,ORNDEG.PWY..superpathway.of.ornithine.degradation,TRUE,reported,igd
+20,40998244,-0.379049,0.0778587,1.12497e-06,7738,ebi-a-GCST90027493,rs6124449,C,A,0.092716,ORNDEG.PWY..superpathway.of.ornithine.degradation,TRUE,reported,igd

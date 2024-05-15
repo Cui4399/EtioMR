@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,7626584,A,G,0.073424,-0.619273,0.0281742,4.46405e-107,rs13894,8242,N6-acetyllysine levels,TRUE,reported,mipYpe
+17,7657517,G,T,0.544061,0.135591,0.0159095,1.55924e-17,rs1050541,8242,N6-acetyllysine levels,TRUE,reported,mipYpe

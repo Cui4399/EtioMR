@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,37731729,rs12074120,G,T,0.078,1.122e-18,0.008841,35379,0.27252,EPHA10_EPHAA,TRUE,reported,EPHA10_EPHAA

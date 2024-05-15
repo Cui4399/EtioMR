@@ -1,0 +1,7 @@
+"pos.exposure","se.exposure","samplesize.exposure","pval.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+229987450,0.0012947,250880,1.09999e-08,0.00740739,"1","ukb-b-17553","rs6657298","G","A",0.003753,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"
+233969629,0.00217872,250880,3.40001e-09,0.012874,"1","ukb-b-17553","rs7516396","C","G",0.001508,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"
+110097555,0.00126237,250880,1.2e-09,0.00767665,"4","ukb-b-17553","rs2704099","G","C",0.003435,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"
+189220506,0.00183007,250880,6.90001e-10,-0.0112902,"4","ukb-b-17553","rs6854549","C","T",0.998295,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"
+95057462,0.00100721,250880,8.79995e-09,0.00579331,"9","ukb-b-17553","rs10992297","C","T",0.00558,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"
+849148,0.0018673,250880,4.49997e-08,0.0102133,"16","ukb-b-17553","rs112902518","G","A",0.001702,"Pregnant || id:ukb-b-17553",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,84814375,rs1624327,G,A,0.0682,7.403e-14,0.009117,35363,0.29515,NTRK2_TrkB,TRUE,reported,NTRK2_TrkB

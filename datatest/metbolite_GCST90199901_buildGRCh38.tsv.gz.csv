@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,12091253,G,A,0.216125,0.1259,0.0181764,4.31221e-12,rs7094385,8171,1-methyl-5-imidazoleacetate levels,TRUE,reported,L5HWdN

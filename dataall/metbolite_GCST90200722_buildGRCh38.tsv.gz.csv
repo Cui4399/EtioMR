@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,149767816,C,T,0.359597,0.169325,0.0170883,3.81015e-23,rs12213779,6122,S-adenosylhomocysteine (SAH) to leucine ratio,TRUE,reported,OnZil5

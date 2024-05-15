@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,15534578,A,C,0.554554,0.128099,0.0148588,6.63148e-18,rs6690813,8226,Argininate levels,TRUE,reported,xKCMkR
+4,102267552,T,C,0.0739321,0.253074,0.0284978,6.65825e-19,rs13107325,8226,Argininate levels,TRUE,reported,xKCMkR
+6,131552842,A,G,0.0317644,0.234379,0.0424759,3.4301e-08,rs73542824,8226,Argininate levels,TRUE,reported,xKCMkR
+6,160093251,G,A,0.0749574,-0.212112,0.028038,3.87412e-14,rs80254170,8226,Argininate levels,TRUE,reported,xKCMkR
+6,160143444,G,C,0.175444,-0.22124,0.019531,9.57665e-30,rs662138,8226,Argininate levels,TRUE,reported,xKCMkR

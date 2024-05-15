@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,49754547,0.0902218,0.0197074,4.6931e-06,7738,ebi-a-GCST90027794,rs1358421,A,G,0.351206,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_siraeum,TRUE,reported,igd
+13,114744475,-0.0971784,0.0208476,3.14116e-06,7738,ebi-a-GCST90027794,rs9805811,G,A,0.730185,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_siraeum,TRUE,reported,igd
+18,11010141,-0.0930074,0.0188939,8.53945e-07,7738,ebi-a-GCST90027794,rs2660277,G,T,0.449167,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_siraeum,TRUE,reported,igd
+20,57224053,0.117823,0.0255187,3.8909e-06,7738,ebi-a-GCST90027794,rs13040204,G,A,0.216899,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Eubacterium.s__Eubacterium_siraeum,TRUE,reported,igd

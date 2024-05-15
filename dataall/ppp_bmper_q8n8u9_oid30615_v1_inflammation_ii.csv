@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+7,33195472,rs4723274,C,T,0.0627161,4.30625754321173e-15,0.00799371,33187,0.652878,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33558006,rs17728161,G,A,-0.0857739,1.88590581666307e-08,0.0152564,33187,0.0668635,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33696951,rs117602704,G,A,0.208237,6.79047258205186e-16,0.0257903,33187,0.0221171,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33730593,rs74682893,G,A,0.144824,1.56422779980909e-23,0.0144861,33187,0.0809668,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33743596,rs201897458,T,C,-0.323609,5.27229861422816e-114,0.0142604,33187,0.0781486,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33756264,rs1421351,G,T,-0.232506,1.04423921854317e-92,0.0113845,33187,0.872153,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33766614,rs75191464,A,T,0.173802,1.34322881582556e-09,0.0286701,33187,0.0191384,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33873792,rs3815652,T,C,-0.0858153,6.534313996496e-19,0.0096611,33187,0.195337,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33915049,rs73110344,T,C,0.209703,2.22126308929843e-13,0.0285903,33187,0.0200205,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,33988627,rs111733019,T,A,-0.0637012,1.63945688526357e-12,0.0090201,33187,0.22936,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,34056657,rs1963337,A,G,-0.127915,5.8654319429027e-44,0.00919887,33187,0.222045,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis
+7,34154490,rs2058681,G,A,-0.10798,9.37130343067608e-41,0.00807781,33187,0.330581,bmper_q8n8u9_oid30615_v1_inflammation_ii,TRUE,reported,bmper_q8n8u9_oid30615_v1_inflammation_ii,chr7,33904910,cis

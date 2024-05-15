@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,214584517,-0.0796843,0.0163727,1.1336e-06,7738,ebi-a-GCST90027455,rs12128621,A,T,0.504393,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+2,65772956,0.0821386,0.0164612,6.04282e-07,7738,ebi-a-GCST90027455,rs13003991,G,C,0.606858,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+2,1397044,-0.0787943,0.0171089,4.11557e-06,7738,ebi-a-GCST90027455,rs1514681,C,T,0.401121,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+4,112306512,0.0985757,0.0213797,4.01282e-06,7738,ebi-a-GCST90027455,rs2654736,A,G,0.811446,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+4,1021598,-0.0869582,0.0177564,9.71673e-07,7738,ebi-a-GCST90027455,rs10006164,A,G,0.344145,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+8,59499389,-0.0790784,0.0167644,2.39304e-06,7738,ebi-a-GCST90027455,rs2634527,C,T,0.498378,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+10,9526946,-0.136496,0.0283337,1.45412e-06,7738,ebi-a-GCST90027455,rs74949229,A,G,0.0937893,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+10,126836275,0.168169,0.0366832,4.55365e-06,7738,ebi-a-GCST90027455,rs12772838,T,C,0.0554534,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+12,56828056,-0.140647,0.0292656,1.54074e-06,7738,ebi-a-GCST90027455,rs11171846,T,C,0.0821696,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd
+17,59520438,-0.178428,0.0377704,2.31217e-06,7738,ebi-a-GCST90027455,rs75967282,C,G,0.0513485,COBALSYN.PWY..adenosylcobalamin.salvage.from.cobinamide.I,TRUE,reported,igd

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,52532634,-0.0818521,0.0177228,3.86607e-06,7738,ebi-a-GCST90027609,rs12035670,T,C,0.332632,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd
+3,179063,-0.122167,0.0267473,4.93696e-06,7738,ebi-a-GCST90027609,rs74671141,C,G,0.104316,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd
+4,150213416,0.0875069,0.0166185,1.3972e-07,7738,ebi-a-GCST90027609,rs3113463,T,G,0.507096,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd
+10,14838247,0.0821155,0.0175884,3.03054e-06,7738,ebi-a-GCST90027609,rs11259346,T,C,0.325841,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd
+10,128475525,0.158259,0.0344899,4.46324e-06,7738,ebi-a-GCST90027609,rs4962365,C,T,0.0620419,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd
+17,52966403,0.0793471,0.0167696,2.22756e-06,7738,ebi-a-GCST90027609,rs8079105,T,C,0.50919,PWY.7197..pyrimidine.deoxyribonucleotide.phosphorylation,TRUE,reported,igd

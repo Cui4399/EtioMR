@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",93859582,"rs112539413","T","TAA",1.65405484546e-06,1.24644558825,0.260128034740155,89,"CD8_NAIVE#FNBP1L",TRUE,"reported","ZhE5bm",NA
+"1",93914381,"rs114845539","C","G",6.77816727776e-09,1.43382490097,0.247367697709664,89,"CD8_NAIVE#FNBP1L",TRUE,"reported","ZhE5bm",NA

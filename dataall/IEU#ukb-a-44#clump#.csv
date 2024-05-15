@@ -1,0 +1,6 @@
+"se.exposure","samplesize.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00248721,336798,7.46277e-11,0.0161949,91214714,"1","ukb-a-44","rs12133063","A","C",0.345115,"Townsend deprivation index at recruitment || id:ukb-a-44",TRUE,"reported","igd"
+0.00514181,336798,2.26511e-08,-0.0287456,208145995,"1","ukb-a-44","rs56142341","C","G",0.063633,"Townsend deprivation index at recruitment || id:ukb-a-44",TRUE,"reported","igd"
+0.00304943,336798,4.03692e-08,0.0167394,185963522,"2","ukb-a-44","rs13429081","T","A",0.18533,"Townsend deprivation index at recruitment || id:ukb-a-44",TRUE,"reported","igd"
+0.00241792,336798,1.83493e-08,-0.0136057,98578215,"6","ukb-a-44","rs6931604","T","C",0.602614,"Townsend deprivation index at recruitment || id:ukb-a-44",TRUE,"reported","igd"
+0.00260903,336798,4.00636e-08,0.0143254,63303515,"10","ukb-a-44","rs2650721","A","C",0.711764,"Townsend deprivation index at recruitment || id:ukb-a-44",TRUE,"reported","igd"

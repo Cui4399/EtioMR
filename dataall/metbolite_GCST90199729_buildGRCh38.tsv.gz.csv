@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,116472759,A,C,0.0884559,0.126015,0.0271192,3.3729e-06,rs61789219,8155,Piperine levels,TRUE,reported,v5XcoH
+4,47961292,G,A,0.0113342,-0.371366,0.0732834,4.03e-07,rs79383684,8155,Piperine levels,TRUE,reported,v5XcoH
+4,62484252,A,G,0.582776,0.0742845,0.0160729,3.80549e-06,rs6837172,8155,Piperine levels,TRUE,reported,v5XcoH
+6,45717583,T,C,0.0508776,0.16508,0.0351514,2.6499e-06,rs78813791,8155,Piperine levels,TRUE,reported,v5XcoH
+6,137404388,G,A,0.579912,0.0760296,0.0158148,1.52838e-06,rs1999558,8155,Piperine levels,TRUE,reported,v5XcoH
+7,17244953,C,T,0.626461,-0.081429,0.0160643,4.00028e-07,rs4410790,8155,Piperine levels,TRUE,reported,v5XcoH
+7,67678707,C,T,0.461519,0.0724713,0.0156974,3.89772e-06,rs2530416,8155,Piperine levels,TRUE,reported,v5XcoH
+8,34687055,G,C,0.752052,0.0858775,0.0183097,2.72843e-06,rs4278149,8155,Piperine levels,TRUE,reported,v5XcoH
+13,108584415,C,T,0.0195088,-0.265529,0.0568028,2.94567e-06,rs141906462,8155,Piperine levels,TRUE,reported,v5XcoH
+14,57741737,C,T,0.227828,0.0906347,0.0186424,1.16346e-06,rs4442730,8155,Piperine levels,TRUE,reported,v5XcoH
+15,74720644,C,T,0.0338587,-0.196774,0.0427444,4.1542e-06,rs1048943,8155,Piperine levels,TRUE,reported,v5XcoH
+16,26735502,G,C,0.0538528,0.158324,0.0341703,3.59746e-06,rs500285,8155,Piperine levels,TRUE,reported,v5XcoH
+18,74178305,A,G,0.0121047,0.328792,0.0714745,4.22235e-06,rs145604339,8155,Piperine levels,TRUE,reported,v5XcoH
+19,4341089,T,G,0.0355471,-0.207786,0.0412475,4.71533e-07,rs60447252,8155,Piperine levels,TRUE,reported,v5XcoH
+20,17356961,A,T,0.0481586,0.173698,0.0363159,1.72707e-06,rs118105629,8155,Piperine levels,TRUE,reported,v5XcoH

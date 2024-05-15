@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,20428051,rs12881793,C,G,0.0494807,4.86048939623865e-10,0.00795056,33042,0.400031,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20472356,rs1049562,T,C,0.102263,3.27340694878839e-24,0.010074,33042,0.175595,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20477329,rs1760933,C,T,0.214529,1.46386153755062e-34,0.0174966,33042,0.94967,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20491608,rs10138989,T,C,-0.369718,1e-200,0.00874522,33042,0.275678,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20492784,rs113165527,A,T,0.726481,1e-200,0.0179613,33042,0.049663,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20507451,rs377756862,C,T,0.487386,1e-200,0.0131227,33042,0.109448,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20509860,rs55979816,T,C,-0.395988,1e-200,0.0117372,33042,0.123176,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20528353,rs59958805,C,T,-0.430562,4.33510878387529e-199,0.0143026,33042,0.0789341,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20537634,rs142796611,T,C,0.232066,1.38420368156873e-36,0.0183694,33042,0.0552258,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20550679,rs1652045,C,T,0.134326,6.03948629376378e-27,0.0124974,33042,0.105184,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20558614,rs891297,T,C,-0.103232,2.05399792251063e-27,0.00951687,33042,0.2048,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20566497,rs61995581,T,A,0.223039,7.90678627999825e-13,0.0311388,33042,0.0161933,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20590890,rs12435502,C,T,0.175969,1.20631297754906e-09,0.0289452,33042,0.0180528,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis
+14,20640564,rs11621505,A,G,-0.21498,2.55623042711254e-19,0.023923,33042,0.0302618,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,TRUE,reported,rnase10_q5gan6_oid30238_v1_cardiometabolic_ii,chr14,20510471,cis

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,52801055,rs1499280,A,C,0.079,1.083e-08,0.013818,35352,0.09002,PELO_PELO,TRUE,reported,PELO_PELO

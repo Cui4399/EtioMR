@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+11,33332456,0.282755,0.0614621,4.21531e-06,7738,ebi-a-GCST90027472,rs79950843,G,C,0.0652969,GLUCARDEG.PWY..D.glucarate.degradation.I,TRUE,reported,igd
+22,29137870,0.19862,0.0422383,2.57164e-06,7738,ebi-a-GCST90027472,rs2236141,T,C,0.125015,GLUCARDEG.PWY..D.glucarate.degradation.I,TRUE,reported,igd

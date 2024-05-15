@@ -1,0 +1,5 @@
+"pval.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.98628e-08,0.000610753,0.00342835,361194,"1",156435151,"ukb-d-K11_APPENDIX","rs36023544","T","C",0.0316091,"Diseases of appendix || id:ukb-d-K11_APPENDIX",TRUE,"reported","igd"
+1.21983e-16,0.000221083,-0.00183091,361194,"4",111725818,"ukb-d-K11_APPENDIX","rs7697491","T","A",0.641162,"Diseases of appendix || id:ukb-d-K11_APPENDIX",TRUE,"reported","igd"
+3.43076e-08,0.000247281,-0.0013645,361194,"8",11662325,"ukb-d-K11_APPENDIX","rs2740451","C","T",0.752996,"Diseases of appendix || id:ukb-d-K11_APPENDIX",TRUE,"reported","igd"
+3.16359e-08,0.000942497,0.00521414,361194,"16",78302656,"ukb-d-K11_APPENDIX","rs182797506","A","C",0.0128158,"Diseases of appendix || id:ukb-d-K11_APPENDIX",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,22219465,-0.0991623,0.0207513,1.76506e-06,7738,ebi-a-GCST90027610,rs12466926,A,G,0.255776,PWY.7198..pyrimidine.deoxyribonucleotides.de.novo.biosynthesis.IV,TRUE,reported,igd
+8,81149186,-0.0924285,0.019214,1.50571e-06,7738,ebi-a-GCST90027610,rs4739729,A,G,0.353332,PWY.7198..pyrimidine.deoxyribonucleotides.de.novo.biosynthesis.IV,TRUE,reported,igd
+12,24318151,0.197268,0.0409065,1.41831e-06,7738,ebi-a-GCST90027610,rs77945651,C,A,0.0551304,PWY.7198..pyrimidine.deoxyribonucleotides.de.novo.biosynthesis.IV,TRUE,reported,igd

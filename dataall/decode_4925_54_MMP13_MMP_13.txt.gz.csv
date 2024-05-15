@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,102947442,rs17860571,G,T,0.0618,1.63e-11,0.009175,35364,0.24865,MMP13_MMP_13,TRUE,reported,MMP13_MMP_13
+11,102960805,rs368148236,AAAAAAAAAAAAAAAAAAAAAAAAAAG,AAAAAAAAAAAAAAAAAAAAAG,0.0586,3.202e-10,0.009318,35360,0.25573,MMP13_MMP_13,TRUE,reported,MMP13_MMP_13

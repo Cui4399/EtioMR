@@ -1,0 +1,8 @@
+"se.exposure","beta.exposure","pos.exposure","samplesize.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00106679,0.00637082,136634546,458012,"3",2.30001e-09,"ukb-b-10591","rs28489326","C","T",0.151878,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.000983489,-0.00537237,156635309,458012,"4",4.70002e-08,"ukb-b-10591","rs7692387","A","G",0.185273,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.000917304,0.0055385,32345891,458012,"6",1.6e-09,"ukb-b-10591","rs9268433","G","T",0.22241,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.000767098,-0.00441088,114951541,458012,"7",8.9e-09,"ukb-b-10591","rs62477310","C","T",0.486731,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.00109849,0.00600538,137989785,458012,"9",4.60002e-08,"ukb-b-10591","rs10858334","G","C",0.144114,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.000889193,-0.00485328,37861718,458012,"17",4.79999e-08,"ukb-b-10591","rs2952155","C","T",0.754241,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"
+0.00100798,0.00612281,53443429,458012,"18",1.2e-09,"ukb-b-10591","rs931040","T","C",0.82603,"Chest pain or discomfort || id:ukb-b-10591",TRUE,"reported","igd"

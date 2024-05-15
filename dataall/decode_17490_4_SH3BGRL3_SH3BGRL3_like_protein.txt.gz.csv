@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,25660294,rs146701335,A,G,-0.2972,1.661e-14,0.038726,35368,0.01097,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,25734953,rs142957724,T,C,-0.1844,6.607e-09,0.03179,35372,0.01784,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,26251494,rs111486799,A,G,-0.0916,2.298e-20,0.009905,35372,0.21545,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,26288360,rs6598954,C,T,0.4573,1e-200,0.014143,35372,0.0883,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,26384897,rs71004588,CAA,C,-0.1857,2.643e-52,0.012202,35372,0.13187,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,26473999,rs114289390,T,C,-0.1995,2.634e-22,0.020538,35371,0.03881,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein
+1,26649933,rs7513995,A,G,-0.0782,5.574e-16,0.009656,35371,0.22373,SH3BGRL3_SH3BGRL3_like_protein,TRUE,reported,SH3BGRL3_SH3BGRL3_like_protein

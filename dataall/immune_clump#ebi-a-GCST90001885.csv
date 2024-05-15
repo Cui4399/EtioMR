@@ -1,0 +1,3 @@
+samplesize.exposure,se.exposure,pos.exposure,pval.exposure,beta.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2971,0.03108,161520931,2.02582e-14,0.2389,1,ebi-a-GCST90001885,rs56199187,T,C,0.2402,CD16-CD56 on HLA DR+ Natural Killer || id:ebi-a-GCST90001885,TRUE,reported,igd
+2971,0.04218,112751974,1.16788e-15,-0.3396,11,ebi-a-GCST90001885,rs78358948,A,G,0.1096,CD16-CD56 on HLA DR+ Natural Killer || id:ebi-a-GCST90001885,TRUE,reported,igd

@@ -1,0 +1,5 @@
+"chr.exposure","se.exposure","samplesize.exposure","pos.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"7",0.000374459,337199,46214253,0.00236136,2.8657e-10,"ukb-a-530","rs17172647","G","A",0.263531,"Diagnoses - main ICD10: H26 Other cataract || id:ukb-a-530",TRUE,"reported","igd"
+"7",0.000324293,337199,99560866,0.00198622,9.09097e-10,"ukb-a-530","rs2527885","C","G",0.492743,"Diagnoses - main ICD10: H26 Other cataract || id:ukb-a-530",TRUE,"reported","igd"
+"11",0.000554181,337199,68941787,0.00330336,2.51275e-09,"ukb-a-530","rs17400438","A","G",0.0939015,"Diagnoses - main ICD10: H26 Other cataract || id:ukb-a-530",TRUE,"reported","igd"
+"20",0.000444061,337199,19476765,0.0028457,1.47296e-10,"ukb-a-530","rs6046142","A","G",0.157342,"Diagnoses - main ICD10: H26 Other cataract || id:ukb-a-530",TRUE,"reported","igd"

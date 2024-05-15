@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,226349821,rs878367,T,C,0.0674,1.127e-09,0.011067,35356,0.15323,PARP1_PARP,TRUE,reported,PARP1_PARP

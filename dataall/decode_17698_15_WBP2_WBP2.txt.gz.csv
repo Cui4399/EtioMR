@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,75842027,rs11870078,A,G,-0.0572,1.147e-10,0.008873,35381,0.27478,WBP2_WBP2,TRUE,reported,WBP2_WBP2

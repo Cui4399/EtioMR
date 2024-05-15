@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,148700381,rs3772633,C,T,0.0635,1.289e-09,0.010463,35356,0.20841,CPB1_Carboxypeptidase_B1,TRUE,reported,CPB1_Carboxypeptidase_B1
+3,148737750,rs6801836,C,T,-0.074,3.288e-12,0.010625,35357,0.19882,CPB1_Carboxypeptidase_B1,TRUE,reported,CPB1_Carboxypeptidase_B1
+3,148840660,rs2291671,A,G,0.2378,1.141e-132,0.009702,35360,0.24902,CPB1_Carboxypeptidase_B1,TRUE,reported,CPB1_Carboxypeptidase_B1
+3,149170028,rs76876937,A,C,0.0915,2.323e-11,0.013689,35359,0.1072,CPB1_Carboxypeptidase_B1,TRUE,reported,CPB1_Carboxypeptidase_B1

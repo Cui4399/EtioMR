@@ -1,0 +1,3 @@
+"se.exposure","pos.exposure","pval.exposure","chr.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00599655,38720577,3.29997e-08,"6",0.0331443,64943,"ukb-b-16150","rs142131036","C","T",0.008045,"Other vegetarian alternative intake || id:ukb-b-16150",TRUE,"reported","igd"
+0.00678341,9372727,7.69999e-09,"12",0.0391684,64943,"ukb-b-16150","rs146635016","T","C",0.006012,"Other vegetarian alternative intake || id:ukb-b-16150",TRUE,"reported","igd"

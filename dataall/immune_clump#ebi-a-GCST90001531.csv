@@ -1,0 +1,4 @@
+se.exposure,pval.exposure,pos.exposure,beta.exposure,samplesize.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.4216,9.40589e-09,185852065,2.431,1856,1,ebi-a-GCST90001531,rs114590598,T,C,0.0016,CD33dim HLA DR- Absolute Count || id:ebi-a-GCST90001531,TRUE,reported,igd
+0.06739,5.44252e-14,33754548,-0.5108,1856,19,ebi-a-GCST90001531,rs78744187,T,C,0.0673,CD33dim HLA DR- Absolute Count || id:ebi-a-GCST90001531,TRUE,reported,igd
+0.0388,3.74283e-33,51736383,-0.4747,1856,19,ebi-a-GCST90001531,rs33978622,C,G,0.215,CD33dim HLA DR- Absolute Count || id:ebi-a-GCST90001531,TRUE,reported,igd

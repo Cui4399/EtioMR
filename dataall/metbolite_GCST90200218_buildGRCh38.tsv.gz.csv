@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,63390417,G,A,0.0461999,0.260939,0.0391401,2.61463e-11,rs113967277,7220,11beta-hydroxyetiocholanolone glucuronide levels,TRUE,reported,5axvVW

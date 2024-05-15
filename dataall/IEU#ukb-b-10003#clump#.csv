@@ -1,0 +1,4 @@
+"pos.exposure","chr.exposure","beta.exposure","se.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32530029,"6",0.00152101,0.000256308,462933,2.99999e-09,"ukb-b-10003","rs35175534","C","A",0.14,"Treatment/medication code: becotide 50 inhaler || id:ukb-b-10003",TRUE,"reported","igd"
+32550126,"6",0.00131754,0.000182592,462933,5.40008e-13,"ukb-b-10003","rs35789108","G","C",0.335592,"Treatment/medication code: becotide 50 inhaler || id:ukb-b-10003",TRUE,"reported","igd"
+6305904,"9",0.00113232,0.000182561,462933,5.60003e-10,"ukb-b-10003","rs2169287","A","C",0.268488,"Treatment/medication code: becotide 50 inhaler || id:ukb-b-10003",TRUE,"reported","igd"

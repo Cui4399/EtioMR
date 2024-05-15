@@ -1,0 +1,5 @@
+"pval.exposure","pos.exposure","samplesize.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.51074e-09,154253661,321533,"1",-0.0324384,0.00556298,"ukb-a-511","rs6667222","C","A",0.252268,"Number of days/week of vigorous physical activity 10+ minutes || id:ukb-a-511",TRUE,"reported","igd"
+1.3688e-10,133581873,321533,"7",-0.0317717,0.00494922,"ukb-a-511","rs6955240","A","G",0.389995,"Number of days/week of vigorous physical activity 10+ minutes || id:ukb-a-511",TRUE,"reported","igd"
+2.5768e-08,128410012,321533,"7",-0.0298836,0.0053669,"ukb-a-511","rs1043595","A","G",0.283564,"Number of days/week of vigorous physical activity 10+ minutes || id:ukb-a-511",TRUE,"reported","igd"
+6.23146e-10,33791164,321533,"9",0.0307862,0.00497784,"ukb-a-511","rs2005617","C","T",0.625386,"Number of days/week of vigorous physical activity 10+ minutes || id:ukb-a-511",TRUE,"reported","igd"

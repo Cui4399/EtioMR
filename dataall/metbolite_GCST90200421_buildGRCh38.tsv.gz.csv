@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,33380659,A,G,0.0193718,0.264969,0.0555771,1.86446e-06,rs112981786,8191,Salicylate levels,TRUE,reported,X0cqlz
+3,67290058,A,G,0.0232444,0.231816,0.0507153,4.85546e-06,rs112048572,8191,Salicylate levels,TRUE,reported,X0cqlz
+5,124065381,T,C,0.53076,-0.0745385,0.015528,1.5845e-06,rs7447381,8191,Salicylate levels,TRUE,reported,X0cqlz
+7,51561832,A,G,0.303144,-0.0820482,0.0166918,8.85704e-07,rs13230827,8191,Salicylate levels,TRUE,reported,X0cqlz
+7,70655422,G,C,0.250341,-0.0848579,0.0177625,1.77611e-06,rs56691608,8191,Salicylate levels,TRUE,reported,X0cqlz
+8,104321231,T,C,0.0146177,0.288248,0.063098,4.91798e-06,rs141403232,8191,Salicylate levels,TRUE,reported,X0cqlz
+8,136281839,G,C,0.771777,-0.0861878,0.0184718,3.07243e-06,rs11786331,8191,Salicylate levels,TRUE,reported,X0cqlz
+9,19585407,A,G,0.105377,0.124123,0.0248929,6.15513e-07,rs12347873,8191,Salicylate levels,TRUE,reported,X0cqlz
+12,85511863,A,G,0.0186275,0.271156,0.0559446,1.25428e-06,rs117575729,8191,Salicylate levels,TRUE,reported,X0cqlz
+15,33831441,C,T,0.0288368,0.216938,0.0453436,1.71568e-06,rs72715202,8191,Salicylate levels,TRUE,reported,X0cqlz
+16,20549055,C,T,0.0238968,0.228255,0.0499165,4.81377e-06,rs9922704,8191,Salicylate levels,TRUE,reported,X0cqlz
+17,15772828,T,A,0.318785,-0.0851851,0.0165014,2.43949e-07,rs2324026,8191,Salicylate levels,TRUE,reported,X0cqlz
+19,43985876,A,G,0.0138108,-0.308109,0.0644952,1.77711e-06,rs12978426,8191,Salicylate levels,TRUE,reported,X0cqlz
+21,31438586,A,C,0.325675,-0.0795156,0.0165015,1.44508e-06,rs558059,8191,Salicylate levels,TRUE,reported,X0cqlz

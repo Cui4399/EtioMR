@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,14780409,rs115794641,T,G,-0.384831,2.79061548639809e-65,0.0225533,33995,0.0291772,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15035004,rs596827,A,G,0.0708249,3.07907310303322e-08,0.0127915,33995,0.907722,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15281416,rs6772489,G,A,0.0917828,5.04893756201154e-32,0.00779251,33995,0.361252,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15324179,rs7621044,A,G,-0.438937,1e-200,0.0113687,33995,0.122577,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15360634,rs79818983,A,G,0.172757,4.92152845016172e-19,0.0193804,33995,0.0384468,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15492565,rs142727039,A,G,0.226195,6.05062169158297e-12,0.0328846,33995,0.0137201,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15512726,rs75568205,C,T,0.143663,7.47136579828426e-47,0.00999425,33995,0.167299,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15568737,rs62243579,C,T,0.169441,8.23379405210137e-26,0.0161303,33995,0.0571,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15711098,rs183897945,C,T,0.172417,7.21439637925809e-12,0.0251581,33995,0.023393,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15917020,rs114023777,T,A,0.128682,2.36646453335257e-12,0.0183543,33995,0.0438469,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,15967507,rs34170355,T,C,0.141471,9.05941177549061e-32,0.0120617,33995,0.107325,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,16049922,rs13067167,T,C,-0.442469,4.97737084978939e-124,0.0186803,33995,0.0429867,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,16093731,rs75155627,G,A,-0.313875,2.90602937526361e-64,0.0185442,33995,0.0463002,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,16208254,rs12486293,C,T,0.0867927,7.51103870601786e-14,0.0116055,33995,0.118091,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis
+3,16244115,rs141350487,A,G,-0.38065,2.38561303993092e-25,0.036588,33995,0.011321,btd_p43251_oid30754_v1_inflammation_ii,TRUE,reported,btd_p43251_oid30754_v1_inflammation_ii,chr3,15601351,cis

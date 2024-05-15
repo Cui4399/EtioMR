@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,43420061,rs7703662,G,T,-0.0551,1.955e-11,0.008212,35361,0.47606,CCL28_CCL28,TRUE,reported,CCL28_CCL28
+5,44254488,rs9632410,G,T,0.0497,2.697e-08,0.008939,35361,0.28988,CCL28_CCL28,TRUE,reported,CCL28_CCL28

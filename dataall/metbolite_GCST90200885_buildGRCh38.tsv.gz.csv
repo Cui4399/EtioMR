@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,128818465,T,C,0.708287,0.112046,0.0162986,6.21664e-12,rs2997922,8177,Phenylpyruvate to citrate ratio,TRUE,reported,CnyjgK
+16,58737529,A,G,0.529159,-0.0886834,0.0147046,1.62942e-09,rs1473206,8177,Phenylpyruvate to citrate ratio,TRUE,reported,CnyjgK

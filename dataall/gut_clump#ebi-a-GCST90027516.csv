@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,199108406,0.0825818,0.0175279,2.45952e-06,7738,ebi-a-GCST90027516,rs7544236,C,T,0.360295,PWY0.1261..anhydromuropeptides.recycling,TRUE,reported,igd
+12,118532402,0.0920566,0.0197131,3.01446e-06,7738,ebi-a-GCST90027516,rs7964114,C,T,0.240609,PWY0.1261..anhydromuropeptides.recycling,TRUE,reported,igd
+18,2641314,-0.0837211,0.0168889,7.15336e-07,7738,ebi-a-GCST90027516,rs7228238,T,C,0.416673,PWY0.1261..anhydromuropeptides.recycling,TRUE,reported,igd

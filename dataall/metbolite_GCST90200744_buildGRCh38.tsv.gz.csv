@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,3813968,A,G,0.0360332,0.184311,0.0396672,3.37723e-06,rs113206873,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+2,40099002,C,T,0.254254,0.0798605,0.0172685,3.75267e-06,rs6726508,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+2,135797227,C,T,0.845091,-0.108303,0.0203281,9.94437e-08,rs6430588,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+3,25071756,A,G,0.139926,0.102388,0.0216937,2.36177e-06,rs6772970,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+3,111742549,C,G,0.0676355,0.137292,0.0297149,3.83169e-06,rs13071304,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+4,3210609,TG,T,0.32767,0.0746045,0.0158985,2.69817e-06,rs11445574,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+4,40670288,A,G,0.440934,0.0706986,0.0151515,3.06966e-06,rs12501448,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+5,36638487,A,G,0.0312194,0.234775,0.0428842,4.38448e-08,rs62354638,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+5,104949055,G,A,0.927559,0.136441,0.0285518,1.76397e-06,rs13180224,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+7,20004405,T,C,0.0182785,-0.262511,0.0549043,1.74212e-06,rs38156,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+7,40884765,T,C,0.035867,-0.184299,0.0397453,3.53504e-06,rs6963576,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+10,114009013,A,C,0.347626,0.0779197,0.015891,9.42059e-07,rs2480790,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel
+16,60376864,C,A,0.152244,-0.1059,0.0208587,3.83423e-07,rs62048729,8194,Arginine to glutamate ratio,TRUE,reported,ua8Hel

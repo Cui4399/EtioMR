@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,99113626,rs190913833,A,T,-0.3285,3.272e-10,0.052265,35346,0.00625,ADH1C_ADH1G,TRUE,reported,ADH1C_ADH1G
+4,99163342,rs34722688,CAA,CA,0.0818,8.491e-10,0.013332,35345,0.10523,ADH1C_ADH1G,TRUE,reported,ADH1C_ADH1G
+4,99318162,rs1229984,C,T,0.3542,4.201e-08,0.064609,35344,0.00414,ADH1C_ADH1G,TRUE,reported,ADH1C_ADH1G
+4,99349450,rs283415,T,C,0.1279,2.508e-55,0.008163,35344,0.48612,ADH1C_ADH1G,TRUE,reported,ADH1C_ADH1G

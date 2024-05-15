@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,38135402,rs372908603,TATACACACACACACACACACACACACACACACACACAT,TATACACACACACACACACACACACACACACAT,-0.1214,1.168e-16,0.014651,35368,0.08381,TGM2_Tissue_transglutaminase,TRUE,reported,TGM2_Tissue_transglutaminase
+20,38169085,rs742413,TT,CT,0.1802,7.632e-106,0.008247,35371,0.35415,TGM2_Tissue_transglutaminase,TRUE,reported,TGM2_Tissue_transglutaminase
+20,38383368,rs11906988,G,T,-0.2062,4.987e-08,0.037823,35372,0.01085,TGM2_Tissue_transglutaminase,TRUE,reported,TGM2_Tissue_transglutaminase

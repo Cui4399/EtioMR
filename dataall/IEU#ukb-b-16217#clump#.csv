@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",2.5e-09,0.000571123,-0.00340486,462933,223042991,"ukb-b-16217","rs13428038","A","G",0.129419,"Operation code: nasal/sinus/nose surgery || id:ukb-b-16217",TRUE,"reported","igd"
+"6",2.60016e-17,0.000478773,0.00405173,462933,32605609,"ukb-b-16217","rs9272461","A","G",0.200639,"Operation code: nasal/sinus/nose surgery || id:ukb-b-16217",TRUE,"reported","igd"
+"9",4.19952e-12,0.000509652,0.0035326,462933,6185295,"ukb-b-16217","rs12349858","T","C",0.169208,"Operation code: nasal/sinus/nose surgery || id:ukb-b-16217",TRUE,"reported","igd"

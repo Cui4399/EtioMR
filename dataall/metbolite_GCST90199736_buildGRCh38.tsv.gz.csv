@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119392884,T,A,0.592917,0.174872,0.0149927,1.95116e-31,rs10802092,8208,Alpha-hydroxyisovalerate levels,TRUE,reported,secoY5
+4,88304019,G,A,0.530035,0.0938716,0.0148331,2.47555e-10,rs10018448,8208,Alpha-hydroxyisovalerate levels,TRUE,reported,secoY5
+11,18322517,C,T,0.539467,-0.258766,0.01431,4.3483e-73,rs3802967,8208,Alpha-hydroxyisovalerate levels,TRUE,reported,secoY5
+12,120986153,T,C,0.618461,-0.116179,0.0152288,2.36823e-14,rs2393791,8208,Alpha-hydroxyisovalerate levels,TRUE,reported,secoY5

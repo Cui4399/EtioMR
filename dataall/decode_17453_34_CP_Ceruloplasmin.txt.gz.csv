@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,148227306,rs111881250,A,G,0.3457,1.317e-10,0.053804,35353,0.00603,CP_Ceruloplasmin,TRUE,reported,CP_Ceruloplasmin
+3,149169702,rs116754581,T,A,0.7182,1.839e-26,0.067468,35359,0.0031,CP_Ceruloplasmin,TRUE,reported,CP_Ceruloplasmin
+3,149298201,rs149895857,A,G,0.2997,4.844e-10,0.048152,35355,0.00707,CP_Ceruloplasmin,TRUE,reported,CP_Ceruloplasmin

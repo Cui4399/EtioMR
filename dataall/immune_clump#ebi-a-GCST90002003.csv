@@ -1,0 +1,4 @@
+pos.exposure,se.exposure,beta.exposure,samplesize.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+46402627,0.02487,-0.1859,3629,3,9.482e-14,ebi-a-GCST90002003,rs762789,A,G,0.447,CCR2 on CD14- CD16- || id:ebi-a-GCST90002003,TRUE,reported,igd
+159009803,0.07909,0.4573,3629,5,8.01807e-09,ebi-a-GCST90002003,rs77465361,T,G,0.0236,CCR2 on CD14- CD16- || id:ebi-a-GCST90002003,TRUE,reported,igd
+69744014,0.04479,-0.2492,3629,12,2.81598e-08,ebi-a-GCST90002003,rs1800973,A,C,0.0798,CCR2 on CD14- CD16- || id:ebi-a-GCST90002003,TRUE,reported,igd

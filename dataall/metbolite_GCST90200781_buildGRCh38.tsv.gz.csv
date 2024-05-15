@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,91569746,A,G,0.774008,0.096807,0.02113,4.61655e-06,rs6689719,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+1,103846959,T,A,0.15008,0.114732,0.0244428,2.68027e-06,rs2151081,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+2,216008629,G,A,0.281925,0.0977114,0.0194851,5.31233e-07,rs67736553,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+5,129141065,A,T,0.347993,0.0867025,0.0183086,2.18397e-06,rs10463851,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+5,169499348,T,G,0.395837,0.0854586,0.0178537,1.69625e-06,rs255733,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+6,22907309,T,C,0.443701,0.083348,0.0177239,2.56901e-06,rs9460799,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+11,87494305,A,G,0.0389136,0.217193,0.0449851,1.37831e-06,rs61909630,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+12,69856457,A,T,0.114429,-0.138416,0.0275525,5.06801e-07,rs76930718,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+17,8080839,C,A,0.138428,-0.120925,0.0259019,3.03276e-06,rs3816263,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx
+22,44404759,C,G,0.10832,0.133892,0.028016,1.76051e-06,rs4465878,6308,Glucose to maltose ratio,TRUE,reported,vXXnRx

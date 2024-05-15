@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,20588679,T,C,0.334678,-0.11895,0.0154587,1.41855e-14,rs532545,8254,Uridine to pseudouridine ratio,TRUE,reported,ZucqNh
+7,48088999,A,G,0.578525,-0.100372,0.0147165,9.0806e-12,rs7459020,8254,Uridine to pseudouridine ratio,TRUE,reported,ZucqNh
+22,50541642,A,G,0.684831,-0.105963,0.0158008,1.99765e-11,rs131785,8254,Uridine to pseudouridine ratio,TRUE,reported,ZucqNh

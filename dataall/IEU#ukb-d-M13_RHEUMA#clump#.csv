@@ -1,0 +1,7 @@
+"pos.exposure","se.exposure","beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+85719434,0.000601963,0.00377716,"1",3.50598e-10,361194,"ukb-d-M13_RHEUMA","rs189070938","A","T",0.0178799,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"
+114303808,0.000257704,0.00179074,"1",3.68978e-12,361194,"ukb-d-M13_RHEUMA","rs6679677","A","C",0.102468,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"
+30913910,0.000288221,0.00163975,"6",1.27723e-08,361194,"ukb-d-M13_RHEUMA","rs41268848","A","G",0.0808573,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"
+32545392,0.00028544,0.00499194,"6",1.86853e-68,361194,"ukb-d-M13_RHEUMA","rs35511257","C","G",0.0951488,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"
+32561370,0.000168147,0.0039292,"6",1.12202e-120,361194,"ukb-d-M13_RHEUMA","rs35139284","T","C",0.320002,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"
+32629497,0.000212057,0.00218832,"6",5.79963e-25,361194,"ukb-d-M13_RHEUMA","rs41270903","G","A",0.192874,"Rheumatoid arthritis || id:ukb-d-M13_RHEUMA",TRUE,"reported","igd"

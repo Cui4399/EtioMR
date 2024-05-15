@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,52981625,rs181769,C,A,0.0928,1.476e-28,0.008371,35361,0.31514,ITGA2_Integrin_alpha_2,TRUE,reported,ITGA2_Integrin_alpha_2

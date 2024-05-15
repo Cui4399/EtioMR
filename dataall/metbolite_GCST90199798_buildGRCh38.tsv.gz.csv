@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.315507,0.226272,0.0174476,1.84201e-38,rs1047891,7465,Isobutyrylglycine levels,TRUE,reported,lYAuLR
+4,88305270,C,T,0.530252,0.0940744,0.0162061,6.44152e-09,rs1440581,7465,Isobutyrylglycine levels,TRUE,reported,lYAuLR
+11,67638652,C,T,0.561966,-0.0925512,0.0165244,2.13253e-08,rs10896190,7465,Isobutyrylglycine levels,TRUE,reported,lYAuLR
+11,134271204,T,C,0.02861,0.380813,0.0484631,3.90953e-15,rs7111570,7465,Isobutyrylglycine levels,TRUE,reported,lYAuLR

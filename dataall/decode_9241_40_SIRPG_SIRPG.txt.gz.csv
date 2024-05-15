@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,1635560,rs6043409,G,A,0.1514,8.456e-70,0.008573,35374,0.31777,SIRPG_SIRPG,TRUE,reported,SIRPG_SIRPG

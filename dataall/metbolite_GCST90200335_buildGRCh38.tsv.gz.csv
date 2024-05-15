@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,112611547,C,T,0.072812,-0.171504,0.02924,4.48059e-09,rs141838588,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY
+11,61858798,G,C,0.366985,-0.0957504,0.0156594,9.68259e-10,rs174604,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY
+14,63765668,A,G,0.164536,0.179217,0.020081,4.46916e-19,rs17101394,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY
+19,8224635,A,C,0.808513,0.229645,0.0187653,1.95476e-34,rs1466448,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY
+19,44912383,A,G,0.107394,-0.145839,0.024203,1.68425e-09,rs445925,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY
+20,12985441,G,T,0.614615,-0.0925462,0.0154478,2.08694e-09,rs168622,8258,Stearoyl sphingomyelin (d18:1/18:0) levels,TRUE,reported,rv1VrY

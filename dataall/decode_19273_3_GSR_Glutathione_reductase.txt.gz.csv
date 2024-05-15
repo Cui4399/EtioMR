@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,29881425,rs10808342,G,C,0.1634,1.917e-08,0.029078,35355,0.02064,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,30287283,rs148747935,A,G,-0.2009,4.69e-08,0.036777,35357,0.01251,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,30431946,rs10102966,A,C,-0.3306,9.1e-20,0.036333,35359,0.01287,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,30465195,rs62502007,T,C,-0.1132,5.862e-13,0.015714,35359,0.07164,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,30565371,rs7833229,A,G,-0.0632,3.216e-08,0.01143,35358,0.14592,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,30709269,rs8190944,A,G,0.1227,8.31e-27,0.011447,35358,0.14388,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase
+8,31483369,rs73234980,C,A,-0.2368,1.416e-08,0.041753,35359,0.00947,GSR_Glutathione_reductase,TRUE,reported,GSR_Glutathione_reductase

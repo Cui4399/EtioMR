@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,44738381,rs2927437,G,A,0.0752358,1.26124657531754e-16,0.00908954,33930,0.809181,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44893716,rs77301115,A,G,0.155542,4.87977727286485e-12,0.0225129,33930,0.0259067,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44908822,rs7412,T,C,0.235505,8.66762273390037e-72,0.0131441,33930,0.0811966,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44919304,rs1064725,G,T,-0.181261,6.95344461825661e-22,0.0188531,33930,0.0400559,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44927023,rs5112,G,C,0.344868,1e-200,0.00765478,33930,0.53332,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44942249,rs76214972,G,A,-0.184244,2.95801246655155e-20,0.019982,33930,0.0353761,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,44957750,rs75178253,G,A,-0.0883174,3.06132896061253e-10,0.0140283,33930,0.0798001,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,45010159,rs874744,T,C,0.142169,2.04310176981876e-08,0.0253496,33930,0.0204277,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,45011597,rs117644736,T,C,-0.161376,2.14862190989856e-09,0.0269582,33930,0.0209471,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis
+19,45187791,rs62118471,C,T,0.139677,2.44016953080046e-09,0.0234145,33930,0.026908,apoc1_p02654_oid30749_v1_inflammation_ii,TRUE,reported,apoc1_p02654_oid30749_v1_inflammation_ii,chr19,44914246,cis

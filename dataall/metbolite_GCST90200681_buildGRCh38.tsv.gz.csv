@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,124802188,C,T,0.207044,-0.101575,0.0180312,1.76778e-08,rs12487905,8017,Orotidine levels,TRUE,reported,Cy1YL1
+12,111469627,AC,A,0.502194,-0.0802606,0.0145465,3.4383e-08,rs35350651,8017,Orotidine levels,TRUE,reported,Cy1YL1
+16,20381010,A,G,0.192875,-0.112918,0.0186673,1.45741e-09,rs77924615,8017,Orotidine levels,TRUE,reported,Cy1YL1
+17,75131253,A,G,0.0266784,-1.69442,0.04154,1e-200,rs11541956,8017,Orotidine levels,TRUE,reported,Cy1YL1

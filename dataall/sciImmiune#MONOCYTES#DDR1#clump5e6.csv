@@ -1,0 +1,4 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",30399840,"rs7767532","G","A",1.65172390807e-06,-1.25871219791,0.262672518710283,89,"Classical monocyte#DDR1",TRUE,"reported","xz6cO1",NA
+"6",30400028,"rs7767842","G","C",1.65172390807e-06,-1.25871219791,0.262672518710283,89,"Classical monocyte#DDR1",TRUE,"reported","xz6cO1",NA
+"6",30858254,"rs7743661","T","C",3.96339134749e-09,0.794394975091,0.134970026168908,89,"Classical monocyte#DDR1",TRUE,"reported","xz6cO1",NA

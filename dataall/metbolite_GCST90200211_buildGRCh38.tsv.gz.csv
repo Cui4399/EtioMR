@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,26040443,C,A,0.972897,-0.307798,0.0568069,6.01656e-08,rs4630903,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+4,154849113,G,T,0.147723,-0.137694,0.0263632,1.76073e-07,rs7676893,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+5,32478220,C,T,0.240484,-0.102123,0.0214049,1.83306e-06,rs56239146,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+5,117936778,A,G,0.466329,0.0943557,0.0185732,3.7704e-07,rs4302625,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+8,29840582,T,C,0.175759,0.117107,0.0242119,1.31983e-06,rs34288260,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+9,123360528,C,G,0.0234402,-0.283497,0.0604477,2.73262e-06,rs76122947,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+10,43426566,C,G,0.224147,-0.105779,0.0219801,1.49059e-06,rs61858994,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+14,92097806,T,A,0.289243,-0.0929706,0.0202699,4.50454e-06,rs55783917,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+14,97165109,A,G,0.0151436,-0.352719,0.0750987,2.64346e-06,rs145979703,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+15,75148328,T,C,0.469559,0.0897126,0.0183978,1.0811e-06,rs28818910,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+17,9439079,T,C,0.0293006,-0.252883,0.053755,2.54653e-06,rs77173283,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS
+19,43685008,T,C,0.0489084,-0.211215,0.0421414,5.38477e-07,rs519137,5882,3-hydroxypyridine glucuronide levels,TRUE,reported,FSTsCS

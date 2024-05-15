@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88282518,G,A,0.399187,0.0924746,0.0150638,8.31252e-10,rs893971,8255,4-methyl-2-oxopentanoate levels,TRUE,reported,PNRyUQ

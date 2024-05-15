@@ -1,0 +1,3 @@
+"samplesize.exposure","pos.exposure","pval.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462517,5846846,1.79999e-08,"1",0.00435285,0.00077374,"ukb-b-12332","rs7415495","A","G",0.169919,"Methods of admission to hospital (recoded): Emergency admission: GP || id:ukb-b-12332",TRUE,"reported","igd"
+462517,56897947,5.39995e-09,"14",0.0120169,0.00205928,"ukb-b-12332","rs56142013","T","C",0.021951,"Methods of admission to hospital (recoded): Emergency admission: GP || id:ukb-b-12332",TRUE,"reported","igd"

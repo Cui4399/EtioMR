@@ -1,0 +1,6 @@
+"se.exposure","pos.exposure","beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000798426,50174184,-0.00452221,"3",1.5e-08,462624,"ukb-b-10559","rs7428430","T","C",0.488301,"Methods of admission to hospital (recoded): Emergency admission: A&E || id:ukb-b-10559",TRUE,"reported","igd"
+0.000808274,65104731,-0.00443415,"3",4.09996e-08,462624,"ukb-b-10559","rs9873349","A","C",0.575793,"Methods of admission to hospital (recoded): Emergency admission: A&E || id:ukb-b-10559",TRUE,"reported","igd"
+0.00104936,45257086,-0.00654012,"5",4.60002e-10,462624,"ukb-b-10559","rs12522524","T","C",0.17648,"Methods of admission to hospital (recoded): Emergency admission: A&E || id:ukb-b-10559",TRUE,"reported","igd"
+0.000828553,152202007,-0.00472674,"6",1.2e-08,462624,"ukb-b-10559","rs3757323","C","T",0.631178,"Methods of admission to hospital (recoded): Emergency admission: A&E || id:ukb-b-10559",TRUE,"reported","igd"
+0.000839803,21822856,0.00469136,"10",2.30001e-08,462624,"ukb-b-10559","rs10828247","G","A",0.343584,"Methods of admission to hospital (recoded): Emergency admission: A&E || id:ukb-b-10559",TRUE,"reported","igd"

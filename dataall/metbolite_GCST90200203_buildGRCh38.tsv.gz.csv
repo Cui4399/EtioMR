@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151907285,A,G,0.320447,0.155435,0.0167291,1.52456e-20,rs28415528,7777,Indoleacetoylcarnitine levels,TRUE,reported,3oTSYo
+10,59707424,T,G,0.771261,0.150283,0.0189893,2.49104e-15,rs1171617,7777,Indoleacetoylcarnitine levels,TRUE,reported,3oTSYo
+16,20480678,G,A,0.887441,0.602247,0.0256568,7.66599e-122,rs9924150,7777,Indoleacetoylcarnitine levels,TRUE,reported,3oTSYo
+16,20534711,C,T,0.0444488,0.426531,0.037596,7.84066e-30,rs369344065,7777,Indoleacetoylcarnitine levels,TRUE,reported,3oTSYo

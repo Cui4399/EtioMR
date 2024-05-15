@@ -1,0 +1,7 @@
+"samplesize.exposure","chr.exposure","pos.exposure","pval.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+248726,"2",186029289,4.49935e-08,-0.0194983,0.00356445,"ukb-a-41","rs59660701","T","C",0.193353,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"
+248726,"4",52758294,4.29675e-08,-0.016573,0.00302517,"ukb-a-41","rs4865414","T","C",0.316088,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"
+248726,"6",161111700,8.84891e-10,-0.0708335,0.0115569,"ukb-a-41","rs186696265","T","C",0.0149051,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"
+248726,"9",22100176,1.28499e-15,-0.0224946,0.00281303,"ukb-a-41","rs1556516","C","G",0.496512,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"
+248726,"15",78862453,6.04227e-12,-0.0205612,0.00298899,"ukb-a-41","rs7172118","A","C",0.329516,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"
+248726,"19",45411941,5.48706e-09,-0.0224981,0.00385777,"ukb-a-41","rs429358","C","T",0.156331,"Father's age at death || id:ukb-a-41",TRUE,"reported","igd"

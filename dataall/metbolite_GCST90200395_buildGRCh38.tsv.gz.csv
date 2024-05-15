@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22173550,T,A,0.0122321,-0.455571,0.0936158,1.13655e-06,rs150103370,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+3,56815721,C,T,0.622023,0.0992771,0.0209969,2.26547e-06,rs1354034,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+3,96611358,C,T,0.0622687,-0.204112,0.0425869,1.64428e-06,rs9816900,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+4,9494280,C,T,0.865551,-0.144069,0.0294983,1.03966e-06,rs2049544,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+4,77547772,C,A,0.0562053,0.212153,0.0446523,2.02179e-06,rs150162267,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+4,128767347,T,C,0.0719504,-0.191795,0.0396529,1.31916e-06,rs17013669,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+5,171482701,T,C,0.0411181,0.243548,0.0516921,2.45886e-06,rs17681009,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+7,32094526,A,G,0.277112,-0.112283,0.0228602,9.0278e-07,rs11761910,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+7,145208663,A,G,0.0458765,-0.224862,0.0491594,4.78158e-06,rs117846635,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+8,81122557,T,C,0.421357,0.101803,0.0206761,8.49166e-07,rs28655196,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+12,117753142,C,T,0.0318368,0.262973,0.0575158,4.8268e-06,rs76657508,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+16,62998802,T,C,0.0797699,-0.172907,0.0377106,4.53766e-06,rs55916106,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+16,78083979,C,T,0.124323,0.143002,0.0311759,4.49783e-06,rs16947101,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA
+19,11125127,T,C,0.0100497,0.512248,0.10295,6.50162e-07,rs117955899,4639,Inosine 5'-monophosphate (IMP) levels,TRUE,reported,ZKG6NA

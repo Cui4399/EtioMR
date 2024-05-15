@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,3679852,0.142865,0.0279571,3.2187e-07,7738,ebi-a-GCST90027488,rs17034687,G,C,0.095861,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+4,181589651,0.0782579,0.0170131,4.22766e-06,7738,ebi-a-GCST90027488,rs1833677,A,T,0.56405,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+7,155049928,0.17205,0.0358606,1.60457e-06,7738,ebi-a-GCST90027488,rs4960590,G,A,0.0570902,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+8,25073445,-0.196501,0.0416246,2.34925e-06,7738,ebi-a-GCST90027488,rs191667368,C,A,0.0547168,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+9,136149399,0.16989,0.0217316,5.3827e-15,7738,ebi-a-GCST90027488,rs507666,A,G,0.177602,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+13,114968298,-0.164898,0.0336218,9.3672e-07,7738,ebi-a-GCST90027488,rs118184992,T,C,0.0658176,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+14,95024931,-0.0814631,0.0176494,3.91931e-06,7738,ebi-a-GCST90027488,rs7147611,A,G,0.656995,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+19,50782169,0.136232,0.0294225,3.653e-06,7738,ebi-a-GCST90027488,rs80205307,T,C,0.0984987,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd
+21,26572440,-0.185895,0.0376992,8.18107e-07,7738,ebi-a-GCST90027488,rs9982657,A,G,0.051495,LACTOSECAT.PWY..lactose.and.galactose.degradation.I,TRUE,reported,igd

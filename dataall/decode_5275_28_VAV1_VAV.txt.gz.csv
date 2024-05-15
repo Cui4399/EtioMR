@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,6850756,rs36097961,T,C,-0.1123,1.405e-16,0.013589,35373,0.09873,VAV1_VAV,TRUE,reported,VAV1_VAV

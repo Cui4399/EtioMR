@@ -1,0 +1,3 @@
+"samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,0.00141255,1.70451e-08,18603183,"8",0.000250465,"ukb-d-J38","rs28807223","C","G",0.0835387,"Diagnoses - main ICD10: J38 Diseases of vocal cords and larynx, not elsewhere classified || id:ukb-d-J38",TRUE,"reported","igd"
+361194,-0.00155442,2.8543e-08,138576535,"9",0.000280062,"ukb-d-J38","rs481083","A","G",0.934631,"Diagnoses - main ICD10: J38 Diseases of vocal cords and larynx, not elsewhere classified || id:ukb-d-J38",TRUE,"reported","igd"

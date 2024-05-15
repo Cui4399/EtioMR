@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,50626486,rs6151419,GA,GG,-0.105,2.2e-20,0.011349,35343,0.13719,ARSA_Arylsulfatase_A,TRUE,reported,ARSA_Arylsulfatase_A

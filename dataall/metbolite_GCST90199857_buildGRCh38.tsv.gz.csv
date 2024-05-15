@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,133889504,A,G,0.0818427,-0.216211,0.0393345,3.8692e-08,rs7641134,4110,5alpha-pregnan-diol disulfate levels,TRUE,reported,TrETNt
+5,35967898,A,C,0.188751,0.345496,0.026958,1.33272e-37,rs10491431,4110,5alpha-pregnan-diol disulfate levels,TRUE,reported,TrETNt
+19,47873738,C,T,0.872848,0.20548,0.0326396,3.06557e-10,rs212100,4110,5alpha-pregnan-diol disulfate levels,TRUE,reported,TrETNt

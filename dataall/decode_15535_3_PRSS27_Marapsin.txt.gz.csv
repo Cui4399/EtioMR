@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,2693417,rs11642384,T,G,-0.1038,1.446e-13,0.014042,35320,0.0958,PRSS27_Marapsin,TRUE,reported,PRSS27_Marapsin
+16,2717893,rs71386687,T,G,0.3074,8.087e-108,0.013936,35320,0.09392,PRSS27_Marapsin,TRUE,reported,PRSS27_Marapsin
+16,2717894,rs141111264,C,T,0.2025,7.908e-22,0.021091,35320,0.03876,PRSS27_Marapsin,TRUE,reported,PRSS27_Marapsin

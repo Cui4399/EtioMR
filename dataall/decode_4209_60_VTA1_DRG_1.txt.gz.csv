@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,142166588,rs225657,A,C,-0.0496,7.224e-10,0.008051,35352,0.47379,VTA1_DRG_1,TRUE,reported,VTA1_DRG_1

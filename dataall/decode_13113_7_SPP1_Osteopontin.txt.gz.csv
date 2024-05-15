@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,87581615,rs10222996,G,A,-0.0599,2.552e-10,0.009472,35353,0.24455,SPP1_Osteopontin,TRUE,reported,SPP1_Osteopontin
+4,87828549,rs10007111,G,A,-0.066,3.309e-15,0.008377,35351,0.37725,SPP1_Osteopontin,TRUE,reported,SPP1_Osteopontin
+4,88072803,rs116237853,G,C,-0.175,1.628e-15,0.021966,35349,0.0364,SPP1_Osteopontin,TRUE,reported,SPP1_Osteopontin
+4,88381667,rs112645412,G,T,-0.6162,1.108e-38,0.047372,35336,0.0074,SPP1_Osteopontin,TRUE,reported,SPP1_Osteopontin
+4,88549320,rs201823634,AAAAAAAAAAAA,TAAAAAAAAAAA,-0.3552,2.863e-15,0.044981,35340,0.0076,SPP1_Osteopontin,TRUE,reported,SPP1_Osteopontin

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,63373648,rs7183733,T,C,-0.0489,6.819e-09,0.008438,35362,0.32215,CA12_Carbonic_Anhydrase_XII,TRUE,reported,CA12_Carbonic_Anhydrase_XII

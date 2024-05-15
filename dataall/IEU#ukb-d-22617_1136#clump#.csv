@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","pval.exposure","se.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00838746,30849435,3.50615e-08,0.00152097,"9",91149,"ukb-d-22617_1136","rs72703040","C","G",0.0430449,"Job SOC coding: Information and communication technology managers || id:ukb-d-22617_1136",TRUE,"reported","igd"
+0.0111033,67849583,2.47434e-08,0.00199143,"11",91149,"ukb-d-22617_1136","rs61887548","C","T",0.0247233,"Job SOC coding: Information and communication technology managers || id:ukb-d-22617_1136",TRUE,"reported","igd"

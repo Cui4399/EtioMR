@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,72272072,rs35555621,AAAAAAGAAGAAG,AAAGAAGAAG,-0.1481,3.573e-16,0.018167,35373,0.05659,PLA2G12B_sPLA_2__XIII,TRUE,reported,PLA2G12B_sPLA_2__XIII
+10,72954419,rs3829126,T,G,-0.1494,1.282e-27,0.013719,35373,0.09779,PLA2G12B_sPLA_2__XIII,TRUE,reported,PLA2G12B_sPLA_2__XIII
+10,73309717,rs4472849,C,T,-0.0728,2.431e-09,0.012202,35372,0.12895,PLA2G12B_sPLA_2__XIII,TRUE,reported,PLA2G12B_sPLA_2__XIII

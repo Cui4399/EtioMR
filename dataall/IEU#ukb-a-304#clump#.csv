@@ -1,0 +1,3 @@
+"pos.exposure","pval.exposure","se.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+85497807,5.19757e-11,0.00301922,-0.019823,154888,"3","ukb-a-304","rs11922956","G","A",0.621021,"Number of children fathered || id:ukb-a-304",TRUE,"reported","igd"
+114940159,4.81515e-09,0.00319049,0.0186764,154888,"7","ukb-a-304","rs6968380","A","G",0.695468,"Number of children fathered || id:ukb-a-304",TRUE,"reported","igd"

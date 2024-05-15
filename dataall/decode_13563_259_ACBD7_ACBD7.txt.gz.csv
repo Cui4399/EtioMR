@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,15073720,rs4748140,G,C,-0.0453,9.757e-09,0.007899,35360,0.45506,ACBD7_ACBD7,TRUE,reported,ACBD7_ACBD7

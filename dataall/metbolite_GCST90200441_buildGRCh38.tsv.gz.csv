@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,155856376,C,T,0.159817,-0.131078,0.0208022,2.95407e-10,rs985335,8235,Tryptophan levels,TRUE,reported,rgcTcS
+6,111181991,C,T,0.708744,-0.10333,0.0165146,3.92668e-10,rs1216019,8235,Tryptophan levels,TRUE,reported,rgcTcS

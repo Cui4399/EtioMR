@@ -1,0 +1,4 @@
+"beta.exposure","pval.exposure","chr.exposure","samplesize.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0382277,2.1e-09,"4",64939,0.00637846,144033617,"ukb-b-143","rs112496522","G","A",0.006731,"Shellfish intake || id:ukb-b-143",TRUE,"reported","igd"
+0.0300978,8.99995e-09,"5",64939,0.00523533,11833256,"ukb-b-143","rs1458476","C","G",0.008686,"Shellfish intake || id:ukb-b-143",TRUE,"reported","igd"
+0.0321799,2e-08,"8",64939,0.00573415,3873346,"ukb-b-143","rs145725821","A","G",0.007547,"Shellfish intake || id:ukb-b-143",TRUE,"reported","igd"

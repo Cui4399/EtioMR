@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,169735413,rs3917390,C,G,-0.1154,5.078e-41,0.008604,35363,0.32633,SELE_sE_Selectin,TRUE,reported,SELE_sE_Selectin

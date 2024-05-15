@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,71964790,rs4148908,A,G,0.0606,2.539e-10,0.009582,35372,0.24632,SPOCK2_Testican_2,TRUE,reported,SPOCK2_Testican_2
+10,72086126,rs1245548,A,G,0.1888,1.014e-116,0.008221,35372,0.45859,SPOCK2_Testican_2,TRUE,reported,SPOCK2_Testican_2
+10,72141036,rs10655614,TATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGAT,TATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGATAGAT,-0.0808,1.313e-10,0.012575,35373,0.12586,SPOCK2_Testican_2,TRUE,reported,SPOCK2_Testican_2
+10,72364449,rs72808177,G,T,0.0631,2.949e-11,0.00949,35373,0.25803,SPOCK2_Testican_2,TRUE,reported,SPOCK2_Testican_2

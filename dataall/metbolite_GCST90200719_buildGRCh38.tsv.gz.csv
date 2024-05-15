@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,86600893,C,G,0.781236,0.107139,0.0200032,8.50348e-08,rs4268141,6726,"Adenosine 3',5'-cyclic monophosphate (cAMP) to adenosine 5'-monophosphate (AMP) ratio",TRUE,reported,QhZEqY
+12,97425547,T,C,0.206424,-0.099278,0.020731,1.67728e-06,rs61943682,6726,"Adenosine 3',5'-cyclic monophosphate (cAMP) to adenosine 5'-monophosphate (AMP) ratio",TRUE,reported,QhZEqY
+15,85372048,G,A,0.94994,-0.177627,0.0388421,4.80645e-06,rs8031652,6726,"Adenosine 3',5'-cyclic monophosphate (cAMP) to adenosine 5'-monophosphate (AMP) ratio",TRUE,reported,QhZEqY
+20,53549740,T,C,0.0696618,-0.156148,0.0329684,2.17675e-06,rs11696578,6726,"Adenosine 3',5'-cyclic monophosphate (cAMP) to adenosine 5'-monophosphate (AMP) ratio",TRUE,reported,QhZEqY

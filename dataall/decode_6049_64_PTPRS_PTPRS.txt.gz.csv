@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,5293572,rs55763631,A,C,0.1985,3.936e-33,0.016553,35362,0.06933,PTPRS_PTPRS,TRUE,reported,PTPRS_PTPRS

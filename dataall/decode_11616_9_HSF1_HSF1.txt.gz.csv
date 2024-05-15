@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,144301721,rs7388446,T,C,-0.0639,3.153e-15,0.008104,34527,0.49694,HSF1_HSF1,TRUE,reported,HSF1_HSF1

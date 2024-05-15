@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,47216129,C,T,0.123384,-0.161966,0.0242833,2.56065e-11,rs2291120,7705,N-acetyl-aspartyl-glutamate (naag) levels,TRUE,reported,LmtJD0
+11,49212610,G,A,0.391915,-0.576613,0.0148398,1e-200,rs2734002,7705,N-acetyl-aspartyl-glutamate (naag) levels,TRUE,reported,LmtJD0
+11,55988524,T,G,0.8417,0.317797,0.0214763,1.51808e-49,rs10897485,7705,N-acetyl-aspartyl-glutamate (naag) levels,TRUE,reported,LmtJD0
+11,56687379,G,A,0.0611734,-0.696243,0.0326104,3.87154e-101,rs61903359,7705,N-acetyl-aspartyl-glutamate (naag) levels,TRUE,reported,LmtJD0

@@ -1,0 +1,4 @@
+chr.exposure,samplesize.exposure,se.exposure,beta.exposure,pval.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,3374,0.02846,0.5889,1.19812e-89,161515326,ebi-a-GCST90001461,rs55971447,T,C,0.2358,Dendritic Cell Absolute Count || id:ebi-a-GCST90001461,TRUE,reported,igd
+1,3374,0.05681,0.3483,9.7389e-10,161058351,ebi-a-GCST90001461,rs75072970,C,T,0.0532,Dendritic Cell Absolute Count || id:ebi-a-GCST90001461,TRUE,reported,igd
+1,3374,0.03213,-0.1935,1.911e-09,161410253,ebi-a-GCST90001461,rs115805162,T,C,0.2087,Dendritic Cell Absolute Count || id:ebi-a-GCST90001461,TRUE,reported,igd

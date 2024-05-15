@@ -1,0 +1,3 @@
+pos.exposure,chr.exposure,pval.exposure,se.exposure,beta.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+108993494,13,3.31284e-17,0.0262,0.2221,3656,ebi-a-GCST90001436,rs12874404,G,A,0.3256,Memory B cell %lymphocyte || id:ebi-a-GCST90001436,TRUE,reported,igd
+2716535,17,3.17497e-08,0.02451,-0.1359,3656,ebi-a-GCST90001436,rs11653761,T,G,0.592,Memory B cell %lymphocyte || id:ebi-a-GCST90001436,TRUE,reported,igd

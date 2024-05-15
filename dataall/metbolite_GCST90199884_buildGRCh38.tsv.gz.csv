@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,241869714,C,G,0.0113788,0.346892,0.0716849,1.30408e-06,rs75506522,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+5,112414505,A,G,0.148983,-0.100283,0.0213956,2.77117e-06,rs62365255,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+6,20092952,C,T,0.0591824,-0.153335,0.0330938,3.59796e-06,rs12200198,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+6,40773434,G,A,0.0240344,-0.243035,0.0492188,7.89923e-07,rs113634280,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+6,63190401,T,G,0.215381,-0.0843807,0.0183757,4.39088e-06,rs72886665,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+6,108442052,A,G,0.0368039,0.184632,0.0403883,4.84415e-06,rs80113431,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+7,145613370,A,G,0.0742904,-0.141008,0.0294665,1.70658e-06,rs150448803,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+9,110979923,T,C,0.203652,-0.0911255,0.0190495,1.72175e-06,rs56761894,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+11,123981322,C,T,0.0259124,0.230188,0.0480187,1.63719e-06,rs117110179,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+12,117673185,G,C,0.338399,0.0770985,0.016507,3.00247e-06,rs11068615,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+15,98331535,A,C,0.728138,-0.0782812,0.0170824,4.59315e-06,rs28416201,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+16,6646096,C,A,0.071088,-0.138709,0.0295974,2.77878e-06,rs35409385,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+17,80945331,A,G,0.278074,-0.0803761,0.0172883,3.33298e-06,rs17848711,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW
+19,47610347,A,G,0.700225,-0.0770221,0.0167906,4.49225e-06,rs62128735,8268,"2,3-dihydroxyisovalerate levels",TRUE,reported,5MUKPW

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,159814043,rs11585836,C,T,-0.1527,1.261e-47,0.010533,35349,0.17977,FCRL6_FCRL6,TRUE,reported,FCRL6_FCRL6

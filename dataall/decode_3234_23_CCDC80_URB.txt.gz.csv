@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,112655985,rs9845240,A,G,0.0937,2.238e-28,0.008481,35354,0.37053,CCDC80_URB,TRUE,reported,CCDC80_URB
+3,112790408,rs9870601,GCGGAGCGGGGGGA,GCGGAGTGGGGGGA,0.0613,2.635e-13,0.008384,35362,0.38861,CCDC80_URB,TRUE,reported,CCDC80_URB

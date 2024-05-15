@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","pval.exposure","se.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.00160363,2e-08,0.000285679,463010,247552084,"ukb-b-18381","rs10925006","T","C",0.741009,"PCT responsible for patient data: SHEFFIELD PCT || id:ukb-b-18381",TRUE,"reported","igd"
+"5",0.00145401,4.60002e-08,0.000266017,463010,1154273,"ukb-b-18381","rs56738155","G","A",0.362141,"PCT responsible for patient data: SHEFFIELD PCT || id:ukb-b-18381",TRUE,"reported","igd"

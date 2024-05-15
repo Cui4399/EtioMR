@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,131763311,rs375988757,ACACACACACACACACACACACG,ACACACACACACACACG,-0.2065,4.115e-08,0.037642,35343,0.01097,PDLIM4_PDLI4,TRUE,reported,PDLIM4_PDLI4
+5,132100792,rs74821882,A,G,-0.134,4.486e-09,0.022847,35342,0.03203,PDLIM4_PDLI4,TRUE,reported,PDLIM4_PDLI4
+5,132271243,rs2292260,A,G,-0.2589,5.217e-66,0.015087,35343,0.07367,PDLIM4_PDLI4,TRUE,reported,PDLIM4_PDLI4

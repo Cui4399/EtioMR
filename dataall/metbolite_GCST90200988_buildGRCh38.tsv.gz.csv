@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61822009,G,A,0.301133,0.268207,0.0183228,1.61057e-48,rs28456,6813,Benzoate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,lvSzKi
+19,44912921,T,G,0.225683,-0.163302,0.0202138,6.54479e-16,rs483082,6813,Benzoate to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,lvSzKi

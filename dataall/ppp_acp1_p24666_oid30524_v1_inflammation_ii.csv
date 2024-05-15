@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,165280,rs138033122,C,T,-0.1658,1.61305806165282e-08,0.02935,32981,0.017464,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,211317,rs62114494,T,C,-0.361553,1e-200,0.0078955,32981,0.353079,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,226243,rs144639455,C,T,0.160041,8.83710469092719e-09,0.0278251,32981,0.0204767,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,309480,rs6717613,A,G,0.0723008,3.68128973642532e-15,0.00919236,32981,0.343654,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,333665,rs2941874,T,G,0.0629696,1.20198763486989e-16,0.00760235,32981,0.571026,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,355375,rs143198549,T,C,-0.187592,1.22574463204981e-11,0.02768,32981,0.020427,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,395708,rs76433480,C,T,-0.0708587,1.57688492012193e-11,0.0105122,32981,0.150663,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,443196,rs34521596,T,C,0.163339,2.59059784547586e-19,0.0181793,32981,0.0448648,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,574368,rs10176391,G,C,0.21967,1.05392571232611e-09,0.0360054,32981,0.0119196,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis
+2,651599,rs1879523,T,A,-0.0520905,5.23962251905938e-11,0.00793583,32981,0.346357,acp1_p24666_oid30524_v1_inflammation_ii,TRUE,reported,acp1_p24666_oid30524_v1_inflammation_ii,chr2,264868,cis

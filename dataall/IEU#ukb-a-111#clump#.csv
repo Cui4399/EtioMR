@@ -1,0 +1,6 @@
+"beta.exposure","pval.exposure","chr.exposure","pos.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00124781,1.17141e-09,"1",76095959,0.000205087,337159,"ukb-a-111","rs142022724","A","G",0.0164665,"Non-cancer illness code  self-reported: pneumothorax || id:ukb-a-111",TRUE,"reported","igd"
+0.00132442,3.91859e-08,"1",239985471,0.00024104,337159,"ukb-a-111","rs75037698","G","A",0.0110513,"Non-cancer illness code  self-reported: pneumothorax || id:ukb-a-111",TRUE,"reported","igd"
+0.000844418,5.60299e-10,"1",107875369,0.000136166,337159,"ukb-a-111","rs72699393","C","G",0.0356852,"Non-cancer illness code  self-reported: pneumothorax || id:ukb-a-111",TRUE,"reported","igd"
+0.00154044,1.07535e-10,"4",65181414,0.000238601,337159,"ukb-a-111","rs140873942","T","C",0.0115614,"Non-cancer illness code  self-reported: pneumothorax || id:ukb-a-111",TRUE,"reported","igd"
+0.000933998,2.3746e-10,"5",180086367,0.000147432,337159,"ukb-a-111","rs74574296","C","G",0.0307267,"Non-cancer illness code  self-reported: pneumothorax || id:ukb-a-111",TRUE,"reported","igd"

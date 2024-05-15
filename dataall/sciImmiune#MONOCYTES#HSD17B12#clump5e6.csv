@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",43817320,"rs7118906","C","G",1.73299950854e-17,0.99983161603,0.117483186826751,89,"Classical monocyte#HSD17B12",TRUE,"reported","IkuDUp",NA

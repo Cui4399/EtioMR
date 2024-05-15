@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31561978,C,T,0.017545,-0.329683,0.0502842,5.51237e-11,rs72794638,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+2,31580756,T,C,0.0330396,-0.343361,0.0372578,3.08949e-20,rs9282858,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+9,85816849,T,C,0.0325964,0.214196,0.0372726,9.09806e-09,rs148778375,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+11,63077115,C,T,0.287242,-0.0834673,0.014608,1.10477e-08,rs11231334,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+11,63104763,A,G,0.0609634,1.00746,0.0254127,1e-200,rs112621169,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+11,63312298,C,T,0.591058,-0.143033,0.013413,1.50329e-26,rs540582,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D
+19,47871693,A,C,0.161828,0.170167,0.0179971,3.2228e-21,rs62129966,7980,Androsterone glucuronide levels,TRUE,reported,YpGX4D

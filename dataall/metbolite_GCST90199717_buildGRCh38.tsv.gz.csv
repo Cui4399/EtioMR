@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,240132,T,C,0.651121,0.359328,0.0151076,4.82028e-125,rs10774021,8090,1-methyl-4-imidazoleacetate levels,TRUE,reported,4xeXB1

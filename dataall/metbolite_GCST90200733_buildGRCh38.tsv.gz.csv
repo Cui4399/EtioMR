@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,29224387,G,A,0.523632,0.102195,0.0218978,3.05729e-06,rs6723311,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+5,100755758,G,A,0.0289256,-0.28642,0.0622768,4.24219e-06,rs79357230,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+6,10974455,A,G,0.174649,0.131013,0.0276225,2.10604e-06,rs12154017,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+6,167295330,A,G,0.0950969,-0.174585,0.0353913,8.09757e-07,rs1555031,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+10,122384116,T,C,0.069229,-0.200004,0.0407452,9.17076e-07,rs77506352,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+12,1617853,A,C,0.0178817,-0.368555,0.079545,3.59906e-06,rs75832021,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+16,4812786,C,T,0.145891,-0.135584,0.0293871,3.955e-06,rs112036394,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6
+16,75358782,A,G,0.0140187,0.405092,0.0884936,4.70241e-06,rs34842690,4392,Adenosine 5'-diphosphate (ADP) to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,0IGff6

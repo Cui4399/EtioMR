@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233738671,A,G,0.289708,-0.103731,0.0167361,5.71623e-10,rs6722076,8262,Thyroxine levels,TRUE,reported,X9tGOs
+12,120978847,C,A,0.317795,0.0895045,0.0163472,4.36977e-08,rs1169288,8262,Thyroxine levels,TRUE,reported,X9tGOs

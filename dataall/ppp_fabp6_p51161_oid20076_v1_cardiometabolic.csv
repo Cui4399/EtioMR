@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+5,160232266,rs1130435,T,C,-0.131452,1.71040910600273e-62,0.00787887,33043,0.4012,fabp6_p51161_oid20076_v1_cardiometabolic,TRUE,reported,fabp6_p51161_oid20076_v1_cardiometabolic,chr5,160187366,cis

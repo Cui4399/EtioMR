@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,34924666,T,G,0.019613,0.270215,0.057409,2.51596e-06,rs145315010,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+3,140327947,G,A,0.0595548,0.152033,0.0332794,4.91486e-06,rs62268006,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+4,53705899,T,G,0.303162,0.0844491,0.0173939,1.20325e-06,rs17083333,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+4,79920263,C,T,0.612667,0.0747197,0.0162734,4.40032e-06,rs6534650,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+4,162262821,G,A,0.0102704,0.364757,0.0779015,2.83697e-06,rs76531408,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+8,133872435,T,A,0.0639323,0.156334,0.0325634,1.57936e-06,rs78262847,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+10,120332540,G,A,0.0395113,0.189899,0.0407585,3.17554e-06,rs61871554,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+12,57618380,G,A,0.562565,0.0853702,0.0158997,7.90377e-08,rs1552842,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+16,80435756,G,A,0.0812744,-0.146009,0.0292607,6.0397e-07,rs17742148,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS
+20,14443935,C,G,0.492773,0.0851669,0.0159571,9.4379e-08,rs6110293,7719,Fructose to sucrose ratio,TRUE,reported,fDrmcS

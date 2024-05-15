@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+75177,0.0398187,0.00804863,7.54282e-07,6,16257143,"C","T","rs57813212",0.985736,0.0153989,15156,"Work hours - lumped category: 20 to less-than-30 hours",TRUE,"reported","JaWHmU","Occupation","ukb1815"
+75177,0.014348,0.0031421,4.97029e-06,13,79518573,"A","G","rs4641620",0.993012,0.885717,15156,"Work hours - lumped category: 20 to less-than-30 hours",TRUE,"reported","JaWHmU","Occupation","ukb1815"
+75177,-0.0120504,0.00248937,1.29612e-06,17,55470302,"A","G","rs9890983",0.979155,0.20721,15156,"Work hours - lumped category: 20 to less-than-30 hours",TRUE,"reported","JaWHmU","Occupation","ukb1815"
+75177,-0.0132685,0.0028637,3.60419e-06,22,17608038,"G","T","rs5746998",0.977066,0.85725,15156,"Work hours - lumped category: 20 to less-than-30 hours",TRUE,"reported","JaWHmU","Occupation","ukb1815"

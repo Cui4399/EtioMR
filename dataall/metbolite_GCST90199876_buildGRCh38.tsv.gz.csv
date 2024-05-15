@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,55039974,T,G,0.0177966,-0.340503,0.0562651,1.43274e-09,rs11591147,8269,Palmitoyl sphingomyelin (d18:1/16:0) levels,TRUE,reported,NWvcmr
+2,27368937,C,T,0.303841,0.0978801,0.0162446,1.68691e-09,rs80051818,8269,Palmitoyl sphingomyelin (d18:1/16:0) levels,TRUE,reported,NWvcmr
+6,160702419,C,T,0.0859365,0.162517,0.0269407,1.61551e-09,rs4252185,8269,Palmitoyl sphingomyelin (d18:1/16:0) levels,TRUE,reported,NWvcmr
+19,44928379,G,A,0.0907108,-0.156192,0.0270541,7.77265e-09,rs113345881,8269,Palmitoyl sphingomyelin (d18:1/16:0) levels,TRUE,reported,NWvcmr

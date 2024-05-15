@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21569132,T,A,0.943518,0.302469,0.0332792,1.00113e-19,rs1780318,8245,Phosphocholine levels,TRUE,reported,lrjN8j
+22,24099578,G,A,0.0540705,-0.195696,0.0336788,6.22286e-09,rs75642681,8245,Phosphocholine levels,TRUE,reported,lrjN8j

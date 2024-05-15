@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+6,31271729,rs1050414,G,C,0.0727497,9.34071239175772e-10,0.0118866,33742,0.109508,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis
+6,31883457,rs652888,G,A,0.195478,2.79898131963438e-110,0.00876093,33742,0.237908,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis
+6,32295322,rs9268149,C,T,0.268731,4.95450190804782e-163,0.00987623,33742,0.827132,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis
+6,32650413,rs185774696,T,C,0.131413,1.99664106949792e-43,0.00951058,33742,0.296338,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis
+6,32662319,rs9274063,A,G,0.112897,6.70810728799226e-28,0.010311,33742,0.236953,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis
+6,32744232,rs41288889,C,A,-0.183712,3.58426408043715e-30,0.0160961,33742,0.0567838,c2_p06681_oid20410_v1_cardiometabolic,TRUE,reported,c2_p06681_oid20410_v1_cardiometabolic,chr6,31897784,cis

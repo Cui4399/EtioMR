@@ -1,0 +1,8 @@
+"se.exposure","chr.exposure","pos.exposure","beta.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00067174,"3",181364589,0.00405603,361194,1.56103e-09,"ukb-d-VII_EYE_ADNEXA","rs6414493","A","G",0.356839,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.000645642,"6",32586794,0.00369044,361194,1.09192e-08,"ukb-d-VII_EYE_ADNEXA","rs9271365","G","T",0.429929,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.00074142,"7",46214253,0.00489687,361194,3.98841e-11,"ukb-d-VII_EYE_ADNEXA","rs17172647","G","A",0.263952,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.000640964,"9",22072638,0.00411408,361194,1.37721e-10,"ukb-d-VII_EYE_ADNEXA","rs9632885","A","G",0.47888,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.000689505,"10",94174515,-0.00381179,361194,3.23571e-08,"ukb-d-VII_EYE_ADNEXA","rs7905107","A","T",0.360908,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.00110414,"11",68942162,0.00782368,361194,1.38516e-12,"ukb-d-VII_EYE_ADNEXA","rs150648223","ATTT","A",0.0929959,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"
+0.000878069,"20",19476765,0.00797602,361194,1.0556e-19,"ukb-d-VII_EYE_ADNEXA","rs6046142","A","G",0.157378,"Diseases of the eye and adnexa || id:ukb-d-VII_EYE_ADNEXA",TRUE,"reported","igd"

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+9,136698656,0.201853,0.0430388,2.73162e-06,7738,ebi-a-GCST90027512,rs71505230,A,G,0.0503279,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd
+9,13955659,0.171367,0.0357695,1.66062e-06,7738,ebi-a-GCST90027512,rs73648437,C,T,0.0744602,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd
+12,56987179,0.088903,0.0192138,3.70937e-06,7738,ebi-a-GCST90027512,rs10783794,G,A,0.386545,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd
+12,116041090,-0.108238,0.0235988,4.50526e-06,7738,ebi-a-GCST90027512,rs4767337,C,A,0.188831,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd
+17,2630997,0.0937673,0.0204054,4.32295e-06,7738,ebi-a-GCST90027512,rs2098065,A,G,0.527631,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd
+19,45843609,0.100853,0.0216345,3.13617e-06,7738,ebi-a-GCST90027512,rs10404465,A,T,0.241021,PPGPPMET.PWY..ppGpp.biosynthesis,TRUE,reported,igd

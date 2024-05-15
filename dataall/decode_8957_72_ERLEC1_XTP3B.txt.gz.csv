@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,53824607,rs2542580,A,C,-0.1003,4.473e-20,0.010931,35346,0.1546,ERLEC1_XTP3B,TRUE,reported,ERLEC1_XTP3B

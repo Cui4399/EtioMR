@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+10,112365004,0.167195,0.0334935,5.98026e-07,7738,ebi-a-GCST90027523,rs61861701,G,A,0.250813,PWY0.1533..methylphosphonate.degradation.I,TRUE,reported,igd
+16,62405413,0.284,0.0592952,1.67113e-06,7738,ebi-a-GCST90027523,rs12921798,A,G,0.062306,PWY0.1533..methylphosphonate.degradation.I,TRUE,reported,igd

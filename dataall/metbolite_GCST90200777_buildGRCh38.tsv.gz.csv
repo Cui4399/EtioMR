@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,84955881,C,T,0.0580683,0.216244,0.0334868,1.06385e-10,rs72754971,7705,Uridine to cytidine ratio,TRUE,reported,G7GmL5

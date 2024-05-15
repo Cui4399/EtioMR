@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,176655378,C,T,0.659766,-0.079346,0.0144127,3.68573e-08,rs6740315,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8
+5,35967898,A,C,0.147982,0.220271,0.0190047,4.61265e-31,rs10491431,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8
+7,64579087,A,G,0.433693,-0.114657,0.0138005,9.71668e-17,rs7806596,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8
+10,99845936,G,A,0.105359,-0.16225,0.0221228,2.23219e-13,rs3740065,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8
+12,21178615,C,T,0.155802,0.167898,0.0186,1.76787e-19,rs4149056,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8
+19,47871693,A,C,0.159774,-0.509378,0.0177826,1.86536e-180,rs62129966,8245,Pregnenediol disulfate (C21H34O8S2) levels,TRUE,reported,sIGGx8

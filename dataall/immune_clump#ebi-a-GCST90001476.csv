@@ -1,0 +1,3 @@
+beta.exposure,samplesize.exposure,pval.exposure,chr.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.2715,3595,7.43875e-18,6,0.03137,32561424,ebi-a-GCST90001476,rs9270591,T,C,0.5793,HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476,TRUE,reported,igd
+-0.2168,3595,3.71878e-11,6,0.03267,32594188,ebi-a-GCST90001476,rs9271768,G,A,0.4356,HLA DR++ monocyte %leukocyte || id:ebi-a-GCST90001476,TRUE,reported,igd

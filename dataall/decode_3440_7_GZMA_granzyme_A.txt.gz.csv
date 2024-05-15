@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,54135327,rs72752124,C,T,-0.1627,6.998e-20,0.017825,35366,0.05261,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54398610,rs71600832,TAAAAAAAA,TAA,-0.2734,1.188e-30,0.023755,35364,0.03061,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54403633,rs73754329,A,G,-0.2997,2.081e-35,0.024134,35366,0.02942,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54525124,rs2548607,T,C,-0.0643,1.172e-08,0.011273,35374,0.15424,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54697046,rs74893885,T,C,-0.2578,3.408e-30,0.022579,35366,0.03435,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54911064,rs142909603,TTGTGTGTGTGTGTGTGTG,TTG,-0.7605,2.985e-93,0.037126,35364,0.01305,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,54993878,rs72764143,A,C,0.0599,2.783e-08,0.010784,35363,0.16896,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,55030849,rs139268409,A,C,-1.0049,8.121e-129,0.041617,35361,0.01041,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,55388267,rs147426320,G,A,-0.1606,3.881e-18,0.018498,35363,0.0525,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A
+5,56059727,rs6883731,C,T,-0.1054,3.269e-16,0.012912,35361,0.11378,GZMA_granzyme_A,TRUE,reported,GZMA_granzyme_A

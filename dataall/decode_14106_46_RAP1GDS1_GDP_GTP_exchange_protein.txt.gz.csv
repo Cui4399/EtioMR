@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,98316288,rs10516428,G,T,-0.054,1.08e-08,0.009444,35336,0.23193,RAP1GDS1_GDP_GTP_exchange_protein,TRUE,reported,RAP1GDS1_GDP_GTP_exchange_protein

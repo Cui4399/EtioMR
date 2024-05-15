@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",67293409,"rs157414","A","G",3.72148158437e-09,-1.14656776036,0.194461398593543,89,"Classical monocyte#PIK3R1",TRUE,"reported","MIydch",NA

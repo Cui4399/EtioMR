@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,9901434,rs117261728,G,A,0.277232,3.29989407910837e-34,0.022733,32981,0.0305027,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,9924829,rs117309845,T,C,-0.144349,2.90790356574374e-10,0.0228995,32981,0.0298771,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,9926034,rs10845006,C,T,-0.209412,3.03040029778837e-17,0.024796,32981,0.0247415,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,9945010,rs28588142,T,C,0.452924,1e-200,0.00987724,32981,0.188707,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,9966163,rs2594084,T,C,0.169722,1.18358649196186e-16,0.0204861,32981,0.962902,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,10024129,rs9804802,G,A,-0.188799,1.23026877081239e-131,0.0077334,32981,0.456399,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,10025376,rs4764196,C,G,-0.112491,1.38771409679755e-32,0.00946358,32981,0.258011,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,10055352,rs181842925,T,C,0.243252,3.71449689797623e-16,0.029856,32981,0.0185614,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,10205370,rs73058001,T,C,-0.0553151,2.44163082965262e-08,0.00991775,32981,0.190398,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis
+12,10234507,rs113247892,T,A,-0.0847934,2.61330440193865e-10,0.0134164,32981,0.118209,clec12a_q5qgz9_oid30552_v1_inflammation_ii,TRUE,reported,clec12a_q5qgz9_oid30552_v1_inflammation_ii,chr12,9951315,cis

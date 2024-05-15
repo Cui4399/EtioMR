@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132254564,T,C,0.554278,-0.119161,0.0155894,2.11066e-14,rs7727038,7532,3-hydroxyoleoylcarnitine levels,TRUE,reported,nbN8U8

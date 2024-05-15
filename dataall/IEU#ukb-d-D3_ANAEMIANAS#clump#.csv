@@ -1,0 +1,3 @@
+"pval.exposure","se.exposure","chr.exposure","pos.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.36124e-10,0.000273559,"6",32557606,0.0017072,361194,"ukb-d-D3_ANAEMIANAS","rs17211105","A","G",0.526409,"Other and unspecified anaemias || id:ukb-d-D3_ANAEMIANAS",TRUE,"reported","igd"
+4.55407e-11,0.000337106,"6",32614387,0.00221986,361194,"ukb-d-D3_ANAEMIANAS","rs9273272","G","A",0.22435,"Other and unspecified anaemias || id:ukb-d-D3_ANAEMIANAS",TRUE,"reported","igd"

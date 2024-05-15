@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,36638487,A,G,0.0320544,-0.265376,0.042679,5.03647e-10,rs62354638,8184,Glutamate to kynurenine ratio,TRUE,reported,ZRBxhg

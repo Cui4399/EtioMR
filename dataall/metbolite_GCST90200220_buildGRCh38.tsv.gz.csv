@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,225856891,T,C,0.0455835,-0.186446,0.037153,5.21249e-07,rs2292560,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+3,2932649,T,C,0.403868,-0.0753984,0.0160956,2.80761e-06,rs9310883,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+6,6684159,G,C,0.0150841,0.307326,0.0635444,1.32216e-06,rs114350339,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+6,10038771,G,A,0.149296,0.105462,0.0220686,1.76311e-06,rs62404880,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+9,36965298,C,T,0.0236424,0.237615,0.050792,2.89416e-06,rs77198199,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+10,17594736,A,G,0.334057,0.0787175,0.0166707,2.33634e-06,rs10904974,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+12,6746883,G,A,0.0219276,0.266758,0.0540836,8.1258e-07,rs34996300,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+12,31663689,A,G,0.265498,0.0798514,0.0174658,4.83407e-06,rs900610,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+17,76195548,G,A,0.0561231,0.165431,0.0336411,8.76394e-07,rs12051808,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ
+19,2729805,T,C,0.0181399,-0.268928,0.0584923,4.2725e-06,rs35034266,8139,4-allylcatechol sulfate levels,TRUE,reported,lWAieZ

@@ -1,0 +1,3 @@
+"pval.exposure","beta.exposure","chr.exposure","pos.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.90459e-09,-0.0058224,"1",10444202,335591,0.00100048,"ukb-a-464","rs35811280","G","A",0.476582,"Vitamin and mineral supplements: Multivitamins +/- minerals || id:ukb-a-464",TRUE,"reported","igd"
+1.53695e-08,-0.00621524,"10",65364539,335591,0.00109858,"ukb-a-464","rs12258858","G","T",0.293686,"Vitamin and mineral supplements: Multivitamins +/- minerals || id:ukb-a-464",TRUE,"reported","igd"

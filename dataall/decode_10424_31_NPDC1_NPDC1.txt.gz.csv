@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,137059328,rs9314872,C,G,0.0898,1.573e-11,0.013321,35248,0.10086,NPDC1_NPDC1,TRUE,reported,NPDC1_NPDC1

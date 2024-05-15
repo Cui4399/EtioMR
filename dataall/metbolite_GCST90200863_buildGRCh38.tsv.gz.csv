@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119711883,G,A,0.581933,-0.166232,0.0156802,2.93738e-26,rs561931,8226,Phosphate to serine ratio,TRUE,reported,vJZVHR
+2,210675783,A,C,0.310389,-0.182614,0.0166433,5.19756e-28,rs1047891,8226,Phosphate to serine ratio,TRUE,reported,vJZVHR
+7,56008905,C,T,0.755476,-0.151077,0.0179899,4.54629e-17,rs6951810,8226,Phosphate to serine ratio,TRUE,reported,vJZVHR

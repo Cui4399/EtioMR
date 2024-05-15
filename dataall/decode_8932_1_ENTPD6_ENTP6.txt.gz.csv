@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,25214873,rs6050446,G,A,0.3418,2.305e-47,0.023645,35365,0.03163,ENTPD6_ENTP6,TRUE,reported,ENTPD6_ENTP6

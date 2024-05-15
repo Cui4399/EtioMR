@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","pos.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,1.06893e-10,89986117,"16",0.00150916,0.000233722,"ukb-d-L12_ACTINKERA","rs1805007","T","C",0.104538,"Actinic keratosis || id:ukb-d-L12_ACTINKERA",TRUE,"reported","igd"
+361194,2.3418e-09,33236696,"20",0.00146513,0.000245322,"ukb-d-L12_ACTINKERA","rs56238684","C","G",0.0978192,"Actinic keratosis || id:ukb-d-L12_ACTINKERA",TRUE,"reported","igd"

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,10161926,rs7296791,TATATATATATATATATAAAA,TATATATATATATATATATAA,-0.1811,5.995e-35,0.014684,35389,0.07824,OLR1_OLR1,TRUE,reported,OLR1_OLR1
+12,10923269,rs146927066,A,G,-0.1688,1.46e-08,0.029791,35390,0.01787,OLR1_OLR1,TRUE,reported,OLR1_OLR1

@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,-0.0730929,0.0149474,1.01134e-06,"1",96471918,"G","C","rs11810742",0.992007,0.145371,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"
+51427,0.205922,0.0418733,8.78201e-07,"2",78703208,"G","A","rs150325676",1,0.0162946,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"
+51427,-0.0739083,0.0154132,1.63029e-06,"4",61435162,"C","T","rs79786744",0.952525,0.141061,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"
+51427,0.183169,0.0331981,3.45588e-08,"4",170946654,"T","C","rs72702359",1,0.0252454,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"
+51427,0.0683644,0.0123147,2.8475e-08,"8",10277978,"A","G","rs73197294",0.990803,0.240938,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"
+51427,-0.0529265,0.0112916,2.77633e-06,"8",41391588,"A","G","rs10096250",1,0.678846,NA,"Sweet biscuits intake",TRUE,"reported","BdKetL","Diet","ukb332"

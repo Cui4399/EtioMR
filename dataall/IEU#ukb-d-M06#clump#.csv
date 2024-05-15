@@ -1,0 +1,6 @@
+"samplesize.exposure","chr.exposure","pos.exposure","se.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,"1",114303808,0.000247517,1.50695e-12,0.00175096,"ukb-d-M06","rs6679677","A","C",0.102468,"Diagnoses - main ICD10: M06 Other rheumatoid arthritis || id:ukb-d-M06",TRUE,"reported","igd"
+361194,"1",85719434,0.000578174,6.05327e-09,0.00336232,"ukb-d-M06","rs189070938","A","T",0.0178799,"Diagnoses - main ICD10: M06 Other rheumatoid arthritis || id:ukb-d-M06",TRUE,"reported","igd"
+361194,"6",32561370,0.000161516,1.71791e-106,0.00354142,"ukb-d-M06","rs35139284","T","C",0.320002,"Diagnoses - main ICD10: M06 Other rheumatoid arthritis || id:ukb-d-M06",TRUE,"reported","igd"
+361194,"6",32629497,0.00020368,3.70595e-21,0.00192299,"ukb-d-M06","rs41270903","G","A",0.192874,"Diagnoses - main ICD10: M06 Other rheumatoid arthritis || id:ukb-d-M06",TRUE,"reported","igd"
+361194,"6",32545392,0.000274172,1.28529e-60,0.00450387,"ukb-d-M06","rs35511257","C","G",0.0951488,"Diagnoses - main ICD10: M06 Other rheumatoid arthritis || id:ukb-d-M06",TRUE,"reported","igd"

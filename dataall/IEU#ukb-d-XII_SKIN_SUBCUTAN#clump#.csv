@@ -1,0 +1,3 @@
+"se.exposure","pval.exposure","pos.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00180865,3.50671e-90,38051211,361194,0.0364309,"3","ukb-d-XII_SKIN_SUBCUTAN","rs75495843","A","G",0.0302483,"Diseases of the skin and subcutaneous tissue || id:ukb-d-XII_SKIN_SUBCUTAN",TRUE,"reported","igd"
+0.00112335,5.67362e-09,34545495,361194,-0.0065449,"20","ukb-d-XII_SKIN_SUBCUTAN","rs4911523","G","A",0.911827,"Diseases of the skin and subcutaneous tissue || id:ukb-d-XII_SKIN_SUBCUTAN",TRUE,"reported","igd"

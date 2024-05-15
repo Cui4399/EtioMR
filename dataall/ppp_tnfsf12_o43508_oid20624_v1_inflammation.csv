@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,7059607,rs191173479,C,T,0.105808,4.06349752903903e-11,0.0160273,34049,0.0607275,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7303370,rs111417555,A,G,-0.17651,2.26360164044974e-13,0.0240731,34049,0.0252775,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7334027,rs2047803,C,T,-0.0438702,1.32730276773591e-08,0.00772021,34049,0.363109,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7360957,rs11654318,T,C,0.084322,3.43162639796468e-24,0.00831039,34049,0.577858,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7534733,rs6503037,G,A,-0.337101,1e-200,0.0081536,34049,0.695788,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7669911,rs6503048,T,C,-0.0808793,1.50740516842686e-08,0.0142878,34049,0.0736252,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7702893,rs118081933,A,G,-0.160352,1.09925892401514e-11,0.0236059,34049,0.0266209,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7728376,rs62062609,T,G,-0.185941,1.0924460532268e-61,0.0112195,34049,0.126525,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7877391,rs7223364,T,G,0.127943,1.65958690743756e-29,0.0113432,34049,0.120973,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,7902341,rs139167725,C,G,0.190551,8.24517732043984e-12,0.0278818,34049,0.0192988,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,8037436,rs4468690,T,C,-0.0660985,7.11197137545523e-10,0.0107241,34049,0.158316,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis
+17,8048791,rs117777987,T,A,0.118579,3.56738514884909e-09,0.0200876,34049,0.0371703,tnfsf12_o43508_oid20624_v1_inflammation,TRUE,reported,tnfsf12_o43508_oid20624_v1_inflammation,chr17,7549057,cis

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,8000318,rs79460322,G,A,-0.1733,3.626e-08,0.031462,35378,0.01733,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8500194,rs79943209,A,G,-0.0683,1.524e-08,0.01207,35379,0.13017,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8547160,rs72776587,T,C,-0.1201,1.397e-09,0.019832,35380,0.04516,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8812682,rs3826198,A,C,-0.1686,9.947e-65,0.009924,35380,0.21056,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8813057,rs34258285,C,A,-0.3541,9.61e-32,0.030203,35380,0.01856,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8845011,rs139985168,C,G,-0.5956,1.125e-45,0.041986,35380,0.00951,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8900886,rs146544605,G,C,-0.1576,1.133e-12,0.022156,35380,0.03488,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,8935563,rs78181501,C,T,0.1559,1.045e-13,0.020968,35380,0.03955,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2
+16,9009074,rs55976165,T,C,-0.0494,1.327e-08,0.008693,35370,0.3245,PMM2_Phosphomannomutase_2,TRUE,reported,PMM2_Phosphomannomutase_2

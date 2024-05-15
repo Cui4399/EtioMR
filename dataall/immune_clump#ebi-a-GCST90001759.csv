@@ -1,0 +1,8 @@
+beta.exposure,samplesize.exposure,pval.exposure,se.exposure,chr.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.2234,3657,2.52581e-12,0.0318,6,15914349,ebi-a-GCST90001759,rs6910382,G,C,0.8198,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+0.1848,3657,9.18121e-11,0.02844,6,32451834,ebi-a-GCST90001759,rs62405562,G,A,0.455,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+0.1572,3657,5.42001e-09,0.02688,6,14091682,ebi-a-GCST90001759,rs72836542,T,C,0.3161,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+-0.1712,3657,6.52304e-09,0.02943,6,32560741,ebi-a-GCST90001759,rs9270560,C,T,0.5889,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+-0.1343,3657,3.93396e-08,0.0244,7,40190449,ebi-a-GCST90001759,rs388354,C,A,0.5205,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+-0.1965,3657,3.155e-15,0.02481,11,60268994,ebi-a-GCST90001759,rs1941018,G,A,0.6081,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd
+-0.1667,3657,1.66702e-08,0.02948,19,49846398,ebi-a-GCST90001759,rs30003,C,T,0.2304,CD20 on naive-mature B cell || id:ebi-a-GCST90001759,TRUE,reported,igd

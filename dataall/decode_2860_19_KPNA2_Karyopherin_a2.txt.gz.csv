@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,68905074,rs1373068,G,T,0.0626,2.264e-12,0.008921,35371,0.3255,KPNA2_Karyopherin_a2,TRUE,reported,KPNA2_Karyopherin_a2

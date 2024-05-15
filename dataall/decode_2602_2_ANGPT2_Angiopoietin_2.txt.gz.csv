@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,6172220,rs2552272,A,G,-0.0783,5.093e-09,0.013398,35378,0.1124,ANGPT2_Angiopoietin_2,TRUE,reported,ANGPT2_Angiopoietin_2
+8,6421990,rs1968586,T,C,-0.1308,2.536e-49,0.00886,35377,0.3488,ANGPT2_Angiopoietin_2,TRUE,reported,ANGPT2_Angiopoietin_2
+8,6431041,rs2251947,C,G,0.0946,3.858e-29,0.008443,35377,0.4783,ANGPT2_Angiopoietin_2,TRUE,reported,ANGPT2_Angiopoietin_2
+8,6552618,rs73664545,A,G,0.3577,1.394e-08,0.063041,35390,0.00433,ANGPT2_Angiopoietin_2,TRUE,reported,ANGPT2_Angiopoietin_2

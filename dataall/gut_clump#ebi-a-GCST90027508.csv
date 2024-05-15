@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+5,25688394,-0.0805754,0.0168733,1.79411e-06,7738,ebi-a-GCST90027508,rs248756,A,T,0.64452,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+9,112101933,0.0895778,0.0193862,3.82455e-06,7738,ebi-a-GCST90027508,rs10979829,A,T,0.229883,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+11,2820455,0.122222,0.0238,2.81559e-07,7738,ebi-a-GCST90027508,rs163172,G,A,0.850091,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+11,92858978,0.141866,0.030324,2.89221e-06,7738,ebi-a-GCST90027508,rs631694,T,C,0.919616,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+12,131044416,-0.152002,0.0324838,2.87839e-06,7738,ebi-a-GCST90027508,rs78496981,T,C,0.0682182,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+12,95179179,0.0769656,0.016414,2.74517e-06,7738,ebi-a-GCST90027508,rs10859752,A,G,0.402186,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+16,23728984,-0.0981107,0.0214092,4.59145e-06,7738,ebi-a-GCST90027508,rs780162,C,G,0.20111,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd
+21,19231698,-0.0885882,0.0191712,3.82067e-06,7738,ebi-a-GCST90027508,rs1029249,C,T,0.227143,PHOSLIPSYN.PWY..superpathway.of.phospholipid.biosynthesis.I..bacteria.,TRUE,reported,igd

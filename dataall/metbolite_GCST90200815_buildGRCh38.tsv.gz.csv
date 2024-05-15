@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53639691,C,G,0.234389,0.121205,0.0245906,8.26882e-07,rs941123,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+1,184131715,G,T,0.359484,0.100027,0.0215664,3.51609e-06,rs10911514,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+4,69566970,A,T,0.388747,0.100935,0.0217361,3.4229e-06,rs7694542,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+5,120446171,G,T,0.225785,-0.112652,0.0246779,4.99782e-06,rs66523245,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+7,84642263,T,C,0.0448948,-0.234711,0.0503803,3.18085e-06,rs73175448,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+8,20583937,G,A,0.07026,0.188538,0.0411241,4.54795e-06,rs75357232,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+9,37756741,C,T,0.0148682,-0.409471,0.086442,2.16969e-06,rs2381725,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+12,4792039,C,T,0.342253,0.102639,0.022033,3.1863e-06,rs59307700,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+12,95356959,G,T,0.155804,0.135665,0.0287615,2.39476e-06,rs115562689,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+15,57712557,T,C,0.021379,-0.328356,0.0717554,4.73853e-06,rs139880079,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+17,7168757,G,A,0.0105499,-0.471616,0.101687,3.51901e-06,rs183426364,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp
+22,36143602,G,C,0.0217391,-0.33966,0.0725639,2.85713e-06,rs188752488,4488,3-hydroxyisobutyrate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,1O1zTp

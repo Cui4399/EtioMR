@@ -1,0 +1,7 @@
+"se.exposure","chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000770047,"1",-0.00920468,6.32849e-33,337159,169467654,"ukb-a-64","rs1894692","A","G",0.978035,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"
+0.00022576,"4",0.00185024,2.50207e-16,337159,187199005,"ukb-a-64","rs4253417","C","T",0.405179,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"
+0.000253716,"4",0.00189995,6.98232e-14,337159,155507590,"ukb-a-64","rs6050","C","T",0.253604,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"
+0.000284658,"9",0.00377384,4.18023e-40,337159,136141870,"ukb-a-64","rs2519093","T","C",0.186016,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"
+0.000330346,"10",-0.00222048,1.79929e-11,337159,71245276,"ukb-a-64","rs78707713","C","T",0.1298,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"
+0.000665664,"11",0.00449304,1.48388e-11,337159,46596670,"ukb-a-64","rs78807356","T","G",0.0283927,"Non-cancer illness code  self-reported: pulmonary embolism +/- dvt || id:ukb-a-64",TRUE,"reported","igd"

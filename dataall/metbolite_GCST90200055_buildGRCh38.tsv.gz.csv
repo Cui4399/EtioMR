@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,60747604,G,A,0.186031,0.11029,0.0197805,2.4655e-08,rs11775560,8266,Lactosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,XvPaa4
+8,69855641,G,A,0.459881,0.100727,0.0153861,5.88602e-11,rs4738038,8266,Lactosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,XvPaa4
+9,111804228,A,G,0.0147487,-0.347341,0.0635404,4.59093e-08,rs117617764,8266,Lactosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,XvPaa4
+19,1064454,C,G,0.373212,0.165596,0.0157742,8.83208e-26,rs4147931,8266,Lactosyl-N-palmitoyl-sphingosine (d18:1/16:0) levels,TRUE,reported,XvPaa4

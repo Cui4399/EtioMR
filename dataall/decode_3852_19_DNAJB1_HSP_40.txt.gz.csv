@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,14541074,rs11085896,C,A,-0.0523,1.857e-10,0.008207,35374,0.41547,DNAJB1_HSP_40,TRUE,reported,DNAJB1_HSP_40

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,172703333,rs79419452,A,T,-0.0994035,1.47604636638564e-26,0.00932009,34049,0.156238,faslg_p48023_oid20665_v1_inflammation,TRUE,reported,faslg_p48023_oid20665_v1_inflammation,chr1,172659007,cis

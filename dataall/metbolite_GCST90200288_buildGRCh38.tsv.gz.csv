@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73650092,A,G,0.229457,0.616391,0.0171463,1e-200,rs10168931,7905,N-acetylleucine levels,TRUE,reported,Shmz9Y
+6,25818418,C,G,0.555907,0.0906511,0.0156866,7.52029e-09,rs1183200,7905,N-acetylleucine levels,TRUE,reported,Shmz9Y

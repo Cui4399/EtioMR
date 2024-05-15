@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,64880349,C,T,0.0157528,-0.316022,0.0623683,4.04057e-07,rs116020639,8200,Quinate levels,TRUE,reported,ShMIbV
+5,16902686,A,T,0.0375843,-0.186302,0.0405924,4.44137e-06,rs140759816,8200,Quinate levels,TRUE,reported,ShMIbV
+5,60842512,T,G,0.26108,-0.0824109,0.0174244,2.24925e-06,rs34099891,8200,Quinate levels,TRUE,reported,ShMIbV
+7,117598399,C,A,0.0913027,-0.125867,0.027082,3.35762e-06,rs4148714,8200,Quinate levels,TRUE,reported,ShMIbV
+8,12746929,C,T,0.121515,-0.109072,0.0238233,4.68646e-06,rs73202647,8200,Quinate levels,TRUE,reported,ShMIbV
+14,49488289,A,G,0.0166095,0.330168,0.0606751,5.28093e-08,rs115520044,8200,Quinate levels,TRUE,reported,ShMIbV
+15,75142406,C,T,0.460441,0.0759955,0.0156247,1.15144e-06,rs62027288,8200,Quinate levels,TRUE,reported,ShMIbV
+18,43137607,T,C,0.0131884,-0.329336,0.0679412,1.25107e-06,rs145444661,8200,Quinate levels,TRUE,reported,ShMIbV
+21,33150052,A,G,0.0258336,-0.23203,0.0487058,1.89885e-06,rs76051019,8200,Quinate levels,TRUE,reported,ShMIbV
+22,30858967,C,T,0.55684,0.0735554,0.0159581,4.04072e-06,rs5997787,8200,Quinate levels,TRUE,reported,ShMIbV

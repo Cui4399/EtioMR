@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,90810572,0.109973,0.0231251,1.97902e-06,7738,ebi-a-GCST90027558,rs207254,C,G,0.49049,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+7,115891686,-0.137544,0.0278344,7.7514e-07,7738,ebi-a-GCST90027558,rs11761901,A,G,0.213855,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+8,5176782,0.196644,0.042355,3.4378e-06,7738,ebi-a-GCST90027558,rs28634397,T,C,0.079774,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+10,112365004,0.138831,0.0274846,4.38985e-07,7738,ebi-a-GCST90027558,rs61861701,G,A,0.247235,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+11,119428158,-0.182271,0.0389881,2.939e-06,7738,ebi-a-GCST90027558,rs996888,G,A,0.902701,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+18,1492959,0.137284,0.0283038,1.23234e-06,7738,ebi-a-GCST90027558,rs62079926,T,G,0.207428,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+21,34656070,-0.107002,0.0233815,4.73162e-06,7738,ebi-a-GCST90027558,rs2834173,C,T,0.424138,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd
+22,27299411,-0.239966,0.0499897,1.5842e-06,7738,ebi-a-GCST90027558,rs9941912,C,G,0.0607982,PWY.5791..1.4.dihydroxy.2.naphthoate.biosynthesis.II..plants.,TRUE,reported,igd

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,58162047,T,A,0.068549,-0.165088,0.0330302,5.79013e-07,rs848290,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+2,208748506,T,C,0.0547126,-0.167962,0.0363969,3.9362e-06,rs189725310,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+4,4592747,T,C,0.144896,0.108829,0.023723,4.48615e-06,rs4689177,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+4,31925736,G,T,0.0233082,0.266628,0.0551228,1.31829e-06,rs34357043,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+4,116858781,C,T,0.609542,0.0800086,0.0170477,2.68944e-06,rs10008401,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+6,79684023,G,C,0.119895,0.121756,0.025941,2.68478e-06,rs6923178,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+6,106686831,C,T,0.011276,-0.366135,0.0791195,3.69883e-06,rs6914551,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+7,3235891,C,T,0.0453877,-0.193637,0.0395206,9.60098e-07,rs17738405,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+7,106007929,G,T,0.0147642,0.336938,0.0697181,1.34585e-06,rs146529314,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+14,70111694,G,A,0.759084,-0.0922378,0.0196709,2.74475e-06,rs11158833,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+16,23857673,A,G,0.0147465,0.336072,0.0690214,1.12109e-06,rs72777931,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p
+17,75889724,T,C,0.230903,-0.0957862,0.0197795,1.28083e-06,rs1551619,6902,Suberate (C8-DC) levels,TRUE,reported,ngj02p

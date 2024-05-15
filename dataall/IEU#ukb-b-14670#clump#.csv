@@ -1,0 +1,6 @@
+"samplesize.exposure","chr.exposure","pval.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+99071,"6",5.50047e-16,0.00452034,0.0366178,22082263,"ukb-b-14670","rs12196123","T","C",0.555005,"Cylindrical power (left) || id:ukb-b-14670",TRUE,"reported","igd"
+99071,"13",4.90004e-08,0.00457178,0.0249426,100718935,"ukb-b-14670","rs55658390","G","A",0.428295,"Cylindrical power (left) || id:ukb-b-14670",TRUE,"reported","igd"
+99071,"15",8.60003e-09,0.00806301,0.0464184,28230318,"ukb-b-14670","rs1800407","T","C",0.084349,"Cylindrical power (left) || id:ukb-b-14670",TRUE,"reported","igd"
+99071,"16",6.1e-10,0.00470283,0.0290972,7460699,"ukb-b-14670","rs7184522","G","A",0.367178,"Cylindrical power (left) || id:ukb-b-14670",TRUE,"reported","igd"
+99071,"17",9.49948e-17,0.00469491,0.0390197,79530993,"ukb-b-14670","rs8070929","T","G",0.358908,"Cylindrical power (left) || id:ukb-b-14670",TRUE,"reported","igd"

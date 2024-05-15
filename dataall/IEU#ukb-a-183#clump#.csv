@@ -1,0 +1,7 @@
+"pos.exposure","se.exposure","pval.exposure","beta.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+242695497,0.000291714,2.21769e-09,-0.00174479,"2",337159,"ukb-a-183","rs62192024","C","T",0.29205,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"
+102960824,0.000310244,1.57627e-10,-0.00198494,"2",337159,"ukb-a-183","rs2160203","G","A",0.233509,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"
+32195935,0.000282028,1.6783e-08,-0.00159131,"6",337159,"ukb-a-183","rs3132949","C","T",0.320437,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"
+32627128,0.000280891,1.09597e-16,0.00232981,"6",337159,"ukb-a-183","rs9273400","T","C",0.544048,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"
+81295744,0.000272786,1.51628e-08,-0.00154393,"8",337159,"ukb-a-183","rs2102418","T","G",0.636059,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"
+9058671,0.000265626,7.57199e-10,-0.00163461,"10",337159,"ukb-a-183","rs1444782","A","G",0.423504,"Treatment/medication code: seretide 50 evohaler || id:ukb-a-183",TRUE,"reported","igd"

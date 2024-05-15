@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,94338363,C,A,0.205472,0.122851,0.018762,5.83584e-11,rs4491436,8193,Cortisol levels (plasma),TRUE,reported,iErFFU

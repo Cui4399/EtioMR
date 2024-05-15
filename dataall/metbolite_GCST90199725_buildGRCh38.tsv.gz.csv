@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,43845437,T,G,0.663683,-0.370839,0.019903,1.75724e-77,rs4299376,5300,Campesterol levels,TRUE,reported,qBhLF2
+3,149480942,T,C,0.0701439,0.20557,0.0376801,4.87882e-08,rs148164215,5300,Campesterol levels,TRUE,reported,qBhLF2
+9,133274414,G,A,0.79813,-0.171453,0.0239241,7.69292e-13,rs532436,5300,Campesterol levels,TRUE,reported,qBhLF2

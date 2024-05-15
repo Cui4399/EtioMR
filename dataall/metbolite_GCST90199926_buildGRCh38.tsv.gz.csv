@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,30717464,T,C,0.430994,-0.16888,0.0120654,1.62615e-44,rs6800284,8233,N-acetylcarnosine levels,TRUE,reported,cS1GRA
+6,89169449,C,A,0.477137,-0.151785,0.0120848,3.50451e-36,rs7775554,8233,N-acetylcarnosine levels,TRUE,reported,cS1GRA
+6,89357497,C,G,0.116101,0.11279,0.0189877,2.84765e-09,rs62415380,8233,N-acetylcarnosine levels,TRUE,reported,cS1GRA
+13,95261421,G,C,0.204643,0.243231,0.01483,1.87395e-60,rs9524869,8233,N-acetylcarnosine levels,TRUE,reported,cS1GRA
+13,95344101,T,A,0.767212,0.0959643,0.0146928,6.51674e-11,rs2992883,8233,N-acetylcarnosine levels,TRUE,reported,cS1GRA

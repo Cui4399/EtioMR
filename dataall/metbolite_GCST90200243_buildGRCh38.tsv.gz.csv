@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.587611,0.0849292,0.0153285,3.01404e-08,rs1260326,8260,Hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH)) levels,TRUE,reported,8WjtdS
+11,61826344,T,C,0.338794,0.281473,0.0156069,1.03188e-72,rs174568,8260,Hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH)) levels,TRUE,reported,8WjtdS
+19,44933400,A,G,0.075,-0.167131,0.0298664,2.19404e-08,rs28795074,8260,Hydroxypalmitoyl sphingomyelin (d18:1/16:0(OH)) levels,TRUE,reported,8WjtdS

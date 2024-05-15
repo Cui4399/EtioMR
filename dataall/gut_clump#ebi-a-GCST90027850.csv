@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+12,126443740,0.166736,0.0351824,2.1459e-06,7738,ebi-a-GCST90027850,rs11058405,C,T,0.212283,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospiraceae_noname.s__Lachnospiraceae_bacterium_3_1_46FAA,TRUE,reported,igd

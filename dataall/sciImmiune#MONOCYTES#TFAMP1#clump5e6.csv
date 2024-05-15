@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"7",2536455,"rs286544","G","A",7.27057137303e-07,0.803036591248,0.162098845094092,89,"Classical monocyte#TFAMP1",TRUE,"reported","GurLFC",NA

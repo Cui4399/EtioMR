@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,186130668,rs75470212,A,T,0.152377,3.31588912190887e-26,0.0143888,33299,0.0658412,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186150662,rs77576927,A,G,0.0865649,7.01132340686732e-34,0.00713433,33299,0.457516,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186208660,rs9684134,G,A,-0.231024,1e-200,0.00719287,33299,0.39975,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186217647,rs12639909,A,G,-0.552353,1e-200,0.0117247,33299,0.100784,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186229249,rs370164966,A,G,0.183669,7.69839161929435e-16,0.0227908,33299,0.024621,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186307859,rs73013334,G,A,0.128516,3.57634988063724e-10,0.0204922,33299,0.0307162,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186324445,rs12505629,A,G,-0.106596,1.98975681109066e-39,0.00811343,33299,0.253853,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186433871,rs373306675,C,T,0.0561661,2.96073815174742e-13,0.00769801,33299,0.548015,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186470061,rs6832915,A,C,-0.0574933,3.86633962109362e-11,0.00869907,33299,0.20837,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis
+4,186477943,rs71640056,C,T,0.106376,2.27824276625008e-11,0.015908,33299,0.0728034,klkb1_p03952_oid30760_v1_inflammation_ii,TRUE,reported,klkb1_p03952_oid30760_v1_inflammation_ii,chr4,186215713,cis

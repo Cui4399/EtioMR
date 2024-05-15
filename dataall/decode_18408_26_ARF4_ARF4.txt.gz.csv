@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56831748,rs12485738,G,A,0.0708,2.998e-17,0.008382,35357,0.35942,ARF4_ARF4,TRUE,reported,ARF4_ARF4
+3,57450069,rs141193483,A,G,0.0761,3.739e-11,0.011506,35359,0.14513,ARF4_ARF4,TRUE,reported,ARF4_ARF4

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,58077650,rs7225351,A,G,0.0553,1.05e-10,0.008561,35356,0.3346,DYNLL2_DYL2,TRUE,reported,DYNLL2_DYL2

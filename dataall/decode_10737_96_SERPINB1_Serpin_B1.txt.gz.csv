@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,2835597,rs2293772,G,A,0.0792,6.234e-22,0.008228,35348,0.40397,SERPINB1_Serpin_B1,TRUE,reported,SERPINB1_Serpin_B1

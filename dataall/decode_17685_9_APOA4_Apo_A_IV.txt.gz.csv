@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,116878189,rs61907566,G,C,0.0573,3.454e-12,0.008235,35378,0.44395,APOA4_Apo_A_IV,TRUE,reported,APOA4_Apo_A_IV
+11,117240652,rs187929675,T,C,-0.415,2.644e-26,0.03911,35376,0.01106,APOA4_Apo_A_IV,TRUE,reported,APOA4_Apo_A_IV

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46916299,T,G,0.792138,0.155643,0.0185571,4.97561e-17,rs12406866,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk
+3,143090720,G,C,0.23712,-0.101052,0.0176699,1.0723e-08,rs35746477,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk
+12,20979253,G,A,0.0533898,0.272595,0.0328764,1.11832e-16,rs7306128,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk
+12,20979640,G,A,0.0533898,0.272595,0.0328764,1.11832e-16,rs11829410,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk
+12,21162039,T,A,0.713967,0.176615,0.0166062,2.0364e-26,rs4762697,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk
+12,21178615,C,T,0.155005,0.506324,0.0197989,3.01962e-144,rs4149056,8268,Tetradecanedioate (C14-DC) levels,TRUE,reported,MSeJwk

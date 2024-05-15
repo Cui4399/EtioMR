@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,6882189,-0.109856,0.023518,2.99557e-06,7738,ebi-a-GCST90027550,rs17029909,G,A,0.234966,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+2,227486298,0.229021,0.0481591,1.97938e-06,7738,ebi-a-GCST90027550,rs78559400,T,C,0.0569253,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+4,134927861,0.16236,0.0337697,1.5256e-06,7738,ebi-a-GCST90027550,rs76063194,T,G,0.0928905,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+5,11249206,0.0953215,0.0201502,2.23924e-06,7738,ebi-a-GCST90027550,rs32064,T,C,0.465387,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+6,31140073,-0.0960696,0.0203817,2.43478e-06,7738,ebi-a-GCST90027550,rs3094190,A,G,0.610952,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+6,102156641,-0.151959,0.0322146,2.39238e-06,7738,ebi-a-GCST90027550,rs72956316,C,T,0.110632,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+9,71622100,0.185119,0.0381404,1.2123e-06,7738,ebi-a-GCST90027550,rs1541082,G,T,0.92615,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+10,45225931,-0.155422,0.0339779,4.78002e-06,7738,ebi-a-GCST90027550,rs61311341,G,T,0.100968,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+10,118056285,-0.199019,0.0391838,3.79175e-07,7738,ebi-a-GCST90027550,rs12414617,G,T,0.0745865,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+11,24541340,-0.202865,0.0426597,1.98025e-06,7738,ebi-a-GCST90027550,rs11027972,G,A,0.0624236,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+11,40320791,-0.145495,0.0305982,1.98449e-06,7738,ebi-a-GCST90027550,rs16934689,G,A,0.125403,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+17,11197508,-0.116391,0.0247978,2.68454e-06,7738,ebi-a-GCST90027550,rs62062058,C,T,0.224247,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd
+20,59174660,-0.152287,0.0328042,3.4454e-06,7738,ebi-a-GCST90027550,rs58095618,A,G,0.100818,PWY.5505..L.glutamate.and.L.glutamine.biosynthesis,TRUE,reported,igd

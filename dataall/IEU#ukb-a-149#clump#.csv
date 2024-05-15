@@ -1,0 +1,5 @@
+"samplesize.exposure","pval.exposure","se.exposure","chr.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,1.43354e-09,0.000265159,"2",26916844,-0.0016047,"ukb-a-149","rs35021474","G","C",0.617081,"Treatment/medication code: doxazosin || id:ukb-a-149",TRUE,"reported","igd"
+337159,6.61637e-09,0.00240722,"7",54513483,0.0139632,"ukb-a-149","rs73701542","G","A",0.00307089,"Treatment/medication code: doxazosin || id:ukb-a-149",TRUE,"reported","igd"
+337159,1.02823e-08,0.000368384,"9",93673611,0.00210942,"ukb-a-149","rs1675311","T","C",0.858662,"Treatment/medication code: doxazosin || id:ukb-a-149",TRUE,"reported","igd"
+337159,4.96044e-09,0.000269161,"11",1891722,0.00157423,"ukb-a-149","rs686722","T","C",0.354448,"Treatment/medication code: doxazosin || id:ukb-a-149",TRUE,"reported","igd"

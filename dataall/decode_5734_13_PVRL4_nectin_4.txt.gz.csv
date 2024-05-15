@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,161097295,rs34990628,T,C,-0.0784,2.741e-13,0.01073,35364,0.15898,PVRL4_nectin_4,TRUE,reported,PVRL4_nectin_4

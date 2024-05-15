@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,63768838,T,G,0.170201,0.257687,0.0213284,1.31659e-33,rs7157785,7141,N-palmitoyl-heptadecasphingosine (d17:1/16:0) levels,TRUE,reported,cykcSq
+20,12982070,G,A,0.609062,-0.100958,0.0166403,1.30292e-09,rs364585,7141,N-palmitoyl-heptadecasphingosine (d17:1/16:0) levels,TRUE,reported,cykcSq

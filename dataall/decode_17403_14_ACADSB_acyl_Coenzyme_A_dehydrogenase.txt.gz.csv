@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,123039167,rs7913063,T,A,0.1687,4.318e-36,0.013449,35382,0.09324,ACADSB_acyl_Coenzyme_A_dehydrogenase,TRUE,reported,ACADSB_acyl_Coenzyme_A_dehydrogenase
+10,123041939,rs11593582,G,A,-0.1291,6.898e-26,0.01227,35382,0.1109,ACADSB_acyl_Coenzyme_A_dehydrogenase,TRUE,reported,ACADSB_acyl_Coenzyme_A_dehydrogenase

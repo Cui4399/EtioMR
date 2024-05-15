@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,18291332,rs10406080,G,C,-0.0596,6.813e-13,0.008297,35354,0.34866,JUND_jun_D,TRUE,reported,JUND_jun_D

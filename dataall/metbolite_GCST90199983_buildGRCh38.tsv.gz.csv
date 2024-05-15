@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,47871693,A,C,0.168333,0.248474,0.0171943,2.47128e-47,rs62129966,5920,"5alpha-androstan-3alpha,17beta-diol monosulfate (2) levels",TRUE,reported,sgdiDH

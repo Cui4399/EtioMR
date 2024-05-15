@@ -1,0 +1,6 @@
+"beta.exposure","chr.exposure","pval.exposure","se.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00619627,"3",9.40005e-10,0.00101265,71127491,460491,"ukb-b-16886","rs1288973","T","A",0.771114,"Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886",TRUE,"reported","igd"
+0.00520004,"6",4.20001e-08,0.000948564,157293632,460491,"ukb-b-16886","rs17087971","A","G",0.279639,"Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886",TRUE,"reported","igd"
+-0.00519504,"6",4.20001e-09,0.00088416,163764804,460491,"ukb-b-16886","rs10945893","C","T",0.633008,"Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886",TRUE,"reported","igd"
+-0.00509247,"8",5.49997e-09,0.000873095,3673907,460491,"ukb-b-16886","rs2929494","A","C",0.390621,"Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886",TRUE,"reported","igd"
+-0.00715686,"10",7.79992e-09,0.00123955,110847874,460491,"ukb-b-16886","rs1926567","A","G",0.134861,"Types of transport used (excluding work): Car/motor vehicle || id:ukb-b-16886",TRUE,"reported","igd"

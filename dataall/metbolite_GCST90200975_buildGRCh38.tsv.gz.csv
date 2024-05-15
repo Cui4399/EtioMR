@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61824890,G,A,0.344877,-0.0967688,0.0165803,5.33556e-09,rs174566,8000,Arachidonate (20:4n6) to caffeine ratio,TRUE,reported,lQs7fQ

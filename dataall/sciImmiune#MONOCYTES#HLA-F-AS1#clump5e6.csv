@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",29704400,"rs1736913","T","C",2.54376684285e-07,0.701414057439,0.136079326392958,89,"Classical monocyte#HLA-F-AS1",TRUE,"reported","nnKbLk",NA

@@ -1,0 +1,8 @@
+"se.exposure","pval.exposure","samplesize.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00212828,7.46105e-17,292053,"8",0.0177499,128077146,"ukb-a-204","rs77541621","A","G",0.0292023,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.000688386,4.75445e-13,292053,"8",-0.00497873,128413305,"ukb-a-204","rs6983267","T","G",0.48044,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.00114873,6.51929e-15,292053,"8",-0.00895305,128528435,"ukb-a-204","rs4582524","C","G",0.899967,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.000705313,1.181e-09,292053,"10",-0.00429042,51549496,"ukb-a-204","rs10993994","C","T",0.610399,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.000915064,6.51628e-11,292053,"11",0.00597685,68992285,"ukb-a-204","rs12795301","A","C",0.1706,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.0011062,7.53633e-10,292053,"12",0.0068082,53323144,"ukb-a-204","rs113094235","C","T",0.111968,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"
+0.00069117,2.76312e-13,292053,"17",0.00504955,36101586,"ukb-a-204","rs8064454","C","A",0.522665,"Illnesses of father: Prostate cancer || id:ukb-a-204",TRUE,"reported","igd"

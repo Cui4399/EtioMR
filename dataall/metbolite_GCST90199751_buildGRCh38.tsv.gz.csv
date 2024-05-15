@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,34212439,G,T,0.0134298,-0.322387,0.0660864,1.07024e-06,rs76642169,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+1,177047693,G,T,0.0527651,-0.161994,0.0345501,2.74999e-06,rs16850697,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+2,27518370,C,T,0.597582,0.0752309,0.0156574,1.54903e-06,rs780094,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+2,41195528,C,T,0.744804,-0.0814234,0.0176274,3.85315e-06,rs4952444,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+2,63685042,G,A,0.0127036,0.319247,0.0685203,3.17506e-06,rs116709621,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+3,116893197,A,G,0.389142,-0.0784263,0.0159834,9.26031e-07,rs34540037,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+9,88193070,T,C,0.0178462,0.305543,0.0578235,1.26347e-07,rs144545066,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+10,22827204,C,T,0.286453,-0.0799804,0.0171083,2.94048e-06,rs11013146,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+10,104564688,A,G,0.0799676,0.130329,0.0283245,4.19931e-06,rs140535729,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+13,113041894,T,A,0.12018,-0.116873,0.0237605,8.70702e-07,rs884313,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+20,5472269,G,A,0.177194,-0.0920048,0.020073,4.57251e-06,rs35155019,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ
+22,27049475,A,C,0.552399,-0.0734962,0.0154247,1.89006e-06,rs738161,8237,Gamma-glutamylmethionine levels,TRUE,reported,obNvWJ

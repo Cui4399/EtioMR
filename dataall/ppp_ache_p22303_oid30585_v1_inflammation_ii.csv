@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+7,100103241,rs999886,G,A,0.107895,8.41976557609176e-50,0.00727192,33187,0.561454,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100310096,rs180735198,A,G,0.122816,2.67134512245423e-09,0.0206392,33187,0.0334241,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100574636,rs117136190,G,A,-0.205371,9.43669676870706e-10,0.0335647,33187,0.0141742,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100711548,rs112706242,T,C,0.179675,1.59404288071222e-14,0.0233959,33187,0.02648,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100756153,rs117747414,G,A,0.297485,5.12035414938306e-29,0.0266091,33187,0.0196175,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100850823,rs314368,G,T,0.303196,1e-200,0.00727726,33187,0.476713,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100931928,rs139222032,G,T,-0.175795,7.49376379636769e-26,0.016721,33187,0.0497613,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100934036,rs62483660,C,T,0.253258,4.83392602516077e-99,0.0119894,33187,0.100416,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,100937702,rs145656482,T,C,-0.173152,2.41746391401689e-10,0.0273448,33187,0.0185801,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,101133013,rs2227678,C,G,0.0936987,4.35331406520172e-08,0.0171111,33187,0.0485497,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,101279696,rs868606,C,T,-0.110021,1.14208913501606e-11,0.0162097,33187,0.0556543,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis
+7,101350168,rs148374877,G,C,0.221731,7.76264990584865e-10,0.0360556,33187,0.0115006,ache_p22303_oid30585_v1_inflammation_ii,TRUE,reported,ache_p22303_oid30585_v1_inflammation_ii,chr7,100896133,cis

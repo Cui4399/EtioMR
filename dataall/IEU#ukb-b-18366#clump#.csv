@@ -1,0 +1,5 @@
+"se.exposure","beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000133654,0.00123542,187207381,"4",463010,2.39994e-20,"ukb-b-18366","rs2289252","T","C",0.400946,"Diagnoses - main ICD10: I26.9 Pulmonary embolism without mention of acute cor pulmonale || id:ukb-b-18366",TRUE,"reported","igd"
+0.000153569,0.00159067,155537321,"4",463010,3.90032e-25,"ukb-b-18366","rs12644950","A","G",0.238919,"Diagnoses - main ICD10: I26.9 Pulmonary embolism without mention of acute cor pulmonale || id:ukb-b-18366",TRUE,"reported","igd"
+0.000140331,0.00172268,136147160,"9",463010,1.20005e-34,"ukb-b-18366","rs554833","T","C",0.31947,"Diagnoses - main ICD10: I26.9 Pulmonary embolism without mention of acute cor pulmonale || id:ukb-b-18366",TRUE,"reported","igd"
+0.000149142,0.000924807,10735530,"19",463010,5.60003e-10,"ukb-b-18366","rs3760647","G","A",0.736761,"Diagnoses - main ICD10: I26.9 Pulmonary embolism without mention of acute cor pulmonale || id:ukb-b-18366",TRUE,"reported","igd"

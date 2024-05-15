@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,99225517,G,A,0.0216367,-0.666067,0.0498644,1.07006e-40,rs189407772,8106,Gluconate levels,TRUE,reported,wMLvYR
+4,99360736,C,T,0.253402,-0.121506,0.0171342,1.32699e-12,rs10031168,8106,Gluconate levels,TRUE,reported,wMLvYR

@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,44715230,C,T,0.0130139,-0.336152,0.0681535,8.12746e-07,rs74490328,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+1,74384420,A,G,0.0103579,-0.375134,0.0768524,1.05428e-06,rs114830966,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+3,149903681,A,G,0.196457,0.090917,0.0193703,2.68394e-06,rs73157005,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+4,23160499,C,A,0.199078,0.0872881,0.0190188,4.44191e-06,rs55829733,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+8,58287443,T,C,0.458054,0.0754437,0.0155084,1.14634e-06,rs10088682,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+11,26752104,C,T,0.238373,-0.0934959,0.0182038,2.8055e-07,rs11029694,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+12,21946362,G,A,0.0174419,-0.271647,0.0588889,3.97149e-06,rs74069834,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+12,121176481,A,G,0.0213696,-0.248509,0.0527804,2.49719e-06,rs61953400,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+13,53321009,T,C,0.0104597,0.359043,0.0757449,2.13552e-06,rs116902366,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+14,49488289,A,G,0.0166038,0.280061,0.0604091,3.55074e-06,rs115520044,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+15,74735539,T,C,0.250121,0.0921373,0.0176938,1.91594e-07,rs2472297,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+16,66345653,T,G,0.0153337,0.303524,0.0632535,1.59833e-06,rs72786433,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+17,35080621,C,T,0.0507722,0.184337,0.0347681,1.14607e-07,rs118074685,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY
+21,42705218,C,A,0.435342,-0.0743149,0.0157128,2.24984e-06,rs2245730,8263,Citraconate/glutaconate levels,TRUE,reported,M9uvOY

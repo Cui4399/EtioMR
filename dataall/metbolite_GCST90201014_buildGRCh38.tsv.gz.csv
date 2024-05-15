@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31580756,T,C,0.0325695,0.239134,0.0396488,1.62647e-09,rs9282858,7804,Glucuronate to androsterone glucuronide ratio,TRUE,reported,OkmWqS
+11,63101192,A,C,0.0619469,-0.819666,0.0274498,6.39704e-196,rs111327720,7804,Glucuronate to androsterone glucuronide ratio,TRUE,reported,OkmWqS
+11,63312298,C,T,0.590279,0.116324,0.0141745,2.27572e-16,rs540582,7804,Glucuronate to androsterone glucuronide ratio,TRUE,reported,OkmWqS
+19,47871693,A,C,0.162918,-0.141794,0.0189366,7.00382e-14,rs62129966,7804,Glucuronate to androsterone glucuronide ratio,TRUE,reported,OkmWqS

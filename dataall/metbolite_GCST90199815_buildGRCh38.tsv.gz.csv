@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.31017,-0.0868644,0.0154761,1.9906e-08,rs1047891,8205,1-ribosyl-imidazoleacetate levels,TRUE,reported,kI78SI
+8,143594692,T,C,0.795371,0.140723,0.0175331,1.00606e-15,rs9657360,8205,1-ribosyl-imidazoleacetate levels,TRUE,reported,kI78SI
+10,12091253,G,A,0.21645,0.159048,0.0171846,2.13717e-20,rs7094385,8205,1-ribosyl-imidazoleacetate levels,TRUE,reported,kI78SI
+12,242301,A,G,0.544302,0.148203,0.0144003,7.68134e-25,rs11613331,8205,1-ribosyl-imidazoleacetate levels,TRUE,reported,kI78SI
+21,41098598,G,A,0.264196,-0.0900475,0.016212,2.78596e-08,rs67417370,8205,1-ribosyl-imidazoleacetate levels,TRUE,reported,kI78SI

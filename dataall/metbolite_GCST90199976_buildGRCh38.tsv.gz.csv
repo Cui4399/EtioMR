@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,35583562,T,G,0.0108309,-0.378002,0.0822885,4.35611e-06,rs114892592,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+4,88331507,C,T,0.0492881,0.183074,0.0383574,1.81646e-06,rs17014031,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+4,120681724,A,G,0.338657,-0.0841305,0.0178267,2.36581e-06,rs4833667,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+5,157599344,A,G,0.127071,0.139195,0.0253968,4.2332e-08,rs1895342,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+6,132407263,A,G,0.0373389,0.216964,0.0450382,1.45484e-06,rs9493310,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+8,19788573,C,A,0.362036,-0.0814322,0.0176548,3.97938e-06,rs28585593,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+8,106362694,G,C,0.308833,-0.0978941,0.01837,9.87492e-08,rs7015094,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+10,70871447,G,A,0.257435,-0.0932392,0.0194355,1.60761e-06,rs10509326,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+10,96299579,A,T,0.110784,0.14128,0.0269087,1.51827e-07,rs71482402,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+10,132912865,A,T,0.374493,-0.0828385,0.017425,1.99419e-06,rs56300950,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+11,61831875,A,G,0.186068,0.116501,0.0217103,8.04287e-08,rs61897793,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+16,86396091,A,T,0.247442,0.0915247,0.0198656,4.08129e-06,rs61018188,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg
+18,71874028,A,G,0.0144836,-0.347023,0.0712403,1.10941e-06,rs17085256,6470,1-dihomo-linolenylglycerol (20:3) levels,TRUE,reported,4ZDrpg

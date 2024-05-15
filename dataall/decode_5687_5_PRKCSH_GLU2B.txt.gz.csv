@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,11447460,rs11557488,A,G,0.1132,1.682e-31,0.009695,35375,0.2142,PRKCSH_GLU2B,TRUE,reported,PRKCSH_GLU2B

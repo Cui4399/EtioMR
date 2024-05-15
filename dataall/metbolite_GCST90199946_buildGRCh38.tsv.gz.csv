@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,6224476,C,A,0.0276195,-0.238347,0.0512126,3.25439e-06,rs4535400,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+5,68627631,A,G,0.0914928,0.137463,0.0293687,2.86017e-06,rs17324835,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+8,10975355,G,A,0.363468,-0.0954341,0.0178033,8.30116e-08,rs6601542,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+11,62247158,T,C,0.0140023,0.328739,0.0705476,3.16497e-06,rs143170468,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+11,110298163,G,A,0.0662748,-0.158556,0.0342461,3.65858e-06,rs73010098,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+12,100375417,T,C,0.0138182,0.337463,0.0723885,3.13417e-06,rs140230552,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+14,29706548,T,C,0.0404209,0.200756,0.043383,3.70045e-06,rs79864588,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+15,99753708,C,G,0.45334,0.0792706,0.0171649,3.8711e-06,rs12913844,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+17,12100819,C,T,0.0246806,0.255431,0.0540277,2.26983e-06,rs62061009,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+18,57220686,C,T,0.0387529,-0.204385,0.0436,2.76259e-06,rs4801089,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+20,4742318,C,A,0.457774,-0.0792957,0.0170618,3.3587e-06,rs6052810,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd
+22,23112876,T,G,0.0241273,-0.262,0.0546895,1.66216e-06,rs140921844,6897,3-acetylphenol sulfate levels,TRUE,reported,VpO5Dd

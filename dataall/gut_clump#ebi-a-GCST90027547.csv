@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,102389733,-0.103145,0.0211939,1.13462e-06,7738,ebi-a-GCST90027547,rs11164337,T,C,0.335786,PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.,TRUE,reported,igd
+1,199203902,0.0991627,0.0201667,8.78092e-07,7738,ebi-a-GCST90027547,rs1408826,C,G,0.532828,PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.,TRUE,reported,igd
+11,57434906,-0.177624,0.0388716,4.88877e-06,7738,ebi-a-GCST90027547,rs11601607,T,G,0.0739059,PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.,TRUE,reported,igd
+15,99991266,0.107058,0.0233139,4.39016e-06,7738,ebi-a-GCST90027547,rs28645782,C,T,0.741605,PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.,TRUE,reported,igd
+15,96655633,-0.0966287,0.0202973,1.92961e-06,7738,ebi-a-GCST90027547,rs1437589,C,G,0.475967,PWY.5189..tetrapyrrole.biosynthesis.II..from.glycine.,TRUE,reported,igd

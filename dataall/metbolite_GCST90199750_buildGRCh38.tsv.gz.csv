@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,158708662,C,A,0.264237,-0.092259,0.0169066,4.84273e-08,rs17843966,8241,Laurylcarnitine levels,TRUE,reported,QMpuFd
+16,16029602,T,A,0.611546,0.095158,0.0154135,6.67135e-10,rs924135,8241,Laurylcarnitine levels,TRUE,reported,QMpuFd

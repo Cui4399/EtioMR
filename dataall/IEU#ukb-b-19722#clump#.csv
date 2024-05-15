@@ -1,0 +1,3 @@
+"samplesize.exposure","beta.exposure","pval.exposure","chr.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+144817,0.0403844,5.69994e-09,"6",0.00693411,161111700,"ukb-b-19722","rs186696265","T","C",0.014573,"Non-accidental death in close genetic family || id:ukb-b-19722",TRUE,"reported","igd"
+144817,0.0109855,4.60002e-09,"19",0.0018742,29443685,"ukb-b-19722","rs1015196","G","A",0.728254,"Non-accidental death in close genetic family || id:ukb-b-19722",TRUE,"reported","igd"

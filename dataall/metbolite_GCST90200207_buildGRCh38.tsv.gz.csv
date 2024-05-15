@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,180265842,G,C,0.0800047,0.188355,0.0398872,2.33332e-06,rs3845396,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+3,46615712,C,T,0.0111085,0.496499,0.101891,1.10002e-06,rs73077560,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+5,23945151,A,G,0.0406265,0.260967,0.0548971,1.99679e-06,rs76636050,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+11,350917,A,G,0.284983,0.121803,0.023935,3.60096e-07,rs11246108,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+11,25527145,A,C,0.987805,-0.456302,0.0990409,4.08116e-06,rs1443156,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+11,61040749,T,G,0.0714957,0.192213,0.0418088,4.27752e-06,rs61895821,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+13,97706072,T,G,0.078929,0.189886,0.0398345,1.87104e-06,rs76891935,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+17,15403502,G,A,0.929436,-0.19667,0.0417832,2.5148e-06,rs12603413,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+21,45873785,T,C,0.0583353,0.214896,0.0459496,2.91434e-06,rs73234777,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn
+22,26247777,C,T,0.0669154,0.200189,0.0433222,3.81998e-06,rs2073257,4303,Methyl vanillate sulfate levels,TRUE,reported,rqmXIn

@@ -1,0 +1,18 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,10854500,T,G,0.0108078,-0.341736,0.0738375,3.68818e-06,rs56337840,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+1,22215952,T,G,0.526259,-0.0755573,0.015521,1.12687e-06,rs2505722,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+1,245460246,A,G,0.146828,-0.100757,0.0216449,3.24006e-06,rs12734214,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+2,158330308,T,G,0.0101252,-0.351712,0.075963,3.65604e-06,rs191202003,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+3,84410531,T,C,0.55702,-0.0729438,0.0153558,2.03182e-06,rs1482384,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+3,169902054,T,A,0.0888174,-0.123503,0.0268817,4.34175e-06,rs76097375,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+3,171812145,G,T,0.853684,0.0995845,0.0217603,4.72954e-06,rs6792151,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+4,184256292,A,G,0.0533301,0.155454,0.0340327,4.92936e-06,rs74797207,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+5,4703969,T,A,0.850282,0.102021,0.0216691,2.50009e-06,rs6555312,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+5,29898154,A,C,0.0534225,-0.155679,0.03398,4.61673e-06,rs139047949,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+6,52726806,A,G,0.0388896,0.181145,0.0395551,4.65952e-06,rs77122849,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+7,113723188,T,C,0.0345292,-0.194227,0.0416241,3.06807e-06,rs62488270,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+10,60980126,A,G,0.0255671,0.254456,0.0479926,1.14556e-07,rs118182258,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+10,83097108,C,T,0.273698,-0.078181,0.0169186,3.81858e-06,rs2348757,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+13,69314269,T,C,0.0329731,0.200858,0.0429636,2.93839e-06,rs112368051,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+14,44213611,G,A,0.200671,0.0927939,0.0196649,2.37299e-06,rs144612973,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG
+16,17540208,A,C,0.0634571,0.145048,0.0310337,2.95559e-06,rs75039646,8177,Adenosine 5'-monophosphate (AMP) to cysteine ratio,TRUE,reported,fVSDCG

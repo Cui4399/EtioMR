@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,63732401,G,A,0.778051,-0.0918461,0.0191024,1.52383e-06,rs998043,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+4,67237368,T,A,0.428169,0.0844217,0.0160107,1.34328e-07,rs13123211,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+5,11111659,G,A,0.376291,0.0780269,0.016211,1.48527e-06,rs6884431,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+6,18475357,G,T,0.0330816,0.207971,0.0448787,3.5856e-06,rs78609198,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+6,133659481,T,C,0.0795512,-0.141652,0.0296417,1.76344e-06,rs117241143,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+6,163183102,A,G,0.035719,0.200804,0.0436751,4.27223e-06,rs112218163,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+9,84338706,G,A,0.0811637,0.147117,0.030066,9.92349e-07,rs17428030,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+11,45525211,C,T,0.613201,0.0771546,0.016445,2.70978e-06,rs10838483,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+12,7590864,C,T,0.865755,0.11114,0.0235968,2.47785e-06,rs9738433,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+14,22302351,A,G,0.0111627,0.358847,0.0757094,2.13929e-06,rs114245980,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+19,40847202,C,T,0.575411,0.0836947,0.0159588,1.56777e-07,rs56113850,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz
+20,16561784,A,G,0.1362,-0.106723,0.0233037,4.65704e-06,rs1007144,7858,Theophylline to theobromine ratio,TRUE,reported,51t1Oz

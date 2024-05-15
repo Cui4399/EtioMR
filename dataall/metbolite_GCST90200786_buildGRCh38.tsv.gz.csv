@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,73183269,C,A,0.0320989,-0.203191,0.044107,4.08956e-06,rs61352371,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+1,93214283,A,G,0.158983,0.100974,0.0212596,2.03856e-06,rs2815415,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+2,64426037,C,T,0.237028,0.0865381,0.0182529,2.12608e-06,rs17691714,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+2,228782362,A,G,0.0130727,-0.32368,0.0683386,2.17525e-06,rs79529411,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+3,76785278,G,A,0.11195,0.120774,0.0244714,8.00305e-07,rs267135,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+4,18813816,C,A,0.0837924,-0.130872,0.0280433,3.05935e-06,rs73234134,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+5,113166104,C,T,0.316034,-0.0853378,0.0167397,3.43415e-07,rs12652257,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+6,123333988,A,G,0.0184486,-0.277186,0.0576317,1.5122e-06,rs62418960,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+6,151684094,C,A,0.0235631,-0.237799,0.0504053,2.38494e-06,rs75134544,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+18,2673560,C,T,0.0138957,0.30314,0.0657018,3.95238e-06,rs79361541,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+18,3999968,T,C,0.256295,0.0910818,0.0178504,3.3519e-07,rs7241978,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+18,55802257,A,G,0.0622549,-0.16931,0.0317919,1.0063e-07,rs1084950,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj
+22,49344125,G,T,0.0521435,-0.165297,0.0346912,1.89026e-06,rs71316533,8220,Cysteine to alanine ratio,TRUE,reported,KaEmDj

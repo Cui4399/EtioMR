@@ -1,0 +1,3 @@
+"pos.exposure","samplesize.exposure","se.exposure","pval.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+9942994,463010,0.000277068,3.89996e-09,"8",0.00163117,"ukb-b-20477","rs860068","A","G",0.219642,"Diagnoses - secondary ICD10: Z96.6 Presence of orthopaedic joint implants || id:ukb-b-20477",TRUE,"reported","igd"
+18420938,463010,0.000229802,4.20001e-09,"21",-0.00135027,"ukb-b-20477","rs987982","T","C",0.511931,"Diagnoses - secondary ICD10: Z96.6 Presence of orthopaedic joint implants || id:ukb-b-20477",TRUE,"reported","igd"

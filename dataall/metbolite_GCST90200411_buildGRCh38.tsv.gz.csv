@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,18972067,C,G,0.0931757,0.467272,0.025373,9.75299e-76,rs2540640,8257,Plasma free proline levels,TRUE,reported,qk7XCO
+22,19028734,G,C,0.178364,-0.112766,0.0198592,1.36054e-08,rs13433658,8257,Plasma free proline levels,TRUE,reported,qk7XCO

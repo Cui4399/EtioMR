@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,227597496,0.157741,0.0323493,1.08168e-06,7738,ebi-a-GCST90027724,rs3000780,A,G,0.264242,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Veillonella,TRUE,reported,igd
+1,205234393,0.234635,0.0496037,2.243e-06,7738,ebi-a-GCST90027724,rs72743290,T,C,0.0996657,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Veillonella,TRUE,reported,igd
+3,32349650,-0.214949,0.0461112,3.13848e-06,7738,ebi-a-GCST90027724,rs9847942,A,G,0.101421,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Veillonella,TRUE,reported,igd
+7,152617231,0.143092,0.0298528,1.64108e-06,7738,ebi-a-GCST90027724,rs2535959,C,A,0.410513,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Veillonella,TRUE,reported,igd
+14,62519026,0.26032,0.0562116,3.63773e-06,7738,ebi-a-GCST90027724,rs7159466,T,A,0.0719354,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Veillonella,TRUE,reported,igd

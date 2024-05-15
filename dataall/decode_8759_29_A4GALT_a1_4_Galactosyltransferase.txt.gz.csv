@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,42628404,rs137139,T,C,0.1156,8.322e-42,0.008534,35374,0.33163,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,42666334,rs135091,C,T,0.0832,2.176e-10,0.013106,35376,0.10452,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,42718545,rs8138197,A,G,-0.3143,1e-200,0.006497,35374,0.48283,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,42722222,rs73174957,CTTTTTTTTTTTTTTT,CATTTTTTTTTTTTTT,-0.2095,1.318e-104,0.009645,35370,0.25043,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,42749091,rs79903956,T,C,0.1864,6.165e-26,0.017699,35374,0.05514,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,42955679,rs75900096,A,C,-0.1311,1.122e-15,0.016361,35374,0.06376,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43010398,rs111516988,ATATATATATATATATATTTTTTT,ATT,-0.0871,6.94e-09,0.015037,35371,0.08021,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43064863,rs118135116,A,T,-0.2235,5.985e-24,0.022146,35374,0.03412,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43070435,rs10854758,A,G,-0.1867,3.638e-11,0.02821,35374,0.02162,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43103304,rs76052142,A,G,0.119,2.335e-15,0.015021,35373,0.07674,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43124845,rs4988421,C,T,-0.248,1.452e-12,0.035033,35372,0.01362,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43147175,rs138902,G,A,-0.1077,3.129e-08,0.019461,35372,0.04538,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43173374,rs118162361,A,G,-0.0996,3.543e-09,0.016869,35370,0.05955,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase
+22,43500955,rs28469648,C,G,-0.054,8.81e-11,0.008326,35368,0.3748,A4GALT_a1_4_Galactosyltransferase,TRUE,reported,A4GALT_a1_4_Galactosyltransferase

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,20588679,T,C,0.333621,0.133698,0.0161346,1.16664e-16,rs532545,8186,Phosphate to uridine ratio,TRUE,reported,2MYUn0
+22,50539595,A,C,0.685924,0.126617,0.0163741,1.05224e-14,rs140521,8186,Phosphate to uridine ratio,TRUE,reported,2MYUn0

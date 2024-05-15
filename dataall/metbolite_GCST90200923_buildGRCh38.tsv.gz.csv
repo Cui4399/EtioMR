@@ -1,0 +1,21 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,176915130,C,T,0.0731132,0.137152,0.0292842,2.82028e-06,rs10913276,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+1,198665685,A,C,0.339645,-0.0738776,0.0159866,3.815e-06,rs1052240,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+2,11946572,G,A,0.144242,0.0993744,0.0217268,4.7893e-06,rs2581076,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+2,65770906,T,C,0.0736234,0.133465,0.0290461,4.32905e-06,rs13029087,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+2,123551835,G,A,0.0948968,0.123817,0.0256506,1.38555e-06,rs73952154,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+3,107701544,A,G,0.0170867,0.269918,0.0584554,3.88377e-06,rs115323029,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+5,165050300,A,C,0.697293,0.0763986,0.0164398,3.36523e-06,rs9314051,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+5,175579005,G,A,0.174376,0.0941975,0.0205237,4.43889e-06,rs2963859,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+7,32151985,G,A,0.018664,-0.278448,0.055807,6.05406e-07,rs73104508,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+7,107308618,C,T,0.0160793,-0.282266,0.0604886,3.06474e-06,rs150849984,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+9,12917731,T,C,0.489931,0.0761903,0.015304,6.4092e-07,rs10960835,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+10,20074914,T,C,0.207173,0.0938174,0.0186928,5.19701e-07,rs4748635,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+11,63002350,T,C,0.0111807,-0.328345,0.0716745,4.62621e-06,rs150455888,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+11,120786157,A,G,0.527615,-0.0777224,0.0158174,8.93599e-07,rs4544011,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+12,115439972,C,T,0.0183661,0.262445,0.0564532,3.33708e-06,rs11067600,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+13,35873773,G,A,0.359931,-0.0779922,0.0160372,1.15497e-06,rs4943345,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+16,50386912,C,A,0.843782,0.097144,0.0212499,4.84233e-06,rs7186512,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+17,62828511,C,T,0.5654,0.0787767,0.0160253,8.8439e-07,rs12937941,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+20,2207751,C,G,0.0422737,0.178805,0.0378946,2.37597e-06,rs6082394,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP
+22,17378818,G,A,0.016329,-0.27123,0.0592491,4.6989e-06,rs5992678,8153,Glycerol to mannitol to sorbitol ratio,TRUE,reported,5auJwP

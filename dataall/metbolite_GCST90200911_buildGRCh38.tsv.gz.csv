@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,18007657,A,G,0.180722,0.0962067,0.0204467,2.53555e-06,rs11894506,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+2,36715676,G,A,0.0897231,-0.125165,0.0273347,4.67216e-06,rs13403975,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+2,40413021,T,C,0.22995,-0.0888216,0.0185097,1.59742e-06,rs6742589,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+3,15574771,GAAGTA,G,0.120887,-0.109981,0.0239266,4.29464e-06,rs142231938,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+6,11873850,T,C,0.0297354,0.216366,0.0464639,3.21395e-06,rs72821888,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+7,157302698,G,A,0.677194,0.0809837,0.0170325,1.98776e-06,rs62493411,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+9,1356019,G,C,0.132297,0.108768,0.0232546,2.90702e-06,rs16928054,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+9,18306564,G,T,0.516835,-0.0791797,0.0157817,5.24344e-07,rs7036384,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+11,836043,T,C,0.0136414,-0.307434,0.0672273,4.80649e-06,rs192915611,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+15,90177859,G,A,0.0107494,0.352296,0.0761884,3.76395e-06,rs148496848,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+16,79186116,T,C,0.390273,0.0778641,0.0160317,1.19248e-06,rs28524560,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+17,1487886,G,A,0.349706,0.0829638,0.0167738,7.57364e-07,rs2358972,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+17,65851368,G,A,0.0203481,0.276621,0.055506,6.24022e-07,rs79381373,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl
+18,73595531,T,C,0.406811,0.0731548,0.0158024,3.66835e-06,rs17087925,8224,Tryptophan to pyruvate ratio,TRUE,reported,DkIGKl

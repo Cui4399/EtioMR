@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,18988074,G,A,0.101894,-0.259162,0.0250135,3.73489e-25,rs2518805,8209,Succinate to proline ratio,TRUE,reported,WwZ4VU

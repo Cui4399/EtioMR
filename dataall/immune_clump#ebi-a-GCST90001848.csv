@@ -1,0 +1,3 @@
+pval.exposure,beta.exposure,se.exposure,chr.exposure,pos.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4.35602e-10,0.4289,0.06851,6,100526652,3113,ebi-a-GCST90001848,rs79086781,T,C,0.0387,CD3 on Natural Killer T || id:ebi-a-GCST90001848,TRUE,reported,igd
+3.30598e-08,0.4285,0.07737,6,102173117,3113,ebi-a-GCST90001848,rs117913408,G,A,0.0321,CD3 on Natural Killer T || id:ebi-a-GCST90001848,TRUE,reported,igd

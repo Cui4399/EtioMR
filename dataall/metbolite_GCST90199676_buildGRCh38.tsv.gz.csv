@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,92980470,G,C,0.0340631,-0.236439,0.0431018,4.12084e-08,rs114881696,8225,1-oleoylglycerol (18:1) levels,TRUE,reported,Zhg57Q
+11,116778201,C,G,0.868688,-0.177523,0.0228868,8.72352e-15,rs964184,8225,1-oleoylglycerol (18:1) levels,TRUE,reported,Zhg57Q
+16,14193978,C,T,0.151933,-0.119237,0.0216956,3.88734e-08,rs72785421,8225,1-oleoylglycerol (18:1) levels,TRUE,reported,Zhg57Q
+19,44928640,A,G,0.090405,0.158987,0.0280316,1.41377e-08,rs112871012,8225,1-oleoylglycerol (18:1) levels,TRUE,reported,Zhg57Q

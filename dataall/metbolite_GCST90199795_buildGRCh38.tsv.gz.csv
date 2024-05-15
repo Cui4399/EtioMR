@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,16089094,A,G,0.26327,-0.0905159,0.0171911,1.39976e-07,rs28550594,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+1,43702825,A,G,0.0102264,0.357263,0.0756628,2.33796e-06,rs148860440,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+2,31372009,A,G,0.0122576,-0.31375,0.0686266,4.83473e-06,rs45599238,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+2,51478241,T,G,0.191809,0.0916088,0.0192502,1.94697e-06,rs1528801,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+3,100500242,C,A,0.465805,0.0735226,0.0152036,1.32576e-06,rs59771628,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+3,132784412,T,C,0.0185502,-0.271062,0.0559676,1.27771e-06,rs138770040,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+6,42592188,A,G,0.0332079,-0.196981,0.0423764,3.34579e-06,rs62414610,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+7,16353839,C,G,0.251171,-0.0817149,0.0174871,2.9704e-06,rs4236287,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+9,104985855,C,G,0.275862,-0.0892208,0.0172421,2.28426e-07,rs10820752,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+14,81269046,T,C,0.0300948,0.202933,0.0440672,4.12297e-06,rs117853183,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+15,73820768,T,C,0.109142,0.117508,0.0241917,1.18967e-06,rs72743374,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H
+16,55476499,T,A,0.615858,0.0730335,0.015595,2.82503e-06,rs11076100,8247,2-hydroxypalmitate levels,TRUE,reported,oc6U0H

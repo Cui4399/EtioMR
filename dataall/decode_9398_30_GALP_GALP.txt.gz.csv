@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,56178262,rs139011716,A,G,0.2271,2.529e-15,0.028703,35278,0.01914,GALP_GALP,TRUE,reported,GALP_GALP

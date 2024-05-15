@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53209860,C,T,0.317057,-0.230507,0.016149,3.18826e-46,rs12737375,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo
+5,132365903,G,A,0.705832,-0.163214,0.0165257,5.27013e-23,rs1644283,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo
+6,110438805,G,A,0.239083,-0.205048,0.0175629,1.70907e-31,rs12210538,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo
+8,86436951,AT,A,0.263612,0.151842,0.0169891,3.97747e-19,rs34999529,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo
+11,68633911,G,A,0.110936,0.300986,0.0238374,1.50602e-36,rs2510374,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo
+11,68684660,T,C,0.700671,0.105862,0.0168119,3.03798e-10,rs7101947,8260,Ximenoylcarnitine (C26:1) levels,TRUE,reported,uP2Veo

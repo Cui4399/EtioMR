@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,124594036,C,A,0.101749,-0.121953,0.0262673,3.43771e-06,rs10038317,7565,4-acetylcatechol sulfate (1) levels,TRUE,reported,GiRHCA
+8,79033071,A,G,0.0113998,0.352446,0.0763888,3.95304e-06,rs188148116,7565,4-acetylcatechol sulfate (1) levels,TRUE,reported,GiRHCA
+11,94164505,G,A,0.01193,0.342821,0.0742909,3.93903e-06,rs143105784,7565,4-acetylcatechol sulfate (1) levels,TRUE,reported,GiRHCA
+11,123394730,C,T,0.0331521,-0.210847,0.0447893,2.50733e-06,rs80195744,7565,4-acetylcatechol sulfate (1) levels,TRUE,reported,GiRHCA
+21,16457169,G,T,0.0137833,-0.323554,0.0701325,3.96011e-06,rs143550070,7565,4-acetylcatechol sulfate (1) levels,TRUE,reported,GiRHCA

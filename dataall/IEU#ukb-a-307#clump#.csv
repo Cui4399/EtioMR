@@ -1,0 +1,6 @@
+"chr.exposure","beta.exposure","se.exposure","samplesize.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",-0.00442606,0.000730123,336272,1.34527e-09,202122995,"ukb-a-307","rs3769823","G","A",0.718859,"Cancer diagnosed by doctor || id:ukb-a-307",TRUE,"reported","igd"
+"10",-0.00463491,0.000672203,336272,5.39138e-12,123346116,"ukb-a-307","rs2981575","A","G",0.60559,"Cancer diagnosed by doctor || id:ukb-a-307",TRUE,"reported","igd"
+"11",0.0042007,0.000714901,336272,4.20911e-09,89017961,"ukb-a-307","rs1126809","A","G",0.304801,"Cancer diagnosed by doctor || id:ukb-a-307",TRUE,"reported","igd"
+"16",0.00473132,0.000759924,336272,4.78906e-10,52538825,"ukb-a-307","rs35668161","A","C",0.250788,"Cancer diagnosed by doctor || id:ukb-a-307",TRUE,"reported","igd"
+"16",0.00458229,0.000691248,336272,3.38454e-11,90024206,"ukb-a-307","rs8051733","G","A",0.347009,"Cancer diagnosed by doctor || id:ukb-a-307",TRUE,"reported","igd"

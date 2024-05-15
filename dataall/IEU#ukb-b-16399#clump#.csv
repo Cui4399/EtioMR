@@ -1,0 +1,6 @@
+"samplesize.exposure","se.exposure","pval.exposure","beta.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+461797,0.000814484,4.20001e-10,0.00508629,"1",103473289,"ukb-b-16399","rs1572515","C","G",0.697654,"Main speciality of consultant (recoded): Trauma and orthopaedics || id:ukb-b-16399",TRUE,"reported","igd"
+461797,0.000946744,3.40001e-08,-0.00522547,"3",18784423,"ukb-b-16399","rs6809854","G","A",0.195106,"Main speciality of consultant (recoded): Trauma and orthopaedics || id:ukb-b-16399",TRUE,"reported","igd"
+461797,0.00231994,1.09999e-08,-0.0132486,"8",77734892,"ukb-b-16399","rs28377777","G","T",0.02699,"Main speciality of consultant (recoded): Trauma and orthopaedics || id:ukb-b-16399",TRUE,"reported","igd"
+461797,0.000939083,2.99999e-08,0.00520146,"11",115043036,"ukb-b-16399","rs4938182","C","G",0.80118,"Main speciality of consultant (recoded): Trauma and orthopaedics || id:ukb-b-16399",TRUE,"reported","igd"
+461797,0.00075182,2.1e-10,0.00477637,"14",46909341,"ukb-b-16399","rs1669795","T","C",0.543375,"Main speciality of consultant (recoded): Trauma and orthopaedics || id:ukb-b-16399",TRUE,"reported","igd"

@@ -1,0 +1,5 @@
+"beta.exposure","pval.exposure","pos.exposure","chr.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00132231,6.29941e-12,128370183,"8",0.000192402,463010,"ukb-b-7609","rs35904426","T","G",0.401632,"Operative procedures - main OPCS: B28.2 Partial excision of breast NEC || id:ukb-b-7609",TRUE,"reported","igd"
+-0.00189858,1e-22,123351302,"10",0.000193549,463010,"ukb-b-7609","rs2860197","A","G",0.610242,"Operative procedures - main OPCS: B28.2 Partial excision of breast NEC || id:ukb-b-7609",TRUE,"reported","igd"
+0.00227525,3.50026e-15,69332670,"11",0.000289021,463010,"ukb-b-7609","rs657686","G","A",0.121253,"Operative procedures - main OPCS: B28.2 Partial excision of breast NEC || id:ukb-b-7609",TRUE,"reported","igd"
+0.00197569,3.50026e-19,52599188,"16",0.00022072,463010,"ukb-b-7609","rs4784227","T","C",0.240212,"Operative procedures - main OPCS: B28.2 Partial excision of breast NEC || id:ukb-b-7609",TRUE,"reported","igd"

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,237469065,-0.28897,0.0623148,3.53061e-06,7738,ebi-a-GCST90027597,rs1030115,G,A,0.110073,PWY.6731..starch.degradation.III,TRUE,reported,igd
+1,3709093,0.217252,0.0440255,8.02823e-07,7738,ebi-a-GCST90027597,rs61759306,T,C,0.213506,PWY.6731..starch.degradation.III,TRUE,reported,igd
+2,121567079,-0.408074,0.0866984,2.51611e-06,7738,ebi-a-GCST90027597,rs55922034,A,C,0.0555627,PWY.6731..starch.degradation.III,TRUE,reported,igd
+11,119520997,-0.201517,0.0404339,6.23304e-07,7738,ebi-a-GCST90027597,rs11822940,C,G,0.261848,PWY.6731..starch.degradation.III,TRUE,reported,igd
+15,90351574,-0.204226,0.0422004,1.30215e-06,7738,ebi-a-GCST90027597,rs10152918,A,G,0.417203,PWY.6731..starch.degradation.III,TRUE,reported,igd
+17,51373354,-0.171177,0.0371812,4.14725e-06,7738,ebi-a-GCST90027597,rs806925,G,A,0.657926,PWY.6731..starch.degradation.III,TRUE,reported,igd

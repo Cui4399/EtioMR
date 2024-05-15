@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75783905,A,G,0.311615,-0.124724,0.016557,4.95865e-14,rs12094842,8163,Caprylate (8:0) levels,TRUE,reported,61I2Fx

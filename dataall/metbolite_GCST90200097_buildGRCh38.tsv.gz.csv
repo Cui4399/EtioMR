@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,28569012,C,T,0.504438,-0.241609,0.0181587,2.15389e-40,rs151232,5882,Furaneol sulfate levels,TRUE,reported,kfiXqi

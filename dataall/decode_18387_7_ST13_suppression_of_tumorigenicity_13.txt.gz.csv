@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,40980730,rs5758150,C,T,-0.0524,2.794e-11,0.007871,35371,0.46867,ST13_suppression_of_tumorigenicity_13,TRUE,reported,ST13_suppression_of_tumorigenicity_13

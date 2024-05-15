@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,16043984,rs945393,A,T,-0.3315,3.838e-08,0.060293,35373,0.00459,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16097590,rs28616748,C,A,0.0651,3.146e-13,0.008932,35373,0.30866,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16211407,rs78571712,A,G,0.1665,5.006e-13,0.023045,35374,0.03166,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16481950,rs112690001,G,A,-0.2061,3.219e-10,0.032778,35373,0.01666,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16646562,rs57585017,A,G,-0.181,5.503e-31,0.015637,35370,0.07738,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16758670,rs2490828,CTAACCT,GTAACCT,-0.1027,1.392e-15,0.01286,35370,0.12552,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16909298,rs10749619,TATATATATATAT,TATATATATATAC,0.135,1.321e-48,0.009214,35354,0.39185,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16930355,rs147451230,T,C,-0.2717,1.001e-09,0.044474,35371,0.0091,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16936719,rs145088791,T,C,-0.1775,4.627e-20,0.019352,35371,0.04716,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16966480,rs115823338,A,G,0.2999,1.9e-17,0.035283,35374,0.01518,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,16988925,rs4920605,TGCCCAGCCTAT,TGCCCGGCCTAT,0.2915,1e-200,0.008202,35374,0.40773,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,17171239,rs77344328,A,G,-0.1433,3.034e-16,0.017536,35372,0.05776,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,17173811,rs142166388,A,C,0.0762,4.646e-09,0.013005,35372,0.11238,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,17219226,rs77306488,A,G,0.0793,8.631e-10,0.01293,35365,0.11385,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,17268544,rs11203345,T,G,0.0606,3.524e-08,0.010992,35376,0.17003,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1
+1,17276958,rs139378764,A,G,-0.1687,4.638e-08,0.030871,35376,0.01795,SCGB1A1_Urinary_protein_1,TRUE,reported,SCGB1A1_Urinary_protein_1

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,45829771,rs199670525,TCC,TC,-0.2912,1.005e-12,0.040843,35359,0.01014,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D
+13,46334718,rs79668640,C,T,-0.1824,1.283e-17,0.021345,35360,0.035,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D
+13,46754166,rs17284275,C,T,0.0934,2.606e-18,0.010702,35360,0.16866,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D
+13,46763354,rs111833031,T,C,-0.1932,7.852e-10,0.031425,35360,0.01601,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D
+13,46771495,rs15303,T,C,-0.7603,3.682e-113,0.033631,35360,0.01444,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D
+13,46777268,rs2298087,C,T,-0.3585,1.032e-147,0.013851,35360,0.08957,ESD_Esterase_D,TRUE,reported,ESD_Esterase_D

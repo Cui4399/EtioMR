@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21785485,C,T,0.0901506,-0.12374,0.0268713,4.12638e-06,rs11811261,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+2,75853785,G,A,0.119727,0.109955,0.0235478,3.02047e-06,rs4479449,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+4,5832283,C,T,0.0438575,-0.172682,0.0378231,4.98285e-06,rs6857170,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+4,15351780,A,C,0.0122971,-0.319294,0.0694571,4.28631e-06,rs145530615,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+9,1279051,C,G,0.021561,-0.242967,0.0530838,4.71577e-06,rs58910473,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+9,19585407,A,G,0.105548,0.12894,0.0252053,3.12772e-07,rs12347873,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+9,133695649,T,G,0.376568,0.0773932,0.0165607,2.96405e-06,rs2502738,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+14,85220382,A,G,0.32848,0.0747903,0.016297,4.44945e-06,rs1767403,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+16,20546312,T,A,0.0221849,0.254477,0.0524674,1.23339e-06,rs7499358,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+18,55084814,A,G,0.108979,-0.118792,0.024653,1.44603e-06,rs35766299,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo
+20,13266853,A,C,0.534659,0.0742023,0.0154045,1.45788e-06,rs6033654,8068,Salicylate to caprylate (8:0) ratio,TRUE,reported,xFodTo

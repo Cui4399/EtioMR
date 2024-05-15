@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,88147290,rs117002784,T,C,0.1338,2.867e-10,0.021219,35356,0.03828,PTEN_pTEN,TRUE,reported,PTEN_pTEN

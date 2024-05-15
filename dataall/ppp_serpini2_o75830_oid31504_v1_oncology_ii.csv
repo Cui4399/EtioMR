@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,166717148,rs191363708,T,C,0.249675,1.11403798733062e-28,0.0224718,33796,0.0237043,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,166869354,rs149398132,T,C,0.164784,1.80011396041801e-14,0.0215005,33796,0.0255456,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,167126698,rs145436153,G,T,0.179517,3.2568668220167e-12,0.0257699,33796,0.0175437,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,167400142,rs114230353,C,T,0.434545,1e-200,0.00954976,33796,0.139732,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,167452283,rs75936285,C,T,-0.227882,1.71119695990095e-32,0.0191994,33796,0.0301634,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,167776883,rs56302309,T,C,0.0816326,2.72960622551358e-17,0.009652,33796,0.134499,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,167838479,rs114752515,C,G,0.337556,5.25896160382461e-50,0.0227024,33796,0.0222157,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis
+3,168282390,rs62273352,G,C,0.084436,6.37661211571565e-09,0.0145415,33796,0.0553374,serpini2_o75830_oid31504_v1_oncology_ii,TRUE,reported,serpini2_o75830_oid31504_v1_oncology_ii,chr3,167474132,cis

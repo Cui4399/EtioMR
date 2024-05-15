@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,66904366,rs116884770,T,C,0.1167,1.819e-09,0.019407,35363,0.04934,CD248_CD248,TRUE,reported,CD248_CD248
+11,67259085,rs145928297,C,A,0.2031,3.932e-08,0.036968,35361,0.01307,CD248_CD248,TRUE,reported,CD248_CD248

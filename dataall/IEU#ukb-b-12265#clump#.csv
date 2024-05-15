@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","se.exposure","beta.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,5.99998e-09,0.000211821,-0.00123234,"1",22470451,"ukb-b-12265","rs55938609","C","G",0.146827,"Operative procedures - secondary OPCS: Q08.9 Unspecified vaginal excision of uterus || id:ukb-b-12265",TRUE,"reported","igd"
+463010,2.69998e-08,0.000185964,0.00103348,"4",126966716,"ukb-b-12265","rs12642280","G","A",0.203818,"Operative procedures - secondary OPCS: Q08.9 Unspecified vaginal excision of uterus || id:ukb-b-12265",TRUE,"reported","igd"

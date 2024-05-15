@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,184099766,C,T,0.0580369,-0.193024,0.0349726,3.40366e-08,rs75200713,7518,Gamma-glutamylalanine levels,TRUE,reported,vYcOTI
+20,43699246,G,A,0.269904,0.105558,0.019004,2.78395e-08,rs113342678,7518,Gamma-glutamylalanine levels,TRUE,reported,vYcOTI

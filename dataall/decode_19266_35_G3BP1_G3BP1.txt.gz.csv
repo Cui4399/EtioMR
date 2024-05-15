@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,151804337,rs140252175,CA,C,-0.0693,5.049e-15,0.008855,35352,0.28938,G3BP1_G3BP1,TRUE,reported,G3BP1_G3BP1

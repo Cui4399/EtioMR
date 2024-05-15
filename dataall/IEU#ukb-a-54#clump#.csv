@@ -1,0 +1,7 @@
+"pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3388091,0.00508606,5.90065e-11,337159,"2",0.00077692,"ukb-a-54","rs74501880","G","C",0.00141311,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"
+58890842,0.00458616,4.79733e-11,337159,"2",0.000697269,"ukb-a-54","rs144574930","C","G",0.00176602,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"
+1245725,0.0012121,1.63655e-08,337159,"9",0.000214655,"ukb-a-54","rs10960642","A","G",0.0203485,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"
+135051543,0.000541432,4.69797e-08,337159,"10",9.91179e-05,"ukb-a-54","rs2240892","C","T",0.101087,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"
+131084207,0.00121108,3.67401e-08,337159,"11",0.000219958,"ukb-a-54","rs61466773","G","C",0.0181332,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"
+18647350,0.00186521,1.13522e-08,337159,"17",0.000326696,"ukb-a-54","rs367810251","C","G",0.0100846,"Cancer code  self-reported: lung cancer || id:ukb-a-54",TRUE,"reported","igd"

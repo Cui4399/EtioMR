@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,44827646,A,G,0.0209795,0.250229,0.0528883,2.23105e-06,rs11573587,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+1,47276001,G,A,0.0376258,-0.191387,0.0399558,1.66797e-06,rs72684396,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+1,70535113,C,T,0.026633,-0.21333,0.0466369,4.77866e-06,rs12123500,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+4,26070963,G,A,0.752172,0.0891747,0.0178982,6.28257e-07,rs4692346,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+4,94656103,G,A,0.0153401,-0.295435,0.0618363,1.77321e-06,rs183434279,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+4,104474462,G,A,0.0108842,-0.334505,0.0731119,4.75661e-06,rs78311040,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+12,21825839,G,C,0.0397477,-0.181966,0.0386367,2.4811e-06,rs61928477,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+14,36635592,A,C,0.524471,0.0719826,0.0150351,1.68758e-06,rs7159478,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+16,88745010,T,C,0.454293,-0.0710243,0.0154321,4.17712e-06,rs9926812,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+17,78376598,A,C,0.0859988,0.125346,0.0273278,4.50216e-06,rs8070023,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO
+18,25085751,T,C,0.0277299,-0.212656,0.0461476,4.06213e-06,rs151129890,8186,Taurine to cysteine ratio,TRUE,reported,duqxrO

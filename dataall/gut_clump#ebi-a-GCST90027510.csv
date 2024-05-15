@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+15,38787329,0.141447,0.0300043,2.42611e-06,7738,ebi-a-GCST90027510,rs80217121,C,T,0.0857864,POLYAMSYN.PWY..superpathway.of.polyamine.biosynthesis.I,TRUE,reported,igd

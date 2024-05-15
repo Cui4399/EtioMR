@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151907285,A,G,0.317791,-0.119396,0.0162643,2.12024e-13,rs28415528,8182,3-hydroxyoctanoate levels,TRUE,reported,Ecoyod
+16,20480678,G,A,0.879603,-0.150185,0.0246015,1.02994e-09,rs9924150,8182,3-hydroxyoctanoate levels,TRUE,reported,Ecoyod

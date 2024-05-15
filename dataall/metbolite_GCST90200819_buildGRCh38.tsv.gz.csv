@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,36962431,G,A,0.0800405,0.135353,0.0286972,2.3983e-06,rs12140265,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+1,181473192,T,G,0.312663,-0.0786376,0.0166391,2.28899e-06,rs75367761,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+2,176781398,A,G,0.0292613,0.225071,0.0461195,1.05988e-06,rs62174214,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+5,139237603,C,G,0.0307778,0.239404,0.0444291,7.1073e-08,rs62383022,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+6,160470577,G,A,0.0173139,-0.287923,0.059089,1.10078e-06,rs73592974,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+7,81912854,A,T,0.0670578,-0.150759,0.0310535,1.20492e-06,rs71537594,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+7,93056451,ATTATAT,A,0.118695,-0.123196,0.0248346,7.02587e-07,rs57022560,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+8,62617457,G,A,0.0230463,-0.239207,0.0510748,2.8206e-06,rs117174282,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+17,55272737,T,C,0.0447077,-0.18226,0.0377436,1.3729e-06,rs8071484,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+18,52164501,T,G,0.171829,-0.0963574,0.0205872,2.86238e-06,rs62082848,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+19,44711810,A,G,0.022849,0.267904,0.0523265,3.05763e-07,rs111278137,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1
+20,63717108,T,C,0.684819,0.0780347,0.0165423,2.39002e-06,rs4809329,8101,3-phosphoglycerate to glycerate ratio,TRUE,reported,7745S1

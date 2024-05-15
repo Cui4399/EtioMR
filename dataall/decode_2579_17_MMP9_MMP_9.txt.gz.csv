@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,46013767,rs2250889,C,G,-0.1687,1.077e-16,0.020335,35369,0.04658,MMP9_MMP_9,TRUE,reported,MMP9_MMP_9

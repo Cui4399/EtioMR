@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,106635743,rs9373885,T,C,-0.0721,4.379e-16,0.008871,35373,0.27213,RTN4IP1_RT4I1,TRUE,reported,RTN4IP1_RT4I1

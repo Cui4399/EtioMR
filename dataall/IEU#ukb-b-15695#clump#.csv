@@ -1,0 +1,4 @@
+"pval.exposure","beta.exposure","samplesize.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.39997e-10,0.00924659,200410,0.00148168,1317820,"5","ukb-b-15695","rs3816659","G","A",0.582743,"Ever had prostate specific antigen (PSA) test || id:ukb-b-15695",TRUE,"reported","igd"
+4.39997e-10,-0.0105083,200410,0.0016845,29781521,"6","ukb-b-15695","rs1610702","T","G",0.251515,"Ever had prostate specific antigen (PSA) test || id:ukb-b-15695",TRUE,"reported","igd"
+1e-10,0.0108679,200410,0.0016805,123038145,"10","ukb-b-15695","rs10886891","A","C",0.25242,"Ever had prostate specific antigen (PSA) test || id:ukb-b-15695",TRUE,"reported","igd"

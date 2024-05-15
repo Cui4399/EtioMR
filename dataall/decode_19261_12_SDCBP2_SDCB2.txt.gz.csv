@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,1342548,rs6109526,C,T,0.0496,2.156e-08,0.008859,35373,0.30746,SDCBP2_SDCB2,TRUE,reported,SDCBP2_SDCB2

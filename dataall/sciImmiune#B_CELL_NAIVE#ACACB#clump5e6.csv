@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",109589593,"rs2268405","A","G",6.45217591765e-09,-1.05915053349,0.182467601684431,89,"B_CELL_NAIVE#ACACB",TRUE,"reported","HacuD1",NA

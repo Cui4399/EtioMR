@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,77171394,A,G,0.0919234,-0.127713,0.0272681,2.81874e-06,rs60037927,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+1,109777868,A,G,0.223582,-0.0852373,0.0185522,4.33887e-06,rs7519829,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+1,243492595,T,C,0.56731,0.0734065,0.0156805,2.84928e-06,rs12093576,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+3,105654364,C,T,0.0122636,0.326104,0.0692775,2.51129e-06,rs16851395,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+4,137090518,C,A,0.0310025,0.24215,0.0441591,4.16783e-08,rs62316592,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+6,155131254,T,G,0.483257,0.0726245,0.015738,3.93857e-06,rs9480064,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+8,14954793,C,T,0.250652,0.0885937,0.0178977,7.42106e-07,rs10096113,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+8,38696417,G,A,0.0104485,-0.357752,0.0752802,2.01145e-06,rs143638473,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+8,69629234,A,G,0.0681316,-0.139178,0.030406,4.71015e-06,rs111891663,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+10,71587355,G,A,0.848772,0.101119,0.0217317,3.2705e-06,rs1868000,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+10,103843950,A,C,0.0116891,0.34605,0.0713594,1.23844e-06,rs141240026,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+12,3140340,G,C,0.469334,-0.0724711,0.0157128,3.98345e-06,rs687448,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+13,84917329,T,C,0.827297,0.0955339,0.0204058,2.84511e-06,rs9531672,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+16,56791754,A,G,0.163893,-0.0971861,0.0207004,2.66754e-06,rs10852553,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+19,42942702,C,T,0.112702,0.130262,0.0252503,2.48503e-07,rs116851649,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt
+20,5399345,A,G,0.715377,0.0820237,0.0179126,4.6695e-06,rs6085145,8208,Pro-hydroxy-pro levels,TRUE,reported,HghDkt

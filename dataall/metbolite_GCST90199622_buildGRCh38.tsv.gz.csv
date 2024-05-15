@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,6935462,T,C,0.0417238,0.185887,0.0404404,4.29519e-06,rs72638543,7306,Benzoate levels,TRUE,reported,osT5RD
+1,151944639,A,G,0.315014,0.0830144,0.0176575,2.58422e-06,rs9943251,7306,Benzoate levels,TRUE,reported,osT5RD
+5,167537696,T,C,0.0261245,0.243319,0.0511669,1.98052e-06,rs73801273,7306,Benzoate levels,TRUE,reported,osT5RD
+8,101220030,T,C,0.0144798,0.319567,0.068531,3.1148e-06,rs1584267,7306,Benzoate levels,TRUE,reported,osT5RD
+14,49018533,C,G,0.844828,-0.10725,0.022653,2.19626e-06,rs2749463,7306,Benzoate levels,TRUE,reported,osT5RD
+15,39725132,G,A,0.971915,-0.230238,0.0500968,4.30982e-06,rs11070230,7306,Benzoate levels,TRUE,reported,osT5RD
+21,23369148,T,C,0.0387693,-0.194544,0.0425626,4.85941e-06,rs62209511,7306,Benzoate levels,TRUE,reported,osT5RD

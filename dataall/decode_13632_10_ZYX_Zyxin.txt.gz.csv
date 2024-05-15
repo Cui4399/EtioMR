@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,143386318,rs4725616,A,G,-0.0517,8.901e-10,0.008437,35368,0.3756,ZYX_Zyxin,TRUE,reported,ZYX_Zyxin
+7,143490004,rs12539742,A,G,0.0789,8.443e-19,0.008911,35373,0.29322,ZYX_Zyxin,TRUE,reported,ZYX_Zyxin

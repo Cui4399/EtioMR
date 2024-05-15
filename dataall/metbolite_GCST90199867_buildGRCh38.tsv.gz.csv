@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,50173024,G,A,0.633106,0.133134,0.0160875,1.27801e-16,rs8041483,8231,Tridecenedioate (C13:1-DC) levels,TRUE,reported,DTAM1A

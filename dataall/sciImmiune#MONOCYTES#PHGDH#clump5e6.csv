@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",120255370,"rs11583993","G","A",2.22944390124e-11,1.34415632323,0.200915770787652,89,"Classical monocyte#PHGDH",TRUE,"reported","UON0AU",NA

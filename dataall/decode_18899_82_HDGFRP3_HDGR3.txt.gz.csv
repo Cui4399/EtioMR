@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,83080047,rs9919979,A,C,0.1776,6.755e-29,0.015921,35365,0.06425,HDGFRP3_HDGR3,TRUE,reported,HDGFRP3_HDGR3

@@ -1,0 +1,6 @@
+"pval.exposure","pos.exposure","beta.exposure","chr.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.80027e-14,109817838,0.00163083,"1",463010,0.000214332,"ukb-b-11064","rs660240","C","T",0.784825,"Diagnoses - secondary ICD10: Z95.1 Presence of aortocoronary bypass graft || id:ukb-b-11064",TRUE,"reported","igd"
+1.2e-10,12903957,0.0011529,"6",463010,0.000179204,"ukb-b-11064","rs9349379","G","A",0.405488,"Diagnoses - secondary ICD10: Z95.1 Presence of aortocoronary bypass graft || id:ukb-b-11064",TRUE,"reported","igd"
+1.20005e-21,161089307,0.00227737,"6",463010,0.000238214,"ukb-b-11064","rs56393506","T","C",0.171301,"Diagnoses - secondary ICD10: Z95.1 Presence of aortocoronary bypass graft || id:ukb-b-11064",TRUE,"reported","igd"
+1.39991e-34,22099568,0.00215695,"9",463010,0.000175845,"ukb-b-11064","rs1537371","A","C",0.500828,"Diagnoses - secondary ICD10: Z95.1 Presence of aortocoronary bypass graft || id:ukb-b-11064",TRUE,"reported","igd"
+1.7e-08,44708346,-0.00134962,"10",463010,0.000239427,"ukb-b-11064","rs17155641","G","A",0.161632,"Diagnoses - secondary ICD10: Z95.1 Presence of aortocoronary bypass graft || id:ukb-b-11064",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",104023840,"rs2720471","A","G",1.30685097629e-10,0.84416990039,0.131360254195944,89,"Classical monocyte#BDH2",TRUE,"reported","HOSCJM",NA

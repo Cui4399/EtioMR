@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,63523717,T,TA,0.039875,0.209442,0.0368869,1.36314e-08,rs200827747,8242,"Sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0) levels",TRUE,reported,CmnZ60
+14,63765502,A,G,0.163737,0.311832,0.0190858,5.26355e-60,rs7160525,8242,"Sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0) levels",TRUE,reported,CmnZ60
+20,12978039,G,A,0.615084,-0.156724,0.0147731,2.71337e-26,rs438568,8242,"Sphingomyelin (d18:1/21:0, d17:1/22:0, d16:1/23:0) levels",TRUE,reported,CmnZ60

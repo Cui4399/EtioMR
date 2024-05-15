@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,18414867,T,C,0.773189,-0.318795,0.0171256,2.42452e-77,rs4921913,8154,4-acetamidobutanoate levels,TRUE,reported,ZnXXV7
+22,50123655,G,A,0.0186072,0.335013,0.0541511,6.14658e-10,rs148381953,8154,4-acetamidobutanoate levels,TRUE,reported,ZnXXV7

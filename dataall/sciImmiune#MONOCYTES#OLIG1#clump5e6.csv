@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"21",34266735,"rs2833994","A","G",9.49481203134e-07,-0.639690426338,0.130500336091705,89,"Classical monocyte#OLIG1",TRUE,"reported","KOSpr5",NA

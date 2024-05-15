@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,87399457,rs2230641,G,A,-0.0963,1.387e-22,0.009848,35344,0.20218,CCNH_Cyclin_H,TRUE,reported,CCNH_Cyclin_H

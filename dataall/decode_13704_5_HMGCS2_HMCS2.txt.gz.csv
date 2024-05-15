@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119775000,rs10923900,GAC,GAG,-0.0548,1.772e-11,0.00815,35362,0.43025,HMGCS2_HMCS2,TRUE,reported,HMGCS2_HMCS2

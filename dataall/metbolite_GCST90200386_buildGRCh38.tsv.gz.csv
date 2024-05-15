@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,58480178,T,C,0.664125,0.10461,0.0169558,6.84713e-10,rs10107182,7649,Deoxycholate levels,TRUE,reported,4YSuRh
+12,21208114,TTTC,T,0.157072,0.133556,0.0218691,1.01493e-09,rs151231052,7649,Deoxycholate levels,TRUE,reported,4YSuRh

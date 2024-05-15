@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135814282,T,G,0.157702,-0.111043,0.0202168,3.96086e-08,rs60253740,8199,Glutamate to cysteine ratio,TRUE,reported,LWgurT
+5,36638487,A,G,0.0320568,-0.249392,0.0423424,3.86431e-09,rs62354638,8199,Glutamate to cysteine ratio,TRUE,reported,LWgurT

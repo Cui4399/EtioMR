@@ -1,0 +1,3 @@
+"beta.exposure","se.exposure","pval.exposure","pos.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0189916,0.00284971,2.66195e-11,94844947,292053,"14","ukb-a-206","rs28929474","T","C",0.0204301,"Illnesses of father: Chronic bronchitis/emphysema || id:ukb-a-206",TRUE,"reported","igd"
+0.00601365,0.000827316,3.63413e-13,78911181,292053,"15","ukb-a-206","rs8040868","C","T",0.392476,"Illnesses of father: Chronic bronchitis/emphysema || id:ukb-a-206",TRUE,"reported","igd"

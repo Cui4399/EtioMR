@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,131573218,T,C,0.0193219,0.440403,0.0558702,3.20594e-15,rs17788484,8255,Ornithine levels,TRUE,reported,QOOLFK

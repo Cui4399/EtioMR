@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,174255891,0.14961,0.0324188,3.93269e-06,7738,ebi-a-GCST90027617,rs1515603,A,G,0.0680756,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+4,63358165,-0.128433,0.0273357,2.62271e-06,7738,ebi-a-GCST90027617,rs4860463,G,A,0.88351,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+4,22079213,-0.188448,0.037445,4.83715e-07,7738,ebi-a-GCST90027617,rs6448117,G,T,0.0525441,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+4,61672969,0.121888,0.0264037,3.90607e-06,7738,ebi-a-GCST90027617,rs1455275,T,C,0.109073,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+6,33793760,0.0808375,0.0172506,2.78516e-06,7738,ebi-a-GCST90027617,rs3998109,A,G,0.349748,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+8,104257497,-0.108148,0.0224845,1.51011e-06,7738,ebi-a-GCST90027617,rs12678419,G,C,0.15879,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+11,60875319,0.126112,0.0271438,3.38306e-06,7738,ebi-a-GCST90027617,rs80233470,T,C,0.114158,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd
+11,46180693,0.0772024,0.0164376,2.64411e-06,7738,ebi-a-GCST90027617,rs7128538,A,G,0.469966,PWY.7237..myo...chiro..and.scillo.inositol.degradation,TRUE,reported,igd

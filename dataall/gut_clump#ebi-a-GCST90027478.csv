@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,43701873,0.136276,0.0292969,3.29473e-06,7738,ebi-a-GCST90027478,rs13214578,C,T,0.829373,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+9,3781877,-0.164834,0.033329,7.5891e-07,7738,ebi-a-GCST90027478,rs10814610,T,C,0.151425,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+10,105967175,-0.147413,0.0316697,3.24452e-06,7738,ebi-a-GCST90027478,rs61861334,C,T,0.16831,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+16,25486225,0.105,0.02272,3.81013e-06,7738,ebi-a-GCST90027478,rs4302037,T,C,0.537511,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+17,41181835,-0.116136,0.0234953,7.69538e-07,7738,ebi-a-GCST90027478,rs72829113,T,C,0.345764,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+18,5294186,0.102662,0.0221672,3.63421e-06,7738,ebi-a-GCST90027478,rs9957998,G,A,0.444744,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd
+22,33777259,0.160175,0.0325027,8.30539e-07,7738,ebi-a-GCST90027478,rs5998901,C,T,0.136341,GOLPDLCAT.PWY..superpathway.of.glycerol.degradation.to.1.3.propanediol,TRUE,reported,igd

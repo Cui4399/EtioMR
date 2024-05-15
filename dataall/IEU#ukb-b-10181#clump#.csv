@@ -1,0 +1,5 @@
+"pval.exposure","beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.90065e-47,0.00838659,32627480,"6",150642,0.000582752,"ukb-b-10181","rs1064173","A","G",0.286754,"Eye problems/disorders: Diabetes related eye disease || id:ukb-b-10181",TRUE,"reported","igd"
+5.50047e-14,0.0052911,32682862,"6",150642,0.000703695,"ukb-b-10181","rs3892710","T","C",0.150205,"Eye problems/disorders: Diabetes related eye disease || id:ukb-b-10181",TRUE,"reported","igd"
+1.39991e-21,0.00528217,114758349,"10",150642,0.00055358,"ukb-b-10181","rs7903146","T","C",0.292235,"Eye problems/disorders: Diabetes related eye disease || id:ukb-b-10181",TRUE,"reported","igd"
+2.69998e-08,0.00303828,2720873,"11",150642,0.000546282,"ukb-b-10181","rs80269905","G","C",0.316714,"Eye problems/disorders: Diabetes related eye disease || id:ukb-b-10181",TRUE,"reported","igd"

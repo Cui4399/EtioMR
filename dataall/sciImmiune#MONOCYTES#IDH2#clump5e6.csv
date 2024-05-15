@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"15",90639942,"rs4516205","C","G",1.37603617681e-09,0.840550061955,0.138744515338308,89,"Classical monocyte#IDH2",TRUE,"reported","GFelCQ",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241527254,rs6678766,G,A,0.1477,2.162e-64,0.008717,35355,0.29782,FH_FUMH,TRUE,reported,FH_FUMH

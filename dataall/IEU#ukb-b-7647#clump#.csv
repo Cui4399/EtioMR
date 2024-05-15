@@ -1,0 +1,4 @@
+"pos.exposure","pval.exposure","se.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1336221,1.40001e-10,0.000622697,446149,-0.00399499,"5","ukb-b-7647","rs467095","C","T",0.440841,"Treatment speciality of consultant (recoded): Urology || id:ukb-b-7647",TRUE,"reported","igd"
+31327895,1.10002e-16,0.000679163,446149,0.00563204,"6","ukb-b-7647","rs2523583","A","G",0.709314,"Treatment speciality of consultant (recoded): Urology || id:ukb-b-7647",TRUE,"reported","igd"
+32603854,4.49997e-09,0.000866999,446149,-0.00508609,"6","ukb-b-7647","rs9272302","T","C",0.165105,"Treatment speciality of consultant (recoded): Urology || id:ukb-b-7647",TRUE,"reported","igd"

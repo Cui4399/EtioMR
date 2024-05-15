@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,166637631,G,A,0.014775,-0.296226,0.0640432,3.73865e-06,rs183304865,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+3,16167825,G,A,0.889242,0.114469,0.02496,4.51578e-06,rs2730349,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+8,112151737,C,G,0.523201,-0.0720488,0.015433,3.03442e-06,rs11996635,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+9,1279051,C,G,0.0215383,-0.246506,0.0531825,3.56756e-06,rs58910473,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+9,19585407,A,G,0.105332,0.124555,0.0252376,8.00328e-07,rs12347873,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+11,119007972,G,A,0.0366843,0.188595,0.0412337,4.78968e-06,rs79146737,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+12,85333880,A,T,0.0169439,0.277655,0.0594619,3.02002e-06,rs141827194,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+14,44752818,G,A,0.0248157,0.230164,0.0490648,2.71846e-06,rs75681404,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+16,20549055,C,T,0.0239032,0.262946,0.0505526,1.9777e-07,rs9922704,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+16,20589290,T,C,0.0308392,0.211348,0.0443895,1.92442e-06,rs7196912,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+17,15767328,A,G,0.349437,-0.0789656,0.0161983,1.08842e-06,rs4792671,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+17,74629500,A,G,0.043682,0.185032,0.0382886,1.34793e-06,rs62086681,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm
+18,675000,T,C,0.317281,-0.0772798,0.0167893,4.16621e-06,rs9948583,8147,Salicylate to citrate ratio,TRUE,reported,JhEzUm

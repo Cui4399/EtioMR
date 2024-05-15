@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"20",20766260,"rs11698059","C","T",1.13577507932e-07,0.679672521031,0.12815446993399,89,"Classical monocyte#RALGAPA2",TRUE,"reported","doTwJR",NA

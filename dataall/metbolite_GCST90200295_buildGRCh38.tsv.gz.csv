@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,111235631,C,T,0.144701,0.188854,0.0219253,7.08544e-18,rs12206654,8221,Gamma-glutamyltyrosine levels,TRUE,reported,M2hf9A
+16,71591928,C,G,0.0149847,0.415012,0.0629792,4.40824e-11,rs150851429,8221,Gamma-glutamyltyrosine levels,TRUE,reported,M2hf9A
+22,24599701,G,A,0.373356,-0.0965236,0.0158847,1.22829e-09,rs2006092,8221,Gamma-glutamyltyrosine levels,TRUE,reported,M2hf9A

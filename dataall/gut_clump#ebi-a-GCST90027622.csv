@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,38684201,-0.104541,0.021694,1.44374e-06,7738,ebi-a-GCST90027622,rs6531656,T,C,0.816578,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+5,2853858,-0.154369,0.0309024,5.87205e-07,7738,ebi-a-GCST90027622,rs903246,C,T,0.0800443,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+12,92697277,-0.105977,0.0212614,6.21312e-07,7738,ebi-a-GCST90027622,rs432569,C,T,0.193202,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+13,114996222,-0.172329,0.0321982,8.69201e-08,7738,ebi-a-GCST90027622,rs74242229,A,C,0.0742717,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+15,69392538,0.113802,0.0244733,3.31864e-06,7738,ebi-a-GCST90027622,rs34532802,T,G,0.141256,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+17,64154822,0.133636,0.0268096,6.20855e-07,7738,ebi-a-GCST90027622,rs4563069,A,G,0.10924,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+17,32160735,0.0866011,0.0178897,1.29286e-06,7738,ebi-a-GCST90027622,rs1873471,C,G,0.537477,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+18,10344856,0.0927838,0.0192897,1.50911e-06,7738,ebi-a-GCST90027622,rs206592,C,T,0.291056,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd
+19,41932828,0.116848,0.0240815,1.22107e-06,7738,ebi-a-GCST90027622,rs45491295,A,G,0.140941,PWY.7328..superpathway.of.UDP.glucose.derived.O.antigen.building.blocks.biosynthesis,TRUE,reported,igd

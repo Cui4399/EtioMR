@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,50324217,rs7256281,G,A,0.0593,3.412e-09,0.010033,35363,0.27959,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,50777433,rs367731563,GAGAGAGAGAGAGACAG,GAGAGACAG,-0.1435,3.937e-15,0.018264,35353,0.06541,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,50791597,rs117288213,T,C,-0.1904,5.937e-19,0.02141,35354,0.04697,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,50858126,rs61752561,A,G,-0.152,3.982e-08,0.027678,35362,0.02757,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,50931371,rs1654546,C,T,-0.105,1.678e-08,0.018609,35359,0.06341,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,50953800,rs2739413,G,A,0.1887,6.331e-11,0.028872,35355,0.02538,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51026988,rs11673638,C,T,0.1001,4.091e-26,0.00947,35353,0.33304,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51030161,rs11669237,G,C,-0.4217,1e-200,0.006997,35352,0.3621,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51044518,rs2691230,A,T,-0.1002,1.386e-24,0.00979,35357,0.29419,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51065590,rs2691247,A,C,-0.452,2.417e-126,0.018904,35367,0.0582,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51071215,rs7253169,A,G,0.1936,3.822e-50,0.013002,35365,0.13627,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51071656,rs145396720,T,C,-0.2604,7.889e-16,0.032324,35365,0.01995,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51154343,rs273663,A,G,0.1717,3.51e-11,0.025923,35365,0.03076,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51164706,rs73053089,C,T,-0.273,2.205e-29,0.024257,35365,0.03577,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51168980,rs143914429,A,G,-0.1497,8.549e-09,0.026002,35364,0.02996,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13
+19,51179703,rs57285255,C,A,0.1729,1.294e-08,0.030403,35366,0.02271,KLK13_kallikrein_13,TRUE,reported,KLK13_kallikrein_13

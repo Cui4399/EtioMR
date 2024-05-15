@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",109524648,"rs1521901","A","T",2.71335986458e-06,1.33678818408,0.284944135326369,89,"NK#FOXO3",TRUE,"reported","73O9g5",NA
+"6",109528336,"rs58963394","C","A",4.14634303505e-06,1.3196291638,0.286632348982791,89,"NK#FOXO3",TRUE,"reported","73O9g5",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46405089,A,C,0.21613,0.223529,0.0194671,1.61763e-30,rs324420,7214,Linoleoyl ethanolamide levels,TRUE,reported,gerNTp

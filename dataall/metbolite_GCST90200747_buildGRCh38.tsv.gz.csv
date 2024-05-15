@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,9301302,T,G,0.057102,-0.151888,0.0330634,4.35147e-06,rs74613047,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+2,136180790,G,C,0.0222821,-0.247332,0.0516725,1.69685e-06,rs6737096,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+3,184391714,T,C,0.0718987,0.14064,0.0302134,3.24146e-06,rs79386316,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+5,29898154,A,C,0.0533154,-0.15688,0.0341935,4.47469e-06,rs139047949,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+5,72950455,T,C,0.538958,0.0707476,0.0153274,3.91651e-06,rs2666747,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+5,104075839,T,C,0.112293,0.114747,0.0244501,2.69068e-06,rs148214235,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+10,58793279,T,C,0.023135,0.235761,0.0514692,4.63601e-06,rs139721493,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+12,6300353,T,C,0.0187271,-0.264219,0.0565712,3.00386e-06,rs141544323,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+12,92148278,A,T,0.0237183,0.231138,0.0505603,4.84151e-06,rs182535564,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+13,69314269,T,C,0.0329448,0.202297,0.0432136,2.8502e-06,rs112368051,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO
+15,54522998,G,C,0.714501,0.0841896,0.0173074,1.14824e-06,rs572593,8184,Adenosine 5'-monophosphate (AMP) to phosphate ratio,TRUE,reported,IbgAJO

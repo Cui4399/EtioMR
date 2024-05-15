@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,34890247,-0.294388,0.059051,6.186e-07,7738,ebi-a-GCST90027563,rs2078597,G,A,0.10434,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd
+7,105312606,0.345903,0.0714976,1.31172e-06,7738,ebi-a-GCST90027563,rs147911740,A,G,0.0662413,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd
+9,13608357,-0.164629,0.0354734,3.46889e-06,7738,ebi-a-GCST90027563,rs10429455,C,G,0.51264,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd
+11,90954660,-0.178111,0.0359808,7.41464e-07,7738,ebi-a-GCST90027563,rs7125672,G,A,0.562181,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd
+12,108292384,0.396267,0.0792925,5.80671e-07,7738,ebi-a-GCST90027563,rs12821396,T,C,0.0510083,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd
+13,24754695,0.416083,0.0871847,1.82016e-06,7738,ebi-a-GCST90027563,rs34838879,G,A,0.0559422,PWY.5920..superpathway.of.heme.biosynthesis.from.glycine,TRUE,reported,igd

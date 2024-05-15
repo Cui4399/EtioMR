@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,16736802,rs61842358,G,A,-0.1363,1.14e-08,0.023877,35363,0.02958,VIM_Vimentin,TRUE,reported,VIM_Vimentin
+10,16904820,rs796667,T,G,-0.0763,2.989e-21,0.008063,35365,0.42958,VIM_Vimentin,TRUE,reported,VIM_Vimentin
+10,17229207,rs55877356,C,G,0.1414,1.162e-09,0.023236,35361,0.02972,VIM_Vimentin,TRUE,reported,VIM_Vimentin
+10,17285085,rs359285,A,G,-0.0565,8.183e-11,0.008696,35360,0.29961,VIM_Vimentin,TRUE,reported,VIM_Vimentin
+10,17294958,rs398636,G,A,0.0494,6.695e-10,0.008002,35359,0.44055,VIM_Vimentin,TRUE,reported,VIM_Vimentin

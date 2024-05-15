@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,52532634,-0.0832324,0.0177472,2.73344e-06,7738,ebi-a-GCST90027570,rs12035670,T,C,0.332632,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+2,100179357,0.121055,0.0235185,2.64357e-07,7738,ebi-a-GCST90027570,rs67977127,G,C,0.157117,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+6,155724578,0.138656,0.0296705,2.96565e-06,7738,ebi-a-GCST90027570,rs10484603,G,A,0.105581,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+7,50251614,-0.0923215,0.0197904,3.08674e-06,7738,ebi-a-GCST90027570,rs4917011,T,C,0.223025,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+11,72339729,-0.164783,0.0359195,4.48466e-06,7738,ebi-a-GCST90027570,rs117176738,G,A,0.0555993,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+21,29874982,-0.168153,0.0359473,2.90015e-06,7738,ebi-a-GCST90027570,rs2831866,A,G,0.0718476,PWY.6125..superpathway.of.guanosine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd

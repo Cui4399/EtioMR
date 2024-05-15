@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"22",45676124,"rs2350627","G","T",2.28765321445e-06,0.695816791891,0.14722556017062,89,"Classical monocyte#UPK3A",TRUE,"reported","HfaBPP",NA

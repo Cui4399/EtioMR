@@ -1,0 +1,3 @@
+"beta.exposure","chr.exposure","samplesize.exposure","pval.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000895419,"10",462933,7.39997e-10,123052728,0.000145409,"ukb-b-2029","rs12413088","T","C",0.227606,"Treatment/medication code: finasteride || id:ukb-b-2029",TRUE,"reported","igd"
+-0.00069416,"19",462933,4.70002e-08,32104979,0.000127049,"ukb-b-2029","rs11084596","C","T",0.384353,"Treatment/medication code: finasteride || id:ukb-b-2029",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,55832425,C,T,0.26937,0.0955441,0.0170462,2.08252e-08,rs12443580,8285,Methyl-4-hydroxybenzoate sulfate levels,TRUE,reported,KcLqXP

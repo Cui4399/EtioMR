@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,99494729,rs10633389,TTTTTA,T,0.2058,1.42e-23,0.020566,35359,0.03833,ARPC1B_ARC1B,TRUE,reported,ARPC1B_ARC1B
+7,99963938,rs55938707,GTAAT,TTAAT,0.1224,2.643e-13,0.016741,35359,0.05874,ARPC1B_ARC1B,TRUE,reported,ARPC1B_ARC1B

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,65072617,rs140675894,C,T,0.2954,7.182e-10,0.047939,35365,0.00778,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M
+11,65624786,rs79499090,T,G,-0.1329,2.458e-08,0.023833,35366,0.03258,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M
+11,65839924,rs142288669,T,C,-0.0947,5.291e-14,0.012586,35366,0.12579,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M
+11,66001688,rs2277305,C,G,0.5362,4.075e-78,0.028658,35366,0.02128,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M
+11,66032327,rs35671541,T,TA,0.0706,1.143e-09,0.011597,35366,0.15105,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M
+11,66860549,rs148024674,A,G,0.3481,3.366e-15,0.044195,35363,0.00888,CST6_Cystatin_M,TRUE,reported,CST6_Cystatin_M

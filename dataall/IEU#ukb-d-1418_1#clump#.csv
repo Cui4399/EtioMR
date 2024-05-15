@@ -1,0 +1,4 @@
+"pos.exposure","beta.exposure","samplesize.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+87056289,-0.00566617,360806,"5",3.00898e-08,0.00102258,"ukb-d-1418_1","rs72783775","A","G",0.0859741,"Milk type used: Full cream || id:ukb-d-1418_1",TRUE,"reported","igd"
+47606483,-0.00363611,360806,"11",1.41694e-09,0.000600642,"ukb-d-1418_1","rs11605348","A","G",0.34996,"Milk type used: Full cream || id:ukb-d-1418_1",TRUE,"reported","igd"
+53842908,-0.00399169,360806,"16",6.52229e-12,0.000581203,"ukb-d-1418_1","rs12149832","A","G",0.411865,"Milk type used: Full cream || id:ukb-d-1418_1",TRUE,"reported","igd"

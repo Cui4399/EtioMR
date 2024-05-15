@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"8",2084053,"rs6558609","T","G",2.22345994368e-09,1.16920700934,0.195500641135037,89,"CD4_NAIVE#MYOM2",TRUE,"reported","EcPKE5",NA
+"8",2084393,"rs72621162","G","T",1.41780563263e-10,1.31084654763,0.20437374735844,89,"CD4_NAIVE#MYOM2",TRUE,"reported","EcPKE5",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61858734,A,G,0.318542,-0.0936123,0.015879,3.73866e-09,rs174603,8279,Docosahexaenoate DHA; 22:6n3 levels,TRUE,reported,lNi1yy

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,219286645,C,T,0.111358,0.190796,0.0240265,2.00443e-15,rs12080335,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+12,119769371,C,T,0.478527,0.086687,0.0151575,1.0709e-08,rs6490269,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+12,120615241,C,T,0.425047,-0.456399,0.0145624,1e-200,rs4767918,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+12,120866017,A,G,0.396276,0.645912,0.0140602,1e-200,rs12367037,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+12,121155216,T,C,0.11269,-0.132683,0.023817,2.53368e-08,rs1718125,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+12,121261299,T,C,0.0392529,0.266981,0.0391108,8.71566e-12,rs118170190,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+15,76193480,A,G,0.0220859,0.290665,0.0513468,1.50661e-08,rs147023777,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+16,89075082,T,C,0.0430811,0.324498,0.0375085,5.09067e-18,rs72817412,8172,Ethylmalonate levels,TRUE,reported,pPlLyS
+16,89114287,T,C,0.137714,-0.141427,0.0221992,1.88018e-10,rs8182228,8172,Ethylmalonate levels,TRUE,reported,pPlLyS

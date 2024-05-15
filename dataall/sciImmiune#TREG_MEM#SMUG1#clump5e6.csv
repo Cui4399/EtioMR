@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",54581614,"rs3087404","T","C",1.6814843678e-08,-0.859155187912,0.152280203347651,89,"TREG_MEM#SMUG1",TRUE,"reported","BanuFV",NA

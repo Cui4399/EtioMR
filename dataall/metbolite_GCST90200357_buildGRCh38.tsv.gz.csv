@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,59684093,C,G,0.0277572,-0.28053,0.0511072,4.04121e-08,rs17596628,6756,"Adenosine 3',5'-cyclic monophosphate (camp) levels",TRUE,reported,2ihvJe
+4,88107623,G,A,0.0905765,-0.187821,0.0290592,1.02372e-10,rs2054576,6756,"Adenosine 3',5'-cyclic monophosphate (camp) levels",TRUE,reported,2ihvJe
+13,95283173,A,G,0.69991,-0.13884,0.0182857,3.13038e-14,rs9516557,6756,"Adenosine 3',5'-cyclic monophosphate (camp) levels",TRUE,reported,2ihvJe
+16,16038475,G,A,0.293428,-0.105433,0.0184951,1.19378e-08,rs171583,6756,"Adenosine 3',5'-cyclic monophosphate (camp) levels",TRUE,reported,2ihvJe

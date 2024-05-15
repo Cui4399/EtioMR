@@ -1,0 +1,3 @@
+"pval.exposure","se.exposure","samplesize.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.69994e-09,0.00012033,462933,0.000701036,110229787,"1","ukb-b-8193","rs36209093","T","C",0.673817,"Cancer code, self-reported: bladder cancer || id:ukb-b-8193",TRUE,"reported","igd"
+4.79999e-09,0.000105838,462933,0.000619587,128719884,"8","ukb-b-8193","rs10094872","T","A",0.364222,"Cancer code, self-reported: bladder cancer || id:ukb-b-8193",TRUE,"reported","igd"

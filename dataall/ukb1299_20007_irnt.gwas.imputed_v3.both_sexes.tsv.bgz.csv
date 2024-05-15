@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+30871,-0.0308292,0.00630721,1.02411e-06,"1",212211284,"G","T","rs1578993",0.998986,0.668825,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"
+30871,-0.129511,0.0280071,3.77547e-06,"2",195848481,"G","A","rs139115129",0.892752,0.0128089,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"
+30871,0.0554067,0.0120066,3.95264e-06,"4",143185259,"A","T","rs75648055",0.952301,0.0688287,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"
+30871,0.156449,0.0307625,3.68396e-07,"10",91842208,"C","A","rs183620300",0.944465,0.00954058,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"
+30871,-0.0453886,0.00880644,2.56528e-07,"16",79171067,"G","A","rs57593957",0.983286,0.133178,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"
+30871,-0.0289759,0.00613442,2.32852e-06,"22",40043167,"CGGA","C","rs200288345",0.951077,0.478725,NA,"Interpolated Age of participant when cancer first diagnosed",TRUE,"reported","2PkqIx","Neoplasms","ukb1299"

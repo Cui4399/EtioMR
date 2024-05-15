@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,158993883,rs35731238,T,C,0.1155,1.583e-09,0.019136,35356,0.04364,IFI16_IP16,TRUE,reported,IFI16_IP16
+1,159090179,rs2518563,T,C,0.0911,7.153e-19,0.010268,35357,0.18512,IFI16_IP16,TRUE,reported,IFI16_IP16

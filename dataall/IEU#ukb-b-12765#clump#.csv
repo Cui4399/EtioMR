@@ -1,0 +1,4 @@
+"beta.exposure","samplesize.exposure","chr.exposure","se.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.000751292,463010,"2",0.000101165,1.10002e-13,27598097,"ukb-b-12765","rs4665972","C","T",0.604503,"Diagnoses - secondary ICD10: M10.99 Gout, unspecified (Site unspecified) || id:ukb-b-12765",TRUE,"reported","igd"
+-0.000611031,463010,"4",9.9576e-05,8.40001e-10,9920347,"ukb-b-12765","rs10805346","C","T",0.429666,"Diagnoses - secondary ICD10: M10.99 Gout, unspecified (Site unspecified) || id:ukb-b-12765",TRUE,"reported","igd"
+0.00087471,463010,"4",9.87958e-05,8.49963e-19,89068738,"ukb-b-12765","rs2725245","A","G",0.468713,"Diagnoses - secondary ICD10: M10.99 Gout, unspecified (Site unspecified) || id:ukb-b-12765",TRUE,"reported","igd"

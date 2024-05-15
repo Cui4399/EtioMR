@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,23047125,C,T,0.287106,0.0884833,0.0192158,4.13035e-06,rs7593862,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+4,180249379,T,C,0.0216199,-0.29112,0.0606833,1.60757e-06,rs149272613,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+4,182887202,G,A,0.038912,-0.210473,0.0448249,2.66018e-06,rs62337911,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+5,154783191,T,A,0.169783,-0.109661,0.0234168,2.8268e-06,rs11167700,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+6,157374474,G,A,0.867047,0.123184,0.0258144,1.82477e-06,rs2749675,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+9,9059545,A,G,0.854157,0.115581,0.0253192,4.99551e-06,rs324498,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+9,25018686,T,A,0.0571139,0.173162,0.0376532,4.24806e-06,rs117746629,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+15,74735539,T,C,0.255244,0.0925819,0.0198372,3.05496e-06,rs2472297,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+18,12894289,A,G,0.266528,0.0959574,0.0199786,1.56307e-06,rs62095761,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no
+20,62833658,A,C,0.14737,-0.121021,0.0257748,2.66179e-06,rs2313588,6496,"2,3-dihydroxypyridine levels",TRUE,reported,Pay1no

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,75198732,rs9240,C,T,-0.0937,1.203e-31,0.008005,35377,0.42799,ZADH2_ZADH2,TRUE,reported,ZADH2_ZADH2

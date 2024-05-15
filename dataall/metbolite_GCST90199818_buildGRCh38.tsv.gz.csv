@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,198656401,G,A,0.349823,0.0732774,0.0160384,4.90331e-06,rs2182418,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+1,225628863,A,G,0.0881165,-0.129258,0.0272407,2.08487e-06,rs114444327,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+2,11946572,G,A,0.145289,-0.102848,0.0220057,2.95852e-06,rs2581076,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+5,9835391,C,T,0.0980488,0.122582,0.025606,1.69107e-06,rs10042053,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+7,32151985,G,A,0.0183492,0.274802,0.0573527,1.65585e-06,rs73104508,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+10,20092092,G,A,0.202701,-0.0933984,0.0191173,1.03148e-06,rs7474686,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+14,20286553,A,G,0.120364,0.115169,0.0234775,9.31824e-07,rs3209531,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+15,38522176,C,G,0.135528,0.109447,0.0234554,3.06845e-06,rs4923799,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+15,60344777,G,A,0.101174,0.121462,0.0259325,2.81656e-06,rs72744887,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+16,50386912,C,A,0.844115,-0.0991166,0.0215715,4.33187e-06,rs7186512,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+18,45681461,T,C,0.356042,-0.0775924,0.0159804,1.20094e-06,rs12964854,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv
+22,21724859,T,C,0.010479,0.378007,0.0750433,4.72422e-07,rs117787070,8211,Mannitol/sorbitol levels,TRUE,reported,IwjDNv

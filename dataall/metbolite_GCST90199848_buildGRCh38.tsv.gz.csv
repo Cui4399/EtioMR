@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,67365898,C,T,0.122379,0.249442,0.0226957,4.2355e-28,rs17806888,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj
+6,160073489,T,C,0.132859,-0.144503,0.0220526,5.65224e-11,rs2282140,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj
+9,129110943,A,G,0.710781,0.211671,0.0164302,5.60764e-38,rs3814492,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj
+13,47961693,T,C,0.124253,-0.124351,0.0225523,3.50972e-08,rs74991768,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj
+15,63116121,A,G,0.512212,-0.339543,0.0144974,2.60802e-121,rs4775623,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj
+16,16033378,A,G,0.611404,0.120633,0.0156965,1.52584e-14,rs2062541,8212,Succinylcarnitine levels,TRUE,reported,O7GzSj

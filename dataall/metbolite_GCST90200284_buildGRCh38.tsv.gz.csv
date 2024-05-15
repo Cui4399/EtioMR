@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,85509569,T,C,0.0362761,0.249672,0.0408669,1.00014e-09,rs28814123,8208,Erucate (22:1n9) levels,TRUE,reported,2VjUCk

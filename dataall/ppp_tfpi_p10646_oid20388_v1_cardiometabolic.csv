@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,186615473,rs146492209,T,G,0.24851,1.13788926434664e-12,0.0349389,33541,0.0132996,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,186858392,rs1376625,A,G,-0.114005,1.02754298811781e-48,0.00777218,33541,0.31558,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187187771,rs149895919,A,G,-0.21809,3.47856401530423e-13,0.0299803,33541,0.0156082,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187210770,rs13427277,G,A,0.314259,1e-200,0.00780077,33541,0.314403,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187395079,rs116285616,T,G,-0.14834,3.23027874656228e-08,0.026832,33541,0.0186275,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187479035,rs116350534,G,T,-0.431916,4.00128973540695e-73,0.0238793,33541,0.0233744,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187545132,rs6749781,T,G,-0.1619,1.88234836010338e-44,0.0115754,33541,0.109868,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,187801142,rs76147410,C,A,-0.101633,4.71183419896179e-10,0.0163177,33541,0.0512954,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,188005044,rs116183959,C,G,0.0678267,7.05521089087048e-10,0.0110022,33541,0.124915,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis
+2,188457021,rs72911469,T,C,-0.075121,2.54038769231667e-11,0.0112608,33541,0.118191,tfpi_p10646_oid20388_v1_cardiometabolic,TRUE,reported,tfpi_p10646_oid20388_v1_cardiometabolic,chr2,187554505,cis

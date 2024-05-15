@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,98402882,A,G,0.0683807,-0.911323,0.0287202,1e-200,rs57564578,8265,"N6,N6-dimethyllysine levels",TRUE,reported,4pYmt5
+10,98413671,A,G,0.268992,-0.973341,0.0134537,1e-200,rs6584203,8265,"N6,N6-dimethyllysine levels",TRUE,reported,4pYmt5
+10,98716442,T,A,0.170998,0.172857,0.0203088,1.71755e-17,rs7100470,8265,"N6,N6-dimethyllysine levels",TRUE,reported,4pYmt5

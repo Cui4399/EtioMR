@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,110617268,rs7469095,G,T,-0.0654,7.088e-16,0.008105,35363,0.39608,MUSK_MUSK,TRUE,reported,MUSK_MUSK

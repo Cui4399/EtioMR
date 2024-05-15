@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,66846457,rs145451983,C,G,0.2281,8.414e-16,0.028342,35346,0.01989,SGK3_SGK3,TRUE,reported,SGK3_SGK3

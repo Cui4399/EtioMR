@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",88442147,"rs10202136","G","A",1.51608012146e-16,1.13697178874,0.137727425391903,89,"Classical monocyte#THNSL2",TRUE,"reported","XPKIKt",NA

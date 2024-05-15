@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,59539724,-0.145661,0.0311788,2.9858e-06,7738,ebi-a-GCST90027562,rs12087936,A,G,0.141332,PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate,TRUE,reported,igd
+1,157073611,0.199721,0.0414867,1.47867e-06,7738,ebi-a-GCST90027562,rs76525743,C,T,0.074339,PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate,TRUE,reported,igd
+3,116463392,0.108553,0.0227817,1.88951e-06,7738,ebi-a-GCST90027562,rs4831157,C,G,0.436833,PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate,TRUE,reported,igd
+17,9910617,-0.156926,0.0339806,3.8724e-06,7738,ebi-a-GCST90027562,rs61344468,G,A,0.124387,PWY.5918..superpathay.of.heme.biosynthesis.from.glutamate,TRUE,reported,igd

@@ -1,0 +1,3 @@
+"beta.exposure","pval.exposure","samplesize.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00127043,9.09997e-09,463010,0.000221081,123774706,"3","ukb-b-7932","rs13083500","C","T",0.8027,"PCT responsible for patient data: STOKE ON TRENT PCT || id:ukb-b-7932",TRUE,"reported","igd"
+0.000941304,3.09999e-08,463010,0.000169975,141435436,"7","ukb-b-7932","rs12533304","C","T",0.492324,"PCT responsible for patient data: STOKE ON TRENT PCT || id:ukb-b-7932",TRUE,"reported","igd"

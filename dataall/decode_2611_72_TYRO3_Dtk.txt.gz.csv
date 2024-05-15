@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,41549880,rs2588323,G,C,-0.1074,4.851e-36,0.008569,35364,0.33765,TYRO3_Dtk,TRUE,reported,TYRO3_Dtk
+15,41559568,rs141669463,T,C,-0.2175,8.95e-14,0.029173,35364,0.01971,TYRO3_Dtk,TRUE,reported,TYRO3_Dtk
+15,41709454,rs181337989,T,C,0.3673,1.246e-33,0.030389,35364,0.01815,TYRO3_Dtk,TRUE,reported,TYRO3_Dtk
+15,41903328,rs10622699,GTAAAAAAAAAA,GTAAAAAAAA,-0.0475,2.167e-08,0.008485,35361,0.35789,TYRO3_Dtk,TRUE,reported,TYRO3_Dtk

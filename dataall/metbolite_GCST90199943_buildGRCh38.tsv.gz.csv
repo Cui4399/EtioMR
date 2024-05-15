@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,55628606,G,A,0.0911977,0.136452,0.0263406,2.21525e-07,rs61776381,8225,2-piperidinone levels,TRUE,reported,lE78cK
+1,244299577,T,G,0.0415094,0.181063,0.0381197,2.03546e-06,rs78025799,8225,2-piperidinone levels,TRUE,reported,lE78cK
+6,158433471,C,T,0.0599829,0.156974,0.0321705,1.06379e-06,rs62438576,8225,2-piperidinone levels,TRUE,reported,lE78cK
+7,50945130,T,C,0.016131,0.28289,0.0605121,2.9405e-06,rs146762234,8225,2-piperidinone levels,TRUE,reported,lE78cK
+7,73636269,G,A,0.347597,-0.0741783,0.0159173,3.15874e-06,rs799169,8225,2-piperidinone levels,TRUE,reported,lE78cK
+10,73208971,A,T,0.0104116,-0.355498,0.0747408,1.97068e-06,rs117765026,8225,2-piperidinone levels,TRUE,reported,lE78cK
+10,133543735,C,A,0.815139,-0.0922477,0.0198123,3.22288e-06,rs1536826,8225,2-piperidinone levels,TRUE,reported,lE78cK
+10,133553286,C,T,0.0264379,-0.252133,0.0470032,8.13212e-08,rs7900208,8225,2-piperidinone levels,TRUE,reported,lE78cK
+13,37544607,G,C,0.0885372,-0.125593,0.0265538,2.24803e-06,rs12867616,8225,2-piperidinone levels,TRUE,reported,lE78cK
+13,97729053,A,G,0.0138889,0.316884,0.0651904,1.16858e-06,rs142128137,8225,2-piperidinone levels,TRUE,reported,lE78cK
+14,21554166,T,C,0.0296589,-0.207742,0.0449983,3.89955e-06,rs117915708,8225,2-piperidinone levels,TRUE,reported,lE78cK
+15,64661436,A,G,0.0554946,0.154361,0.0331409,3.19713e-06,rs55909141,8225,2-piperidinone levels,TRUE,reported,lE78cK

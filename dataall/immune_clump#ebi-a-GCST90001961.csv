@@ -1,0 +1,7 @@
+beta.exposure,pval.exposure,samplesize.exposure,chr.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.2986,7.71259e-19,2920,10,0.03345,97089991,ebi-a-GCST90001961,rs35025323,C,T,0.2147,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd
+-0.4818,1.38612e-14,2920,10,0.06227,97842115,ebi-a-GCST90001961,rs7079761,A,G,0.0557,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd
+0.3882,1.13899e-09,2920,10,0.06355,97293322,ebi-a-GCST90001961,rs190517052,C,T,0.0498,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd
+-0.6028,2.53688e-16,2920,10,0.07314,98103215,ebi-a-GCST90001961,rs113594239,T,C,0.037,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd
+-0.7175,7.96159e-170,2920,10,0.02414,97574689,ebi-a-GCST90001961,rs4075310,T,C,0.4729,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd
+-0.6486,3.04018e-22,2920,10,0.06633,95633120,ebi-a-GCST90001961,rs12778618,C,T,0.0457,CD25 on CD39+ CD4+ T cell || id:ebi-a-GCST90001961,TRUE,reported,igd

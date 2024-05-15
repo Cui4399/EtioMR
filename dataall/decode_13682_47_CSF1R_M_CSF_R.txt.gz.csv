@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,150085928,rs2237084,G,T,0.1262,7.922e-39,0.009683,35357,0.23739,CSF1R_M_CSF_R,TRUE,reported,CSF1R_M_CSF_R
+5,150109679,rs7736526,T,C,-0.0713,2.984e-16,0.008723,35356,0.345,CSF1R_M_CSF_R,TRUE,reported,CSF1R_M_CSF_R

@@ -1,0 +1,9 @@
+samplesize.exposure,se.exposure,pval.exposure,beta.exposure,pos.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2920,0.03411,4.01976e-20,0.3156,92408370,7,ebi-a-GCST90001926,rs445,T,C,0.1974,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.03337,4.90298e-08,0.1825,6891971,8,ebi-a-GCST90001926,rs4433170,G,C,0.2303,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.1013,2.05779e-11,-0.6814,55927801,17,ebi-a-GCST90001926,rs77771777,T,C,0.0188,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.08106,3.16665e-20,-0.7524,56385573,17,ebi-a-GCST90001926,rs138284624,T,C,0.0277,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.1144,9.40394e-09,-0.659,55643849,17,ebi-a-GCST90001926,rs139132726,T,C,0.014,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.1169,5.07809e-12,-0.8103,58777014,17,ebi-a-GCST90001926,rs142587417,A,G,0.0144,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.1549,4.89305e-09,-0.9089,61576413,17,ebi-a-GCST90001926,rs146130460,A,G,0.0079,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd
+2920,0.1607,1.12305e-11,-1.096,59945942,17,ebi-a-GCST90001926,rs147173440,T,G,0.0074,CD127 on granulocyte || id:ebi-a-GCST90001926,TRUE,reported,igd

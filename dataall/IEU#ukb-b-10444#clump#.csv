@@ -1,0 +1,8 @@
+"beta.exposure","pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000974331,1.09999e-10,"1",463010,154815257,0.000151147,"ukb-b-10444","rs6426987","A","C",0.348993,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+-0.00303575,2.60016e-63,"4",463010,111718067,0.000180749,"ukb-b-10444","rs6843082","A","G",0.803023,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+0.00128776,1e-14,"4",463010,111570223,0.000166463,"ukb-b-10444","rs1448818","C","A",0.251031,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+-0.00095445,9.69996e-09,"7",463010,116198466,0.000166424,"ukb-b-10444","rs10953822","C","G",0.251088,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+0.000951458,2.30001e-08,"10",463010,105481068,0.00017034,"ukb-b-10444","rs12220358","G","T",0.243731,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+0.0010618,6.4998e-11,"12",463010,114793240,0.000162571,"ukb-b-10444","rs883079","T","C",0.732061,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"
+0.00163361,2.99985e-17,"16",463010,73048367,0.000193381,"ukb-b-10444","rs67329386","T","C",0.166553,"Operative procedures - main OPCS: X50.1 Direct current cardioversion || id:ukb-b-10444",TRUE,"reported","igd"

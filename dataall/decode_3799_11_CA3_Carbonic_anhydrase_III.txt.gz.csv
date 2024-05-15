@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,84486359,rs192681919,G,A,0.3744,1.26e-21,0.039192,35348,0.0109,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,84491909,rs783784,T,C,0.1126,6.484e-10,0.018225,35348,0.05275,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,84953619,rs4266652,A,G,-0.0833,8.952e-19,0.009415,35349,0.24556,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85025569,rs36177145,GA,GAA,-0.0833,3.395e-19,0.009302,35349,0.25637,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85039332,rs36138417,G,A,0.1308,1.041e-11,0.019233,35349,0.04753,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85075187,rs146021316,T,A,0.1677,1.174e-22,0.01712,35349,0.06028,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85359743,rs72682933,C,T,-0.1636,2.077e-14,0.021397,35349,0.03994,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85438822,rs2072696,C,G,-0.1951,4.983e-97,0.009333,35349,0.24779,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85444717,rs113632260,T,C,0.2922,1.701e-26,0.027431,35349,0.02221,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,85466785,rs138672261,A,G,0.2223,2.537e-08,0.039905,35349,0.01017,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,86040885,rs77824867,C,G,0.0897,3.806e-09,0.015223,35348,0.07632,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,86243035,rs112118261,AAAAAAAAAAAAAAGT,AAAAAAAAAAAAGT,-0.1672,8.569e-10,0.027258,35349,0.02288,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III
+8,86389915,rs6471315,A,G,-0.1703,4.555e-10,0.027319,35349,0.02271,CA3_Carbonic_anhydrase_III,TRUE,reported,CA3_Carbonic_anhydrase_III

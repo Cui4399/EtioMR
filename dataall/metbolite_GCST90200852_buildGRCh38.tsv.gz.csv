@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,101192325,T,G,0.127264,-0.111827,0.0230118,1.17662e-06,rs74106750,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D
+5,122975066,T,C,0.155433,-0.0966578,0.021047,4.38046e-06,rs61165682,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D
+7,80953280,C,T,0.29755,0.0837652,0.0168778,6.94005e-07,rs10232072,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D
+15,89033454,T,C,0.0320109,0.209405,0.0432911,1.31726e-06,rs115841103,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D
+16,17540208,A,C,0.0632726,0.151254,0.031146,1.19602e-06,rs75039646,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D
+19,29449957,T,C,0.197643,0.0884412,0.0191138,3.70833e-06,rs28520801,8185,Adenosine 5'-monophosphate (AMP) to arginine ratio,TRUE,reported,3hRJ4D

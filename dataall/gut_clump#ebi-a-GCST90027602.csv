@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,109020032,-0.0947483,0.020739,4.90987e-06,7738,ebi-a-GCST90027602,rs479744,T,G,0.198548,PWY.6897..thiamin.salvage.II,TRUE,reported,igd
+8,128997208,-0.0923154,0.0185972,6.90764e-07,7738,ebi-a-GCST90027602,rs118155381,C,T,0.258527,PWY.6897..thiamin.salvage.II,TRUE,reported,igd
+10,9526946,-0.1307,0.0283073,3.88991e-06,7738,ebi-a-GCST90027602,rs74949229,A,G,0.0938701,PWY.6897..thiamin.salvage.II,TRUE,reported,igd
+12,99752344,0.0780639,0.0168937,3.82103e-06,7738,ebi-a-GCST90027602,rs10777971,G,T,0.359993,PWY.6897..thiamin.salvage.II,TRUE,reported,igd
+20,56141291,0.143385,0.0299685,1.71392e-06,7738,ebi-a-GCST90027602,rs28359554,C,T,0.08728,PWY.6897..thiamin.salvage.II,TRUE,reported,igd

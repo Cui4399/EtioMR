@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,42349233,rs77505241,C,T,-0.1112,2.507e-26,0.010475,35342,0.18653,TFF2_Trefoil_factor_2,TRUE,reported,TFF2_Trefoil_factor_2
+21,42376745,rs55652649,T,C,-0.1139,7.89e-09,0.019737,35335,0.04593,TFF2_Trefoil_factor_2,TRUE,reported,TFF2_Trefoil_factor_2
+21,42392245,rs225313,T,A,0.0555,8.219e-10,0.009038,35333,0.27726,TFF2_Trefoil_factor_2,TRUE,reported,TFF2_Trefoil_factor_2

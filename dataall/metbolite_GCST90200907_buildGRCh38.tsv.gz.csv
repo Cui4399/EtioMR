@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61822009,G,A,0.30108,0.284671,0.0172101,1.8621e-61,rs28456,7617,Retinol (Vitamin A) to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,oL6HDA
+11,116778201,C,G,0.868563,0.13873,0.0237306,5.03359e-09,rs964184,7617,Retinol (Vitamin A) to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,oL6HDA
+19,19268740,T,C,0.0735603,0.227033,0.0309628,2.26015e-13,rs58542926,7617,Retinol (Vitamin A) to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,oL6HDA
+19,44912921,T,G,0.226311,-0.180649,0.0191006,3.14587e-21,rs483082,7617,Retinol (Vitamin A) to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,oL6HDA

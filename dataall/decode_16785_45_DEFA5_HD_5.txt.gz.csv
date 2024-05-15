@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,7092535,rs188963550,A,C,-0.2611,2.417e-10,0.041234,35379,0.01121,DEFA5_HD_5,TRUE,reported,DEFA5_HD_5

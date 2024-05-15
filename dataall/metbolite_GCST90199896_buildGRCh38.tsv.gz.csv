@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,123167557,T,C,0.392371,-0.0909321,0.0156456,6.17392e-09,rs1343904,8230,Sulfate levels,TRUE,reported,Zbo8wp

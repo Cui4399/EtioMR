@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75751508,A,G,0.306481,-0.285023,0.0160379,1.16671e-70,rs77773255,8128,Hexanoylglutamine levels,TRUE,reported,1u1dc0
+6,25807375,G,A,0.558744,0.317579,0.014934,2.3644e-100,rs2817188,8128,Hexanoylglutamine levels,TRUE,reported,1u1dc0
+6,25877274,C,A,0.343076,0.101102,0.015971,2.44585e-10,rs3799367,8128,Hexanoylglutamine levels,TRUE,reported,1u1dc0
+8,9326154,G,A,0.908553,0.16299,0.0263883,6.54924e-10,rs4841133,8128,Hexanoylglutamine levels,TRUE,reported,1u1dc0

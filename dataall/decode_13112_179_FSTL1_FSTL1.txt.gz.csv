@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,120417570,rs1259292,T,C,-0.1,7.566e-27,0.009322,35353,0.26162,FSTL1_FSTL1,TRUE,reported,FSTL1_FSTL1
+3,120450401,rs1147707,T,C,-0.1507,1.602e-70,0.008488,35352,0.37455,FSTL1_FSTL1,TRUE,reported,FSTL1_FSTL1
+3,120557583,rs805014,G,C,0.0682,8.514e-09,0.011844,35351,0.14106,FSTL1_FSTL1,TRUE,reported,FSTL1_FSTL1

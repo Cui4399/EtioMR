@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160157828,C,T,0.163095,-0.14775,0.0206757,8.93157e-13,rs1564348,8223,"Cis 3,4-methyleneheptanoate levels",TRUE,reported,SPBebQ
+16,20480678,G,A,0.87931,-0.138604,0.0249747,2.86047e-08,rs9924150,8223,"Cis 3,4-methyleneheptanoate levels",TRUE,reported,SPBebQ

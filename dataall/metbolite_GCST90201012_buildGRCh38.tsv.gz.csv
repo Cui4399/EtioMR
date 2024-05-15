@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,107472612,C,A,0.0192331,0.321817,0.0549034,4.58653e-09,rs78177403,8200,3-methyl-2-oxovalerate to 3-methyl-2-oxobutyrate ratio,TRUE,reported,eLFfxW

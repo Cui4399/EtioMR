@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","beta.exposure","pos.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000160833,361194,-0.000910326,1339890,1.51422e-08,"5","ukb-d-C3_BRONCHUS_LUNG","rs36019446","G","A",0.527111,"Malignant neoplasm of bronchus and lung || id:ukb-d-C3_BRONCHUS_LUNG",TRUE,"reported","igd"
+0.00071267,361194,0.00405305,3720344,1.29289e-08,"8","ukb-d-C3_BRONCHUS_LUNG","rs115124906","G","T",0.0131197,"Malignant neoplasm of bronchus and lung || id:ukb-d-C3_BRONCHUS_LUNG",TRUE,"reported","igd"
+0.000208973,361194,-0.00132886,13018365,2.03348e-10,"8","ukb-d-C3_BRONCHUS_LUNG","rs11780856","T","C",0.181178,"Malignant neoplasm of bronchus and lung || id:ukb-d-C3_BRONCHUS_LUNG",TRUE,"reported","igd"

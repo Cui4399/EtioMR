@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,54160481,G,A,0.010158,0.349979,0.0761519,4.31095e-06,rs111273747,7988,Glucuronate levels,TRUE,reported,EmMjR7
+5,72190958,T,C,0.252229,-0.0832245,0.0178383,3.07873e-06,rs1561398,7988,Glucuronate levels,TRUE,reported,EmMjR7
+5,126449075,T,C,0.215529,0.0882028,0.0192251,4.47738e-06,rs62391856,7988,Glucuronate levels,TRUE,reported,EmMjR7
+8,37721648,G,A,0.0415035,0.185814,0.0381401,1.10542e-06,rs117910752,7988,Glucuronate levels,TRUE,reported,EmMjR7
+11,74381420,C,A,0.678023,0.0773381,0.0164678,2.64893e-06,rs10898981,7988,Glucuronate levels,TRUE,reported,EmMjR7
+12,56534866,T,C,0.0160574,-0.288782,0.0611897,2.36482e-06,rs189957470,7988,Glucuronate levels,TRUE,reported,EmMjR7
+12,108450527,C,T,0.220234,-0.0846334,0.0184289,4.38124e-06,rs6539427,7988,Glucuronate levels,TRUE,reported,EmMjR7
+14,101101893,T,A,0.426814,-0.071683,0.0156366,4.55502e-06,rs1959120,7988,Glucuronate levels,TRUE,reported,EmMjR7

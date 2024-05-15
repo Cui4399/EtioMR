@@ -1,0 +1,4 @@
+"se.exposure","pval.exposure","beta.exposure","chr.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000207513,6.89922e-11,0.00135337,"5",463010,56007339,"ukb-b-18953","rs7709971","A","G",0.161827,"Operative procedures - secondary OPCS: T86.2 Sampling of axillary lymph nodes || id:ukb-b-18953",TRUE,"reported","igd"
+0.000155685,2.39994e-16,-0.00127673,"10",463010,123346116,"ukb-b-18953","rs2981575","A","G",0.603433,"Operative procedures - secondary OPCS: T86.2 Sampling of axillary lymph nodes || id:ukb-b-18953",TRUE,"reported","igd"
+0.000178303,3.29989e-13,0.00129836,"16",463010,52599188,"ukb-b-18953","rs4784227","T","C",0.240212,"Operative procedures - secondary OPCS: T86.2 Sampling of axillary lymph nodes || id:ukb-b-18953",TRUE,"reported","igd"

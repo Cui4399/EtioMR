@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,213870367,A,G,0.139213,0.101358,0.0221088,4.55069e-06,rs55839541,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+1,233808502,G,A,0.388522,0.0737226,0.0158935,3.50859e-06,rs4649261,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+3,22383982,A,G,0.0185524,0.269587,0.0567278,2.0112e-06,rs146369127,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+4,26529176,T,G,0.837001,-0.0952962,0.0204074,3.01657e-06,rs4692540,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+4,128815359,G,C,0.0117339,-0.362577,0.0700538,2.27061e-07,rs191105317,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+5,1801312,C,G,0.891315,-0.114955,0.0245476,2.82755e-06,rs13176353,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+10,59568572,A,G,0.0306073,-0.217425,0.0447759,1.19873e-06,rs74334677,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+17,3503447,C,A,0.980903,-0.266191,0.0555632,1.66138e-06,rs11078452,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+17,50567176,A,G,0.454857,0.0702721,0.0153512,4.70302e-06,rs198542,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+19,5335243,T,C,0.0209548,-0.255879,0.0532644,1.55571e-06,rs72987107,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z
+19,40847202,C,T,0.576131,-0.076687,0.0152603,5.02725e-07,rs56113850,8242,3-indoxyl sulfate levels,TRUE,reported,zCPA9z

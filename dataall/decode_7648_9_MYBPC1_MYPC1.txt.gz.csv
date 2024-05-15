@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,101651385,rs3817552,G,C,-0.1064,2.019e-20,0.011489,35363,0.1536,MYBPC1_MYPC1,TRUE,reported,MYBPC1_MYPC1

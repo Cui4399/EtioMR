@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,169850394,A,G,0.0290376,-0.231096,0.0486828,2.06481e-06,rs114644345,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+2,177829668,C,G,0.0185649,-0.292971,0.0611867,1.6833e-06,rs140442472,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+4,57368134,A,G,0.0145833,-0.320897,0.0681851,2.52297e-06,rs190951316,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+6,85071412,G,A,0.0937543,0.130705,0.0280992,3.29449e-06,rs4279398,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+6,122635417,T,A,0.396995,0.0800759,0.0168657,2.0559e-06,rs6919740,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+7,50562191,G,A,0.346074,-0.0846514,0.0172459,9.17724e-07,rs6593010,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+11,109305320,A,G,0.0444261,0.195488,0.0399587,9.9683e-07,rs118121717,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+14,94963403,C,T,0.460055,0.0826835,0.0168347,9.03785e-07,rs10144811,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk
+16,82819052,T,C,0.0214296,-0.273225,0.0574232,1.95421e-06,rs117889737,7254,Tyramine O-sulfate levels,TRUE,reported,rCgNMk

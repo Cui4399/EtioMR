@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,114295233,rs73238029,C,A,0.0828,6.686e-20,0.009066,35367,0.24423,TIGIT_TIGIT,TRUE,reported,TIGIT_TIGIT

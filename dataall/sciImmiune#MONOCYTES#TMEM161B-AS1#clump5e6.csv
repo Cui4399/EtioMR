@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",87556339,"rs780405","A","G",2.331343846e-09,-0.896534611013,0.150101471698598,89,"Classical monocyte#TMEM161B-AS1",TRUE,"reported","ZAGF2r",NA

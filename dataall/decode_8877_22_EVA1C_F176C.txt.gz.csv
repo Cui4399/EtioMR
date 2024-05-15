@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,32513268,rs34028712,C,T,0.0694,6.757e-18,0.008052,35378,0.41258,EVA1C_F176C,TRUE,reported,EVA1C_F176C

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,134918620,C,G,0.0186415,0.309185,0.0558443,3.08494e-08,rs41286234,7862,Picolinoylglycine levels,TRUE,reported,TO9ZhJ
+16,89665830,T,C,0.469767,0.111824,0.0152871,2.57505e-13,rs258317,7862,Picolinoylglycine levels,TRUE,reported,TO9ZhJ

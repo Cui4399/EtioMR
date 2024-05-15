@@ -1,0 +1,5 @@
+"pos.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+55981102,0.000761123,"1",0.00432827,1.29631e-08,337159,"ukb-a-90","rs113636178","A","G",0.00811242,"Non-cancer illness code  self-reported: pernicious anaemia || id:ukb-a-90",TRUE,"reported","igd"
+32626348,0.000155799,"6",-0.000934121,2.02824e-09,337159,"ukb-a-90","rs28407950","T","C",0.243958,"Non-cancer illness code  self-reported: pernicious anaemia || id:ukb-a-90",TRUE,"reported","igd"
+59623378,0.000215859,"11",0.00120022,2.69656e-08,337159,"ukb-a-90","rs34324219","A","C",0.107361,"Non-cancer illness code  self-reported: pernicious anaemia || id:ukb-a-90",TRUE,"reported","igd"
+78361453,0.000485743,"15",0.00272305,2.07286e-08,337159,"ukb-a-90","rs117557926","G","C",0.0193491,"Non-cancer illness code  self-reported: pernicious anaemia || id:ukb-a-90",TRUE,"reported","igd"

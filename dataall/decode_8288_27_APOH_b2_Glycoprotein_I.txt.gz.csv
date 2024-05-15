@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,65255120,rs144332534,A,G,-0.1783,3.499e-14,0.023527,35362,0.03155,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,65446173,rs9889663,A,G,-0.1031,2.448e-09,0.017284,35361,0.05889,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,65878837,rs368848280,AAAAAAAAAAAAT,AAAAAAAAAAAT,-0.078,7.842e-14,0.010438,35370,0.18314,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,66200860,rs58948974,GACACACAC,GACAC,0.1751,6.827e-28,0.015994,35370,0.06792,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,66236120,rs377621139,T,A,0.3302,3.05e-53,0.021498,35369,0.03702,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,66308933,rs78357146,G,A,-1.8808,1e-200,0.033667,35368,0.01076,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I
+17,66690649,rs111481700,A,G,-0.2692,5.883e-31,0.023268,35369,0.03073,APOH_b2_Glycoprotein_I,TRUE,reported,APOH_b2_Glycoprotein_I

@@ -1,0 +1,3 @@
+"se.exposure","pos.exposure","beta.exposure","samplesize.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000605607,165474828,0.0033358,361194,"3",3.62786e-08,"ukb-d-R39","rs74775154","T","C",0.029552,"Diagnoses - main ICD10: R39 Other symptoms and signs involving the urinary system || id:ukb-d-R39",TRUE,"reported","igd"
+0.000392507,24571025,0.00218957,361194,"21",2.42879e-08,"ukb-d-R39","rs11909351","A","G",0.075362,"Diagnoses - main ICD10: R39 Other symptoms and signs involving the urinary system || id:ukb-d-R39",TRUE,"reported","igd"

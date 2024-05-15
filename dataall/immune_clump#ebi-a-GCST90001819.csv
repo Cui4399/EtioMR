@@ -1,0 +1,6 @@
+pval.exposure,pos.exposure,samplesize.exposure,se.exposure,chr.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1.34701e-08,112267500,3657,0.02931,1,0.1669,ebi-a-GCST90001819,rs197429,T,C,0.233,CD38 on transitional B cell || id:ebi-a-GCST90001819,TRUE,reported,igd
+5.23504e-10,14029370,3657,0.07246,4,-0.4513,ebi-a-GCST90001819,rs572542,T,C,0.0288,CD38 on transitional B cell || id:ebi-a-GCST90001819,TRUE,reported,igd
+9.69393e-15,15044338,3657,0.06859,4,-0.5334,ebi-a-GCST90001819,rs149852991,T,G,0.0321,CD38 on transitional B cell || id:ebi-a-GCST90001819,TRUE,reported,igd
+1.68694e-14,15956227,3657,0.1184,4,-0.912,ebi-a-GCST90001819,rs115062208,G,A,0.0115,CD38 on transitional B cell || id:ebi-a-GCST90001819,TRUE,reported,igd
+6.27047e-32,15915069,3657,0.08813,4,-1.046,ebi-a-GCST90001819,rs76112278,A,G,0.0194,CD38 on transitional B cell || id:ebi-a-GCST90001819,TRUE,reported,igd

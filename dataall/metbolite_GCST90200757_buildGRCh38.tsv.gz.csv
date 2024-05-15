@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.304778,0.45942,0.0154264,6.77628e-195,rs1047891,8167,Glycine to alanine ratio,TRUE,reported,cBGBsZ

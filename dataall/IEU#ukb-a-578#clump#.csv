@@ -1,0 +1,3 @@
+"samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337199,0.00915735,3.3556e-08,173364214,0.00165836,"1","ukb-a-578","rs140870374","C","A",0.0126839,"Diagnoses - main ICD10: N92 Excessive  frequent and irregular menstruation || id:ukb-a-578",TRUE,"reported","igd"
+337199,-0.00255652,3.64292e-08,30338842,0.000464191,"11","ukb-a-578","rs7947350","G","A",0.161821,"Diagnoses - main ICD10: N92 Excessive  frequent and irregular menstruation || id:ukb-a-578",TRUE,"reported","igd"

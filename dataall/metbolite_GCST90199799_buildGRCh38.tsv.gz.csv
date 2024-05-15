@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53216027,G,T,0.228101,-0.247742,0.0178196,6.09484e-44,rs1134688,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+2,210675783,A,C,0.309205,-0.102111,0.0163686,4.4263e-10,rs1047891,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+4,158727444,T,C,0.265345,-0.130268,0.0170435,2.1174e-14,rs55936281,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+5,36241853,C,T,0.409674,-0.0983186,0.0151683,9.06153e-11,rs74717771,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+5,132458606,A,G,0.19966,0.113989,0.0187933,1.31599e-09,rs2405528,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+8,49077607,T,A,0.538476,-0.218695,0.0150094,4.32255e-48,rs4873095,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+14,100296166,T,G,0.309956,0.0907431,0.0163776,3.01299e-08,rs12431901,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+15,76317894,T,C,0.086938,0.205695,0.0266881,1.28443e-14,rs78185702,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+16,16033378,A,G,0.611229,0.116396,0.015752,1.47625e-13,rs2062541,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+16,68270489,A,C,0.726541,-0.243374,0.0167221,5.5055e-48,rs8056893,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL
+19,12899706,G,A,0.548997,-0.308657,0.014854,6.64715e-96,rs8012,8238,Glutarylcarnitine (c5-dc) levels,TRUE,reported,XpnfuL

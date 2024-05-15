@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",17720615,"rs10458537","A","C",1.67192460883e-29,-1.30551144982,0.115750138312619,89,"Classical monocyte#PADI6",TRUE,"reported","yjXACl",NA
+"1",17784441,"rs201159900","T","TA",2.12415851955e-07,-0.6572418799,0.126681835236388,89,"Classical monocyte#PADI6",TRUE,"reported","yjXACl",NA

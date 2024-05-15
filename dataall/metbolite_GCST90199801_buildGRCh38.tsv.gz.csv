@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,164720091,T,C,0.358452,-0.0768843,0.0165322,3.31003e-06,rs2171691,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+2,106976654,G,A,0.697901,0.0800301,0.0174294,4.39691e-06,rs987987,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+3,21490268,C,A,0.753738,0.100637,0.0192323,1.67039e-07,rs161201,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+3,131589440,A,C,0.0280313,0.234344,0.0488071,1.57532e-06,rs114296583,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+5,32003783,A,C,0.624934,-0.0797304,0.0167492,1.93346e-06,rs112354254,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+7,99306410,G,C,0.069867,-0.143987,0.0313658,4.4202e-06,rs112822061,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+7,111446366,G,A,0.653867,-0.0796402,0.0171299,3.33216e-06,rs6960070,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+11,32189457,G,C,0.0153236,0.326164,0.065594,6.61048e-07,rs12290224,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+13,76664348,T,C,0.747515,-0.0851215,0.0183383,3.45487e-06,rs2621953,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5
+14,45371122,T,C,0.0137681,-0.313762,0.0686496,4.86595e-06,rs148013175,7682,Hydroquinone sulfate levels,TRUE,reported,haWhC5

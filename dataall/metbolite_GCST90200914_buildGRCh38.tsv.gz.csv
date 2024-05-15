@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.587002,0.0864331,0.0157837,4.34783e-08,rs1260326,8220,Tyrosine to pyruvate ratio,TRUE,reported,HxWTMi
+6,111218558,G,A,0.587354,-0.0989479,0.0159278,5.22277e-10,rs369361,8220,Tyrosine to pyruvate ratio,TRUE,reported,HxWTMi
+16,71591928,C,G,0.0147401,0.383877,0.0639965,1.99264e-09,rs150851429,8220,Tyrosine to pyruvate ratio,TRUE,reported,HxWTMi

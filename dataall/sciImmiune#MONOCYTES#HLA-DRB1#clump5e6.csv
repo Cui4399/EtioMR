@@ -1,0 +1,4 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",32481392,"rs112582516","A","T",1.20506823501e-15,-1.41652889297,0.176979100841915,89,"Classical monocyte#HLA-DRB1",TRUE,"reported","3WNpk5",NA
+"6",32524735,"rs78025613","A","C",6.19423909625e-23,-1.41037126702,0.143037168303601,89,"Classical monocyte#HLA-DRB1",TRUE,"reported","3WNpk5",NA
+"6",32609453,"rs28383456","C","T",4.2838774388e-11,-0.8049002727,0.122067197673421,89,"Classical monocyte#HLA-DRB1",TRUE,"reported","3WNpk5",NA

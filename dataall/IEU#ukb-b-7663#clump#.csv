@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","pos.exposure","chr.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+460376,-0.0045616,85625852,"3",2.29985e-12,0.000650427,"ukb-b-7663","rs7617323","T","G",0.627455,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"
+460376,-0.003559,125287997,"3",1.7e-08,0.00063051,"ukb-b-7663","rs1530654","T","G",0.469274,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"
+460376,-0.00778752,103146888,"4",3.10027e-11,0.00117247,"ukb-b-7663","rs35225200","C","A",0.083261,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"
+460376,0.00441862,97991825,"6",2.59998e-09,0.000741657,"ukb-b-7663","rs62422095","A","T",0.235835,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"
+460376,0.00420512,26180634,"6",4.70002e-09,0.000718065,"ukb-b-7663","rs62396185","C","G",0.260068,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"
+460376,0.0053641,111770013,"10",4.30002e-09,0.000913587,"ukb-b-7663","rs12571549","A","G",0.13761,"Types of physical activity in last 4 weeks: Strenuous sports || id:ukb-b-7663",TRUE,"reported","igd"

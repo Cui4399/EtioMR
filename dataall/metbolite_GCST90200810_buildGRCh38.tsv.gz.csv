@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,87844470,A,G,0.265598,-0.136558,0.0171459,1.65926e-15,rs4843715,8272,Alpha-ketoglutarate to kynurenine ratio,TRUE,reported,JLiQlk
+20,46608139,C,T,0.191077,0.171959,0.0194958,1.1414e-18,rs6124830,8272,Alpha-ketoglutarate to kynurenine ratio,TRUE,reported,JLiQlk

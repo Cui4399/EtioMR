@@ -1,0 +1,5 @@
+pos.exposure,samplesize.exposure,se.exposure,pval.exposure,beta.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+52161035,1464,0.04205,1.736e-10,0.2704,19,ebi-a-GCST90001951,rs12459503,C,T,0.7148,CD33 on CD66b++ myeloid cell || id:ebi-a-GCST90001951,TRUE,reported,igd
+51591138,1464,0.03799,2.61879e-12,0.2681,19,ebi-a-GCST90001951,rs78949787,T,C,0.5574,CD33 on CD66b++ myeloid cell || id:ebi-a-GCST90001951,TRUE,reported,igd
+51574038,1464,0.04316,1.04304e-12,-0.3103,19,ebi-a-GCST90001951,rs7351079,G,A,0.2702,CD33 on CD66b++ myeloid cell || id:ebi-a-GCST90001951,TRUE,reported,igd
+51727962,1464,0.0394,2.38781e-108,-0.9497,19,ebi-a-GCST90001951,rs3865444,A,C,0.2094,CD33 on CD66b++ myeloid cell || id:ebi-a-GCST90001951,TRUE,reported,igd

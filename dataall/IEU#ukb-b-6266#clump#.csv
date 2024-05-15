@@ -1,0 +1,4 @@
+"pval.exposure","pos.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.10015e-14,46214253,0.000248256,0.00187633,"7",462933,"ukb-b-6266","rs17172647","G","A",0.265939,"Operation code: cataract extraction/lens implant || id:ukb-b-6266",TRUE,"reported","igd"
+9.09913e-12,68941192,0.000365071,0.00249,"11",462933,"ukb-b-6266","rs79721202","G","T",0.095047,"Operation code: cataract extraction/lens implant || id:ukb-b-6266",TRUE,"reported","igd"
+8.9002e-22,19457268,0.000294065,0.00281989,"20",462933,"ukb-b-6266","rs4814857","G","A",0.159911,"Operation code: cataract extraction/lens implant || id:ukb-b-6266",TRUE,"reported","igd"

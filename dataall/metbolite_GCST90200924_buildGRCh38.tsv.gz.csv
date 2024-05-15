@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,104428668,G,A,0.0119827,-0.314843,0.0658207,1.72409e-06,rs149698990,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+1,164774010,A,G,0.583707,-0.0670101,0.0145607,4.18194e-06,rs12090754,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+4,173263113,T,C,0.0294587,-0.193608,0.0423248,4.77739e-06,rs72999543,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+5,19553625,T,G,0.0505044,0.164517,0.0332823,7.68931e-07,rs75803569,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+7,82786999,A,G,0.349304,-0.0701001,0.0150759,3.32257e-06,rs9655918,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+12,95202116,A,G,0.0982396,0.114369,0.0241494,2.18086e-06,rs10859848,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+16,26231990,G,A,0.35126,-0.0695087,0.0151862,4.71481e-06,rs8061003,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx
+20,61016278,T,C,0.481673,-0.0677084,0.0145372,3.19948e-06,rs6101181,8158,Alpha-tocopherol to glycerol ratio,TRUE,reported,IcLHXx

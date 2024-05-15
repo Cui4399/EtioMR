@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,48702888,rs516316,C,G,-0.0529,2.784e-10,0.008383,35365,0.3944,NUCB1_NUCB1,TRUE,reported,NUCB1_NUCB1
+19,48898187,rs3826817,T,C,-0.145,1.356e-56,0.009147,35367,0.26776,NUCB1_NUCB1,TRUE,reported,NUCB1_NUCB1
+19,48905769,rs111959800,A,G,-0.2772,1.134e-35,0.022235,35364,0.03514,NUCB1_NUCB1,TRUE,reported,NUCB1_NUCB1
+19,48920960,rs8103566,A,G,-0.1304,1.166e-11,0.019221,35366,0.04813,NUCB1_NUCB1,TRUE,reported,NUCB1_NUCB1

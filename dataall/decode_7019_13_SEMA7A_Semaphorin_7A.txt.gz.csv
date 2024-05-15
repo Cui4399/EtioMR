@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,74400071,rs78994380,A,C,-0.127,7.086e-22,0.013212,35359,0.11252,SEMA7A_Semaphorin_7A,TRUE,reported,SEMA7A_Semaphorin_7A

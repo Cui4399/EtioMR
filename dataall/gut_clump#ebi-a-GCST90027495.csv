@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,65848034,-0.104073,0.0222859,3.01342e-06,7738,ebi-a-GCST90027495,rs6672992,C,A,0.189469,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+3,69136061,0.128453,0.0260338,8.05193e-07,7738,ebi-a-GCST90027495,rs74768264,G,A,0.13271,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+4,101893381,0.0871736,0.0188008,3.5403e-06,7738,ebi-a-GCST90027495,rs2645383,C,T,0.334436,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+5,156490831,-0.151374,0.0327471,3.79114e-06,7738,ebi-a-GCST90027495,rs62381166,C,T,0.0770703,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+5,58085595,0.106359,0.021616,8.63694e-07,7738,ebi-a-GCST90027495,rs953621,A,C,0.198582,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+6,167001286,-0.0952307,0.0182225,1.73213e-07,7738,ebi-a-GCST90027495,rs3799603,C,T,0.360162,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+7,3662770,0.0833274,0.0181076,4.18871e-06,7738,ebi-a-GCST90027495,rs10951264,A,G,0.637001,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd
+16,50332152,0.0825122,0.0178171,3.63806e-06,7738,ebi-a-GCST90027495,rs66470361,T,C,0.402943,P108.PWY..pyruvate.fermentation.to.propanoate.I,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233759924,T,C,0.323711,0.538951,0.015038,1e-200,rs887829,8252,"Bilirubin degradation product, C16H18N2O5 (2) levels",TRUE,reported,WGiTHO

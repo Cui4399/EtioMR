@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,209034865,0.272226,0.059602,4.9381e-06,7738,ebi-a-GCST90027648,rs62194833,A,G,0.0677327,UBISYN.PWY..superpathway.of.ubiquinol.8.biosynthesis..prokaryotic.,TRUE,reported,igd

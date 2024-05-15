@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",160193853,"rs7759086","A","G",4.71182469114e-06,0.73787879271,0.161206547827547,89,"CD8_NAIVE#WTAP",TRUE,"reported","76c7mn",NA

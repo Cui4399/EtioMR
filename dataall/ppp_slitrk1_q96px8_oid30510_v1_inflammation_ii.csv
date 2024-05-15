@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+13,83794650,rs2876803,A,T,0.157284,4.15432051241859e-58,0.00978754,32981,0.17037,slitrk1_q96px8_oid30510_v1_inflammation_ii,TRUE,reported,slitrk1_q96px8_oid30510_v1_inflammation_ii,chr13,83882393,cis

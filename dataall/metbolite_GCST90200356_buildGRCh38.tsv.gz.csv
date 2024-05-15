@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22225320,C,T,0.518206,-0.0716936,0.0154271,3.3641e-06,rs2744738,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+3,84791842,T,C,0.341966,-0.075533,0.0161345,2.84827e-06,rs4856547,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+3,184391714,T,C,0.0720408,0.140012,0.0300711,3.22352e-06,rs79386316,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+10,58793279,T,C,0.0232845,0.23763,0.0511019,3.31737e-06,rs139721493,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+10,60980126,A,G,0.0258053,0.228085,0.0478722,1.89355e-06,rs118182258,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+12,116440229,G,C,0.305065,0.0813203,0.017234,2.37462e-06,rs2264772,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+13,69301289,A,G,0.0378131,0.188062,0.0403595,3.16698e-06,rs112614069,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma
+17,55212120,A,G,0.635972,-0.0751755,0.0160259,2.72042e-06,rs12941798,8218,Adenosine 5'-monophosphate (AMP) levels,TRUE,reported,pghcma

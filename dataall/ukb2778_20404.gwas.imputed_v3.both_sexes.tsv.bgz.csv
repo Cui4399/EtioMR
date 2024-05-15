@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+2647,0.18222,0.0398233,0.00000496695,"4",4628473,"C","T","rs2639724",0.954028,0.97372,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.153227,0.0303385,0.000000470775,"4",84748907,"C","T","rs77206416",0.925233,0.0443959,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.220813,0.0482024,0.00000484497,"9",27898109,"A","C","rs74996466",0.956729,0.0169313,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.170818,0.0369176,0.00000389035,"10",15990181,"A","G","rs4747254",0.808022,0.969779,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.225787,0.0489818,0.00000422739,"10",72132498,"G","A","rs117906139",1,0.0133792,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.0907447,0.0189205,0.0000017085,"12",124807662,"C","T","rs7969610",0.984158,0.116704,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"
+2647,0.128905,0.0263344,0.00000104317,"15",36760475,"T","C","rs2467339",0.997286,0.0644667,741,"Ever physically dependent on alcohol",TRUE,"reported","YfXM5b","Smoking and drinking habits","ukb2778"

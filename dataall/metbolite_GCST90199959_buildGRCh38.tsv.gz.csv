@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,133276354,T,C,0.780192,0.107849,0.0178786,1.61648e-09,rs600038,8229,O-sulfo-l-tyrosine levels,TRUE,reported,Riv112
+22,50625049,C,T,0.0751308,0.28547,0.0282603,5.44244e-24,rs6151429,8229,O-sulfo-l-tyrosine levels,TRUE,reported,Riv112

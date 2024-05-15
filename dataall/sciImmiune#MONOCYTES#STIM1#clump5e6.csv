@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",3918601,"rs4622250","C","T",4.73330927037e-06,-0.721131371708,0.15758046823591,89,"Classical monocyte#STIM1",TRUE,"reported","Bfaaml",NA

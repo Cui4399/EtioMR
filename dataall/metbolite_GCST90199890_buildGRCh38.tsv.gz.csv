@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,97599655,T,C,0.166528,-0.164086,0.0216295,3.29477e-14,rs7078003,7226,4-hydroxyglutamate levels,TRUE,reported,Avhput

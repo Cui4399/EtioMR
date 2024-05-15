@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",36785398,"rs10178002","A","G",6.29304659433e-07,0.823197705917,0.16523438812843,89,"Classical monocyte#FEZ2",TRUE,"reported","GumtXr",NA

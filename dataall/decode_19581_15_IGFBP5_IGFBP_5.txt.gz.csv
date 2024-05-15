@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,216679005,rs11575194,A,G,-0.1298,4.272e-09,0.0221,35358,0.0342,IGFBP5_IGFBP_5,TRUE,reported,IGFBP5_IGFBP_5
+2,216813276,rs7598172,T,G,-0.0504,2.501e-10,0.007966,35370,0.49896,IGFBP5_IGFBP_5,TRUE,reported,IGFBP5_IGFBP_5

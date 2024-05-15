@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,81453981,rs16909138,TT,TA,-0.1027,3.512e-18,0.011813,35351,0.14423,FABP4_FABPA,TRUE,reported,FABP4_FABPA

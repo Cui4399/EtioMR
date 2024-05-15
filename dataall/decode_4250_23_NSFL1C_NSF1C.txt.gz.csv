@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,1445748,rs9575,T,C,-0.0493,3.645e-09,0.008357,35373,0.37026,NSFL1C_NSF1C,TRUE,reported,NSFL1C_NSF1C

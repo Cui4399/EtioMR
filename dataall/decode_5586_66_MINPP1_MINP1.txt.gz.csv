@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,87515989,rs59980852,T,C,-0.0948,6.602e-31,0.008201,35357,0.43946,MINPP1_MINP1,TRUE,reported,MINPP1_MINP1

@@ -1,0 +1,7 @@
+"chr.exposure","beta.exposure","se.exposure","pval.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.00617678,0.00112767,4.30002e-08,461857,39948339,"ukb-b-18596","rs61779314","T","C",0.185979,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"
+"4",0.0109069,0.0016646,5.70033e-11,461857,103188709,"ukb-b-18596","rs13107325","T","C",0.074888,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"
+"7",0.00489027,0.000888064,3.69999e-08,461857,114071035,"ukb-b-18596","rs1476535","T","C",0.561666,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"
+"16",-0.0062022,0.00108869,1.2e-08,461857,71852833,"ukb-b-18596","rs62056490","A","C",0.794202,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"
+"17",0.00623155,0.00090179,4.79954e-12,461857,50259142,"ukb-b-18596","rs9889282","C","A",0.387918,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"
+"19",-0.00502316,0.000896123,2.1e-08,461857,10770305,"ukb-b-18596","rs7248205","T","C",0.600262,"Pain type(s) experienced in last month: Neck or shoulder pain || id:ukb-b-18596",TRUE,"reported","igd"

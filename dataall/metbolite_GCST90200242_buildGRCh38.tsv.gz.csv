@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,58480714,G,A,0.65724,-0.112302,0.0174383,1.19488e-10,rs4738684,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx
+10,45523383,G,A,0.242651,-0.111529,0.0192142,6.45538e-09,rs11239549,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx
+13,103065958,T,C,0.0505178,0.345887,0.0378278,6.03366e-20,rs55971546,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx
+13,103085397,A,G,0.0112029,-0.535691,0.0789064,1.12958e-11,rs144846334,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx
+17,30244910,T,C,0.334596,0.119943,0.0177118,1.27059e-11,rs12945042,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx
+19,47871693,A,C,0.155269,-0.187596,0.0228616,2.29141e-16,rs62129966,7157,Taurochenodeoxycholic acid 3-sulfate levels,TRUE,reported,V8dETx

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,99850238,rs55797991,T,C,-0.0691933,2.01117563971921e-10,0.0108786,33796,0.14108,dnajb14_q8tbm8_oid31434_v1_oncology_ii,TRUE,reported,dnajb14_q8tbm8_oid31434_v1_oncology_ii,chr4,99946726,cis

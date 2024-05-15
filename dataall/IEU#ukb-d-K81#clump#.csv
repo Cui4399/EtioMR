@@ -1,0 +1,3 @@
+"beta.exposure","pos.exposure","chr.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00333186,44069772,"2",1.70059e-20,361194,0.000359029,"ukb-d-K81","rs75331444","A","G",0.0650689,"Diagnoses - main ICD10: K81 Cholecystitis || id:ukb-d-K81",TRUE,"reported","igd"
+0.00142695,84980281,"16",7.54901e-09,361194,0.000246947,"ukb-d-K81","rs11149700","C","T",0.167519,"Diagnoses - main ICD10: K81 Cholecystitis || id:ukb-d-K81",TRUE,"reported","igd"

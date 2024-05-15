@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,206513930,rs12124627,G,C,0.0556122,1.53295709563031e-10,0.00868662,33942,0.225714,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,206622834,rs4845119,G,A,-0.0627023,3.11673587544529e-17,0.00742734,33942,0.401921,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,206801622,rs10746433,G,A,0.0631128,6.70965206461877e-17,0.00755657,33942,0.630586,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,206935894,rs41275378,T,C,-0.772047,4.46683592150969e-119,0.0332767,33942,0.0121923,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,206938130,rs17018064,C,T,-0.173625,9.05315591648484e-12,0.0254552,33942,0.020944,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,206938214,rs144642786,A,G,-0.247265,4.60044666393479e-20,0.0269557,33942,0.0187697,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,207065074,rs72741390,T,C,-0.0592404,1.11378150013466e-12,0.00832537,33942,0.261923,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,207399097,rs116059019,A,G,0.152035,3.8797165729369e-29,0.0135692,33942,0.0838298,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,207702192,rs7537669,C,T,0.0885558,2.27897730333356e-10,0.013965,33942,0.0771639,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis
+1,207929401,rs2485064,A,T,0.142106,5.56134708058099e-09,0.0243773,33942,0.023615,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,TRUE,reported,fcamr_q8wwv6_oid30332_v1_cardiometabolic_ii,chr1,206970657,cis

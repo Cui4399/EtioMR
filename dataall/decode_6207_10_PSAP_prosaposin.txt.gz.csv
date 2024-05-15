@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,71111576,rs71480567,ATTATTTATTTAT,A,0.0751,2.235e-08,0.013428,35372,0.10486,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71479689,rs57360357,T,C,-0.0494,6.768e-09,0.008522,35370,0.38277,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71546375,rs17708405,T,C,-0.1118,1.449e-09,0.01848,35372,0.05432,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71649564,rs7097006,G,A,-0.0838,4.238e-14,0.011094,35374,0.16628,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71667919,rs72815809,A,G,-0.14,1.285e-09,0.023067,35374,0.03262,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71707922,rs78303284,T,C,-0.3351,1.012e-08,0.058495,35373,0.00521,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71765292,rs146781648,G,A,0.2191,1.026e-14,0.028322,35375,0.02264,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71798371,rs41281334,A,G,0.2014,3.977e-34,0.016535,35375,0.06846,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71835464,rs1867981,T,C,-0.2727,1e-200,0.008165,35375,0.48491,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71886778,rs11000058,C,T,0.2786,1.869e-23,0.027916,35374,0.02242,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71890760,rs10762488,C,T,-0.2088,1.035e-131,0.00855,35374,0.35294,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71969740,rs4148912,T,C,-0.0978,8.602e-24,0.009725,35372,0.23799,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,71972661,rs4148922,G,T,-0.0808,1.618e-11,0.011994,35373,0.14104,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin
+10,72730145,rs149998018,C,G,-0.1876,3.758e-18,0.021598,35374,0.03791,PSAP_prosaposin,TRUE,reported,PSAP_prosaposin

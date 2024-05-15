@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,133726716,rs149838918,T,C,-0.169,4.223e-16,0.020782,35359,0.03489,TF_Transferrin,TRUE,reported,TF_Transferrin
+3,133760386,rs8177245,G,A,0.1451,4.842e-63,0.008658,35359,0.27013,TF_Transferrin,TRUE,reported,TF_Transferrin

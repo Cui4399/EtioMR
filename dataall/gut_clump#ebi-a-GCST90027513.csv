@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,154094886,0.105164,0.0219949,1.74185e-06,7738,ebi-a-GCST90027513,rs13080908,G,A,0.165509,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+3,127459715,-0.140131,0.0305756,4.581e-06,7738,ebi-a-GCST90027513,rs60152513,A,G,0.0814397,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+10,93813267,0.0842558,0.0183589,4.4457e-06,7738,ebi-a-GCST90027513,rs73314327,C,T,0.269055,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+14,22614034,0.152768,0.0321889,2.07491e-06,7738,ebi-a-GCST90027513,rs72686468,G,A,0.069932,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+16,57758163,-0.0973735,0.0189722,2.86003e-07,7738,ebi-a-GCST90027513,rs2923143,A,G,0.263102,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+16,80573300,0.0891387,0.0194977,4.83649e-06,7738,ebi-a-GCST90027513,rs4889160,A,G,0.228647,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd
+18,74348969,-0.0760629,0.0165964,4.5811e-06,7738,ebi-a-GCST90027513,rs2406211,C,T,0.416967,PRPP.PWY..superpathway.of.histidine..purine..and.pyrimidine.biosynthesis,TRUE,reported,igd

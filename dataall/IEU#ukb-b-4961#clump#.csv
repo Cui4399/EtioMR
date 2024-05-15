@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","pos.exposure","pval.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"4",0.108821,100239319,7.10003e-10,0.0176562,64949,"ukb-b-4961","rs1229984","C","T",0.970816,"Beer/cider intake || id:ukb-b-4961",TRUE,"reported","igd"
+"12",0.0670129,20413592,3.40001e-08,0.0121449,64949,"ukb-b-4961","rs184257876","T","C",0.071721,"Beer/cider intake || id:ukb-b-4961",TRUE,"reported","igd"

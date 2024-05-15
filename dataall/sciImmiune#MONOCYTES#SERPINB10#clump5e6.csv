@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"18",61542156,"rs28807688","T","A",3.34075428803e-20,1.04827683022,0.113851381695855,89,"Classical monocyte#SERPINB10",TRUE,"reported","588kfT",NA
+"18",61609617,"rs9807661","A","T",1.23903256295e-08,0.820723563094,0.144131562826878,89,"Classical monocyte#SERPINB10",TRUE,"reported","588kfT",NA

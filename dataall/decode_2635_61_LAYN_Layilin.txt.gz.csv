@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,111550211,rs4938792,C,T,-0.0523,3.294e-10,0.008322,35364,0.37645,LAYN_Layilin,TRUE,reported,LAYN_Layilin

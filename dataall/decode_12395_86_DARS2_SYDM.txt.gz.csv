@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,173638095,rs144883310,AGTGTGT,AGT,-0.2297,2.009e-20,0.024801,35343,0.02555,DARS2_SYDM,TRUE,reported,DARS2_SYDM
+1,173743538,rs1555267,TTAAAAAAAAAAAAC,TAAAAAAAAAAAAAC,0.0712,7.776e-18,0.008276,35343,0.33473,DARS2_SYDM,TRUE,reported,DARS2_SYDM
+1,173777520,rs7553539,T,C,0.064,5.702e-09,0.010987,35343,0.15062,DARS2_SYDM,TRUE,reported,DARS2_SYDM
+1,173839539,rs141298312,A,G,-0.2373,2.424e-25,0.022813,35343,0.02987,DARS2_SYDM,TRUE,reported,DARS2_SYDM

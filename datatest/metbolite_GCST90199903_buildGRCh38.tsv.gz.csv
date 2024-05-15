@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,102267552,T,C,0.0740808,0.159403,0.029046,4.06605e-08,rs13107325,8223,2-oxoarginine levels,TRUE,reported,xew49Z
+6,160143444,G,C,0.175386,-0.149448,0.0199591,7.0073e-14,rs662138,8223,2-oxoarginine levels,TRUE,reported,xew49Z

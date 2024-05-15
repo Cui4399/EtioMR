@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,57382697,rs117807508,A,G,-0.15,4.618e-14,0.019888,35170,0.04521,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57432752,rs11669412,C,T,-0.3299,1.227e-22,0.033693,35169,0.01502,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57533660,rs77780688,G,A,-0.1504,4.868e-12,0.021768,35169,0.03766,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57651769,rs12608549,T,C,-0.4388,5.666e-34,0.036112,35165,0.01271,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57655804,rs73940129,A,G,0.0799,1.318e-08,0.014058,35165,0.09661,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57746021,rs57990162,T,G,-0.1503,2.794e-34,0.012311,35165,0.1303,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,57914560,rs116932077,T,C,-0.2112,2.495e-08,0.037893,35164,0.01194,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58056687,rs4368258,C,T,-0.0508,2.682e-09,0.008538,35159,0.41592,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58283895,rs192988027,GG,AG,-0.708,2.622e-61,0.042856,35166,0.00868,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58297418,rs73058298,TG,TT,-0.1788,3.273e-09,0.030217,35159,0.01866,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58331084,rs55827758,T,C,-0.7367,1e-200,0.015776,35157,0.04786,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58494526,rs372204183,GAAAAAAAAAAAAAAAGGT,GAAAAAAAAAAAAAAGGT,0.0874,4.247e-17,0.010397,35161,0.20304,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58527517,rs73066245,T,G,0.0991,1.048e-11,0.014574,35161,0.09167,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58578696,rs62114673,A,G,-0.4611,9.489e-38,0.035905,35157,0.01318,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein
+19,58586766,rs117381784,T,C,0.7848,3.297e-15,0.099605,35158,0.00157,A1BG_Alpha_1B_glycoprotein,TRUE,reported,A1BG_Alpha_1B_glycoprotein

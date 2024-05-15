@@ -1,0 +1,4 @@
+"chr.exposure","samplesize.exposure","se.exposure","beta.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",462933,0.000169042,0.00110976,31580539,5.19996e-11,"ukb-b-8241","rs2471960","A","G",0.309642,"Treatment/medication code: prednisolone || id:ukb-b-8241",TRUE,"reported","igd"
+"6",462933,0.000205537,0.00220089,32607853,9.30037e-27,"ukb-b-8241","rs41269945","T","A",0.186276,"Treatment/medication code: prednisolone || id:ukb-b-8241",TRUE,"reported","igd"
+"6",462933,0.000199104,0.00117449,32618190,3.69999e-09,"ukb-b-8241","rs185774696","T","C",0.296706,"Treatment/medication code: prednisolone || id:ukb-b-8241",TRUE,"reported","igd"

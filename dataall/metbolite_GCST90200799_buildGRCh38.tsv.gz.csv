@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,7919282,A,G,0.127904,-0.156974,0.0333177,2.45997e-06,rs78116302,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+2,34252634,T,C,0.132502,-0.146495,0.0317544,3.96183e-06,rs72782986,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+3,12695732,C,A,0.694078,0.11366,0.0233961,1.1853e-06,rs13323506,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+3,118529435,C,T,0.0834729,0.174552,0.0380724,4.54575e-06,rs76012831,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+3,190869891,G,A,0.0350899,-0.275675,0.0592589,3.28662e-06,rs11929085,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+4,36809849,A,G,0.0272771,-0.325478,0.0658982,7.84825e-07,rs112916458,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+4,92889785,T,C,0.0304119,-0.287591,0.0621065,3.64578e-06,rs148306691,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+7,75790818,T,C,0.0905129,-0.17644,0.0375068,2.54841e-06,rs11534087,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+12,117793016,A,G,0.3297,-0.105569,0.0227698,3.54615e-06,rs11832035,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+15,45039491,G,C,0.882722,-0.170587,0.0341178,5.73474e-07,rs3874239,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+17,15026067,A,C,0.0379747,0.264533,0.0561666,2.47957e-06,rs75263840,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+17,49094443,G,A,0.0787306,0.192169,0.0395806,1.20304e-06,rs68044892,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+17,78485098,A,G,0.0963237,-0.179506,0.0357963,5.31266e-07,rs74001373,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE
+18,28416426,A,G,0.0131359,-0.444146,0.0946015,2.66717e-06,rs149510116,4195,Spermidine to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,TQrTmE

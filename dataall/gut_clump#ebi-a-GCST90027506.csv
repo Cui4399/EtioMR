@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,72481040,-0.107313,0.0224958,1.83916e-06,7738,ebi-a-GCST90027506,rs1486114,G,T,0.151385,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+7,95253449,-0.0794589,0.0166763,1.89065e-06,7738,ebi-a-GCST90027506,rs12669414,T,C,0.409285,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+9,28572620,0.170656,0.0345709,7.95793e-07,7738,ebi-a-GCST90027506,rs7856581,C,G,0.0624905,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+13,53375431,-0.0775464,0.0165278,2.70714e-06,7738,ebi-a-GCST90027506,rs2038820,C,T,0.418697,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+15,93092231,-0.0960215,0.020475,2.73609e-06,7738,ebi-a-GCST90027506,rs7181967,C,T,0.205872,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+16,26489529,-0.104456,0.0225693,3.68833e-06,7738,ebi-a-GCST90027506,rs12599680,T,C,0.157329,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd
+18,2641314,-0.0811856,0.0166367,1.06138e-06,7738,ebi-a-GCST90027506,rs7228238,T,C,0.41641,PENTOSE.P.PWY..pentose.phosphate.pathway,TRUE,reported,igd

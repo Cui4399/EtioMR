@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,84043269,0.137461,0.029716,3.73095e-06,7738,ebi-a-GCST90027635,rs12035973,A,G,0.171607,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+1,59551207,-0.167342,0.0360257,3.39946e-06,7738,ebi-a-GCST90027635,rs61545203,C,A,0.106004,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+1,48103139,-0.140708,0.024349,7.5235e-09,7738,ebi-a-GCST90027635,rs10159356,G,A,0.307959,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+3,167619583,0.205908,0.0439944,2.86418e-06,7738,ebi-a-GCST90027635,rs2420153,T,A,0.923444,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+7,155148917,-0.173724,0.0362716,1.67174e-06,7738,ebi-a-GCST90027635,rs3923652,C,A,0.104567,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+16,12628286,0.244418,0.0501257,1.08203e-06,7738,ebi-a-GCST90027635,rs8057488,T,C,0.0512434,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd
+18,71504308,-0.116121,0.025158,3.91823e-06,7738,ebi-a-GCST90027635,rs9965721,C,A,0.582177,PWY_REDCITCYC..TCA.cycle.VIII..helicobacter.,TRUE,reported,igd

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,179737144,-0.0876407,0.0190692,4.30814e-06,7738,ebi-a-GCST90027613,rs12693170,A,C,0.754084,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+4,6135321,0.101275,0.0216038,2.76134e-06,7738,ebi-a-GCST90027613,rs4624725,A,G,0.810342,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+8,5638670,0.134093,0.0281449,1.89444e-06,7738,ebi-a-GCST90027613,rs62485312,A,G,0.102164,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+8,74919480,0.168873,0.0359797,2.68491e-06,7738,ebi-a-GCST90027613,rs73335828,A,G,0.0554602,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+10,120780364,0.083789,0.016751,5.67296e-07,7738,ebi-a-GCST90027613,rs10886367,C,G,0.60289,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+11,133074627,0.0951344,0.0206508,4.08903e-06,7738,ebi-a-GCST90027613,rs11223389,T,C,0.217382,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+12,131433751,-0.108702,0.0238071,4.97267e-06,7738,ebi-a-GCST90027613,rs4074922,G,C,0.200294,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd
+14,35202345,-0.147612,0.0316442,3.08987e-06,7738,ebi-a-GCST90027613,rs7492664,T,G,0.0726264,PWY.7211..superpathway.of.pyrimidine.deoxyribonucleotides.de.novo.biosynthesis,TRUE,reported,igd

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,44538345,rs114488034,A,G,-0.2565,3.028e-18,0.029448,35361,0.01954,PRDX1_Peroxiredoxin_1,TRUE,reported,PRDX1_Peroxiredoxin_1
+1,44951512,rs452989,C,T,-0.0448,2.912e-08,0.008077,35366,0.47876,PRDX1_Peroxiredoxin_1,TRUE,reported,PRDX1_Peroxiredoxin_1
+1,45474170,rs115822551,A,C,-0.4001,2.194e-33,0.033231,35366,0.01475,PRDX1_Peroxiredoxin_1,TRUE,reported,PRDX1_Peroxiredoxin_1
+1,45488960,rs12047498,T,C,0.1088,8.489e-30,0.009596,35366,0.2258,PRDX1_Peroxiredoxin_1,TRUE,reported,PRDX1_Peroxiredoxin_1

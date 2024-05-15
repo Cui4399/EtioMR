@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",29093331,"rs2995533","A","G",1.06260043156e-06,-0.742430363859,0.152147458632606,89,"Classical monocyte#BAMBI",TRUE,"reported","EWjfey",NA

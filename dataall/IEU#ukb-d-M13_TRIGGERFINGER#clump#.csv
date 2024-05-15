@@ -1,0 +1,3 @@
+"pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+218134786,-0.00143733,8.86707e-09,361194,0.000249917,"2","ukb-d-M13_TRIGGERFINGER","rs62175240","T","G",0.142611,"Trigger finger || id:ukb-d-M13_TRIGGERFINGER",TRUE,"reported","igd"
+53910261,0.00128679,3.50833e-13,361194,0.000176913,"16","ukb-d-M13_TRIGGERFINGER","rs4784329","C","A",0.430298,"Trigger finger || id:ukb-d-M13_TRIGGERFINGER",TRUE,"reported","igd"

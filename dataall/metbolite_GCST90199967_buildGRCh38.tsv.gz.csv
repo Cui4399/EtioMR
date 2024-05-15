@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,18222607,A,G,0.0182755,-0.421347,0.0529724,1.80436e-15,rs4986782,8160,N-acetyltaurine levels,TRUE,reported,4IftxN
+10,16440482,G,C,0.477764,-0.212083,0.0142756,6.33349e-50,rs10795395,8160,N-acetyltaurine levels,TRUE,reported,4IftxN
+10,16513333,G,A,0.0820351,-0.309459,0.0259822,1.04455e-32,rs6602129,8160,N-acetyltaurine levels,TRUE,reported,4IftxN

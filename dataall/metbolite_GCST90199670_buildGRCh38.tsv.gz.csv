@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,86556257,C,G,0.0527863,0.163864,0.034701,2.3335e-06,rs114028922,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+3,6732966,G,T,0.0385131,0.19145,0.0401333,1.83911e-06,rs7626271,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+3,176551303,C,G,0.0344806,0.194631,0.0426242,4.96626e-06,rs114863573,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+8,13384089,A,G,0.0767671,-0.132657,0.0290533,4.97162e-06,rs79787801,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+9,8146661,G,A,0.0793087,0.13257,0.0283537,2.93147e-06,rs72704298,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+9,90417237,G,A,0.687099,0.0781469,0.0165713,2.40778e-06,rs2094632,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+13,32800725,T,G,0.0654711,-0.145908,0.0312604,3.04888e-06,rs11617909,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+16,57777675,C,T,0.782601,-0.0892336,0.0188596,2.229e-06,rs2967159,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i
+19,51063011,T,C,0.13774,-0.105885,0.0228046,3.43172e-06,rs1080669,8213,Iminodiacetate (IDA) levels,TRUE,reported,gRb88i

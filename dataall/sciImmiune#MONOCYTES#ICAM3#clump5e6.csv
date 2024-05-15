@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"19",10448020,"rs7408233","A","G",2.78474181003e-07,-0.825627714869,0.160707322248245,89,"Classical monocyte#ICAM3",TRUE,"reported","u11lcp",NA

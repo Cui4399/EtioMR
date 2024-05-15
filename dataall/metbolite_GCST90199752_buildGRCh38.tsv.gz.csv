@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,196242315,A,G,0.137223,0.130168,0.02097,5.38995e-10,rs56225736,8174,Epiandrosterone sulfate levels,TRUE,reported,7eVgCh
+4,68472593,G,A,0.408762,0.0958139,0.0149277,1.37599e-10,rs969114,8174,Epiandrosterone sulfate levels,TRUE,reported,7eVgCh
+7,99477415,C,T,0.0331943,-1.32238,0.0376602,1e-200,rs148982377,8174,Epiandrosterone sulfate levels,TRUE,reported,7eVgCh
+7,100431812,T,C,0.0119456,-0.422097,0.0664662,2.14553e-10,rs77227535,8174,Epiandrosterone sulfate levels,TRUE,reported,7eVgCh
+11,63147237,G,T,0.940629,-0.182458,0.0309108,3.57504e-09,rs1939768,8174,Epiandrosterone sulfate levels,TRUE,reported,7eVgCh

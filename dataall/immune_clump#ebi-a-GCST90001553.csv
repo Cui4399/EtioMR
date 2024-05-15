@@ -1,0 +1,4 @@
+beta.exposure,chr.exposure,se.exposure,pval.exposure,samplesize.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.1206,2,0.02163,2.66299e-08,3427,111610816,ebi-a-GCST90001553,rs10183338,T,G,0.1892,Naive CD8+ T cell %T cell || id:ebi-a-GCST90001553,TRUE,reported,igd
+,,,,,,,,,,,,,,
+0.3952,6,0.06626,2.713e-09,3427,31360602,ebi-a-GCST90001553,rs116562707,G,A,0.0191,Naive CD8+ T cell %T cell || id:ebi-a-GCST90001553,TRUE,reported,igd

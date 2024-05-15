@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,40847202,C,T,0.57613,-0.109573,0.0152194,6.04241e-13,rs56113850,8229,6-hydroxyindole sulfate levels,TRUE,reported,344MgL

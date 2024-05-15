@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+11,116530373,-0.0880492,0.0171235,2.71819e-07,7738,ebi-a-GCST90027453,rs552787,A,C,0.643558,BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis,TRUE,reported,igd
+13,27568096,0.083589,0.0169924,8.6894e-07,7738,ebi-a-GCST90027453,rs943781,T,C,0.449683,BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis,TRUE,reported,igd
+15,59071584,0.0950438,0.020597,3.9413e-06,7738,ebi-a-GCST90027453,rs28733370,G,C,0.192839,BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis,TRUE,reported,igd
+22,44801226,-0.156769,0.0341127,4.3145e-06,7738,ebi-a-GCST90027453,rs62228654,C,G,0.0668159,BRANCHED.CHAIN.AA.SYN.PWY..superpathway.of.branched.amino.acid.biosynthesis,TRUE,reported,igd

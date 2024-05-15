@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,39286683,rs62122869,T,C,0.06,2.108e-09,0.010018,35368,0.18248,IFNL3_IFN_lambda_3,TRUE,reported,IFNL3_IFN_lambda_3

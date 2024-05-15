@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,48923231,rs45520632,C,T,0.113,4.986e-09,0.019324,35378,0.04913,FTL_Ferritin_light_chain,TRUE,reported,FTL_Ferritin_light_chain

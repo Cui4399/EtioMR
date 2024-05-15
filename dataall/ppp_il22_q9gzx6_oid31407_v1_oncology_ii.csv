@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,68239456,rs10735947,A,C,0.0514748,7.70903469064431e-12,0.00752132,33777,0.627069,il22_q9gzx6_oid31407_v1_oncology_ii,TRUE,reported,il22_q9gzx6_oid31407_v1_oncology_ii,chr12,68253501,cis
+12,68265132,rs6581807,A,G,-0.0958006,1.50868995924997e-37,0.00748065,33777,0.37487,il22_q9gzx6_oid31407_v1_oncology_ii,TRUE,reported,il22_q9gzx6_oid31407_v1_oncology_ii,chr12,68253501,cis
+12,68365266,rs12298207,C,G,0.0644739,1.78340508251197e-09,0.0107164,33777,0.132196,il22_q9gzx6_oid31407_v1_oncology_ii,TRUE,reported,il22_q9gzx6_oid31407_v1_oncology_ii,chr12,68253501,cis

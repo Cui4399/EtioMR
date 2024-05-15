@@ -1,0 +1,4 @@
+"beta.exposure","samplesize.exposure","se.exposure","pos.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.130628,99071,0.0235712,134399016,2.99999e-08,"11","ukb-b-5090","rs73036397","A","G",0.008978,"Astigmatism angle (left) || id:ukb-b-5090",TRUE,"reported","igd"
+0.0259028,99071,0.00452718,60848224,1.09999e-08,"14","ukb-b-5090","rs1313237","C","A",0.394766,"Astigmatism angle (left) || id:ukb-b-5090",TRUE,"reported","igd"
+-0.0261545,99071,0.00450567,7458580,6.4e-09,"16","ukb-b-5090","rs4640203","G","C",0.546997,"Astigmatism angle (left) || id:ukb-b-5090",TRUE,"reported","igd"

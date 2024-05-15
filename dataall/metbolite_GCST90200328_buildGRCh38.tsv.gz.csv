@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,1189973,G,A,0.402059,0.102985,0.0148183,3.65554e-12,rs7719875,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS
+6,25879311,A,C,0.426112,-0.106399,0.0147816,6.1055e-13,rs487624,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS
+7,50520274,G,A,0.017396,0.491729,0.0549407,3.54877e-19,rs73695512,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS
+11,2189428,G,A,0.224161,0.217756,0.0173374,3.50608e-36,rs113945618,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS
+14,54869559,T,C,0.116285,-0.157359,0.0223804,2.0489e-12,rs7141433,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS
+22,19963748,A,G,0.514868,-0.0949509,0.0145009,5.83367e-11,rs4680,8258,3-methoxytyrosine levels,TRUE,reported,ZzwVYS

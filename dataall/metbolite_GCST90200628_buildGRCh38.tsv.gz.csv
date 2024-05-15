@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25814852,G,T,0.554527,-0.223387,0.0154355,1.81363e-47,rs1165195,8004,X-24556 levels,TRUE,reported,NJYhai
+10,95068566,C,T,0.281101,-0.159545,0.0171493,1.36113e-20,rs2071426,8004,X-24556 levels,TRUE,reported,NJYhai
+20,50365978,A,G,0.097535,-0.153998,0.026031,3.30005e-09,rs7266895,8004,X-24556 levels,TRUE,reported,NJYhai

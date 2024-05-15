@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,230141368,G,A,0.296269,0.112719,0.0238818,2.36025e-06,rs12145728,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+2,204492007,T,G,0.0427257,0.243547,0.0505018,1.41744e-06,rs71427752,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+2,234191055,C,A,0.0294827,0.305199,0.0611986,6.13162e-07,rs80332390,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+3,146176442,G,C,0.0193833,0.348256,0.0748886,3.31412e-06,rs112662853,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+4,62388443,T,C,0.755077,-0.110356,0.0240885,4.6213e-06,rs10029837,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+4,153551736,C,G,0.0931828,-0.172161,0.0358113,1.52871e-06,rs10028455,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+5,151588275,T,C,0.619451,-0.110503,0.0213048,2.13951e-07,rs766206,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+8,100846652,G,T,0.156001,-0.144745,0.0298869,1.27844e-06,rs7829662,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+8,123165176,T,C,0.0324277,-0.272503,0.0586029,3.31949e-06,rs896682,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+9,25210165,A,C,0.0228027,0.326658,0.0695777,2.6679e-06,rs149890985,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+10,24720083,G,A,0.0153914,0.386802,0.0839903,4.11825e-06,rs117215596,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+11,76677557,G,A,0.131736,-0.140507,0.0306101,4.42806e-06,rs10899251,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+16,49367890,G,C,0.10774,0.157712,0.0334321,2.38887e-06,rs952677,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+16,77313226,A,T,0.552557,0.0951871,0.0207655,4.56383e-06,rs2173751,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp
+19,34032190,C,T,0.0808676,-0.174011,0.0378666,4.31982e-06,rs62103136,4571,Adenosine 5'-diphosphate (ADP) to fructose ratio,TRUE,reported,yJExDp

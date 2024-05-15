@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"3",53649486,"rs1599230","A","G",4.04308083965e-06,0.671537438339,0.145696419846944,89,"Classical monocyte#CACNA1D",TRUE,"reported","VY7N8F",NA

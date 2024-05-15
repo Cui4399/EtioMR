@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,20489224,G,A,0.803359,0.155639,0.0189043,1.82551e-16,rs7500220,8268,3-hydroxyhexanoate levels,TRUE,reported,gPtbQH

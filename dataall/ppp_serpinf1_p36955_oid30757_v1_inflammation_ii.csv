@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,1716521,rs62090014,C,T,-0.127039,6.71676262028434e-09,0.0219114,33489,0.0287408,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1721035,rs78516214,C,A,0.115637,4.34410186012839e-11,0.0175425,33489,0.0469282,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1743690,rs117894712,A,G,-0.0949968,4.42731068995766e-09,0.0161907,33489,0.0546973,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1745270,rs75500393,T,G,-0.288256,2.94306598969901e-13,0.0395034,33489,0.0101072,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1756677,rs139805419,T,C,0.167262,7.81070076660847e-09,0.0289757,33489,0.0185753,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1762959,rs62088172,T,C,-0.282879,1e-200,0.00769371,33489,0.353305,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1766736,rs79424054,T,G,0.206876,2.19482551370072e-17,0.0243872,33489,0.0233808,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1774444,rs146763870,T,C,0.308158,3.80715010380178e-19,0.0344602,33489,0.0115379,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1897638,rs3744767,C,T,0.0734614,3.75491404609843e-17,0.0087243,33489,0.227418,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1905425,rs6503063,C,T,-0.0561348,1.27291674619356e-12,0.00790941,33489,0.35913,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis
+17,1914623,rs66900125,A,G,0.0532731,3.6399884030888e-12,0.00766466,33489,0.5353,serpinf1_p36955_oid30757_v1_inflammation_ii,TRUE,reported,serpinf1_p36955_oid30757_v1_inflammation_ii,chr17,1761924,cis

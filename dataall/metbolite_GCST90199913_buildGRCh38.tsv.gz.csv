@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,7815939,T,C,0.0143387,-0.315401,0.0655434,1.49352e-06,rs143501816,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+3,133681397,C,T,0.985946,-0.303758,0.065236,3.21965e-06,rs2718810,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+7,35287315,T,C,0.0642727,-0.158446,0.0315609,5.15837e-07,rs28580760,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+8,142542098,T,G,0.139642,-0.105975,0.0225197,2.52805e-06,rs34364916,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+11,59864800,G,A,0.0189037,0.275068,0.0563719,1.06338e-06,rs61903593,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+12,21197755,G,T,0.240203,-0.0836644,0.0178067,2.62109e-06,rs11045856,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+12,51256657,C,T,0.011567,0.369614,0.0717563,2.59155e-07,rs57598683,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+14,50056356,G,A,0.613967,-0.075243,0.0161533,3.19226e-06,rs941604,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+16,54481453,A,G,0.0204057,0.253193,0.0547098,3.69326e-06,rs79146877,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+17,17669673,T,A,0.519909,-0.0718038,0.0155924,4.12355e-06,rs897457,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN
+22,49966815,A,T,0.80198,0.0932879,0.0197163,2.22854e-06,rs35871519,8225,Docosadioate (C22-DC) levels,TRUE,reported,gFk6FN

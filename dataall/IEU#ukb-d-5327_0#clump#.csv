@@ -1,0 +1,5 @@
+"pos.exposure","beta.exposure","chr.exposure","se.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+243530479,-0.0938174,"1",0.0170711,5788,4.05882e-08,"ukb-d-5327_0","rs115785180","G","A",0.0103006,"Ever had laser treatment for glaucoma or high eye pressure: No || id:ukb-d-5327_0",TRUE,"reported","igd"
+161123132,-0.088748,"4",0.0145943,5788,1.27107e-09,"ukb-d-5327_0","rs144071752","A","G",0.0136899,"Ever had laser treatment for glaucoma or high eye pressure: No || id:ukb-d-5327_0",TRUE,"reported","igd"
+95777165,-0.0818322,"5",0.0138143,5788,3.32882e-09,"ukb-d-5327_0","rs13171644","T","C",0.0155166,"Ever had laser treatment for glaucoma or high eye pressure: No || id:ukb-d-5327_0",TRUE,"reported","igd"
+70177325,-0.126971,"7",0.0226233,5788,2.08867e-08,"ukb-d-5327_0","rs117551696","T","C",0.00546804,"Ever had laser treatment for glaucoma or high eye pressure: No || id:ukb-d-5327_0",TRUE,"reported","igd"

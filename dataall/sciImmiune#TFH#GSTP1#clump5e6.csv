@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",67374581,"rs1871043","T","C",6.3069802483e-12,-0.849261094598,0.12357314852534,89,"TFH#GSTP1",TRUE,"reported","bosaRE",NA

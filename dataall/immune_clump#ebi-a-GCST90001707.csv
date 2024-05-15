@@ -1,0 +1,9 @@
+pos.exposure,chr.exposure,samplesize.exposure,se.exposure,beta.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+40567196,22,1837,0.06471,-0.3995,8.163e-10,ebi-a-GCST90001707,rs113530150,T,C,0.0806,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+44300847,22,1837,0.03896,-0.3049,8.44501e-15,ebi-a-GCST90001707,rs11090614,G,A,0.2474,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+40175781,22,1837,0.1109,-0.6961,4.22902e-10,ebi-a-GCST90001707,rs150612106,A,G,0.025,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+41305795,22,1837,0.083,-0.5226,3.819e-10,ebi-a-GCST90001707,rs187315152,T,A,0.0501,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+43339331,22,1837,0.06459,-0.5625,6.77954e-18,ebi-a-GCST90001707,rs146069723,T,C,0.0762,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+42315371,22,1837,0.04742,-1.495,9.84011e-175,ebi-a-GCST90001707,rs73165129,T,C,0.0944,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+44349795,22,1837,0.07926,-0.4589,8.25201e-09,ebi-a-GCST90001707,rs139290596,G,A,0.0482,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd
+42605548,22,1837,0.05961,-0.6208,1.02306e-24,ebi-a-GCST90001707,rs5758649,T,C,0.0887,BAFF-R on IgD+ CD38- unswitched memory B cell || id:ebi-a-GCST90001707,TRUE,reported,igd

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,77083515,A,G,0.637639,0.102465,0.01622,2.66372e-10,rs4502705,8237,Arginine levels,TRUE,reported,pdsuJp
+6,131577068,C,T,0.160467,0.173255,0.0207597,7.07673e-17,rs2246012,8237,Arginine levels,TRUE,reported,pdsuJp
+10,98388596,G,C,0.353996,0.136551,0.0159986,1.39932e-17,rs2182168,8237,Arginine levels,TRUE,reported,pdsuJp

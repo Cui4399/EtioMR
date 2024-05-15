@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,95665877,rs2002330,T,C,0.1502,4.01e-08,0.027357,35382,0.02219,TCL1A_TCL1A,TRUE,reported,TCL1A_TCL1A
+14,95687951,rs370019376,CAAAAAAAAAA,CAAAAAAA,0.1089,6.368e-21,0.011605,35379,0.16846,TCL1A_TCL1A,TRUE,reported,TCL1A_TCL1A
+14,95696081,rs78986913,A,G,-0.453,3.308e-107,0.020597,35381,0.0414,TCL1A_TCL1A,TRUE,reported,TCL1A_TCL1A
+14,96137996,rs61985293,T,C,-0.1064,6.279e-12,0.01548,35379,0.07824,TCL1A_TCL1A,TRUE,reported,TCL1A_TCL1A

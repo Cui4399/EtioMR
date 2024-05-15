@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,114923302,rs190057257,T,A,0.1271,1.826e-08,0.022585,35369,0.03407,CADM1_Nectin_like_protein_2,TRUE,reported,CADM1_Nectin_like_protein_2
+11,115176758,rs61908509,A,G,-0.1179,1.256e-08,0.020713,35371,0.03819,CADM1_Nectin_like_protein_2,TRUE,reported,CADM1_Nectin_like_protein_2
+11,115194362,rs11215406,C,T,0.1517,1.135e-68,0.008662,35371,0.31628,CADM1_Nectin_like_protein_2,TRUE,reported,CADM1_Nectin_like_protein_2
+11,115211780,rs117407039,T,C,-0.1011,7.087e-09,0.017465,35371,0.05662,CADM1_Nectin_like_protein_2,TRUE,reported,CADM1_Nectin_like_protein_2
+11,115620722,rs113932007,TTT,TT,-0.0483,3.391e-09,0.008171,35378,0.4679,CADM1_Nectin_like_protein_2,TRUE,reported,CADM1_Nectin_like_protein_2

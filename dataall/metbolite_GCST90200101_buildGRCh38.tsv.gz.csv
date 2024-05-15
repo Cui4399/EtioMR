@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46923941,C,T,0.875081,0.201202,0.0235427,1.27152e-17,rs12132488,7837,Pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC) levels,TRUE,reported,yTKfq9
+1,151931670,T,A,0.608593,-0.100931,0.015718,1.35079e-10,rs2999545,7837,Pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC) levels,TRUE,reported,yTKfq9
+6,160122116,T,C,0.0708687,0.313369,0.0296991,4.99993e-26,rs12208357,7837,Pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC) levels,TRUE,reported,yTKfq9
+6,160154334,A,G,0.167542,0.207632,0.0205192,4.55332e-24,rs11753995,7837,Pimeloylcarnitine/3-methyladipoylcarnitine (C7-DC) levels,TRUE,reported,yTKfq9

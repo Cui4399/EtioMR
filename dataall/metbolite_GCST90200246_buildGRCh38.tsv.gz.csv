@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,16029602,T,A,0.61154,0.0877207,0.0154866,1.47619e-08,rs924135,8237,3-hydroxydecanoylcarnitine levels,TRUE,reported,euKE2i

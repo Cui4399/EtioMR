@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,53281430,-0.156463,0.0309462,4.28184e-07,7738,ebi-a-GCST90027638,rs143920868,T,C,0.0872441,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+1,47398496,-0.108664,0.0236707,4.41876e-06,7738,ebi-a-GCST90027638,rs1126742,G,A,0.138917,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+3,106791247,0.0842005,0.0183914,4.68857e-06,7738,ebi-a-GCST90027638,rs9811455,C,T,0.264994,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+6,32157639,-0.134211,0.0282674,2.05532e-06,7738,ebi-a-GCST90027638,rs169503,T,C,0.0894497,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+11,66690149,0.0943692,0.0202461,3.14514e-06,7738,ebi-a-GCST90027638,rs74459573,C,T,0.199396,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+13,36089568,-0.0999896,0.0215139,3.35714e-06,7738,ebi-a-GCST90027638,rs12871823,C,G,0.180112,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+14,73763641,-0.185296,0.0334145,2.93319e-08,7738,ebi-a-GCST90027638,rs148280750,T,C,0.070665,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd
+16,26948266,-0.125729,0.0269779,3.15522e-06,7738,ebi-a-GCST90027638,rs8045981,C,T,0.887513,PYRIDNUCSYN.PWY..NAD.biosynthesis.I..from.aspartate.,TRUE,reported,igd

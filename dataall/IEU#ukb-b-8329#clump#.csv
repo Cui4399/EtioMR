@@ -1,0 +1,3 @@
+"pval.exposure","chr.exposure","samplesize.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.09996e-10,"11",150642,0.00181196,0.0113257,68941192,"ukb-b-8329","rs79721202","G","T",0.095601,"Eye problems/disorders: Cataract || id:ukb-b-8329",TRUE,"reported","igd"
+2.80027e-14,"20",150642,0.00146032,0.0111108,19457268,"ukb-b-8329","rs4814857","G","A",0.161391,"Eye problems/disorders: Cataract || id:ukb-b-8329",TRUE,"reported","igd"

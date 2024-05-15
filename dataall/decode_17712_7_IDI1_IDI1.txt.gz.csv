@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,1039632,rs4880758,G,C,-0.1062,6.129e-11,0.016237,35177,0.06869,IDI1_IDI1,TRUE,reported,IDI1_IDI1

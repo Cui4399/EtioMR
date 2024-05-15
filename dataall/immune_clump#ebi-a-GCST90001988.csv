@@ -1,0 +1,6 @@
+chr.exposure,samplesize.exposure,beta.exposure,pos.exposure,pval.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,3629,0.4253,32384933,7.76426e-15,0.0545,ebi-a-GCST90001988,rs80032720,A,G,0.0733,HLA DR on CD14+ CD16- monocyte || id:ebi-a-GCST90001988,TRUE,reported,igd
+6,3629,0.2595,32802203,3.75405e-21,0.02732,ebi-a-GCST90001988,rs241432,T,G,0.5533,HLA DR on CD14+ CD16- monocyte || id:ebi-a-GCST90001988,TRUE,reported,igd
+6,3629,-0.6054,32561300,3.03529e-98,0.0279,ebi-a-GCST90001988,rs9270585,T,C,0.5834,HLA DR on CD14+ CD16- monocyte || id:ebi-a-GCST90001988,TRUE,reported,igd
+6,3629,-0.5252,32594188,1.20809e-68,0.02936,ebi-a-GCST90001988,rs9271768,G,A,0.4388,HLA DR on CD14+ CD16- monocyte || id:ebi-a-GCST90001988,TRUE,reported,igd
+12,3629,-0.3123,69744014,1.06194e-11,0.04579,ebi-a-GCST90001988,rs1800973,A,C,0.0798,HLA DR on CD14+ CD16- monocyte || id:ebi-a-GCST90001988,TRUE,reported,igd

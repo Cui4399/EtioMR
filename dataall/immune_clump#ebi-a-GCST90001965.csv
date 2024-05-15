@@ -1,0 +1,3 @@
+samplesize.exposure,beta.exposure,pos.exposure,se.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2850,0.1733,203467470,0.02875,2,1.88999e-09,ebi-a-GCST90001965,rs77762937,T,G,0.5089,FSC-A on monocyte || id:ebi-a-GCST90001965,TRUE,reported,igd
+2850,-0.2824,69744014,0.04984,12,1.60702e-08,ebi-a-GCST90001965,rs1800973,A,C,0.0844,FSC-A on monocyte || id:ebi-a-GCST90001965,TRUE,reported,igd

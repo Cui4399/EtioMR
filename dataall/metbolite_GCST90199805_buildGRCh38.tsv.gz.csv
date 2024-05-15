@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,76117091,C,T,0.20472,0.112834,0.018756,1.78867e-09,rs10255591,8223,Octadecanedioate levels,TRUE,reported,iylPRn
+12,21164988,A,G,0.339898,-0.110633,0.015898,3.42895e-12,rs4149034,8223,Octadecanedioate levels,TRUE,reported,iylPRn
+12,21208114,TTTC,T,0.155116,0.222789,0.0208315,1.07674e-26,rs151231052,8223,Octadecanedioate levels,TRUE,reported,iylPRn
+19,15871011,A,G,0.29695,-0.161683,0.0165605,1.62083e-22,rs55744319,8223,Octadecanedioate levels,TRUE,reported,iylPRn

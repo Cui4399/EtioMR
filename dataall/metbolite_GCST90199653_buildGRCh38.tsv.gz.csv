@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,118280459,A,G,0.064399,0.147692,0.031243,2.27645e-06,rs114128846,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+4,2260377,A,G,0.0406628,-0.189114,0.0384282,8.59963e-07,rs79682447,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+4,109734125,C,T,0.439682,-0.0728829,0.0154847,2.51668e-06,rs4698782,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+4,171881699,A,G,0.264501,-0.0932487,0.0176113,1.19123e-07,rs12331085,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+5,9684711,A,G,0.014061,0.312097,0.065423,1.83812e-06,rs147325198,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+6,159958678,T,G,0.0329258,0.200887,0.0425847,2.3894e-06,rs116926922,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+9,86776740,C,T,0.160135,0.0967565,0.0211482,4.75862e-06,rs10868484,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+13,104779166,A,G,0.0741304,0.13245,0.0289892,4.90168e-06,rs17583806,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+15,46615379,G,C,0.534699,0.0709062,0.0153401,3.79536e-06,rs2676379,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b
+18,7928036,A,C,0.0874939,0.130285,0.0272362,1.72261e-06,rs28704912,8271,1-myristoyl-2-palmitoyl-gpc (14:0/16:0) levels,TRUE,reported,UPG25b

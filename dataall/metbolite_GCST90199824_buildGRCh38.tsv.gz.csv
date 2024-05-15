@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,236120971,A,G,0.0500915,-0.198556,0.0352717,1.80908e-08,rs78237766,8280,4-vinylphenol sulfate levels,TRUE,reported,BE6OiC

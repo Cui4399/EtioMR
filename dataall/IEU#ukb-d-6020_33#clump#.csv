@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00620847,54007,0.0344521,2.8831e-08,48237858,"6","ukb-d-6020_33","rs143004498","A","G",0.0134055,"Completion status of test: Heart rate reached safety level || id:ukb-d-6020_33",TRUE,"reported","igd"
+0.00610191,54007,-0.0358632,4.19247e-09,10246285,"6","ukb-d-6020_33","rs6456302","C","T",0.987287,"Completion status of test: Heart rate reached safety level || id:ukb-d-6020_33",TRUE,"reported","igd"
+0.00203238,54007,0.0110841,4.95359e-08,29929483,"12","ukb-d-6020_33","rs10843505","C","T",0.129131,"Completion status of test: Heart rate reached safety level || id:ukb-d-6020_33",TRUE,"reported","igd"

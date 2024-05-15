@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247877971,A,T,0.0171893,-0.324141,0.069395,2.99803e-06,rs142455309,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+2,172915879,A,G,0.0538897,-0.19097,0.0400842,1.8959e-06,rs75058657,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+4,94170233,G,A,0.478209,-0.0855108,0.0179631,1.9325e-06,rs4438731,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+6,33330931,T,C,0.0397051,-0.2159,0.0457022,2.31176e-06,rs116362778,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+9,28483085,G,C,0.656374,0.090377,0.0192237,2.58466e-06,rs3920708,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+9,115154472,A,G,0.010228,0.409947,0.089319,4.439e-06,rs142897548,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+10,14453701,A,C,0.0277543,-0.256409,0.0545158,2.55873e-06,rs116927769,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+11,92410294,A,G,0.019034,-0.30428,0.0657747,3.72613e-06,rs77302004,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+12,13964197,G,C,0.102223,-0.138658,0.0301897,4.37171e-06,rs74662040,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+12,65514306,A,G,0.0105669,-0.409351,0.0872089,2.68024e-06,rs117317183,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+15,26176026,T,C,0.31547,0.0908272,0.0193888,2.80605e-06,rs2573693,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe
+18,40208175,T,C,0.0501425,0.211111,0.0412425,3.0754e-07,rs12969653,5986,1H-indole-7-acetic acid levels,TRUE,reported,3v6fLe

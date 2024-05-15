@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",1860541,"rs10848569","G","A",2.00972213006e-07,0.772020547186,0.148510154959397,89,"CD4_NAIVE#ADIPOR2",TRUE,"reported","1cGvFO",NA

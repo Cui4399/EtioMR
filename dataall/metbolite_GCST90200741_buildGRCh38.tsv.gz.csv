@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22215952,T,G,0.525775,-0.0777839,0.0155097,5.29811e-07,rs2505722,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+3,12865171,C,G,0.167572,-0.099088,0.0205433,1.41157e-06,rs34064963,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+5,25700246,A,C,0.367296,-0.0772999,0.0157926,9.84594e-07,rs10520920,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+9,101435909,T,A,0.139673,-0.102023,0.0222003,4.31538e-06,rs12337537,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+10,60949914,A,C,0.0258029,0.234975,0.0477935,8.81253e-07,rs117903959,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+12,116440229,G,C,0.304886,0.0791071,0.0172219,4.36089e-06,rs2264772,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+13,69314269,T,C,0.0328131,0.197683,0.0430755,4.4493e-06,rs112368051,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+14,55547360,A,G,0.0154538,-0.297718,0.0617948,1.45121e-06,rs139973286,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+16,69412623,A,G,0.424019,0.07513,0.0157989,1.98046e-06,rs153052,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+18,74407627,C,T,0.0178951,-0.272708,0.0574815,2.09264e-06,rs118103311,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+19,19944014,A,G,0.0823703,0.131971,0.0279666,2.37158e-06,rs6511061,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU
+20,51869898,C,A,0.375493,-0.0737028,0.0159619,3.88566e-06,rs4811252,8172,Adenosine 5'-monophosphate (AMP) to alanine ratio,TRUE,reported,2uNSBU

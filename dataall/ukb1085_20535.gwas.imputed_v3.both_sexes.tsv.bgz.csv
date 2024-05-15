@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+45540,0.0424932,0.00791938,8.10199e-08,"4",30821580,"T","A","rs41461646",0.99888,0.0325684,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,0.0157839,0.00337966,3.01662e-06,"6",55012979,"C","A","rs4605886",0.985632,0.238138,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,-0.0131433,0.00286901,4.63683e-06,"9",16339314,"G","T","rs4961698",0.968293,0.497622,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,-0.0258441,0.00519188,6.45449e-07,"9",28193733,"C","T","rs10968375",0.987003,0.0804858,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,0.0252898,0.0049084,2.58297e-07,"10",33861317,"T","C","rs17230995",0.989409,0.0934359,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,-0.0514352,0.0108047,1.93763e-06,"13",34227677,"A","G","rs61945501",0.923984,0.0193829,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"
+45540,0.0131034,0.00284654,4.17017e-06,"17",30956654,"G","C","rs321161",0.995546,0.462416,34528,"Waking too early",TRUE,"reported","KRiQq4","Lifestyle and behavior","ukb1085"

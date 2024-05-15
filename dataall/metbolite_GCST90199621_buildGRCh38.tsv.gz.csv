@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132396764,G,T,0.833702,0.199276,0.0204928,2.37787e-22,rs7705826,8192,Carnitine levels,TRUE,reported,97doWH
+5,151340348,G,A,0.0120372,-0.56909,0.0700396,4.46387e-16,rs149235996,8192,Carnitine levels,TRUE,reported,97doWH
+10,45526183,C,T,0.250122,-0.105448,0.0176162,2.15271e-09,rs10900223,8192,Carnitine levels,TRUE,reported,97doWH
+10,59707424,T,G,0.770118,0.443332,0.0179927,4.75726e-134,rs1171617,8192,Carnitine levels,TRUE,reported,97doWH

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,35758074,rs58561864,C,T,-0.0542412,8.48828592108431e-09,0.00941939,33966,0.141034,hspb6_o14558_oid21408_v1_oncology,TRUE,reported,hspb6_o14558_oid21408_v1_oncology,chr19,35757029,cis

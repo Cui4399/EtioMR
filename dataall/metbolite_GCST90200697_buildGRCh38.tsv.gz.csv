@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73273000,G,A,0.148491,-0.131111,0.0221496,3.23214e-09,rs7609407,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+2,73539537,T,C,0.131077,-0.198615,0.0229707,5.31167e-18,rs11689767,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+2,73641201,G,A,0.23407,0.642501,0.017019,1e-200,rs13538,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+10,98326337,C,T,0.0383681,-0.355039,0.0409251,4.12321e-18,rs12217666,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+10,98345621,A,G,0.360953,0.129877,0.0161375,8.40339e-16,rs112671552,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+10,98401089,C,G,0.313248,-1.0092,0.0124809,1e-200,rs7073632,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+10,98947010,T,C,0.0695857,-0.260919,0.0303969,9.18449e-18,rs74931036,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7
+10,98967481,C,G,0.0598095,-0.330478,0.0325652,3.37572e-24,rs111607250,7891,"N2-acetyl,N6,N6-dimethyllysine levels",TRUE,reported,BV7Yo7

@@ -1,0 +1,7 @@
+"chr.exposure","pval.exposure","pos.exposure","beta.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",4e-10,227243437,-0.0016563,0.000264888,462933,"ukb-b-2528","rs78794064","C","T",0.154543,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"
+"1",2.59998e-08,183954820,0.00142145,0.000255301,462933,"ukb-b-2528","rs10911481","A","G",0.169819,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"
+"7",1.40001e-09,46032948,0.00116936,0.000193223,462933,"ukb-b-2528","rs1723937","T","C",0.473637,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"
+"8",1.09999e-09,130723728,-0.00144686,0.000237305,462933,"ukb-b-2528","rs4733724","G","A",0.203773,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"
+"10",1.80011e-14,73760176,0.00149955,0.000195654,462933,"ukb-b-2528","rs7907616","G","A",0.597202,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"
+"12",2.90001e-08,23936398,0.00144568,0.00026063,462933,"ukb-b-2528","rs7977132","A","G",0.162277,"Operation code: spinal laminectomy || id:ukb-b-2528",TRUE,"reported","igd"

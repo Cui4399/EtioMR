@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,39501496,rs12906549,G,C,-0.0598,4.135e-09,0.010172,35372,0.20122,THBS1_Thrombospondin_1,TRUE,reported,THBS1_Thrombospondin_1

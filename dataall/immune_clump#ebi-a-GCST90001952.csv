@@ -1,0 +1,5 @@
+samplesize.exposure,pos.exposure,beta.exposure,pval.exposure,chr.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1569,51727962,-1.151,1.71396e-153,19,0.03884,ebi-a-GCST90001952,rs3865444,A,C,0.1896,CD33 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001952,TRUE,reported,igd
+1569,52097261,-0.3795,1.93999e-08,19,0.06721,ebi-a-GCST90001952,rs58301181,G,C,0.0848,CD33 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001952,TRUE,reported,igd
+1569,51588018,0.2625,2.56271e-12,19,0.03721,ebi-a-GCST90001952,rs62114147,T,C,0.5586,CD33 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001952,TRUE,reported,igd
+1569,51574038,-0.3677,9.03441e-18,19,0.04232,ebi-a-GCST90001952,rs7351079,G,A,0.2604,CD33 on Monocytic Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001952,TRUE,reported,igd

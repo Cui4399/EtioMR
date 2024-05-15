@@ -1,0 +1,11 @@
+beta.exposure,pos.exposure,chr.exposure,samplesize.exposure,se.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.6019,42605548,22,3657,0.04479,3.18493e-40,ebi-a-GCST90001717,rs5758649,T,C,0.0871,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.5628,43339331,22,3657,0.04773,1.57616e-31,ebi-a-GCST90001717,rs146069723,T,C,0.0756,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.5,39876838,22,3657,0.06715,1.20088e-13,ebi-a-GCST90001717,rs117086217,G,A,0.0343,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.5144,41305795,22,3657,0.05846,2.05779e-18,ebi-a-GCST90001717,rs187315152,T,A,0.0535,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.7405,40727723,22,3657,0.1046,1.70412e-12,ebi-a-GCST90001717,rs118137006,C,A,0.015,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.6424,44698304,22,3657,0.109,4.14897e-09,ebi-a-GCST90001717,rs189503542,A,T,0.0138,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-1.494,42315371,22,3657,0.03383,1e-200,ebi-a-GCST90001717,rs73165129,T,C,0.099,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.3298,42874781,22,3657,0.03584,5.84117e-20,ebi-a-GCST90001717,rs2142827,A,G,0.1416,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.3124,44297686,22,3657,0.0291,1.692e-26,ebi-a-GCST90001717,rs9614288,T,A,0.2346,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd
+-0.3847,39641412,22,3657,0.05918,9.08448e-11,ebi-a-GCST90001717,rs13058590,T,C,0.0468,BAFF-R on unswitched memory B cell || id:ebi-a-GCST90001717,TRUE,reported,igd

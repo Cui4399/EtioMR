@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","pos.exposure","se.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+65583,8.9553e-09,207193177,0.00282266,0.0162308,"1","ukb-a-354","rs901107","A","G",0.38685,"Headaches for 3+ months || id:ukb-a-354",TRUE,"reported","igd"
+65583,1.08518e-11,57526646,0.00281932,-0.0191599,"12","ukb-a-354","rs4759276","A","G",0.391755,"Headaches for 3+ months || id:ukb-a-354",TRUE,"reported","igd"

@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",0.0073635,164864490,2.94544e-08,361194,0.00132801,"ukb-d-is_female","rs2459340","C","A",0.730566,"Genetic sex || id:ukb-d-is_female",TRUE,"reported","igd"
+"5",0.034022,104435376,4.4918e-09,361194,0.00580072,"ukb-d-is_female","rs4571441","C","T",0.989767,"Genetic sex || id:ukb-d-is_female",TRUE,"reported","igd"

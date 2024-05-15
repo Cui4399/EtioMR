@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+12593,0.0837142,0.0179474,0.00000312674,"6",121717765,"C","T","rs12527395",0.990217,0.143574,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"
+12593,-0.188661,0.039892,0.0000022774,"8",133576789,"C","T","rs79089855",1,0.0247817,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"
+12593,0.238398,0.0492911,0.00000133687,"10",101246158,"C","T","rs61872663",1,0.0154432,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"
+12593,-0.075236,0.0159247,0.0000023319,"10",127811052,"A","C","rs1278304",0.993971,0.80075,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"
+12593,-0.109356,0.021858,0.000000572072,"13",95602580,"C","T","rs9590140",0.998348,0.0902451,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"
+12593,-0.0639938,0.0131958,0.00000125227,"14",33752832,"A","G","rs12884344",1,0.34707,NA,"Years of cough on most days",TRUE,"reported","aiyV0i","Respiratory system","ukb2466"

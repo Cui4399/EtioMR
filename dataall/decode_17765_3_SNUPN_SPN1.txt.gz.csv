@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,75183097,rs1009194,T,C,-0.055,1.791e-10,0.008623,35359,0.31404,SNUPN_SPN1,TRUE,reported,SNUPN_SPN1
+15,75426328,rs8028182,T,G,0.1519,1.376e-44,0.010843,35361,0.16573,SNUPN_SPN1,TRUE,reported,SNUPN_SPN1

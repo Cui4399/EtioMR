@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,109913248,rs79645118,C,T,0.101633,3.8053972500271e-17,0.0120722,33657,0.059025,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110042642,rs11580776,A,G,0.110187,2.60915572301413e-13,0.0150669,33657,0.0360625,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110135299,rs7518801,C,A,0.0389722,5.18322426417062e-12,0.00564777,33657,0.561919,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110299654,rs12034102,T,C,0.274861,1e-200,0.00666026,33657,0.23166,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110338810,rs2030013,C,G,0.217224,1e-200,0.0056378,33657,0.465056,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110489060,rs74117687,A,G,-0.0686639,1.5999263828686e-14,0.00894147,33657,0.122369,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110547688,rs12121337,A,G,0.20459,1.25660852007633e-17,0.0239353,33657,0.016099,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110573333,rs12030625,C,G,-0.0616061,5.37031796370253e-22,0.00639006,33657,0.286296,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110597410,rs74389724,G,A,0.168335,1.3085791612451e-27,0.01546,33657,0.033886,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis
+1,110629833,rs113216079,C,A,-0.0678327,2.08209240522012e-08,0.0121021,33657,0.05733,prok1_p58294_oid20543_v1_inflammation,TRUE,reported,prok1_p58294_oid20543_v1_inflammation,chr1,110451165,cis

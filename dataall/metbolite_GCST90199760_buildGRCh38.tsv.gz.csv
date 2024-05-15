@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,17527220,A,G,0.130484,-0.129695,0.0235791,3.78896e-08,rs73075157,8006,5-acetylamino-6-amino-3-methyluracil levels,TRUE,reported,dBOnEn
+8,18415371,A,G,0.773699,-0.383631,0.01834,3.69596e-97,rs1495741,8006,5-acetylamino-6-amino-3-methyluracil levels,TRUE,reported,dBOnEn
+15,74735539,T,C,0.250532,0.121476,0.0180871,1.86565e-11,rs2472297,8006,5-acetylamino-6-amino-3-methyluracil levels,TRUE,reported,dBOnEn

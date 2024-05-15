@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,2188737,A,G,0.236641,0.12698,0.0222221,1.10262e-08,rs10840516,5419,3-methoxytyramine sulfate levels,TRUE,reported,CeLhZa

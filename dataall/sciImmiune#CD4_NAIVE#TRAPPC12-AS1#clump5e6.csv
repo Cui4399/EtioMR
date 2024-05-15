@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",3481857,"rs4641971","G","T",4.85996283819e-15,-0.97013511942,0.123892105289176,89,"CD4_NAIVE#TRAPPC12-AS1",TRUE,"reported","9a6n6F",NA

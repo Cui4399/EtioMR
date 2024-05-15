@@ -1,0 +1,5 @@
+"beta.exposure","samplesize.exposure","chr.exposure","pval.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00168565,337199,"4",1.75606e-10,0.000264147,96116350,"ukb-a-596","rs140160653","A","C",0.0211448,"Diagnoses - main ICD10: Z80 Family history of malignant neoplasm || id:ukb-a-596",TRUE,"reported","igd"
+0.00708462,337199,"5",6.61668e-09,0.00122138,2421395,"ukb-a-596","rs10462758","A","G",0.00100534,"Diagnoses - main ICD10: Z80 Family history of malignant neoplasm || id:ukb-a-596",TRUE,"reported","igd"
+0.00553704,337199,"7",1.73213e-08,0.000982273,65305192,"ukb-a-596","rs185027751","G","T",0.0020003,"Diagnoses - main ICD10: Z80 Family history of malignant neoplasm || id:ukb-a-596",TRUE,"reported","igd"
+0.00226371,337199,"17",1.06316e-08,0.000395721,4705898,"ukb-a-596","rs150828132","A","G",0.010261,"Diagnoses - main ICD10: Z80 Family history of malignant neoplasm || id:ukb-a-596",TRUE,"reported","igd"

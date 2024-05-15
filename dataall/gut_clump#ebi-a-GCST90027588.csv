@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,9037546,-0.108493,0.0222817,1.1207e-06,7738,ebi-a-GCST90027588,rs6673038,A,G,0.313532,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+1,161574305,-0.118268,0.0254197,3.27763e-06,7738,ebi-a-GCST90027588,rs35989200,G,A,0.222871,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+4,38646376,-0.11289,0.0219353,2.65387e-07,7738,ebi-a-GCST90027588,rs4833077,A,T,0.711889,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+7,20021866,0.0970074,0.0207363,2.89501e-06,7738,ebi-a-GCST90027588,rs2214921,C,T,0.451155,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+7,81477236,0.142716,0.0295391,1.35575e-06,7738,ebi-a-GCST90027588,rs17155574,T,C,0.132159,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+9,7351774,-0.110624,0.0235147,2.54507e-06,7738,ebi-a-GCST90027588,rs10815601,A,T,0.243727,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+12,110430968,0.143992,0.0284523,4.17465e-07,7738,ebi-a-GCST90027588,rs1027949,G,A,0.145409,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+14,64467727,-0.207447,0.03728,2.62791e-08,7738,ebi-a-GCST90027588,rs17824268,C,T,0.0775349,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd
+21,19678760,-0.102007,0.0218574,3.05752e-06,7738,ebi-a-GCST90027588,rs1573442,A,G,0.362316,PWY.6612..superpathway.of.tetrahydrofolate.biosynthesis,TRUE,reported,igd

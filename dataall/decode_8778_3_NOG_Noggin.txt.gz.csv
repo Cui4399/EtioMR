@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,56142218,rs113767962,T,C,0.2046,1.92e-09,0.034075,35372,0.01557,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56228161,rs186710889,C,T,0.7225,8.278e-29,0.064873,35372,0.00407,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56490159,rs11654979,G,A,0.1995,3.026e-14,0.02626,35370,0.02661,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56562185,rs138296194,T,C,0.4289,1e-26,0.040078,35370,0.01129,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56738677,rs4386182,C,T,-0.0619,1.477e-13,0.008377,35365,0.46931,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56763503,rs76164057,G,A,1.2598,1e-200,0.03543,35365,0.01406,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56852607,rs8065342,TA,TT,-0.1084,1.497e-37,0.008464,35368,0.43954,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56875195,rs61332158,T,A,0.1025,3.526e-15,0.013023,35365,0.13103,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56921808,rs190818168,A,C,0.5354,1.246e-50,0.035777,35370,0.01532,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56956992,rs113935130,A,G,0.171,1.013e-08,0.029851,35370,0.02019,NOG_Noggin,TRUE,reported,NOG_Noggin
+17,56989719,rs145046590,A,G,0.3198,5.784e-11,0.04883,35369,0.00786,NOG_Noggin,TRUE,reported,NOG_Noggin

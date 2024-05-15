@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46841665,T,C,0.115854,0.210013,0.0241152,3.07319e-18,rs12566735,8128,Glycine conjugate of C10H14O2 (1) levels,TRUE,reported,hM4LP2
+1,151929625,C,T,0.607041,-0.119218,0.015766,3.97841e-14,rs2130525,8128,Glycine conjugate of C10H14O2 (1) levels,TRUE,reported,hM4LP2
+2,126640182,T,C,0.0511094,-0.202782,0.0356244,1.25399e-08,rs13431728,8128,Glycine conjugate of C10H14O2 (1) levels,TRUE,reported,hM4LP2
+10,94700521,A,G,0.0620609,0.398383,0.032061,1.89366e-35,rs143966491,8128,Glycine conjugate of C10H14O2 (1) levels,TRUE,reported,hM4LP2

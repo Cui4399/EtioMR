@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,6538662,rs12425927,G,A,0.0807,7.317e-10,0.013103,35390,0.10835,GAPDH_GAPDH__liver,TRUE,reported,GAPDH_GAPDH__liver

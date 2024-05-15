@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,64366325,rs78459351,A,G,0.1651,3.485e-17,0.019587,35350,0.04614,HSPC159_LEGL,TRUE,reported,HSPC159_LEGL
+2,64505690,rs147805574,C,T,0.1711,1.104e-08,0.029944,35348,0.01945,HSPC159_LEGL,TRUE,reported,HSPC159_LEGL

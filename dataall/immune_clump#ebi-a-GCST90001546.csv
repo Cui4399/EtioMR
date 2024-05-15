@@ -1,0 +1,6 @@
+chr.exposure,samplesize.exposure,beta.exposure,se.exposure,pos.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,3427,1.234,0.2235,198151688,3.64603e-08,ebi-a-GCST90001546,rs113435341,G,A,0.0032,Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546,TRUE,reported,igd
+2,3427,0.2065,0.02846,38895920,4.89215e-13,ebi-a-GCST90001546,rs13024840,A,T,0.2578,Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546,TRUE,reported,igd
+6,3427,-0.2806,0.03351,32589978,7.9378e-17,ebi-a-GCST90001546,rs9271536,T,A,0.7798,Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546,TRUE,reported,igd
+6,3427,0.2773,0.03632,32585071,2.87607e-14,ebi-a-GCST90001546,rs113243185,C,G,0.1996,Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546,TRUE,reported,igd
+6,3427,0.307,0.04769,31159546,1.37199e-10,ebi-a-GCST90001546,rs62400929,G,A,0.1087,Terminally Differentiated CD4+ T cell %CD4+ T cell || id:ebi-a-GCST90001546,TRUE,reported,igd

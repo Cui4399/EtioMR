@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,97873425,C,T,0.738648,-0.0991104,0.0177772,2.47308e-08,rs1974562,8225,Histidine to asparagine ratio,TRUE,reported,NRwqqY
+11,62335948,C,T,0.876369,-0.175231,0.0231887,4.13254e-14,rs2463822,8225,Histidine to asparagine ratio,TRUE,reported,NRwqqY
+14,103540077,G,C,0.271352,0.110275,0.0173619,2.13138e-10,rs12880224,8225,Histidine to asparagine ratio,TRUE,reported,NRwqqY
+14,104104717,G,C,0.13031,-0.601381,0.0219313,1.53573e-165,rs8012505,8225,Histidine to asparagine ratio,TRUE,reported,NRwqqY

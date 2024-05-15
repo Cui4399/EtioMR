@@ -1,0 +1,4 @@
+"se.exposure","pos.exposure","chr.exposure","samplesize.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000798987,44028307,"6",461113,2.19999e-09,0.00478182,"ukb-b-7872","rs10948120","A","G",0.271731,"Mouth/teeth dental problems: Bleeding gums || id:ukb-b-7872",TRUE,"reported","igd"
+0.000761638,34723573,"11",461113,4.30002e-09,0.00447246,"ukb-b-7872","rs7125773","C","T",0.696277,"Mouth/teeth dental problems: Bleeding gums || id:ukb-b-7872",TRUE,"reported","igd"
+0.000701549,73836097,"13",461113,1.89998e-10,-0.00446632,"ukb-b-7872","rs8002827","G","T",0.507967,"Mouth/teeth dental problems: Bleeding gums || id:ukb-b-7872",TRUE,"reported","igd"

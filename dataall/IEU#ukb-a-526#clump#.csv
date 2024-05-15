@@ -1,0 +1,6 @@
+"se.exposure","pval.exposure","beta.exposure","pos.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000931179,4.51648e-10,0.00580612,230090253,337199,"2","ukb-a-526","rs142081776","A","C",0.00104983,"Diagnoses - main ICD10: F43 Reaction to severe stress  and adjustment disorders || id:ukb-a-526",TRUE,"reported","igd"
+0.000216566,4.61817e-09,0.00126919,219661614,337199,"2","ukb-a-526","rs115624851","A","G",0.0193387,"Diagnoses - main ICD10: F43 Reaction to severe stress  and adjustment disorders || id:ukb-a-526",TRUE,"reported","igd"
+0.000471789,1.73796e-08,0.00265918,181600373,337199,"3","ukb-a-526","rs9811406","C","T",0.00414147,"Diagnoses - main ICD10: F43 Reaction to severe stress  and adjustment disorders || id:ukb-a-526",TRUE,"reported","igd"
+0.000828273,2.45952e-10,0.00524272,8061124,337199,"7","ukb-a-526","rs183456726","T","C",0.00122628,"Diagnoses - main ICD10: F43 Reaction to severe stress  and adjustment disorders || id:ukb-a-526",TRUE,"reported","igd"
+0.000423737,5.5847e-13,0.00305537,47672381,337199,"10","ukb-a-526","rs77330139","T","C",0.00483542,"Diagnoses - main ICD10: F43 Reaction to severe stress  and adjustment disorders || id:ukb-a-526",TRUE,"reported","igd"

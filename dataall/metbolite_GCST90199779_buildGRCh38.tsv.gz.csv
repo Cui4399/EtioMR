@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,78621924,G,A,0.030041,0.258011,0.0467158,3.33268e-08,rs78334557,7826,Gamma-glutamyl-2-aminobutyrate levels,TRUE,reported,UCEXN2
+13,49329198,G,C,0.13964,-0.127039,0.0232012,4.36135e-08,rs11839149,7826,Gamma-glutamyl-2-aminobutyrate levels,TRUE,reported,UCEXN2

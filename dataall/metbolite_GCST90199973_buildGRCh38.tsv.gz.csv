@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,22816599,T,G,0.848979,-0.541833,0.0216405,2.36182e-138,rs358235,7973,Methyl glucopyranoside (alpha + beta) levels,TRUE,reported,9C3NaH

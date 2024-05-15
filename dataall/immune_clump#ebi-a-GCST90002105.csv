@@ -1,0 +1,10 @@
+samplesize.exposure,se.exposure,beta.exposure,chr.exposure,pval.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2872,0.1191,-0.659,2,3.40001e-08,179315726,ebi-a-GCST90002105,rs62176112,A,G,0.0144,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.03676,-0.3903,6,7.30634e-26,31824912,ebi-a-GCST90002105,rs9267650,T,A,0.2883,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.03041,-0.294,6,8.65167e-22,32736005,ebi-a-GCST90002105,rs9296042,T,C,0.5014,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.04076,0.2325,6,1.28301e-08,33890451,ebi-a-GCST90002105,rs7748976,A,G,0.1367,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.0446,1.217,6,6.25173e-146,32570311,ebi-a-GCST90002105,rs34039593,G,T,0.1173,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.06113,0.751,6,7.60852e-34,31569745,ebi-a-GCST90002105,rs116007826,G,A,0.0686,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.04046,0.3186,6,4.83281e-15,29589124,ebi-a-GCST90002105,rs29221,G,C,0.1555,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.0817,0.5416,16,4.00405e-11,11004549,ebi-a-GCST90002105,rs7204799,G,C,0.9713,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd
+2872,0.03898,-0.291,16,1.10408e-13,10863414,ebi-a-GCST90002105,rs11644019,T,C,0.1398,HLA DR on plasmacytoid Dendritic Cell || id:ebi-a-GCST90002105,TRUE,reported,igd

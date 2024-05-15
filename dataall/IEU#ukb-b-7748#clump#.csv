@@ -1,0 +1,3 @@
+"pos.exposure","beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+29280592,0.00269219,"10",2.99999e-08,423135,0.000485712,"ukb-b-7748","rs1248418","C","T",0.498813,"Illnesses of mother: Bowel cancer || id:ukb-b-7748",TRUE,"reported","igd"
+46454048,-0.00291422,"18",1.89998e-09,423135,0.000485346,"ukb-b-7748","rs7226855","G","A",0.464323,"Illnesses of mother: Bowel cancer || id:ukb-b-7748",TRUE,"reported","igd"

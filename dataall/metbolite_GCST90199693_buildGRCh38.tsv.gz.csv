@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151907285,A,G,0.317899,-0.209871,0.016024,3.41299e-39,rs28415528,8239,3-hydroxydecanoate levels,TRUE,reported,xFcUPg

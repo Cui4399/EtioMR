@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,186492991,rs76358981,C,T,-0.0633934,9.16325979976489e-09,0.0110335,33995,0.0971949,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186622052,rs6787344,C,G,0.0615471,7.04125382234089e-10,0.00998306,33995,0.119799,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186758809,rs9871339,C,T,-0.0665112,1.5431210656578e-22,0.00680901,33995,0.388786,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186827303,rs116165477,A,G,-0.0898636,6.33577870671255e-12,0.013077,33995,0.0674545,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186829071,rs77772668,T,C,-0.145515,1.98129890720737e-09,0.0242551,33995,0.019112,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186832874,rs266773,G,A,-0.0794724,1.09597336552381e-17,0.00928049,33995,0.855076,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186834099,rs143257534,T,C,-0.614829,2.13796208950229e-199,0.0204078,33995,0.0259864,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186840614,rs73185701,C,G,0.335902,5.24807460249771e-172,0.0120145,33995,0.0805449,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186871186,rs144033072,T,C,-0.194049,8.46505920635528e-09,0.0336954,33995,0.0103115,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis
+3,186890077,rs150024939,A,G,-0.152466,1.76088096991008e-10,0.0238943,33995,0.0220808,adipoq_q15848_oid30748_v1_inflammation_ii,TRUE,reported,adipoq_q15848_oid30748_v1_inflammation_ii,chr3,186842673,cis

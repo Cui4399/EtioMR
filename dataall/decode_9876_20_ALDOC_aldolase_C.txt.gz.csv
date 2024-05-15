@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,27654340,rs141697944,A,G,-0.372,6.405e-21,0.039646,35359,0.01049,ALDOC_aldolase_C,TRUE,reported,ALDOC_aldolase_C
+17,28576910,rs141921160,T,C,-0.6133,7.372e-56,0.038951,35359,0.01035,ALDOC_aldolase_C,TRUE,reported,ALDOC_aldolase_C
+17,29519185,rs201286486,TAA,T,-0.1772,6.521e-11,0.027131,35361,0.02371,ALDOC_aldolase_C,TRUE,reported,ALDOC_aldolase_C

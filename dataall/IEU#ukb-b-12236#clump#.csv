@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","pos.exposure","chr.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00485458,0.0275205,69873235,"11",1.40001e-08,64946,"ukb-b-12236","rs76315615","G","C",0.056156,"Avocado intake || id:ukb-b-12236",TRUE,"reported","igd"
+0.0091459,0.0500217,69477471,"18",4.49997e-08,64946,"ukb-b-12236","rs111384672","G","T",0.016283,"Avocado intake || id:ukb-b-12236",TRUE,"reported","igd"

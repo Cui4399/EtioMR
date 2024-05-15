@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132313493,G,A,0.690844,-0.113978,0.018624,9.36184e-10,rs270607,6287,Docosahexaenoylcarnitine (C22:6) levels,TRUE,reported,y3RMru
+6,10948633,A,G,0.436471,0.0976164,0.0176326,3.09251e-08,rs1746764,6287,Docosahexaenoylcarnitine (C22:6) levels,TRUE,reported,y3RMru
+6,160122116,T,C,0.0719326,0.182543,0.0330773,3.41524e-08,rs12208357,6287,Docosahexaenoylcarnitine (C22:6) levels,TRUE,reported,y3RMru

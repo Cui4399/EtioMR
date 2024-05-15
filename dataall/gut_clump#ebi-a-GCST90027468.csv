@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,105132008,-0.138405,0.0294732,2.65369e-06,7738,ebi-a-GCST90027468,rs9288803,C,T,0.404818,GALACTARDEG.PWY..D.galactarate.degradation.I,TRUE,reported,igd
+8,2109442,0.153926,0.0301213,3.21825e-07,7738,ebi-a-GCST90027468,rs1866720,C,G,0.342302,GALACTARDEG.PWY..D.galactarate.degradation.I,TRUE,reported,igd
+11,58122988,0.196059,0.0400752,9.9669e-07,7738,ebi-a-GCST90027468,rs117047298,A,T,0.159337,GALACTARDEG.PWY..D.galactarate.degradation.I,TRUE,reported,igd

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31561978,C,T,0.0183451,0.433765,0.0563676,1.41169e-14,rs72794638,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL
+2,32253285,A,G,0.0346446,0.300052,0.0421122,1.04035e-12,rs138529890,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL
+7,99477415,C,T,0.0322643,-0.30445,0.0433578,2.19019e-12,rs148982377,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL
+7,138117169,A,G,0.794698,0.10663,0.0189544,1.84871e-08,rs7780066,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL
+11,63107062,C,A,0.0595802,0.846441,0.0308893,2.56518e-165,rs141232858,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL
+11,63312298,C,T,0.59226,-0.117835,0.0155509,3.52627e-14,rs540582,7821,Etiocholanolone glucuronide levels,TRUE,reported,IJunpL

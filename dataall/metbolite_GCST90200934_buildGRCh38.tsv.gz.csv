@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,100381667,A,G,0.0110213,-0.528178,0.0714334,1.42485e-13,rs145025874,8200,Acetylcarnitine (C2) to propionylcarnitine (C3) ratio,TRUE,reported,FL2Pi4

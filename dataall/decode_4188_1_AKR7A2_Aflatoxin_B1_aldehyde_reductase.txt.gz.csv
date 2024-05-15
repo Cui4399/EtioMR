@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,18964128,rs116005791,A,G,0.2037,4.404e-10,0.03265,35380,0.01595,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19046866,rs12410383,T,C,0.1522,7.2e-09,0.026304,35380,0.02372,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19304026,rs111259968,C,G,-0.3303,3.084e-13,0.045304,35378,0.00837,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19304030,rs114203596,T,C,-0.2486,4.24e-08,0.04536,35378,0.00779,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19313501,rs3762391,A,G,0.0596,1.477e-10,0.009301,35378,0.2622,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19330519,rs61766662,C,T,-0.1514,1.808e-68,0.008658,35377,0.3241,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19422564,rs112655001,A,G,-0.1757,3.873e-13,0.024201,35379,0.02979,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19513501,rs12566679,A,G,0.0933,1.146e-09,0.015326,35379,0.07565,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase
+1,19676189,rs35289324,A,G,0.0741,8.596e-09,0.012873,35379,0.11188,AKR7A2_Aflatoxin_B1_aldehyde_reductase,TRUE,reported,AKR7A2_Aflatoxin_B1_aldehyde_reductase

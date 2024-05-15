@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,34514913,rs41313005,C,T,0.2176,4.769e-13,0.03009,35373,0.01828,RCAN1_CCP1,TRUE,reported,RCAN1_CCP1

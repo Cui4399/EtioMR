@@ -1,0 +1,4 @@
+"se.exposure","pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000418631,5.99101e-14,0.00314332,361194,"6",161010118,"ukb-d-I9_UAP","rs10455872","G","A",0.0807558,"Unstable angina pectoris || id:ukb-d-I9_UAP",TRUE,"reported","igd"
+0.00022816,1.37753e-11,0.00154246,361194,"9",22124140,"ukb-d-I9_UAP","rs7857118","T","A",0.5072,"Unstable angina pectoris || id:ukb-d-I9_UAP",TRUE,"reported","igd"
+0.000396524,4.83281e-09,0.00232084,361194,"11",2291715,"ukb-d-I9_UAP","rs7126721","T","G",0.0934681,"Unstable angina pectoris || id:ukb-d-I9_UAP",TRUE,"reported","igd"

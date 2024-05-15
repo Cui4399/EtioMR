@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,152992823,rs76418562,AAAAAAAAAACGC,AAAAAAAAACGC,-0.1375,3.837e-08,0.025008,35362,0.02609,S100A3_S100A3,TRUE,reported,S100A3_S100A3

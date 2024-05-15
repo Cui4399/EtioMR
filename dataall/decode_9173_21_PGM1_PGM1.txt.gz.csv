@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,63630423,rs7535245,A,G,0.0547,3.777e-08,0.009944,35355,0.19795,PGM1_PGM1,TRUE,reported,PGM1_PGM1
+1,63647788,rs61765292,G,A,0.1158,4.38e-29,0.010345,35356,0.17958,PGM1_PGM1,TRUE,reported,PGM1_PGM1

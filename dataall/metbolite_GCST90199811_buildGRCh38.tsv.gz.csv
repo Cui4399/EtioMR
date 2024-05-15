@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,21178615,C,T,0.155798,0.222427,0.0210234,3.69119e-26,rs4149056,8165,Glycolithocholate sulfate levels,TRUE,reported,f3mfIu
+13,103065958,T,C,0.0474,0.390013,0.0363292,6.93379e-27,rs55971546,8165,Glycolithocholate sulfate levels,TRUE,reported,f3mfIu

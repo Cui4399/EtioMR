@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,38576080,A,G,0.336789,-0.0792221,0.0172659,4.46754e-06,rs10461991,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+5,124060979,G,A,0.367665,0.0776718,0.0165378,2.6449e-06,rs11747295,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+7,151046954,G,A,0.936039,-0.15459,0.0329932,2.7928e-06,rs6979693,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+8,392899,G,T,0.0926216,0.127482,0.027546,3.69308e-06,rs34876607,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+8,126625442,T,C,0.0198982,0.259844,0.0568585,4.87679e-06,rs118029986,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+9,1279051,C,G,0.0209272,0.287724,0.0555664,2.24253e-07,rs58910473,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+9,19581431,G,C,0.11782,-0.114891,0.0246108,3.03683e-06,rs12342666,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+11,112726166,G,A,0.248366,0.0861618,0.0185294,3.31904e-06,rs113387398,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+12,21382259,G,A,0.043316,-0.181741,0.0394266,4.0345e-06,rs111588163,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+16,84730353,G,A,0.0187341,0.273459,0.0589881,3.55505e-06,rs144746688,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ
+17,74629500,A,G,0.043605,-0.195192,0.0396437,8.49352e-07,rs62086681,7684,Glutarate (C5-DC) to salicylate ratio,TRUE,reported,P7Q8FZ

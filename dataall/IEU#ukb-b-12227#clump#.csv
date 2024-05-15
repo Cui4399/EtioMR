@@ -1,0 +1,7 @@
+"pos.exposure","beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+17643088,0.00291574,"2",7.90005e-09,361809,0.000505336,"ukb-b-12227","rs34416375","C","T",0.384717,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"
+56003831,0.00385655,"5",8.40001e-09,361809,0.000669625,"ukb-b-12227","rs10461612","C","G",0.161612,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"
+151942194,0.00303056,"6",6.19998e-09,361809,0.000521427,"ukb-b-12227","rs3757322","G","T",0.335258,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"
+123341525,0.00495957,"10",6.4998e-23,361809,0.00050327,"ukb-b-12227","rs34032268","C","A",0.395588,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"
+69331418,0.00622536,"11",8.30042e-11,361809,0.000958555,"ukb-b-12227","rs78540526","T","C",0.07132,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"
+52599188,0.0042854,"16",9.3994e-14,361809,0.000575295,"ukb-b-12227","rs4784227","T","C",0.240401,"Illnesses of siblings: Breast cancer || id:ukb-b-12227",TRUE,"reported","igd"

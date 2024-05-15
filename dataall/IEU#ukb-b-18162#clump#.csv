@@ -1,0 +1,4 @@
+"samplesize.exposure","pos.exposure","pval.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+459742,6109767,1.7e-10,"1",0.022453,0.00351576,"ukb-b-18162","rs151020479","C","T",0.008779,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself || id:ukb-b-18162",TRUE,"reported","igd"
+459742,5875714,2.5e-08,"2",0.00338953,0.000608471,"ukb-b-18162","rs2722566","G","A",0.461752,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself || id:ukb-b-18162",TRUE,"reported","igd"
+459742,46851304,8e-09,"14",0.00352769,0.000611613,"ukb-b-18162","rs8022067","A","C",0.563359,"Illness, injury, bereavement, stress in last 2 years: Serious illness, injury or assault to yourself || id:ukb-b-18162",TRUE,"reported","igd"

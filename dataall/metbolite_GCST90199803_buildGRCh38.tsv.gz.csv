@@ -1,0 +1,22 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,37071692,T,C,0.659276,-0.0766631,0.0163376,2.6997e-06,rs6426007,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+2,192049636,A,C,0.0953596,-0.12226,0.0262976,3.33393e-06,rs10497721,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+3,31975115,T,C,0.199014,0.0942839,0.0193809,1.14587e-06,rs7635119,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+4,36493809,C,T,0.0315205,0.213982,0.0447578,1.74525e-06,rs148888663,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+4,37539231,T,C,0.0188897,-0.271819,0.0561137,1.27204e-06,rs56070039,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+4,67834530,GT,G,0.162543,0.0996357,0.0213631,3.10262e-06,rs11455895,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+5,15675807,C,T,0.319116,-0.0815522,0.0167419,1.10946e-06,rs11953541,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+5,35103600,A,T,0.0300903,-0.209292,0.0455595,4.35224e-06,rs1366298,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+6,30883824,A,G,0.0271436,-0.243535,0.047735,3.36425e-07,rs74689782,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+6,147982071,G,A,0.0160899,0.288371,0.0613068,2.55439e-06,rs118087581,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+7,100664144,A,G,0.038832,0.183583,0.0401018,4.6959e-06,rs116799198,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+7,156462105,C,T,0.194303,-0.0947243,0.0197433,1.60417e-06,rs7795670,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+8,29997641,T,C,0.0201613,-0.288071,0.0551031,1.715e-07,rs113787014,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+10,121572838,G,A,0.548301,-0.071772,0.015685,4.74315e-06,rs4237533,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+11,624151,T,C,0.0305064,0.21459,0.0451693,2.02609e-06,rs117950985,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+12,7657703,A,G,0.221147,0.0866315,0.0187668,3.90807e-06,rs1015102,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+12,21758113,G,T,0.0695204,0.141741,0.0309589,4.68612e-06,rs188329253,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+15,74735539,T,C,0.250517,0.0964419,0.017786,5.88207e-08,rs2472297,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+16,22787037,A,G,0.161639,-0.100255,0.0212106,2.28267e-06,rs72770519,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+17,41813297,T,C,0.0925149,-0.125778,0.0274375,4.55825e-06,rs72835680,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ
+21,16457169,G,T,0.014074,-0.366159,0.0663833,3.47142e-08,rs143550070,8242,Catechol sulfate levels,TRUE,reported,aWmcSZ

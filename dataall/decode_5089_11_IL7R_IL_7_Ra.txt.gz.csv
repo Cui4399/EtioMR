@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,35880754,rs10058572,TTTTTGTTTGTTTGTTTGTTTGT,TGTTTGTTTGTTTGTTTGTTTGT,-0.0794,1.293e-21,0.008314,35381,0.34653,IL7R_IL_7_Ra,TRUE,reported,IL7R_IL_7_Ra

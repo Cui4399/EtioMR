@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,99850238,rs55797991,T,C,-0.0839,3.007e-12,0.012025,35342,0.12331,DNAJB14_DJB14,TRUE,reported,DNAJB14_DJB14

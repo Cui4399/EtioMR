@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,14873673,C,T,0.165896,-0.104787,0.0216211,1.25639e-06,rs56011584,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+4,40543068,A,T,0.034485,-0.211235,0.0438398,1.44764e-06,rs667453,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+5,98040741,A,C,0.410624,-0.0806223,0.0166153,1.22035e-06,rs6861275,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+8,22062541,C,T,0.168638,-0.103004,0.0213829,1.45634e-06,rs12543764,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+8,81538962,G,T,0.0138045,-0.331409,0.0689195,1.51957e-06,rs180958866,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+9,94854821,G,C,0.454231,-0.0743552,0.0161681,4.24736e-06,rs10993370,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB
+12,52818508,T,C,0.0499868,-0.1745,0.036611,1.87603e-06,rs35609714,7592,4-vinylguaiacol sulfate levels,TRUE,reported,FWTfbB

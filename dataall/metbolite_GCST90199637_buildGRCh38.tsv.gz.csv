@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73650092,A,G,0.224014,0.123014,0.0183105,1.83992e-11,rs10168931,7802,N-acetylglutamate levels,TRUE,reported,kVqnbW
+20,46598884,C,T,0.187765,0.116341,0.01969,3.44954e-09,rs10854172,7802,N-acetylglutamate levels,TRUE,reported,kVqnbW

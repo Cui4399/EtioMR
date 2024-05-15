@@ -1,0 +1,6 @@
+"samplesize.exposure","beta.exposure","pos.exposure","pval.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,0.00847307,56095366,2.20861e-09,"2",0.00141647,"ukb-d-ICDMAIN_ANY_ENTRY","rs9309272","T","G",0.133494,"Any ICDMAIN event in hilmo or causes of death || id:ukb-d-ICDMAIN_ANY_ENTRY",TRUE,"reported","igd"
+361194,-0.00572341,67802428,1.38299e-08,"4",0.00100842,"ukb-d-ICDMAIN_ANY_ENTRY","rs12509944","C","T",0.643922,"Any ICDMAIN event in hilmo or causes of death || id:ukb-d-ICDMAIN_ANY_ENTRY",TRUE,"reported","igd"
+361194,0.0070549,96132617,2.96319e-08,"10",0.00127259,"ukb-d-ICDMAIN_ANY_ENTRY","rs9420636","G","A",0.175931,"Any ICDMAIN event in hilmo or causes of death || id:ukb-d-ICDMAIN_ANY_ENTRY",TRUE,"reported","igd"
+361194,0.00616579,21830104,1.72918e-09,"10",0.00102395,"ukb-d-ICDMAIN_ANY_ENTRY","rs11012732","G","A",0.330651,"Any ICDMAIN event in hilmo or causes of death || id:ukb-d-ICDMAIN_ANY_ENTRY",TRUE,"reported","igd"
+361194,-0.00631276,58317864,1.90634e-08,"13",0.00112318,"ukb-d-ICDMAIN_ANY_ENTRY","rs9591829","G","A",0.244572,"Any ICDMAIN event in hilmo or causes of death || id:ukb-d-ICDMAIN_ANY_ENTRY",TRUE,"reported","igd"

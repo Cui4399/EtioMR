@@ -1,0 +1,4 @@
+"pos.exposure","chr.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+46453463,"18",2.13354e-11,-0.00238819,0.000356618,361194,"ukb-d-K63","rs4939827","C","T",0.477043,"Diagnoses - main ICD10: K63 Other diseases of intestine || id:ukb-d-K63",TRUE,"reported","igd"
+60938197,"20",2.01604e-14,0.00325599,0.000425625,361194,"ukb-d-K63","rs1741635","G","C",0.769065,"Diagnoses - main ICD10: K63 Other diseases of intestine || id:ukb-d-K63",TRUE,"reported","igd"
+55396728,"20",1.24366e-08,-0.00232984,0.000409191,361194,"ukb-d-K63","rs6099293","C","G",0.254311,"Diagnoses - main ICD10: K63 Other diseases of intestine || id:ukb-d-K63",TRUE,"reported","igd"

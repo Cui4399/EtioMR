@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,44996018,rs76951547,G,A,-0.0972,5.058e-12,0.014079,35347,0.08979,CLEC3B_Tetranectin,TRUE,reported,CLEC3B_Tetranectin
+3,45026209,rs3216800,AT,A,-0.2059,6.514e-103,0.009559,35347,0.22363,CLEC3B_Tetranectin,TRUE,reported,CLEC3B_Tetranectin

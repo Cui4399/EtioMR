@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,232386656,rs12328730,T,C,0.0522,1.064e-10,0.008084,35366,0.35559,ALPPL2_PPBN,TRUE,reported,ALPPL2_PPBN

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,27973459,rs33092,A,G,-0.0518,6.792e-11,0.007938,35353,0.46132,PTHLH_PTHrP,TRUE,reported,PTHLH_PTHrP
+12,28138401,rs11049365,A,C,0.1225,7.177e-43,0.008925,35354,0.27057,PTHLH_PTHrP,TRUE,reported,PTHLH_PTHrP
+12,28608988,rs144133875,T,G,0.1271,4.696e-10,0.020405,35356,0.03914,PTHLH_PTHrP,TRUE,reported,PTHLH_PTHrP
+12,28895612,rs10431220,A,G,0.0841,1.297e-26,0.007876,35358,0.47206,PTHLH_PTHrP,TRUE,reported,PTHLH_PTHrP

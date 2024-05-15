@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,77083515,A,G,0.637314,0.0891251,0.0159475,2.28815e-08,rs4502705,8297,Arginine to phosphate ratio,TRUE,reported,3aPGsE
+6,131577068,C,T,0.16021,0.172925,0.020412,2.41775e-17,rs2246012,8297,Arginine to phosphate ratio,TRUE,reported,3aPGsE
+10,98388596,G,C,0.352877,0.126294,0.0157255,9.655e-16,rs2182168,8297,Arginine to phosphate ratio,TRUE,reported,3aPGsE

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,144357756,-0.147662,0.031659,3.0992e-06,7738,ebi-a-GCST90027616,rs35096174,A,C,0.0801648,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd
+11,112298767,-0.169136,0.0347447,1.12753e-06,7738,ebi-a-GCST90027616,rs117005933,T,C,0.0599435,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd
+11,123575348,-0.138115,0.0275709,5.45884e-07,7738,ebi-a-GCST90027616,rs1275053,A,G,0.901908,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd
+16,23274991,-0.160161,0.0345293,3.51091e-06,7738,ebi-a-GCST90027616,rs112075774,A,G,0.0650248,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd
+20,50415961,-0.211348,0.0370389,1.15582e-08,7738,ebi-a-GCST90027616,rs79676117,C,A,0.0501897,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd
+20,46414971,0.145157,0.0276882,1.58347e-07,7738,ebi-a-GCST90027616,rs928495,T,C,0.097302,PWY.7234..inosine.5..phosphate.biosynthesis.III,TRUE,reported,igd

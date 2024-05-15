@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,146020555,rs75466623,T,C,-0.3638,3.239e-19,0.040601,35361,0.00983,HFE2_RGM_C,TRUE,reported,HFE2_RGM_C

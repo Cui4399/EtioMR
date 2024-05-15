@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,88570030,rs12247690,T,C,-0.0575,3.912e-09,0.009766,35357,0.22591,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,88902329,rs1968028,C,T,0.0817,6.632e-19,0.0092,35358,0.27236,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,88920429,rs11202892,T,C,0.1295,1.8e-08,0.023001,35358,0.0333,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,88979562,rs76639263,G,A,0.0802,1.45e-09,0.013257,35357,0.10652,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,89009208,rs7911226,G,A,-0.2358,1.046e-152,0.008958,35356,0.28445,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,89024178,rs7089946,C,G,-0.128,7.451e-55,0.008206,35354,0.4486,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,89139656,rs149766826,A,G,0.1338,2.219e-09,0.022371,35355,0.03336,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,89250400,rs2250398,G,A,-0.052,2.537e-10,0.008222,35353,0.48306,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble
+10,89339880,rs61853145,T,C,-0.4119,1.083e-12,0.057855,35357,0.00462,FAS_Fas__soluble,TRUE,reported,FAS_Fas__soluble

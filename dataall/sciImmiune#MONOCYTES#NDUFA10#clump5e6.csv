@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",240941703,"rs7609118","C","A",5.66145380067e-11,-0.995874429677,0.151985896403769,89,"Classical monocyte#NDUFA10",TRUE,"reported","L5NJWi",NA

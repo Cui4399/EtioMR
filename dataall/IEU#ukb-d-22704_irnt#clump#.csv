@@ -1,0 +1,8 @@
+"pos.exposure","se.exposure","beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+24380768,0.00228093,0.0130726,9.97723e-09,361187,"1","ukb-d-22704_irnt","rs7531559","A","G",0.708596,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+160422995,0.00790022,0.0444447,1.84842e-08,361187,"2","ukb-d-22704_irnt","rs115821735","A","C",0.0167887,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+132379691,0.00476933,-0.0268835,1.73408e-08,361187,"4","ukb-d-22704_irnt","rs149669079","A","C",0.0495803,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+29898116,0.00210744,-0.0134224,1.90423e-10,361187,"6","ukb-d-22704_irnt","rs2975009","T","C",0.462509,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+8280743,0.00715784,-0.0393887,3.73895e-08,361187,"6","ukb-d-22704_irnt","rs7746059","A","G",0.02067,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+53493705,0.00249401,-0.0136956,3.99052e-08,361187,"7","ukb-d-22704_irnt","rs12718791","A","G",0.790591,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"
+94844947,0.00715599,-0.0419571,4.54412e-09,361187,"14","ukb-d-22704_irnt","rs28929474","T","C",0.0202914,"Home location - north co-ordinate (rounded) || id:ukb-d-22704_irnt",TRUE,"reported","igd"

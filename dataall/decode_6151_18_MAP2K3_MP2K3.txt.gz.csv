@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,21287215,rs8074866,T,C,-0.0483,1.789e-08,0.008577,35355,0.32512,MAP2K3_MP2K3,TRUE,reported,MAP2K3_MP2K3

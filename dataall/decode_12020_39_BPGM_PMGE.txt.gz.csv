@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,134649174,rs6467547,TTTTTTTT,GTTTTTTT,0.0485,2.176e-09,0.008105,35347,0.47245,BPGM_PMGE,TRUE,reported,BPGM_PMGE

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,40073383,rs445379,T,G,0.3361,4.95e-08,0.061635,35365,0.00477,LTBP4_LTBP4,TRUE,reported,LTBP4_LTBP4
+19,40593595,rs112009052,A,T,-0.2549,1.401e-14,0.03312,35365,0.01603,LTBP4_LTBP4,TRUE,reported,LTBP4_LTBP4
+19,40767509,rs72023758,AAAAGTGTGTGTGTGTGTGTGTGTGTATA,AAAAGTGTGTGTGTGTGTGTGTGTGTGTATATA,0.7444,1.629e-21,0.078141,35359,0.00266,LTBP4_LTBP4,TRUE,reported,LTBP4_LTBP4

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,25507759,A,G,0.0656597,-0.16694,0.0304467,4.18116e-08,rs73048024,8134,Hypotaurine to cysteine ratio,TRUE,reported,SURCoC
+4,138134795,C,T,0.326226,-0.120562,0.0161502,8.32749e-14,rs13120260,8134,Hypotaurine to cysteine ratio,TRUE,reported,SURCoC
+5,115713487,T,C,0.529772,-0.096577,0.0151462,1.8142e-10,rs1366463,8134,Hypotaurine to cysteine ratio,TRUE,reported,SURCoC
+16,89637957,C,G,0.222766,0.101893,0.0185001,3.63589e-08,rs1126464,8134,Hypotaurine to cysteine ratio,TRUE,reported,SURCoC

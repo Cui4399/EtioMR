@@ -1,0 +1,4 @@
+"se.exposure","chr.exposure","pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0191916,"3",3913563,0.10857,1.5e-08,34317,"ukb-b-13978","rs79893671","A","G",0.013609,"Average monthly intake of other alcoholic drinks || id:ukb-b-13978",TRUE,"reported","igd"
+0.0159884,"7",155228938,0.0956903,2.19999e-09,34317,"ukb-b-13978","rs146204630","T","C",0.02038,"Average monthly intake of other alcoholic drinks || id:ukb-b-13978",TRUE,"reported","igd"
+0.0159318,"12",88410646,0.0888328,2.5e-08,34317,"ukb-b-13978","rs117676326","G","A",0.019976,"Average monthly intake of other alcoholic drinks || id:ukb-b-13978",TRUE,"reported","igd"

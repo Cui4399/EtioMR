@@ -1,0 +1,3 @@
+"pos.exposure","pval.exposure","se.exposure","chr.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+29751838,6.59994e-09,0.000153918,"1",-0.000893029,461374,"ukb-b-14342","rs11586152","C","T",0.391497,"Sources of admission to hospital (recoded): Usual Place of residence: Living alone || id:ukb-b-14342",TRUE,"reported","igd"
+32847767,3.29997e-09,0.000152515,"20",-0.000901977,461374,"ukb-b-14342","rs819135","G","A",0.417999,"Sources of admission to hospital (recoded): Usual Place of residence: Living alone || id:ukb-b-14342",TRUE,"reported","igd"

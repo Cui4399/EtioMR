@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73273000,G,A,0.150382,-0.115278,0.020847,3.20748e-08,rs7609407,8228,N-acetylphenylalanine levels,TRUE,reported,p8krFj
+2,73539537,T,C,0.131255,-0.148461,0.0217957,9.65873e-12,rs11689767,8228,N-acetylphenylalanine levels,TRUE,reported,p8krFj
+2,73648914,C,G,0.223657,0.661179,0.0161893,1e-200,rs13431529,8228,N-acetylphenylalanine levels,TRUE,reported,p8krFj
+6,25808859,T,C,0.555529,0.147566,0.0148719,3.3238e-23,rs1165199,8228,N-acetylphenylalanine levels,TRUE,reported,p8krFj
+11,67647176,G,A,0.82519,0.261511,0.0195394,7.52319e-41,rs7108760,8228,N-acetylphenylalanine levels,TRUE,reported,p8krFj

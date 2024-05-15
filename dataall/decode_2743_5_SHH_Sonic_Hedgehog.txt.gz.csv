@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,155799663,rs2239966,T,C,0.0483,2.143e-08,0.008625,35341,0.38668,SHH_Sonic_Hedgehog,TRUE,reported,SHH_Sonic_Hedgehog
+7,155811284,rs9333596,G,A,-0.106,2.887e-20,0.011493,35340,0.15914,SHH_Sonic_Hedgehog,TRUE,reported,SHH_Sonic_Hedgehog
+7,155965936,rs35850787,T,C,-0.0512,9.352e-10,0.008366,35334,0.45234,SHH_Sonic_Hedgehog,TRUE,reported,SHH_Sonic_Hedgehog
+7,156380544,rs10225292,C,T,-0.0928,2.183e-26,0.008731,35337,0.34802,SHH_Sonic_Hedgehog,TRUE,reported,SHH_Sonic_Hedgehog

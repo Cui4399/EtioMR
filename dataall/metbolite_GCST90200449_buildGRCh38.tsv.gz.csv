@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,59745471,T,G,0.839621,-0.10191,0.0218073,2.96544e-06,rs1207936,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+2,148746780,A,G,0.0284908,0.218772,0.0465545,2.61104e-06,rs80268353,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+2,227944103,A,G,0.301189,0.0923581,0.0171752,7.55574e-08,rs6737422,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+3,46915887,A,G,0.044964,-0.19263,0.0372922,2.3991e-07,rs75926668,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+4,7926455,G,A,0.392327,0.0777603,0.016001,1.17554e-06,rs1320070,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+10,62165570,T,C,0.0120304,0.326944,0.0710791,4.23045e-06,rs190999339,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+15,53938873,C,G,0.0481104,0.170874,0.0366293,3.0868e-06,rs148274336,7803,Sucrose levels,TRUE,reported,0Sh7Yn
+18,58651778,T,A,0.249034,0.0831576,0.0179371,3.55101e-06,rs9959371,7803,Sucrose levels,TRUE,reported,0Sh7Yn

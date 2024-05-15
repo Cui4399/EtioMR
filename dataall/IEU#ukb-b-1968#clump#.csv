@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","pval.exposure","pos.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"18",-0.00123682,5.89997e-09,46448805,0.000212514,463010,"ukb-b-1968","rs6507874","C","T",0.472674,"Diagnoses - main ICD10: K63.5 Polyp of colon || id:ukb-b-1968",TRUE,"reported","igd"
+"20",0.00169281,3.50026e-14,60939835,0.00022332,463010,"ukb-b-1968","rs525915","T","A",0.660189,"Diagnoses - main ICD10: K63.5 Polyp of colon || id:ukb-b-1968",TRUE,"reported","igd"

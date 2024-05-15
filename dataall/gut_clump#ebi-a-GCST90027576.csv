@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,45511734,-0.120386,0.0256997,2.80886e-06,7738,ebi-a-GCST90027576,rs17033379,C,G,0.144102,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd
+2,135907088,-0.0966221,0.0203381,2.02628e-06,7738,ebi-a-GCST90027576,rs6730157,G,A,0.268673,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd
+5,178197894,0.101809,0.0220395,3.8484e-06,7738,ebi-a-GCST90027576,rs61406022,A,G,0.23517,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd
+5,151880286,0.101917,0.0220452,3.78094e-06,7738,ebi-a-GCST90027576,rs2961771,T,C,0.214148,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd
+7,70270672,-0.106115,0.0230007,3.95859e-06,7738,ebi-a-GCST90027576,rs2903400,T,G,0.210115,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd
+19,12867770,-0.116457,0.0249979,3.18266e-06,7738,ebi-a-GCST90027576,rs142578694,T,C,0.170457,PWY.6284..superpathway.of.unsaturated.fatty.acids.biosynthesis..E..coli.,TRUE,reported,igd

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"20",3286439,"rs2236109","C","A",2.31716344168e-08,-0.966960573201,0.173089374658111,89,"CD4_NAIVE#C20orf194",TRUE,"reported","DuLjez",NA

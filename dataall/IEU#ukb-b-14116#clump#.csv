@@ -1,0 +1,4 @@
+"se.exposure","pos.exposure","samplesize.exposure","chr.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000183459,67233874,463010,"2",3.29997e-08,-0.00101374,"ukb-b-14116","rs13409912","G","C",0.373231,"PCT where patients GP was registered: BATH AND NORTH EAST SOMERSET PCT || id:ukb-b-14116",TRUE,"reported","igd"
+0.000183838,1240368,463010,"8",1.89998e-08,0.00103273,"ukb-b-14116","rs12114153","G","A",0.630894,"PCT where patients GP was registered: BATH AND NORTH EAST SOMERSET PCT || id:ukb-b-14116",TRUE,"reported","igd"
+0.000214863,71020177,463010,"18",9.09997e-09,-0.00123484,"ukb-b-14116","rs12961990","G","A",0.779589,"PCT where patients GP was registered: BATH AND NORTH EAST SOMERSET PCT || id:ukb-b-14116",TRUE,"reported","igd"

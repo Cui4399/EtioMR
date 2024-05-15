@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,47628057,T,A,0.643914,-0.0777837,0.0158186,8.77698e-07,rs12497825,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+4,156785921,A,G,0.0502485,-0.164435,0.0341896,1.51299e-06,rs116530753,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+4,185629591,A,C,0.0880407,-0.135084,0.0264666,3.32675e-07,rs76646409,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+6,142741666,C,T,0.399347,-0.0707204,0.0151501,3.04173e-06,rs197490,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+8,81655670,A,G,0.0297524,-0.210887,0.0438174,1.48789e-06,rs117966847,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+9,14170637,C,T,0.117436,0.112931,0.0229724,8.83619e-07,rs79715983,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+9,111824866,G,A,0.647041,0.0723904,0.0158034,4.63454e-06,rs7046078,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+12,24993537,C,G,0.0199271,0.256999,0.0531529,1.33082e-06,rs79507970,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+12,32540963,A,G,0.0546647,0.150705,0.0327108,4.08161e-06,rs11052059,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+12,45692313,G,A,0.132704,0.109774,0.0218824,5.2613e-07,rs11183167,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+13,109276811,C,T,0.0173004,-0.259037,0.0565903,4.70766e-06,rs143072068,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP
+19,56248382,A,G,0.0625613,-0.142415,0.0306201,3.30305e-06,rs113915691,8260,Linoleate (18:2n6) levels,TRUE,reported,iy0SDP

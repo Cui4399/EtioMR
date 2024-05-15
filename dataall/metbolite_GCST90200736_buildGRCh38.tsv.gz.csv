@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,234191055,C,A,0.0289537,0.292479,0.0615471,2.01301e-06,rs80332390,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+3,49109223,G,T,0.161574,0.131551,0.0282532,3.22189e-06,rs113592495,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+7,119632797,A,G,0.172261,-0.129244,0.0271598,1.94911e-06,rs10236510,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+8,100846652,G,T,0.156235,-0.155036,0.0297789,1.92699e-07,rs7829662,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+11,17419838,T,C,0.206643,-0.116913,0.0255049,4.5631e-06,rs2299639,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+12,131247556,T,C,0.0336603,-0.282231,0.0575064,9.20956e-07,rs143464181,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+13,41453253,T,C,0.106078,0.15928,0.0337465,2.35949e-06,rs12583707,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz
+22,47566825,T,G,0.0141416,-0.406796,0.0877444,3.5497e-06,rs79369357,4568,Adenosine 5'-diphosphate (ADP) to arginine ratio,TRUE,reported,Fca7Sz

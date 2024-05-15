@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,54513635,rs4864902,C,A,0.0463,2.992e-08,0.008355,35364,0.4861,KIT_SCF_sR,TRUE,reported,KIT_SCF_sR

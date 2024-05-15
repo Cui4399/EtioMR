@@ -1,0 +1,5 @@
+"se.exposure","samplesize.exposure","pos.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00669252,64949,31970877,0.0403858,1.6e-09,"18","ukb-b-6500","rs185371399","A","G",0.008258,"Pancake intake || id:ukb-b-6500",TRUE,"reported","igd"
+0.00663763,64949,55773946,0.0395992,2.39999e-09,"19","ukb-b-6500","rs144765548","G","A",0.007054,"Pancake intake || id:ukb-b-6500",TRUE,"reported","igd"
+0.00606162,64949,60544852,0.0335618,3.09999e-08,"20","ukb-b-6500","rs113505885","A","G",0.008355,"Pancake intake || id:ukb-b-6500",TRUE,"reported","igd"
+0.00349124,64949,45670133,0.0236522,1.20005e-11,"22","ukb-b-6500","rs117404891","A","G",0.025166,"Pancake intake || id:ukb-b-6500",TRUE,"reported","igd"

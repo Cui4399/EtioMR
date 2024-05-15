@@ -1,0 +1,3 @@
+"beta.exposure","samplesize.exposure","se.exposure","pos.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.000858846,361194,0.000148123,32797876,"6",6.70842e-09,"ukb-d-H7_CHALAZION","rs241436","G","A",0.448969,"Chalazion || id:ukb-d-H7_CHALAZION",TRUE,"reported","igd"
+-0.000834037,361194,0.000148484,80294170,"17",1.94411e-08,"ukb-d-H7_CHALAZION","rs56112103","G","A",0.525485,"Chalazion || id:ukb-d-H7_CHALAZION",TRUE,"reported","igd"

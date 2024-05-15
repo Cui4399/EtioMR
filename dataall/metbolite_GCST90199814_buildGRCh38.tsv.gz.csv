@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,113993966,T,A,0.0142942,0.378008,0.0824922,4.59788e-06,rs139698830,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U
+7,70977956,G,C,0.0111176,-0.43351,0.093845,3.84808e-06,rs76899585,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U
+9,129499869,T,C,0.0190587,0.387298,0.0716175,6.37819e-08,rs78837751,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U
+10,104541358,T,A,0.0194033,-0.34203,0.0707994,1.3587e-06,rs149925047,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U
+12,114541409,C,A,0.0231878,0.340075,0.0657423,2.30537e-07,rs116860269,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U
+14,83613870,G,A,0.0661437,0.189852,0.0397374,1.77348e-06,rs77431760,5169,Alpha-hydroxycaproate levels,TRUE,reported,Ldj07U

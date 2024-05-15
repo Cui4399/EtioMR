@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,176678170,rs11430005,AAAA,AA,0.3684,1.775e-33,0.030554,35364,0.01768,VEGFC_VEGF_C,TRUE,reported,VEGFC_VEGF_C
+4,176729712,rs41278571,T,C,0.404,1.212e-45,0.02849,35364,0.02002,VEGFC_VEGF_C,TRUE,reported,VEGFC_VEGF_C

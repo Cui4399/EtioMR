@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,170575105,G,A,0.0122501,0.334878,0.0703027,1.90387e-06,rs142426869,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+3,143920274,A,G,0.0176069,0.276556,0.0588363,2.59606e-06,rs150205962,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+4,44426424,T,C,0.0483714,-0.169424,0.0360756,2.64824e-06,rs79217277,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+4,73855252,A,C,0.0170717,0.28008,0.0596234,2.63388e-06,rs116329419,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+5,138256577,T,C,0.185512,-0.105467,0.0198728,1.11381e-07,rs10055120,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+6,10424700,C,T,0.254693,-0.0845983,0.017822,2.06602e-06,rs9986385,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+6,117787777,C,T,0.500062,-0.0710191,0.0154823,4.49392e-06,rs7742769,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+7,75959027,C,G,0.0340475,0.220972,0.0430769,2.90182e-07,rs12534169,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+7,91028031,C,A,0.0394689,-0.188382,0.0401004,2.63026e-06,rs185093565,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+7,110662625,G,A,0.0141102,0.299805,0.0656129,4.8935e-06,rs111557696,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+9,12212751,A,G,0.088748,-0.126288,0.0272397,3.54902e-06,rs75966373,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+11,8014702,C,G,0.114806,0.126679,0.0241993,1.65156e-07,rs73414910,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+12,8601245,C,T,0.0777893,-0.144601,0.0296293,1.05893e-06,rs28835914,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+13,41007530,A,C,0.197657,0.0973899,0.0194658,5.64044e-07,rs7323613,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+16,60307346,A,G,0.0282582,-0.21623,0.0468668,3.95527e-06,rs151240411,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa
+19,32976181,C,A,0.481199,0.0751317,0.0154734,1.20063e-06,rs2304101,8238,Fructosyllysine levels,TRUE,reported,Vp7KPa

@@ -1,0 +1,8 @@
+"samplesize.exposure","chr.exposure","pos.exposure","beta.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+461384,"1",204589101,-0.00750688,1.6e-09,0.00124437,"ukb-b-14238","rs3789044","A","G",0.217492,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"3",88695703,-0.00611832,3.79997e-09,0.00103842,"ukb-b-14238","rs9870832","C","T",0.426352,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"4",42037009,-0.00825255,3.90032e-12,0.00118899,"ukb-b-14238","rs11730171","G","A",0.751784,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"7",153476140,0.00570966,2.80001e-08,0.00102766,"ukb-b-14238","rs987053","T","G",0.489473,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"7",107197694,-0.00709645,1.79999e-08,0.00126034,"ukb-b-14238","rs6979198","G","T",0.210903,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"10",65333946,0.00664384,8.50002e-10,0.00108281,"ukb-b-14238","rs6479909","T","C",0.341428,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"
+461384,"20",59186773,0.00578361,1.89998e-08,0.00102946,"ukb-b-14238","rs6092970","A","G",0.525008,"Mineral and other dietary supplements: None of the above || id:ukb-b-14238",TRUE,"reported","igd"

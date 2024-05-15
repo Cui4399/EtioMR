@@ -1,0 +1,4 @@
+"beta.exposure","se.exposure","samplesize.exposure","pval.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00370967,0.000656068,360726,1.56509e-08,19976506,"2","ukb-d-20117_2","rs896809","T","C",0.271678,"Alcohol drinker status: Current || id:ukb-d-20117_2",TRUE,"reported","igd"
+0.0116837,0.00197229,360726,3.14673e-09,100239319,"4","ukb-d-20117_2","rs1229984","C","T",0.977678,"Alcohol drinker status: Current || id:ukb-d-20117_2",TRUE,"reported","igd"
+-0.00421092,0.000767856,360726,4.16102e-08,126315410,"10","ukb-d-20117_2","rs17623606","C","T",0.174646,"Alcohol drinker status: Current || id:ukb-d-20117_2",TRUE,"reported","igd"

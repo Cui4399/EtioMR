@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"18",3247256,"rs4798075","A","C",8.1197736286e-12,0.973682913499,0.142425886995492,89,"CD8_NAIVE#MYOM1",TRUE,"reported","EoddC3",NA

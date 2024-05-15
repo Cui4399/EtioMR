@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233302326,A,G,0.564223,-0.0941297,0.0145948,1.12204e-10,rs6759896,8262,Biliverdin levels,TRUE,reported,vOAIzg
+2,233764076,G,T,0.32287,0.5855,0.0141545,1e-200,rs4148324,8262,Biliverdin levels,TRUE,reported,vOAIzg
+12,21199381,G,A,0.156372,0.157055,0.0198732,2.72616e-15,rs1871395,8262,Biliverdin levels,TRUE,reported,vOAIzg

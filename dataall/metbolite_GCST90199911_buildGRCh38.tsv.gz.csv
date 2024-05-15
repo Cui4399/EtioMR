@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,183971350,C,T,0.554716,0.14065,0.0153046,3.92531e-20,rs869417,8226,Beta-citrylglutamate levels,TRUE,reported,GeMLOq
+11,89369430,T,C,0.049536,0.300604,0.0355979,3.0558e-17,rs116676205,8226,Beta-citrylglutamate levels,TRUE,reported,GeMLOq
+11,90163289,T,C,0.515178,-0.40642,0.0147553,5.22107e-167,rs489009,8226,Beta-citrylglutamate levels,TRUE,reported,GeMLOq

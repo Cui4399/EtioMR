@@ -1,0 +1,6 @@
+"pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+72748567,-0.0115315,2.87276e-17,283449,0.00136433,"1","ukb-d-1508_2","rs66495454","GTCCT","G",0.379174,"Coffee type: Instant coffee || id:ukb-d-1508_2",TRUE,"reported","igd"
+204589101,-0.00896323,1.8197e-08,283449,0.00159248,"1","ukb-d-1508_2","rs3789044","A","G",0.218008,"Coffee type: Instant coffee || id:ukb-d-1508_2",TRUE,"reported","igd"
+229951964,0.00739866,2.3969e-08,283449,0.00132574,"2","ukb-d-1508_2","rs1014174","C","T",0.470167,"Coffee type: Instant coffee || id:ukb-d-1508_2",TRUE,"reported","igd"
+65318502,-0.0071895,4.76442e-08,283449,0.00131675,"10","ukb-d-1508_2","rs5785581","CA","C",0.47915,"Coffee type: Instant coffee || id:ukb-d-1508_2",TRUE,"reported","igd"
+74817689,-0.00828385,8.76193e-09,283449,0.00143985,"15","ukb-d-1508_2","rs35107470","G","A",0.328448,"Coffee type: Instant coffee || id:ukb-d-1508_2",TRUE,"reported","igd"

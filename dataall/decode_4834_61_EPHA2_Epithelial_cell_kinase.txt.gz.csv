@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,15237019,rs115114327,T,C,0.1746,3.829e-13,0.024045,35382,0.03002,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,15242495,rs147100718,C,T,-0.1679,3.384e-09,0.028401,35381,0.02152,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,15262839,rs6687638,C,G,-0.2297,1.163e-13,0.030953,35382,0.01767,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,15272885,rs182026959,A,G,0.2298,4.482e-16,0.028284,35383,0.01971,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,15676557,rs10803396,G,A,0.0624,1.23e-12,0.008786,35385,0.32509,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16114203,rs57592659,GA,G,0.1302,3.702e-10,0.020778,35385,0.04343,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16138909,rs11260744,T,C,-0.1251,1.894e-18,0.014275,35386,0.09007,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16184399,rs36086195,T,C,-0.1365,1.288e-60,0.008311,35386,0.42999,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16480188,rs7520744,A,G,0.0976,7.158e-14,0.01304,35385,0.11259,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16514295,rs3894070,A,T,0.9175,1.072e-78,0.048852,35384,0.00731,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16578642,rs2920115,C,A,-0.349,6.992e-35,0.028326,35328,0.02355,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,16611797,rs56180247,A,G,-0.6519,2.526e-48,0.044629,35382,0.00855,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,17001247,rs191473717,A,G,0.2135,4.755e-19,0.023941,35386,0.02963,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase
+1,17152352,rs115514785,A,G,-0.232,9.656e-18,0.027046,35387,0.02435,EPHA2_Epithelial_cell_kinase,TRUE,reported,EPHA2_Epithelial_cell_kinase

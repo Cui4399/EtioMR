@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+7,107988234,rs2237704,A,C,-0.218448,1.56494831922487e-15,0.0274029,33693,0.980842,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108021281,rs151212554,T,C,-0.2032,9.28966386779936e-13,0.0284568,33693,0.0197635,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108118139,rs12666092,G,A,0.257794,2.03657308543033e-19,0.0286079,33693,0.0179933,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108177553,rs11761503,G,A,0.114291,2.70146907295727e-41,0.00849138,33693,0.724539,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108271666,rs118029090,T,C,-0.214345,2.37519899047003e-12,0.0305749,33693,0.0158979,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108285395,rs77467921,C,T,-0.181018,4.00774425280431e-11,0.0274111,33693,0.0191286,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108293910,rs35882257,A,T,-0.151551,4.37350875254386e-10,0.0242867,33693,0.0256696,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108339051,rs12056165,T,C,0.296607,1e-200,0.00819606,33693,0.300753,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108424937,rs62467879,A,G,-0.26862,7.96342693989909e-19,0.0303164,33693,0.0158253,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108529611,rs12673049,G,A,0.133741,1.92486377778253e-14,0.0174698,33693,0.0492862,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108625199,rs2108733,C,T,-0.146216,1.92930104705784e-25,0.014027,33693,0.920934,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,108868844,rs848415,T,C,0.103681,8.74842755870736e-10,0.0169117,33693,0.0517318,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis
+7,109038986,rs139678248,A,G,0.575037,7.1696837558043e-74,0.0316267,33693,0.0148095,nrcam_q92823_oid20229_v1_cardiometabolic,TRUE,reported,nrcam_q92823_oid20229_v1_cardiometabolic,chr7,108456442,cis

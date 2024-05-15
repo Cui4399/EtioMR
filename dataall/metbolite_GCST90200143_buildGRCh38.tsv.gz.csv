@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53239502,T,A,0.315769,-0.131829,0.0168562,5.24929e-15,rs17785370,7880,Nervonoylcarnitine (C24:1) levels,TRUE,reported,6z2bwM
+4,82633714,C,T,0.190234,0.232967,0.019803,5.96814e-32,rs7656006,7880,Nervonoylcarnitine (C24:1) levels,TRUE,reported,6z2bwM
+5,132341354,T,G,0.474126,-0.126411,0.0155821,4.95493e-16,rs11242109,7880,Nervonoylcarnitine (C24:1) levels,TRUE,reported,6z2bwM
+8,86499681,CA,C,0.25846,0.209741,0.0174442,2.67278e-33,rs35354130,7880,Nervonoylcarnitine (C24:1) levels,TRUE,reported,6z2bwM
+11,68794860,T,C,0.0708932,0.197526,0.0301077,5.35734e-11,rs2229738,7880,Nervonoylcarnitine (C24:1) levels,TRUE,reported,6z2bwM

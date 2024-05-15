@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,199150658,-0.146144,0.0289421,4.42884e-07,7738,ebi-a-GCST90027507,rs6427759,C,A,0.9086,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+2,33698944,-0.0799719,0.0172594,3.5946e-06,7738,ebi-a-GCST90027507,rs7576999,T,C,0.357278,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+4,79891309,0.112889,0.0233702,1.36191e-06,7738,ebi-a-GCST90027507,rs28815855,G,A,0.139873,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+5,152895508,-0.0776776,0.0164172,2.229e-06,7738,ebi-a-GCST90027507,rs55935294,C,T,0.436777,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+5,173201292,-0.174666,0.0372515,2.74777e-06,7738,ebi-a-GCST90027507,rs72809331,A,G,0.0659944,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+8,93352155,0.106925,0.0215729,7.17827e-07,7738,ebi-a-GCST90027507,rs57752094,A,C,0.170457,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+10,6980002,-0.1425,0.0297381,1.65253e-06,7738,ebi-a-GCST90027507,rs11254890,G,A,0.0899903,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+14,29489580,0.157182,0.0306758,2.99164e-07,7738,ebi-a-GCST90027507,rs77069323,G,C,0.0827472,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd
+17,59554377,-0.0766053,0.0167355,4.70782e-06,7738,ebi-a-GCST90027507,rs17601633,G,A,0.360364,PEPTIDOGLYCANSYN.PWY..peptidoglycan.biosynthesis.I..meso.diaminopimelate.containing.,TRUE,reported,igd

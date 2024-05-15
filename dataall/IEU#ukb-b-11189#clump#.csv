@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","chr.exposure","se.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.10002e-17,64949,"6",0.000849186,32427179,-0.00727234,"ukb-b-11189","rs1548306","T","A",0.666268,"Type of special diet followed: Gluten-free || id:ukb-b-11189",TRUE,"reported","igd"
+4.30031e-11,64949,"6",0.000882017,32594953,0.00581641,"ukb-b-11189","rs9271842","A","C",0.391156,"Type of special diet followed: Gluten-free || id:ukb-b-11189",TRUE,"reported","igd"
+2.09991e-28,64949,"6",0.000919461,32629091,0.0101643,"ukb-b-11189","rs9273595","G","C",0.261591,"Type of special diet followed: Gluten-free || id:ukb-b-11189",TRUE,"reported","igd"

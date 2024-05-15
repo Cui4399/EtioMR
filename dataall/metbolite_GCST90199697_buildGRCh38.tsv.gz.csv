@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46930626,C,G,0.791893,0.136271,0.0185101,1.81245e-13,rs4660978,8240,Dodecanedioate levels,TRUE,reported,LqyrOS

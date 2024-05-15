@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,71189777,rs35684537,AAAA,AAA,-0.0468,1.984e-08,0.008337,35375,0.34602,CALB2_CALB2,TRUE,reported,CALB2_CALB2
+16,72115162,rs6416742,T,C,0.0519,6.484e-10,0.008401,35375,0.3142,CALB2_CALB2,TRUE,reported,CALB2_CALB2

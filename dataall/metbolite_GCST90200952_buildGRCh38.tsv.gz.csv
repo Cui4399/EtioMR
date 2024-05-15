@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,115334455,G,A,0.155262,0.136549,0.0295196,3.73357e-06,rs77838954,4350,Adenosine 5'-diphosphate (ADP) to cytidine ratio,TRUE,reported,bAPPxU
+8,69134758,T,C,0.0178322,0.403419,0.0802932,5.05226e-07,rs117571011,4350,Adenosine 5'-diphosphate (ADP) to cytidine ratio,TRUE,reported,bAPPxU
+16,73302646,G,A,0.110569,-0.17311,0.0338047,3.04111e-07,rs62054724,4350,Adenosine 5'-diphosphate (ADP) to cytidine ratio,TRUE,reported,bAPPxU
+20,63261160,A,C,0.703528,-0.111416,0.0230843,1.38955e-06,rs2281566,4350,Adenosine 5'-diphosphate (ADP) to cytidine ratio,TRUE,reported,bAPPxU

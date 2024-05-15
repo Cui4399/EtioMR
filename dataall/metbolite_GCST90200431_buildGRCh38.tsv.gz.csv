@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88109768,G,C,0.355556,0.0773214,0.0163856,2.37179e-06,rs2622621,8265,Alanine levels,TRUE,reported,9o7bkz
+4,184216100,C,T,0.558631,0.0716884,0.0155599,4.08008e-06,rs1882328,8265,Alanine levels,TRUE,reported,9o7bkz
+5,113166104,C,T,0.316022,0.0805929,0.0166601,1.31492e-06,rs12652257,8265,Alanine levels,TRUE,reported,9o7bkz
+7,18097865,G,A,0.0198056,0.267893,0.0556786,1.4987e-06,rs117125924,8265,Alanine levels,TRUE,reported,9o7bkz
+7,112580220,A,G,0.028706,0.236273,0.0468576,4.59835e-07,rs151325649,8265,Alanine levels,TRUE,reported,9o7bkz
+9,18387912,T,G,0.842725,0.0997156,0.0213495,3.00279e-06,rs10121542,8265,Alanine levels,TRUE,reported,9o7bkz
+9,33576860,A,G,0.0168915,-0.290375,0.0600797,1.34381e-06,rs149662767,8265,Alanine levels,TRUE,reported,9o7bkz
+13,83187946,T,C,0.509705,-0.0775448,0.0154523,5.21209e-07,rs9546320,8265,Alanine levels,TRUE,reported,9o7bkz
+13,112424815,T,C,0.0348992,-0.193348,0.0416623,3.46996e-06,rs61960818,8265,Alanine levels,TRUE,reported,9o7bkz
+14,95007378,T,A,0.45153,0.0713775,0.0155374,4.35011e-06,rs7145455,8265,Alanine levels,TRUE,reported,9o7bkz
+16,63194787,A,C,0.0202228,-0.250454,0.0543719,4.09859e-06,rs182328839,8265,Alanine levels,TRUE,reported,9o7bkz

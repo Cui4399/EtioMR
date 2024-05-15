@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,20701404,rs117455138,A,G,0.143306,3.88704886246667e-08,0.026075,33734,0.0229266,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20710854,rs8003813,C,T,-0.279156,1e-200,0.00726027,33734,0.521254,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20723191,rs143320933,T,C,0.323188,8.71164159824533e-30,0.0285101,33734,0.0179176,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20748439,rs45556536,T,C,0.215137,9.41239186908965e-13,0.0301362,33734,0.0150848,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20776320,rs12586813,A,G,-0.0945714,2.09990670376244e-34,0.00773154,33734,0.668584,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20778681,rs67668132,T,G,-0.443945,1e-200,0.00855023,33734,0.23487,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20808740,rs12434700,A,G,-0.148034,1.97696964011186e-12,0.0210392,33734,0.0305923,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20815945,rs28886426,A,G,0.0730384,1.53709248761616e-23,0.00730446,33734,0.433835,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis
+14,20992831,rs147069902,T,G,-0.123617,7.14381172154813e-10,0.0200583,33734,0.0349082,rnase6_q93091_oid30689_v1_inflammation_ii,TRUE,reported,rnase6_q93091_oid30689_v1_inflammation_ii,chr14,20780955,cis

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,50842312,rs2659051,G,C,0.0657,1.758e-10,0.010296,35369,0.17791,KLK3_PSA,TRUE,reported,KLK3_PSA
+19,50867287,rs2739468,C,A,0.0472,5.409e-09,0.00809,35370,0.38877,KLK3_PSA,TRUE,reported,KLK3_PSA

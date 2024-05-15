@@ -1,0 +1,7 @@
+"chr.exposure","pval.exposure","se.exposure","samplesize.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",6.29941e-11,0.000196453,462933,-0.00128416,109817590,"ukb-b-13664","rs12740374","T","G",0.221164,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"
+"2",2.49977e-12,0.000171905,462933,0.00120432,21294039,"ukb-b-13664","rs4665492","C","A",0.347649,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"
+"8",3.90032e-11,0.00017763,462933,-0.00117347,126507389,"ukb-b-13664","rs2954038","A","C",0.697575,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"
+"11",1.99986e-13,0.000239737,462933,-0.00176241,116648917,"ukb-b-13664","rs964184","C","G",0.866372,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"
+"19",6.79986e-19,0.000208391,462933,0.00185022,45422946,"ukb-b-13664","rs4420638","G","A",0.188871,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"
+"19",3.50002e-10,0.000247471,462933,-0.00155286,11210314,"ukb-b-13664","rs17248783","A","G",0.125719,"Treatment/medication code: rosuvastatin || id:ukb-b-13664",TRUE,"reported","igd"

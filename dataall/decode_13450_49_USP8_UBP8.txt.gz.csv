@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,50433826,rs62019074,C,T,0.1017,1.104e-20,0.010906,35355,0.16136,USP8_UBP8,TRUE,reported,USP8_UBP8

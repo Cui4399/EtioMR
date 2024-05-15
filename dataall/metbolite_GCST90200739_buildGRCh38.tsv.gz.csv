@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,18973294,C,T,0.0939738,-0.220548,0.0259036,1.67737e-17,rs2540644,8190,Adenosine 5'-monophosphate (AMP) to proline ratio,TRUE,reported,iD6CZW

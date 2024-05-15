@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,49886176,rs76829642,T,C,-0.4088,9.451e-11,0.06313,35358,0.00379,GPD1_GPDA,TRUE,reported,GPD1_GPDA

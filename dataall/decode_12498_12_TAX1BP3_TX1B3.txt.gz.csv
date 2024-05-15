@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,3681164,rs222773,G,C,0.0891,6.651e-28,0.008137,35355,0.46145,TAX1BP3_TX1B3,TRUE,reported,TAX1BP3_TX1B3

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,73696328,rs79237872,T,G,-0.1407,4.311e-08,0.025686,35347,0.02388,CXCL8_IL_8,TRUE,reported,CXCL8_IL_8

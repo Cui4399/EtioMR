@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22251216,G,A,0.0162034,0.283083,0.0606415,3.03925e-06,rs115558877,8272,Trigonelline levels,TRUE,reported,UT8Q75
+1,74384420,A,G,0.0103465,-0.375581,0.0769197,1.04609e-06,rs114830966,8272,Trigonelline levels,TRUE,reported,UT8Q75
+2,16476976,A,G,0.974151,0.243317,0.0498295,1.04486e-06,rs1594297,8272,Trigonelline levels,TRUE,reported,UT8Q75
+3,46412462,A,G,0.0322933,-0.208306,0.0441862,2.42575e-06,rs62246138,8272,Trigonelline levels,TRUE,reported,UT8Q75
+3,131431422,A,G,0.855362,0.105478,0.0215906,1.03242e-06,rs11710141,8272,Trigonelline levels,TRUE,reported,UT8Q75
+6,43623319,A,G,0.0102711,-0.392277,0.0769037,3.38053e-07,rs45603636,8272,Trigonelline levels,TRUE,reported,UT8Q75
+6,54906289,C,T,0.0115656,-0.338886,0.0722547,2.72995e-06,rs115151170,8272,Trigonelline levels,TRUE,reported,UT8Q75
+14,49488289,A,G,0.0166484,0.296117,0.0603473,9.2531e-07,rs115520044,8272,Trigonelline levels,TRUE,reported,UT8Q75
+15,93079228,C,A,0.0162774,-0.285605,0.060652,2.49049e-06,rs77535466,8272,Trigonelline levels,TRUE,reported,UT8Q75
+17,35080621,C,T,0.0510204,0.172201,0.0346761,6.83523e-07,rs118074685,8272,Trigonelline levels,TRUE,reported,UT8Q75

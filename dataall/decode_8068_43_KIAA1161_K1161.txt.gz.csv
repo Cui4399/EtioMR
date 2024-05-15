@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,34367518,rs4879780,G,A,0.1202,7.085e-51,0.008012,35350,0.38619,KIAA1161_K1161,TRUE,reported,KIAA1161_K1161

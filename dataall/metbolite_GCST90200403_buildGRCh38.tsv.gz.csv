@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210469984,C,A,0.475991,0.0990075,0.0153445,1.10159e-10,rs3732055,8157,Citrulline levels,TRUE,reported,Q4O27J
+9,130448288,C,T,0.41653,0.105952,0.0160104,3.64805e-11,rs10901047,8157,Citrulline levels,TRUE,reported,Q4O27J

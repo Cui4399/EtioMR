@@ -1,0 +1,4 @@
+"samplesize.exposure","pval.exposure","se.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,2.19999e-08,0.000697911,"6",-0.00390669,12903957,"ukb-b-16866","rs9349379","G","A",0.4055,"Treatment/medication code: ibuprofen || id:ukb-b-16866",TRUE,"reported","igd"
+462933,3.69999e-15,0.000704035,"12",-0.00553641,57526646,"ukb-b-16866","rs4759276","A","G",0.389896,"Treatment/medication code: ibuprofen || id:ukb-b-16866",TRUE,"reported","igd"
+462933,7.90005e-09,0.000882517,"17",0.00509171,43488382,"ukb-b-16866","rs8071011","T","C",0.185822,"Treatment/medication code: ibuprofen || id:ukb-b-16866",TRUE,"reported","igd"

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309764,-0.0976808,0.0167285,5.24516e-09,rs1047891,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+8,58480714,G,A,0.661757,-0.109001,0.0163091,2.33431e-11,rs4738684,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+10,99802867,T,A,0.0516823,-0.220866,0.0348672,2.38146e-10,rs72838105,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+11,110377073,T,C,0.315414,0.127867,0.0167976,2.69411e-14,rs1573558,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+12,20979253,G,A,0.0533916,0.250413,0.0339382,1.60106e-13,rs7306128,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+12,20979640,G,A,0.0533916,0.250413,0.0339382,1.60106e-13,rs11829410,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+12,21214699,A,G,0.165816,0.42381,0.0200948,9.70583e-99,rs57743625,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+12,21268836,T,G,0.14255,-0.205816,0.021847,4.47738e-21,rs4149006,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh
+13,103065958,T,C,0.047463,0.287683,0.0363314,2.40789e-15,rs55971546,8249,Taurocholenate sulfate levels,TRUE,reported,KB1mNh

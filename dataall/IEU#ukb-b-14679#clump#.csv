@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","pval.exposure","pos.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000206786,461364,2.99999e-08,188143935,0.0011462,"1","ukb-b-14679","rs34452067","A","G",0.20772,"Sources of admission to hospital (recoded): Transfer within NHS provider || id:ukb-b-14679",TRUE,"reported","igd"
+0.000169862,461364,2.19999e-08,112472773,0.000950754,"1","ukb-b-14679","rs1443928","T","C",0.477086,"Sources of admission to hospital (recoded): Transfer within NHS provider || id:ukb-b-14679",TRUE,"reported","igd"
+0.000196194,461364,1.7e-08,38798648,-0.00110563,"4","ukb-b-14679","rs5743618","A","C",0.233659,"Sources of admission to hospital (recoded): Transfer within NHS provider || id:ukb-b-14679",TRUE,"reported","igd"

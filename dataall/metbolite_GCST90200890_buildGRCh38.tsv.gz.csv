@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,39411566,T,C,0.516374,-0.0766166,0.016114,1.98775e-06,rs2269349,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+3,134416433,C,T,0.0243549,0.25041,0.052076,1.52034e-06,rs191245370,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+4,48044534,A,T,0.159618,0.101406,0.022,4.03937e-06,rs76965031,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+7,128733480,A,G,0.0565515,-0.191206,0.0348087,3.95039e-08,rs4731512,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+7,148578598,T,C,0.240688,0.0890223,0.0190211,2.86599e-06,rs11773328,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+8,8848917,T,A,0.0483524,-0.17683,0.037852,2.98856e-06,rs112929420,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+10,30003668,T,C,0.456008,-0.0754768,0.016196,3.15894e-06,rs11007851,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+13,107427186,C,A,0.200513,0.0944911,0.0203977,3.61387e-06,rs9520439,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+15,49754660,A,T,0.0414899,-0.19132,0.0404719,2.27596e-06,rs16962867,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+16,64529200,G,C,0.0137022,-0.333692,0.0691251,1.38349e-06,rs113867701,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+17,10808360,A,C,0.0798948,0.148448,0.0303515,1.0035e-06,rs76149982,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+18,76980534,T,C,0.0135491,0.317062,0.0684471,3.61776e-06,rs72987247,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68
+19,52505874,G,A,0.0318379,0.213679,0.0454245,2.55047e-06,rs117409421,7610,Cortisol to taurocholate ratio,TRUE,reported,H51q68

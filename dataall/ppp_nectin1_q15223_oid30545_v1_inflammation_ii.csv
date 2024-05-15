@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+11,119728019,rs3829260,C,G,-0.0428078,3.25641690031725e-08,0.00774513,32981,0.541213,nectin1_q15223_oid30545_v1_inflammation_ii,TRUE,reported,nectin1_q15223_oid30545_v1_inflammation_ii,chr11,119728725,cis

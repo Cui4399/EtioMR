@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,202988919,rs75266124,A,G,-0.3853,1.133e-09,0.063273,35361,0.00435,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203199525,rs138791347,T,C,-0.2936,8.992e-31,0.025457,35364,0.02805,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203349016,rs16851364,A,G,-0.2396,1.326e-54,0.015397,35368,0.07712,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203361073,rs6667874,G,C,-0.0764,1.755e-18,0.00871,35368,0.33899,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203369397,rs12756933,T,G,0.0564,1.129e-10,0.008746,35366,0.33627,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203411503,rs116071660,A,G,-0.1904,2.559e-12,0.0272,35368,0.02492,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203502501,rs4579820,T,G,0.0591,8.988e-11,0.009116,35365,0.29231,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin
+1,203567364,rs111496528,GG,GT,-0.1482,3.268e-10,0.023578,35362,0.03093,FMOD_fibromodulin,TRUE,reported,FMOD_fibromodulin

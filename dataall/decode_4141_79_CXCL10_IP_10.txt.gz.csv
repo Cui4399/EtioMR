@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,76016125,rs6532086,A,G,0.0689,1.65e-17,0.008091,35354,0.49372,CXCL10_IP_10,TRUE,reported,CXCL10_IP_10
+4,76301092,rs1532985,T,G,0.4029,9.159e-16,0.050127,35357,0.00693,CXCL10_IP_10,TRUE,reported,CXCL10_IP_10
+4,76488305,rs146877722,A,T,0.2059,3.44e-10,0.0328,35356,0.0157,CXCL10_IP_10,TRUE,reported,CXCL10_IP_10

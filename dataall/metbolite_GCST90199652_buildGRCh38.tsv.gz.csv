@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.609726,0.138779,0.0159732,3.68039e-18,rs1354034,8055,1-stearoyl-2-oleoyl-GPS (18:0/18:1) levels,TRUE,reported,q4LrNS

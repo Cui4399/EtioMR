@@ -1,0 +1,7 @@
+pval.exposure,pos.exposure,samplesize.exposure,chr.exposure,se.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6.08135e-143,51731176,1554,19,0.0393,-1.115,ebi-a-GCST90001955,rs7245846,A,G,0.1934,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd
+1.63795e-13,51742145,1554,19,0.07057,-0.5252,ebi-a-GCST90001955,rs75773078,A,G,0.0705,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd
+3.07326e-13,51538952,1554,19,0.0459,0.3376,ebi-a-GCST90001955,rs79377141,A,G,0.2008,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd
+5.06641e-15,51574038,1554,19,0.0424,-0.3351,ebi-a-GCST90001955,rs7351079,G,A,0.258,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd
+1.05609e-13,51897760,1554,19,0.06836,-0.5128,ebi-a-GCST90001955,rs111695695,A,C,0.0772,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd
+5.20955e-12,51868443,1554,19,0.07256,0.5046,ebi-a-GCST90001955,rs58483275,T,C,0.0734,CD33 on Immature Myeloid-Derived Suppressor Cells || id:ebi-a-GCST90001955,TRUE,reported,igd

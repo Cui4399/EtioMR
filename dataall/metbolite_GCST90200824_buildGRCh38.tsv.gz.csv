@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,39896111,C,G,0.182171,-0.125826,0.0271912,3.70204e-06,rs41297593,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+1,181477189,C,G,0.0419436,0.240026,0.0521154,4.11153e-06,rs587449,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+2,234191055,C,A,0.028941,0.298939,0.0615344,1.18533e-06,rs80332390,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+4,130625492,A,G,0.0101188,0.523875,0.103418,4.07109e-07,rs62319264,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+5,43888736,C,G,0.0414104,-0.23812,0.0513618,3.55005e-06,rs13185925,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+9,29378733,G,A,0.705613,0.105739,0.0229587,4.11246e-06,rs12003375,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+10,122384116,T,C,0.0691734,-0.193743,0.0402396,1.47401e-06,rs77506352,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+12,76187259,C,T,0.0184859,-0.349971,0.0762943,4.49416e-06,rs118110285,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+12,94596478,T,C,0.0106266,-0.473518,0.100809,2.638e-06,rs113538176,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+13,42889995,T,C,0.330609,0.10023,0.0218441,4.46589e-06,rs9533291,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH
+16,4812786,C,T,0.14604,-0.133521,0.0289766,4.06791e-06,rs112036394,4570,Adenosine 5'-diphosphate (ADP) to sulfate ratio,TRUE,reported,S91kvH

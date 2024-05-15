@@ -1,0 +1,3 @@
+"pos.exposure","chr.exposure","samplesize.exposure","beta.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32107851,"6",462933,0.00173742,1.5e-10,0.000271093,"ukb-b-11566","rs3134962","A","G",0.171409,"Treatment/medication code: calcichew d3 tablet || id:ukb-b-11566",TRUE,"reported","igd"
+32379383,"6",462933,0.00186291,9.80009e-10,0.000304731,"ukb-b-11566","rs3129962","A","G",0.129242,"Treatment/medication code: calcichew d3 tablet || id:ukb-b-11566",TRUE,"reported","igd"

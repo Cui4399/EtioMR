@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27402794,G,A,0.43369,0.0890243,0.0156137,1.18635e-08,rs1260338,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+8,58397865,G,A,0.183276,-0.113683,0.0200929,1.53274e-08,rs12544703,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+11,61790331,C,T,0.345968,-0.168221,0.0160894,1.38434e-25,rs102275,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+14,67509105,C,A,0.476476,-0.356841,0.0149615,9.99467e-126,rs1077989,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+15,58395404,C,T,0.594647,-0.108969,0.01603,1.062e-11,rs174418,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+15,58431740,A,G,0.21591,0.106229,0.0188428,1.72386e-08,rs2070895,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI
+16,56959249,A,G,0.317989,0.144329,0.0164004,1.36369e-18,rs12149545,8266,1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0) levels,TRUE,reported,0OY0FI

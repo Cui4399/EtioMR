@@ -1,0 +1,6 @@
+"beta.exposure","pos.exposure","chr.exposure","pval.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0191656,60779840,"2",4.35382e-08,0.00349994,334169,"ukb-a-514","rs7577014","G","A",0.705096,"Frequency of stair climbing in last 4 weeks || id:ukb-a-514",TRUE,"reported","igd"
+-0.0189491,15685137,"3",1.04836e-08,0.00331113,334169,"ukb-a-514","rs7640807","C","T",0.352833,"Frequency of stair climbing in last 4 weeks || id:ukb-a-514",TRUE,"reported","igd"
+0.0193077,60361550,"5",1.35027e-09,0.00318532,334169,"ukb-a-514","rs56284222","T","C",0.440307,"Frequency of stair climbing in last 4 weeks || id:ukb-a-514",TRUE,"reported","igd"
+0.0196502,104186876,"14",2.85108e-09,0.00330804,334169,"ukb-a-514","rs10143623","A","G",0.369967,"Frequency of stair climbing in last 4 weeks || id:ukb-a-514",TRUE,"reported","igd"
+0.023936,45411941,"19",3.94348e-08,0.00435715,334169,"ukb-a-514","rs429358","C","T",0.156331,"Frequency of stair climbing in last 4 weeks || id:ukb-a-514",TRUE,"reported","igd"

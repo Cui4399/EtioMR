@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,152779350,rs12509964,A,G,0.15461,3.47216216172218e-90,0.00767778,33874,0.397391,arfip1_p53367_oid31024_v1_neurology_ii,TRUE,reported,arfip1_p53367_oid31024_v1_neurology_ii,chr4,152779936,cis

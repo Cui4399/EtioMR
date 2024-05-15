@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,200531320,C,G,0.192289,0.130945,0.0194762,1.7761e-11,rs58909877,8164,Hydantoin-5-propionate levels,TRUE,reported,CFvraH
+12,95943386,A,G,0.246983,0.124952,0.0177719,2.05215e-12,rs7955759,8164,Hydantoin-5-propionate levels,TRUE,reported,CFvraH
+18,36209431,C,T,0.0491642,-0.195447,0.0355876,3.97405e-08,rs59038625,8164,Hydantoin-5-propionate levels,TRUE,reported,CFvraH

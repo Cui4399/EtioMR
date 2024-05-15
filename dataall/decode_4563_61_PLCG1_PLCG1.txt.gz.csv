@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,41168825,rs753381,C,T,0.0669,5.799e-17,0.007994,35372,0.47315,PLCG1_PLCG1,TRUE,reported,PLCG1_PLCG1

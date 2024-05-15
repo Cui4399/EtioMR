@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,44238591,rs56124762,G,A,-0.0798,4.284e-18,0.009203,35265,0.25396,ICOSLG_B7_H2,TRUE,reported,ICOSLG_B7_H2

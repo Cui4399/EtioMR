@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,7736670,rs117133715,CCTTT,CCTTC,0.2029,3.879e-38,0.015715,35357,0.0746,CLEC4G_CLC4G,TRUE,reported,CLEC4G_CLC4G

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,55039974,T,G,0.01771,-0.346942,0.0575234,1.62623e-09,rs11591147,8140,Palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0) levels,TRUE,reported,RtbNAf
+7,73578020,T,C,0.118895,0.139164,0.0234818,3.09567e-09,rs13246490,8140,Palmitoyl-sphingosine-phosphoethanolamine (d18:1/16:0) levels,TRUE,reported,RtbNAf

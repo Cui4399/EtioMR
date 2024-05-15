@@ -1,0 +1,23 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,134416433,C,T,0.0247266,-0.25576,0.049595,2.50966e-07,rs191245370,8247,Glycocholate levels,TRUE,reported,amJqPj
+4,35294993,T,C,0.124462,-0.108998,0.0238305,4.78795e-06,rs62296161,8247,Glycocholate levels,TRUE,reported,amJqPj
+4,89045867,C,T,0.0379993,-0.215714,0.0399835,6.84924e-08,rs113379968,8247,Glycocholate levels,TRUE,reported,amJqPj
+6,33978144,G,A,0.254326,0.0874598,0.0178912,1.0164e-06,rs4713731,8247,Glycocholate levels,TRUE,reported,amJqPj
+6,56210462,A,C,0.0216094,0.254636,0.0523993,1.17662e-06,rs62411867,8247,Glycocholate levels,TRUE,reported,amJqPj
+6,92134495,A,G,0.152174,0.0995674,0.0216731,4.34718e-06,rs9345201,8247,Glycocholate levels,TRUE,reported,amJqPj
+7,151699025,T,C,0.0176659,0.280718,0.0587593,1.77554e-06,rs144656974,8247,Glycocholate levels,TRUE,reported,amJqPj
+8,58172280,C,A,0.812887,0.0944722,0.0199097,2.08464e-06,rs5001310,8247,Glycocholate levels,TRUE,reported,amJqPj
+10,76556482,A,G,0.968674,-0.217018,0.0441181,8.69718e-07,rs2637258,8247,Glycocholate levels,TRUE,reported,amJqPj
+11,25978069,G,A,0.0268489,-0.224645,0.0474177,2.16299e-06,rs79549670,8247,Glycocholate levels,TRUE,reported,amJqPj
+11,107476508,A,G,0.0328707,-0.200588,0.0431541,3.34869e-06,rs17107008,8247,Glycocholate levels,TRUE,reported,amJqPj
+12,127130762,T,C,0.0134013,0.325029,0.0683112,1.95456e-06,rs11058996,8247,Glycocholate levels,TRUE,reported,amJqPj
+13,106902887,C,T,0.300352,-0.0813769,0.0168162,1.3037e-06,rs9514591,8247,Glycocholate levels,TRUE,reported,amJqPj
+15,27055226,T,C,0.727522,0.0862892,0.0181108,1.89303e-06,rs1017363,8247,Glycocholate levels,TRUE,reported,amJqPj
+16,80141559,T,G,0.0461097,-0.174761,0.0363431,1.51956e-06,rs60556060,8247,Glycocholate levels,TRUE,reported,amJqPj
+17,10808360,A,C,0.0817345,-0.135996,0.0287808,2.29839e-06,rs76149982,8247,Glycocholate levels,TRUE,reported,amJqPj
+17,19890651,G,C,0.0337127,-0.205649,0.0432441,1.97926e-06,rs72841972,8247,Glycocholate levels,TRUE,reported,amJqPj
+18,58225985,T,C,0.318896,-0.0904717,0.0166863,5.89644e-08,rs292450,8247,Glycocholate levels,TRUE,reported,amJqPj
+19,1694511,A,G,0.138494,-0.114614,0.0224756,3.40596e-07,rs62130083,8247,Glycocholate levels,TRUE,reported,amJqPj
+20,11894621,A,G,0.0482323,-0.165672,0.0360073,4.20351e-06,rs6040971,8247,Glycocholate levels,TRUE,reported,amJqPj
+20,31853669,G,A,0.049883,-0.164231,0.0356824,4.17321e-06,rs62206283,8247,Glycocholate levels,TRUE,reported,amJqPj
+20,57144721,G,T,0.446841,-0.0729457,0.015816,3.98554e-06,rs6123665,8247,Glycocholate levels,TRUE,reported,amJqPj

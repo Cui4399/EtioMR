@@ -1,0 +1,8 @@
+"pval.exposure","beta.exposure","pos.exposure","se.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+8.60003e-10,-0.0335106,3038530,0.0054644,"1",95998,"ukb-b-3549","rs6704012","C","T",0.224582,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+4e-09,0.0290273,157406249,0.00493386,"2",95998,"ukb-b-3549","rs2116665","A","G",0.704056,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+1.29999e-08,0.0304659,178587296,0.00535749,"5",95998,"ukb-b-3549","rs12187962","T","C",0.235997,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+3.59998e-08,-0.027317,18711925,0.00496033,"6",95998,"ukb-b-3549","rs9465193","T","C",0.710286,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+6.90001e-10,0.0348418,77588548,0.00564877,"8",95998,"ukb-b-3549","rs10105863","G","T",0.201928,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+4.60045e-13,-0.0771773,31285284,0.0106653,"11",95998,"ukb-b-3549","rs11602582","A","G",0.046704,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"
+3.29997e-09,0.0279141,7459347,0.00472014,"16",95998,"ukb-b-3549","rs10500355","A","T",0.36757,"3mm strong meridian angle (left) || id:ukb-b-3549",TRUE,"reported","igd"

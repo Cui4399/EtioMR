@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,11233323,0.146631,0.0321029,4.93492e-06,7738,ebi-a-GCST90027557,rs4669688,C,T,0.622084,PWY.5705..allantoin.degradation.to.glyoxylate.III,TRUE,reported,igd
+3,186549155,0.166947,0.0328605,3.7647e-07,7738,ebi-a-GCST90027557,rs10937272,G,C,0.338586,PWY.5705..allantoin.degradation.to.glyoxylate.III,TRUE,reported,igd
+3,105175449,-0.190818,0.0396411,1.48211e-06,7738,ebi-a-GCST90027557,rs16851172,G,A,0.193511,PWY.5705..allantoin.degradation.to.glyoxylate.III,TRUE,reported,igd
+4,26341041,0.140849,0.0307359,4.59335e-06,7738,ebi-a-GCST90027557,rs28465688,A,C,0.531041,PWY.5705..allantoin.degradation.to.glyoxylate.III,TRUE,reported,igd
+8,17719930,0.211638,0.0404533,1.67989e-07,7738,ebi-a-GCST90027557,rs7822956,G,A,0.814694,PWY.5705..allantoin.degradation.to.glyoxylate.III,TRUE,reported,igd

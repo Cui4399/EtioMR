@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75758325,T,C,0.308399,-0.300268,0.0158298,3.10461e-80,rs2185152,8225,Decanoylcarnitine (C10) levels,TRUE,reported,CftmLp
+4,158708662,C,A,0.264448,-0.186164,0.0169504,4.62169e-28,rs17843966,8225,Decanoylcarnitine (C10) levels,TRUE,reported,CftmLp
+16,16033378,A,G,0.61116,0.0979324,0.0157383,4.89151e-10,rs2062541,8225,Decanoylcarnitine (C10) levels,TRUE,reported,CftmLp

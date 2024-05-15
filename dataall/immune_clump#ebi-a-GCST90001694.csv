@@ -1,0 +1,4 @@
+beta.exposure,se.exposure,pos.exposure,samplesize.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.2159,0.03275,87035076,3440,2,5.00495e-11,ebi-a-GCST90001694,rs6755452,G,T,0.189,CD28- CD4-CD8- T cell %T cell || id:ebi-a-GCST90001694,TRUE,reported,igd
+0.4291,0.07557,102294761,3440,6,1.477e-08,ebi-a-GCST90001694,rs139249541,G,A,0.0312,CD28- CD4-CD8- T cell %T cell || id:ebi-a-GCST90001694,TRUE,reported,igd
+0.1701,0.02733,33794697,3440,17,5.51303e-10,ebi-a-GCST90001694,rs9896155,G,A,0.6741,CD28- CD4-CD8- T cell %T cell || id:ebi-a-GCST90001694,TRUE,reported,igd

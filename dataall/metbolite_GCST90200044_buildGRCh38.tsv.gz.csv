@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,44923535,A,G,0.0583313,0.240812,0.0329902,2.88805e-13,rs141622900,8258,1-(1-enyl-stearoyl)-2-oleoyl-GPE (p-18:0/18:1) levels,TRUE,reported,yMEAv8

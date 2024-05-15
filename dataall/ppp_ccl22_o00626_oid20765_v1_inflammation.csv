@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+16,57049320,rs11648592,A,G,-0.165543,4.6748749687688e-10,0.0265734,33330,0.0208101,ccl22_o00626_oid20765_v1_inflammation,TRUE,reported,ccl22_o00626_oid20765_v1_inflammation,chr16,57358782,cis
+16,57278621,rs146035976,T,C,-0.186852,7.43875062907566e-12,0.0272817,33330,0.0220486,ccl22_o00626_oid20765_v1_inflammation,TRUE,reported,ccl22_o00626_oid20765_v1_inflammation,chr16,57358782,cis
+16,57350214,rs72784878,G,A,0.185285,4.73805393338828e-56,0.0117466,33330,0.113575,ccl22_o00626_oid20765_v1_inflammation,TRUE,reported,ccl22_o00626_oid20765_v1_inflammation,chr16,57358782,cis
+16,57358821,rs4359426,C,A,0.275375,1.02023448722206e-54,0.0176767,33330,0.95297,ccl22_o00626_oid20765_v1_inflammation,TRUE,reported,ccl22_o00626_oid20765_v1_inflammation,chr16,57358782,cis
+16,57529061,rs79928291,T,C,-0.533296,2.30409297605583e-55,0.0340258,33330,0.0137588,ccl22_o00626_oid20765_v1_inflammation,TRUE,reported,ccl22_o00626_oid20765_v1_inflammation,chr16,57358782,cis

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,227802190,T,C,0.230257,0.0870865,0.0182194,1.75401e-06,rs3138108,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+5,61263052,T,C,0.0742635,-0.13605,0.0295137,4.032e-06,rs7708674,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+5,158982497,T,C,0.18189,0.0997286,0.0200715,6.74151e-07,rs66676945,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+8,9495449,T,C,0.0196162,-0.256812,0.0555271,3.74623e-06,rs12216870,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+9,26798495,A,G,0.0321797,-0.207867,0.044132,2.47574e-06,rs74981086,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+9,84052078,C,A,0.809931,-0.102991,0.0198761,2.19934e-07,rs1020048,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+10,101716593,T,C,0.0434198,-0.192677,0.0380845,4.2103e-07,rs76954145,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+12,110706960,A,G,0.14571,0.1179,0.0220764,9.26651e-08,rs78762284,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+19,43984037,T,G,0.464723,0.076227,0.0154744,8.39336e-07,rs390784,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk
+20,51754403,C,T,0.0354437,-0.222442,0.0421167,1.2809e-07,rs146902454,8243,Methionine sulfoxide levels,TRUE,reported,Qd6Ndk

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,47315150,rs78816913,T,C,0.0471143,1.19157120583642e-09,0.00774731,31336,0.273475,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47418502,rs73103626,A,G,-0.0737799,1.75238690830403e-09,0.0122573,31336,0.0843477,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47517189,rs147812597,T,C,0.228216,4.04855459370742e-12,0.0329056,31336,0.0110617,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47586609,rs11168167,T,C,0.274342,1e-200,0.00701673,31336,0.388255,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47731419,rs12425816,T,G,-0.120542,6.91671689289565e-24,0.011961,31336,0.0884211,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47747374,rs74088038,T,G,-0.14202,3.36558063378504e-08,0.0257224,31336,0.0180318,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47754154,rs34739581,A,G,-0.220516,2.51188643150958e-16,0.0269096,31336,0.0169475,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47817895,rs77063794,G,A,0.327266,3.18786557569589e-27,0.0302827,31336,0.0132348,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47835038,rs17721101,C,A,0.126514,1.74260918982593e-23,0.0126683,31336,0.0790943,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47838389,rs6580639,T,C,0.10868,8.5349307161355e-09,0.0188761,31336,0.966428,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis
+12,47843520,rs11574129,G,A,-0.299174,8.49180475036311e-24,0.0297456,31336,0.0133712,endou_p21128_oid31498_v1_oncology_ii,TRUE,reported,endou_p21128_oid31498_v1_oncology_ii,chr12,47725572,cis

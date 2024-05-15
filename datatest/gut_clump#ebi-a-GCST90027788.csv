@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+12,57322492,-0.181533,0.0369281,8.83995e-07,7738,ebi-a-GCST90027788,rs1872436,T,C,0.191344,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiales_noname.g__Flavonifractor.s__Flavonifractor_plautii,TRUE,reported,igd

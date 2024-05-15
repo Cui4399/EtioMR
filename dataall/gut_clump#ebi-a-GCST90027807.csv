@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,18348124,-0.151171,0.0318897,2.13246e-06,7738,ebi-a-GCST90027807,rs4832418,A,G,0.230343,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Dialister.s__Dialister_invisus,TRUE,reported,igd
+8,14120793,-0.257391,0.0554762,3.48963e-06,7738,ebi-a-GCST90027807,rs55976608,T,C,0.0592176,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Dialister.s__Dialister_invisus,TRUE,reported,igd
+16,57796861,-0.139969,0.0284691,8.81008e-07,7738,ebi-a-GCST90027807,rs2965800,A,G,0.675362,k__Bacteria.p__Firmicutes.c__Negativicutes.o__Selenomonadales.f__Veillonellaceae.g__Dialister.s__Dialister_invisus,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,26156328,rs439826,G,T,-0.0779,7.566e-19,0.008786,35366,0.31709,APP_amyloid_precursor_protein,TRUE,reported,APP_amyloid_precursor_protein

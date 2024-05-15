@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,1093142,rs41414549,A,G,0.1151,4.215e-11,0.017449,35355,0.05576,BRSK2_BR_serine_threonine_kinase_2,TRUE,reported,BRSK2_BR_serine_threonine_kinase_2
+11,1384495,rs4255564,T,C,-0.1739,2.476e-70,0.009808,35358,0.21458,BRSK2_BR_serine_threonine_kinase_2,TRUE,reported,BRSK2_BR_serine_threonine_kinase_2
+11,1419145,rs4881746,CGGCGGGGGGG,TGGCGGGGGGG,0.1054,1.233e-29,0.009323,35357,0.25785,BRSK2_BR_serine_threonine_kinase_2,TRUE,reported,BRSK2_BR_serine_threonine_kinase_2

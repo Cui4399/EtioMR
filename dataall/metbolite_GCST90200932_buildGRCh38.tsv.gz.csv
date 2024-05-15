@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132297662,C,T,0.628172,0.097024,0.0140049,4.27255e-12,rs419291,8165,Glycerol to palmitoylcarnitine (C16) ratio,TRUE,reported,r4Cc7U
+6,110438805,G,A,0.237791,0.0966957,0.0156905,7.15173e-10,rs12210538,8165,Glycerol to palmitoylcarnitine (C16) ratio,TRUE,reported,r4Cc7U

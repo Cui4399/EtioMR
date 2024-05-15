@@ -1,0 +1,3 @@
+"beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0267057,0.00485353,3.69999e-08,"2",233816504,32192,"ukb-b-3196","rs72978115","T","C",0.174236,"Leg pain when walking uphill or hurrying || id:ukb-b-3196",TRUE,"reported","igd"
+0.0225389,0.00380063,2.99999e-09,"20",41243052,32192,"ukb-b-3196","rs2903589","T","C",0.347715,"Leg pain when walking uphill or hurrying || id:ukb-b-3196",TRUE,"reported","igd"

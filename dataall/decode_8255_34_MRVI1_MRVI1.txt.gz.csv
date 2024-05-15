@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,10652497,rs4910165,G,C,-0.1096,1.072e-39,0.008313,35376,0.34495,MRVI1_MRVI1,TRUE,reported,MRVI1_MRVI1
+11,10700465,rs10770138,C,T,0.0966,8.611e-29,0.008676,35374,0.29716,MRVI1_MRVI1,TRUE,reported,MRVI1_MRVI1

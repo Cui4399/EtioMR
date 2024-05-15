@@ -1,0 +1,4 @@
+"samplesize.exposure","chr.exposure","pval.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+116527,"1",2.11743e-08,73305782,0.0108396,0.00193478,"ukb-d-20500","rs662655","A","G",0.453223,"Ever suffered mental distress preventing usual activities || id:ukb-d-20500",TRUE,"reported","igd"
+116527,"7",4.24258e-09,12250378,0.0114474,0.00194853,"ukb-d-20500","rs3807866","A","G",0.408884,"Ever suffered mental distress preventing usual activities || id:ukb-d-20500",TRUE,"reported","igd"
+116527,"12",8.53139e-09,121097450,-0.0244947,0.004254,"ukb-d-20500","rs3889470","A","G",0.0541891,"Ever suffered mental distress preventing usual activities || id:ukb-d-20500",TRUE,"reported","igd"

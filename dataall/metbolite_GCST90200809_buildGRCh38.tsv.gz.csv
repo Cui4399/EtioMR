@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,121645500,C,T,0.0529219,0.179432,0.0378325,2.10778e-06,rs77332184,6777,Spermidine to taurocholate ratio,TRUE,reported,s5P6qF
+17,10808360,A,C,0.0812159,0.161441,0.0318213,3.90844e-07,rs76149982,6777,Spermidine to taurocholate ratio,TRUE,reported,s5P6qF
+17,30354925,G,A,0.248215,-0.0924768,0.0197085,2.70225e-06,rs34405330,6777,Spermidine to taurocholate ratio,TRUE,reported,s5P6qF
+19,52505874,G,A,0.0312454,0.23881,0.0485486,8.6993e-07,rs117409421,6777,Spermidine to taurocholate ratio,TRUE,reported,s5P6qF
+22,22537373,T,C,0.0412206,0.20983,0.0437509,1.61854e-06,rs75831505,6777,Spermidine to taurocholate ratio,TRUE,reported,s5P6qF

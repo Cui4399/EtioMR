@@ -1,0 +1,5 @@
+"pval.exposure","chr.exposure","samplesize.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.19257e-10,"2",333581,-0.00542277,50713012,0.000868077,"ukb-a-454","rs6721498","A","G",0.516517,"Medication for pain relief  constipation  heartburn: Ibuprofen (e.g. Nurofen) || id:ukb-a-454",TRUE,"reported","igd"
+4.51367e-09,"6",333581,-0.00518193,12903957,0.000883635,"ukb-a-454","rs9349379","G","A",0.404893,"Medication for pain relief  constipation  heartburn: Ibuprofen (e.g. Nurofen) || id:ukb-a-454",TRUE,"reported","igd"
+1.15542e-08,"11",333581,0.0052522,10679441,0.000920419,"ukb-a-454","rs1544861","C","T",0.665402,"Medication for pain relief  constipation  heartburn: Ibuprofen (e.g. Nurofen) || id:ukb-a-454",TRUE,"reported","igd"
+4.77969e-14,"12",333581,-0.0066407,57527283,0.000880947,"ukb-a-454","rs11172113","C","T",0.413155,"Medication for pain relief  constipation  heartburn: Ibuprofen (e.g. Nurofen) || id:ukb-a-454",TRUE,"reported","igd"

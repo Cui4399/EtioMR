@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,29202049,-0.10733,0.0231189,3.44144e-06,7738,ebi-a-GCST90027634,rs245907,A,G,0.471259,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd
+9,18254023,0.110186,0.024021,4.49511e-06,7738,ebi-a-GCST90027634,rs2819206,T,C,0.604069,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd
+14,105293940,-0.154934,0.0316149,9.55147e-07,7738,ebi-a-GCST90027634,rs11629188,G,C,0.18,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd
+16,79108354,-0.164574,0.0328522,5.45607e-07,7738,ebi-a-GCST90027634,rs7194361,T,C,0.202604,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd
+18,33361529,0.130239,0.0273366,1.89531e-06,7738,ebi-a-GCST90027634,rs16967152,C,T,0.224629,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd
+19,14237657,-0.172734,0.0373969,3.85718e-06,7738,ebi-a-GCST90027634,rs34588554,A,G,0.101972,PWY_NAD.BIOSYNTHESIS.II..NAD.salvage.pathway.II,TRUE,reported,igd

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22215952,T,G,0.526084,-0.0773219,0.0155926,7.08963e-07,rs2505722,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+2,136180790,G,C,0.0223187,-0.236612,0.0515786,4.48779e-06,rs6737096,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+8,4096050,C,G,0.0443178,-0.173762,0.0371626,2.92905e-06,rs79857089,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+10,58793279,T,C,0.0232946,0.256059,0.0512297,5.78539e-07,rs139721493,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+10,60980126,A,G,0.0255171,0.234681,0.0482534,1.15327e-06,rs118182258,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+13,37953200,A,C,0.35496,-0.0757101,0.0160744,2.4773e-06,rs7490087,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+18,46669253,A,G,0.0486807,0.166759,0.0353534,2.39435e-06,rs75060966,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz
+18,74407627,C,T,0.017973,-0.27773,0.0575905,1.4178e-06,rs118103311,8193,Adenosine 5'-monophosphate (AMP) to citrate ratio,TRUE,reported,GCkCrz

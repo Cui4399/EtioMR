@@ -1,0 +1,5 @@
+"samplesize.exposure","se.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337199,0.000358729,6.76099e-09,0.00207952,84993012,"3","ukb-a-558","rs77545952","C","A",0.0123844,"Diagnoses - main ICD10: K76 Other diseases of liver || id:ukb-a-558",TRUE,"reported","igd"
+337199,0.00031341,3.94049e-08,0.00172176,75982586,"16","ukb-a-558","rs77492932","C","T",0.0161789,"Diagnoses - main ICD10: K76 Other diseases of liver || id:ukb-a-558",TRUE,"reported","igd"
+337199,0.000330696,2.26376e-08,0.00184881,14185973,"19","ukb-a-558","rs183673559","C","A",0.0158408,"Diagnoses - main ICD10: K76 Other diseases of liver || id:ukb-a-558",TRUE,"reported","igd"
+337199,8.19977e-05,3.4412e-08,0.000452422,44618606,"22","ukb-a-558","rs139243","G","A",0.619351,"Diagnoses - main ICD10: K76 Other diseases of liver || id:ukb-a-558",TRUE,"reported","igd"

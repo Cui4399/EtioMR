@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"2",113943470,"rs2241976","A","G",1.97534700287e-08,0.844877664346,0.150490844902748,89,"B_CELL_NAIVE#PSD4",TRUE,"reported","yPEMI3",NA

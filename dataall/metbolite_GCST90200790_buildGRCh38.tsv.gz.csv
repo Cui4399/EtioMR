@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,14167487,C,A,0.266891,0.0878503,0.0182398,1.46161e-06,rs10754913,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+2,45179998,G,A,0.634039,-0.0819425,0.017319,2.23017e-06,rs11682694,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+3,134416433,C,T,0.0243389,0.249723,0.0521805,1.70354e-06,rs191245370,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+4,84714132,C,T,0.0197048,-0.274809,0.0576218,1.84983e-06,rs55635904,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+5,34775983,A,G,0.0145261,0.315898,0.067591,2.95877e-06,rs114121344,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+5,35825444,T,A,0.0121709,0.338999,0.0734913,3.97311e-06,rs141336372,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+6,154661178,C,T,0.16179,-0.101188,0.0219159,3.89143e-06,rs9397736,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+7,110842497,G,C,0.0186022,-0.299491,0.0598477,5.60896e-07,rs79931337,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+7,128733480,A,G,0.0565217,-0.183998,0.0348829,1.32943e-07,rs4731512,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+12,130242234,G,A,0.631696,0.0790566,0.0169524,3.10947e-06,rs10848050,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+16,64529200,G,C,0.0137591,-0.32427,0.0691095,2.7039e-06,rs113867701,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+17,10808360,A,C,0.0806452,0.171629,0.0302893,1.459e-08,rs76149982,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+19,52505874,G,A,0.0323429,0.233578,0.0450753,2.19564e-07,rs117409421,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0
+21,13906656,C,T,0.024163,0.264557,0.0541426,1.0275e-06,rs185105179,7615,Thyroxine to taurocholate ratio,TRUE,reported,H4IMs0

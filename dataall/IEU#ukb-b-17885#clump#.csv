@@ -1,0 +1,7 @@
+"beta.exposure","samplesize.exposure","pval.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00433397,463010,5.30029e-22,0.000449434,31018908,"6","ukb-b-17885","rs3131920","G","T",0.15106,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"
+-0.00371557,463010,1.10002e-14,0.000480542,32379383,"6","ukb-b-17885","rs3129962","A","G",0.12924,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"
+-0.00268139,463010,7.29962e-12,0.000391378,121584417,"11","ukb-b-17885","rs540029","T","C",0.783737,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"
+-0.00198246,463010,2e-08,0.000353193,111076940,"13","ukb-b-17885","rs4771678","C","T",0.703935,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"
+0.00211501,463010,2.1e-08,0.000377499,58097600,"16","ukb-b-17885","rs12926803","C","G",0.242654,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"
+-0.00294236,463010,1e-11,0.000432279,41826020,"19","ukb-b-17885","rs56254331","C","A",0.1675,"Diagnoses - main ICD10: R31 Unspecified haematuria || id:ukb-b-17885",TRUE,"reported","igd"

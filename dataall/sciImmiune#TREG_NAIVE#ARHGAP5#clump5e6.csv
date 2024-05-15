@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"14",32413699,"rs1278924","G","A",1.23877550561e-08,0.884341732175,0.155302917035829,89,"TREG_NAIVE#ARHGAP5",TRUE,"reported","Gadh71",NA

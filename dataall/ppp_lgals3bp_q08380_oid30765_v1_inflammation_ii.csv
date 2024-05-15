@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+17,78659313,rs11658994,C,T,0.0419144,8.16469564127489e-09,0.00727046,33995,0.577941,lgals3bp_q08380_oid30765_v1_inflammation_ii,TRUE,reported,lgals3bp_q08380_oid30765_v1_inflammation_ii,chr17,78979979,cis
+17,78898328,rs4789938,A,G,0.0859366,9.21722098658877e-19,0.00971669,33995,0.832855,lgals3bp_q08380_oid30765_v1_inflammation_ii,TRUE,reported,lgals3bp_q08380_oid30765_v1_inflammation_ii,chr17,78979979,cis
+17,78966679,rs111526614,T,C,-0.480122,2.44793566619609e-64,0.0283494,33995,0.0182851,lgals3bp_q08380_oid30765_v1_inflammation_ii,TRUE,reported,lgals3bp_q08380_oid30765_v1_inflammation_ii,chr17,78979979,cis
+17,78977257,rs1113032,C,T,0.107383,1.93152351608381e-23,0.0107635,33995,0.129766,lgals3bp_q08380_oid30765_v1_inflammation_ii,TRUE,reported,lgals3bp_q08380_oid30765_v1_inflammation_ii,chr17,78979979,cis
+17,78979651,rs60653700,T,C,0.540176,6.32848856925692e-56,0.0342856,33995,0.0113659,lgals3bp_q08380_oid30765_v1_inflammation_ii,TRUE,reported,lgals3bp_q08380_oid30765_v1_inflammation_ii,chr17,78979979,cis

@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46916299,T,G,0.792401,0.107603,0.018556,6.67727e-09,rs12406866,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+3,143090720,G,C,0.236864,-0.10575,0.0176234,1.96646e-09,rs35746477,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+12,20979253,G,A,0.053381,0.253219,0.0328191,1.20423e-14,rs7306128,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+12,20979640,G,A,0.053381,0.253219,0.0328191,1.20423e-14,rs11829410,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+12,21161802,A,G,0.18652,-0.228334,0.0188888,1.21721e-33,rs11045806,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+12,21178615,C,T,0.154974,0.515822,0.0197078,5.32828e-151,rs4149056,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd
+19,15873592,G,C,0.29589,-0.0967905,0.0162165,2.39257e-09,rs79400241,8260,Hexadecanedioate (C16-DC) levels,TRUE,reported,HLzKOd

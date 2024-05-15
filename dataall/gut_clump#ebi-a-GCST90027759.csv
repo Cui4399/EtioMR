@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+9,136146597,0.108642,0.0193746,2.05315e-08,7738,ebi-a-GCST90027759,rs550057,T,C,0.251842,k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__Collinsella_aerofaciens,TRUE,reported,igd
+17,64585285,0.124891,0.0259236,1.45251e-06,7738,ebi-a-GCST90027759,rs72845940,T,G,0.125286,k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__Collinsella_aerofaciens,TRUE,reported,igd
+20,55030081,0.0990318,0.0203866,1.18765e-06,7738,ebi-a-GCST90027759,rs386274,A,C,0.220805,k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__Collinsella_aerofaciens,TRUE,reported,igd

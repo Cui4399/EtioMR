@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+22,48093254,rs135307,C,T,-0.051614,2.78676277060111e-11,0.00775287,33533,0.372011,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48191993,rs1883127,T,A,-0.104655,3.99392587178031e-26,0.00989875,33533,0.174673,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48315247,rs909495,G,C,0.0452967,7.11967222374771e-09,0.00782585,33533,0.640899,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48321289,rs6008628,C,A,0.0889504,4.36314855550677e-23,0.00898916,33533,0.222281,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48343317,rs6007833,C,T,0.0601025,2.95460888847934e-12,0.00861083,33533,0.273997,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48371374,rs79072,T,G,0.181717,2.98538261891792e-98,0.0086378,33533,0.714597,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48424211,rs12106638,T,C,0.121482,9.06775964583904e-17,0.0146075,33533,0.0717463,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48488785,rs6008730,G,A,-0.164297,7.73570678774927e-72,0.00916661,33533,0.212968,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48513915,rs8139419,A,G,0.136926,2.37684028662488e-24,0.0134473,33533,0.0857215,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis
+22,48594039,rs28385606,G,A,0.0888881,1.48285948685406e-27,0.00817208,33533,0.305058,tafa5_q7z5a7_oid21321_v1_oncology,TRUE,reported,tafa5_q7z5a7_oid21321_v1_oncology,chr22,48489459,cis

@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,3495402,C,T,0.365264,0.0767164,0.0166532,4.09112e-06,rs2821034,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+1,111198111,A,G,0.011236,-0.33662,0.0730745,4.09428e-06,rs17027075,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+2,23646701,C,T,0.345058,-0.0782494,0.016769,3.06633e-06,rs627973,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+2,172952990,C,A,0.576309,0.0728634,0.0157348,3.64424e-06,rs2676504,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+2,217053703,A,G,0.0521038,0.166295,0.0348484,1.82431e-06,rs111724026,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+3,133183209,A,G,0.217561,-0.0874351,0.0184476,2.14102e-06,rs12493846,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+4,185629591,A,C,0.0880399,0.127679,0.0272955,2.90142e-06,rs76646409,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+5,84846544,G,A,0.0102053,0.381,0.0766066,6.57676e-07,rs116543941,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+5,132297662,C,T,0.628132,-0.0765134,0.0159839,1.69385e-06,rs419291,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+7,980148,T,C,0.445964,-0.0733392,0.0155921,2.55603e-06,rs10274964,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+18,72350586,T,C,0.7893,-0.0971743,0.019768,8.84457e-07,rs4891466,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ
+22,44698667,T,C,0.140707,0.106559,0.022513,2.20994e-06,rs5765913,8227,Adenosine 5'-monophosphate (AMP) to palmitate (16:0) ratio,TRUE,reported,P99BfZ

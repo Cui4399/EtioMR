@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,138843482,T,C,0.0258779,-0.317886,0.047336,1.87386e-11,rs62381198,8181,Oxalate (ethanedioate) levels,TRUE,reported,l6j7JP

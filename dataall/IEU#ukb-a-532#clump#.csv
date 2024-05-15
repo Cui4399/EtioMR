@@ -1,0 +1,4 @@
+"beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00215917,109817838,337199,8.98669e-10,0.000352425,"1","ukb-a-532","rs660240","C","T",0.784778,"Diagnoses - main ICD10: I20 Angina pectoris || id:ukb-a-532",TRUE,"reported","igd"
+0.00829929,161111700,337199,4.70219e-12,0.00120027,"6","ukb-a-532","rs186696265","T","C",0.0149051,"Diagnoses - main ICD10: I20 Angina pectoris || id:ukb-a-532",TRUE,"reported","igd"
+0.00210783,22124140,337199,3.37443e-13,0.000289583,"9","ukb-a-532","rs7857118","T","A",0.506143,"Diagnoses - main ICD10: I20 Angina pectoris || id:ukb-a-532",TRUE,"reported","igd"

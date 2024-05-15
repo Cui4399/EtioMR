@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,202161992,A,G,0.0211536,0.274558,0.0554887,7.49815e-07,rs149105458,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+2,63627399,G,A,0.222567,0.0932489,0.0189142,8.21858e-07,rs262499,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+2,114753461,G,A,0.0790341,-0.155099,0.0292206,1.10929e-07,rs71418517,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+7,12456758,A,G,0.119621,-0.114967,0.0247445,3.38141e-06,rs74740765,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+8,142771532,A,G,0.0748972,0.148384,0.0307251,1.36942e-06,rs75708732,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+9,9098794,T,A,0.106026,0.122794,0.025959,2.24161e-06,rs10977491,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+9,131786042,A,G,0.010594,-0.355582,0.0768434,3.70365e-06,rs150345888,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+14,22302351,A,G,0.011155,0.372904,0.0753543,7.47208e-07,rs114245980,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+20,3167098,A,G,0.0145059,-0.328206,0.0673049,1.08039e-06,rs151258888,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses
+22,40846014,A,G,0.0338495,0.202207,0.0441114,4.56144e-06,rs113666924,7952,Caffeine to theobromine ratio,TRUE,reported,fWAses

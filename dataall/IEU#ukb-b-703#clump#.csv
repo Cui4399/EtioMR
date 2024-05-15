@@ -1,0 +1,4 @@
+"chr.exposure","samplesize.exposure","pval.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",328153,6.4e-09,0.00406238,-0.0235812,83444226,"ukb-b-703","rs7644178","G","A",0.274348,"Duration walking for pleasure || id:ukb-b-703",TRUE,"reported","igd"
+"11",328153,2.39994e-12,0.00389181,-0.0272676,57644334,"ukb-b-703","rs6591434","G","A",0.320347,"Duration walking for pleasure || id:ukb-b-703",TRUE,"reported","igd"
+"16",328153,2.59998e-08,0.00394968,0.0219777,13894417,"ukb-b-703","rs1034392","T","C",0.304214,"Duration walking for pleasure || id:ukb-b-703",TRUE,"reported","igd"

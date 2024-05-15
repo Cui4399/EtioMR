@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31492465,G,A,0.0133846,-0.53776,0.0644252,6.99914e-17,rs112115240,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+2,31561978,C,T,0.0183291,-0.869586,0.0541959,6.17171e-58,rs72794638,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+2,31580756,T,C,0.0344369,-0.780602,0.0400267,1.05543e-84,rs9282858,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+2,31626839,T,C,0.105148,-0.197762,0.0242828,3.81975e-16,rs55834920,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+2,32605036,A,C,0.0487282,0.193054,0.0345244,2.24738e-08,rs150886780,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+7,138117169,A,G,0.79581,-0.101529,0.0183589,3.19813e-08,rs7780066,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+11,63064092,T,C,0.0588391,0.33306,0.031207,1.36772e-26,rs80276717,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+19,12395059,G,A,0.755747,0.100821,0.0174813,8.05164e-09,rs7246440,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP
+19,47871693,A,C,0.161312,0.134688,0.020154,2.34169e-11,rs62129966,7555,Androsterone glucuronide to etiocholanolone glucuronide ratio,TRUE,reported,gC7msP

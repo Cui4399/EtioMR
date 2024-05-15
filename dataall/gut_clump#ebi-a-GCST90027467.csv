@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,44598555,-0.131441,0.0266352,8.02047e-07,7738,ebi-a-GCST90027467,rs4711791,A,G,0.311064,FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation,TRUE,reported,igd
+6,18010573,-0.198637,0.0410775,1.327e-06,7738,ebi-a-GCST90027467,rs77474207,G,A,0.0998954,FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation,TRUE,reported,igd
+11,72832677,-0.120752,0.024402,7.48049e-07,7738,ebi-a-GCST90027467,rs7937701,G,A,0.499312,FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation,TRUE,reported,igd
+13,73110324,-0.171703,0.0355509,1.36672e-06,7738,ebi-a-GCST90027467,rs9542995,A,G,0.286838,FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation,TRUE,reported,igd
+17,69316511,-0.208307,0.0432142,1.43308e-06,7738,ebi-a-GCST90027467,rs7222065,T,C,0.0927288,FUC.RHAMCAT.PWY..superpathway.of.fucose.and.rhamnose.degradation,TRUE,reported,igd

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",88805489,"rs113522179","T","G",2.13947793674e-06,-0.981516145013,0.207080420489574,89,"Classical monocyte#NUTM2A-AS1",TRUE,"reported","CGRBId",NA

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,137349221,0.0887252,0.0192215,3.91345e-06,7738,ebi-a-GCST90027571,rs11732083,A,C,0.231878,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+8,135439952,0.0731884,0.0159961,4.75346e-06,7738,ebi-a-GCST90027571,rs7462652,G,C,0.52246,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+8,59941575,-0.07591,0.016073,2.32584e-06,7738,ebi-a-GCST90027571,rs1366290,G,A,0.469278,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+11,68728397,0.0803808,0.0161686,6.64707e-07,7738,ebi-a-GCST90027571,rs10792007,C,T,0.565991,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+11,123312063,-0.0959623,0.017586,4.84965e-08,7738,ebi-a-GCST90027571,rs2714053,G,A,0.598328,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+16,78716583,-0.100029,0.0215575,3.48233e-06,7738,ebi-a-GCST90027571,rs2548882,C,A,0.822267,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+18,24097691,-0.115537,0.024899,3.48017e-06,7738,ebi-a-GCST90027571,rs73401412,T,C,0.143375,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd
+18,5888920,0.0791541,0.0169686,3.09015e-06,7738,ebi-a-GCST90027571,rs1940600,T,G,0.59842,PWY.6147..6.hydroxymethyl.dihydropterin.diphosphate.biosynthesis.I,TRUE,reported,igd

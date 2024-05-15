@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,50525111,C,G,0.568684,0.108576,0.0156046,3.45216e-12,rs131807,8219,"5,6-dihydrothymine levels",TRUE,reported,a7XlhU

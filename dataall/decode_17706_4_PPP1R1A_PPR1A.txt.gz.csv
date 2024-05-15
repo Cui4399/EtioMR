@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,54590778,rs10876568,C,G,0.0648,3.968e-10,0.010359,35372,0.1877,PPP1R1A_PPR1A,TRUE,reported,PPP1R1A_PPR1A

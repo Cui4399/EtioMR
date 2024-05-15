@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.31305,-0.135505,0.022191,1.01964e-09,rs1047891,4561,Adenosine 5'-diphosphate (ADP) to creatine ratio,TRUE,reported,6Of8TO

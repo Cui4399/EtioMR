@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,24090925,rs6700245,C,T,-0.106631,1.42036512404801e-26,0.00999438,33187,0.146744,myom3_q5vtt5_oid30633_v1_inflammation_ii,TRUE,reported,myom3_q5vtt5_oid30633_v1_inflammation_ii,chr1,24112175,cis

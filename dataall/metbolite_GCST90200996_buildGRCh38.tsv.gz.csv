@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,134416433,C,T,0.0243951,0.248283,0.0521331,1.91228e-06,rs191245370,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+4,84714132,C,T,0.0194993,-0.288171,0.0579051,6.47081e-07,rs55635904,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+5,123146549,C,A,0.598669,0.077395,0.0164853,2.66876e-06,rs335170,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+7,110842497,G,C,0.0185948,-0.28706,0.0598757,1.63276e-06,rs79931337,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+7,128740695,A,G,0.0509296,-0.182832,0.0367805,6.66479e-07,rs2060717,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+16,64529200,G,C,0.0136878,-0.338013,0.0692842,1.06814e-06,rs113867701,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+17,10808360,A,C,0.0806139,0.172734,0.030229,1.10237e-08,rs76149982,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+19,52505874,G,A,0.0320016,0.208219,0.0454075,4.52777e-06,rs117409421,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi
+20,56717423,G,A,0.47866,0.0831364,0.0161535,2.65159e-07,rs2426643,7618,Citrate to taurocholate ratio,TRUE,reported,cqICBi

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+13,84994394,rs9602622,C,T,0.130973,7.31812797674455e-14,0.017505,33043,0.0504901,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85167491,rs71440160,G,A,0.133996,4.39642835287889e-12,0.0193529,33043,0.0404775,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85276958,rs2342393,T,C,-0.132748,1.2811500562784e-27,0.0121895,33043,0.115066,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85300443,rs72637003,G,A,0.137901,8.08164929112535e-17,0.0165547,33043,0.0558666,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85347251,rs79181929,A,C,-0.258419,5.33334895487626e-176,0.00913633,33043,0.22413,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85705117,rs9531830,G,A,0.0991425,1.84671552398669e-38,0.00764488,33043,0.508991,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85760446,rs663116,C,T,-0.06794,5.83042213843285e-19,0.00763781,33043,0.515687,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85806318,rs12869554,G,A,-1.41708,1e-200,0.0294946,33043,0.0170993,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,85812959,rs34762457,A,T,0.078028,6.986827162921e-10,0.0126538,33043,0.10244,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,86104165,rs4620859,A,G,-0.184264,1.39155379484468e-43,0.0133105,33043,0.0914291,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis
+13,86713613,rs71442148,C,T,-0.151652,1.88668762121895e-17,0.0178402,33043,0.0477801,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,TRUE,reported,slitrk6_q9h5y7_oid20094_v1_cardiometabolic,chr13,85799348,cis

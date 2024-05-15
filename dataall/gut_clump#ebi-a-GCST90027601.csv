@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,13830815,0.137782,0.0276513,6.26571e-07,7738,ebi-a-GCST90027601,rs2999900,C,T,0.838843,PWY.6892..thiazole.biosynthesis.I..E..coli.,TRUE,reported,igd
+7,8329708,-0.2046,0.0395806,2.35115e-07,7738,ebi-a-GCST90027601,rs7784347,C,T,0.0680514,PWY.6892..thiazole.biosynthesis.I..E..coli.,TRUE,reported,igd

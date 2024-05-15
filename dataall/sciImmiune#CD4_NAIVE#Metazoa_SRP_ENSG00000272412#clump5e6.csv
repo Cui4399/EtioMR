@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",130017672,"rs7936981","A","G",1.94976419383e-06,0.78534209065,0.165037671141838,89,"CD4_NAIVE#Metazoa_SRP_ENSG00000272412",TRUE,"reported","AJamY8",NA

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,242619175,-0.1023,0.022186,4.00673e-06,7738,ebi-a-GCST90027567,rs62191280,C,G,0.168202,PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+4,7235183,-0.198497,0.0371633,9.23336e-08,7738,ebi-a-GCST90027567,rs114981645,A,G,0.0535532,PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+9,21753138,-0.123858,0.0265736,3.1476e-06,7738,ebi-a-GCST90027567,rs1335509,A,G,0.875546,PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+11,81068570,0.10788,0.0224058,1.47326e-06,7738,ebi-a-GCST90027567,rs1945878,C,T,0.841539,PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+13,59829586,0.131763,0.0278078,2.15467e-06,7738,ebi-a-GCST90027567,rs73210347,T,A,0.0998431,PWY.5989..stearate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd

@@ -1,0 +1,6 @@
+"pos.exposure","pval.exposure","se.exposure","chr.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+203839628,2.12574e-08,0.000388408,"2",0.0021757,337199,"ukb-a-533","rs72928613","A","T",0.128903,"Diagnoses - main ICD10: I21 Acute myocardial infarction || id:ukb-a-533",TRUE,"reported","igd"
+161005610,3.80715e-17,0.000476492,"6",0.00401166,337199,"ukb-a-533","rs55730499","T","C",0.081655,"Diagnoses - main ICD10: I21 Acute myocardial infarction || id:ukb-a-533",TRUE,"reported","igd"
+160687412,1.67286e-09,0.000931677,"6",0.00561514,337199,"ukb-a-533","rs10080815","G","T",0.0199704,"Diagnoses - main ICD10: I21 Acute myocardial infarction || id:ukb-a-533",TRUE,"reported","igd"
+22125503,3.03319e-19,0.000260791,"9",0.00233878,337199,"ukb-a-533","rs1333049","C","G",0.481449,"Diagnoses - main ICD10: I21 Acute myocardial infarction || id:ukb-a-533",TRUE,"reported","igd"
+111904371,4.21726e-10,0.000260844,"12",-0.00162922,337199,"ukb-a-533","rs4766578","A","T",0.50415,"Diagnoses - main ICD10: I21 Acute myocardial infarction || id:ukb-a-533",TRUE,"reported","igd"

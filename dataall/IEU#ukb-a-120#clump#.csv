@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","beta.exposure","se.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,3.49551e-09,0.00138216,0.000234002,152872709,"6","ukb-a-120","rs117953031","G","A",0.0365037,"Treatment/medication code: tranexamic acid || id:ukb-a-120",TRUE,"reported","igd"
+337159,7.12443e-09,0.00288756,0.000498878,31816928,"7","ukb-a-120","rs17160536","G","T",0.00790779,"Treatment/medication code: tranexamic acid || id:ukb-a-120",TRUE,"reported","igd"

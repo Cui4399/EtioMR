@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,58958650,rs11172841,C,A,0.0901103,4.58669645798202e-23,0.00911098,32869,0.224675,lrig3_q6uxm1_oid30450_v1_inflammation_ii,TRUE,reported,lrig3_q6uxm1_oid30450_v1_inflammation_ii,chr12,58920538,cis

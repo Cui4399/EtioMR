@@ -1,0 +1,3 @@
+"beta.exposure","chr.exposure","pos.exposure","se.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00781074,"3",28513403,0.00131565,2.90904e-09,361194,"ukb-d-C3_DIGESTIVE_ORGANS","rs139372065","G","T",0.0130617,"Malignant neoplasm of digestive organs || id:ukb-d-C3_DIGESTIVE_ORGANS",TRUE,"reported","igd"
+-0.00182377,"8",128413305,0.000292015,4.23019e-10,361194,"ukb-d-C3_DIGESTIVE_ORGANS","rs6983267","T","G",0.481024,"Malignant neoplasm of digestive organs || id:ukb-d-C3_DIGESTIVE_ORGANS",TRUE,"reported","igd"

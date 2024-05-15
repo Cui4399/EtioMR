@@ -1,0 +1,7 @@
+"se.exposure","pos.exposure","pval.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00113808,26922855,2.04428e-09,292053,-0.00682217,"2","ukb-a-207","rs1275977","A","G",0.658663,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"
+0.00119171,81181072,8.97635e-13,292053,0.00851555,"4","ukb-a-207","rs10857147","T","A",0.292191,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"
+0.00111013,127857493,5.146e-09,292053,0.00648601,"5","ukb-a-207","rs17677603","G","A",0.394587,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"
+0.00119896,100682388,3.08688e-08,292053,-0.00663816,"11","ukb-a-207","rs12801715","C","G",0.283564,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"
+0.00116357,91437388,7.61027e-12,292053,0.00796579,"15","ukb-a-207","rs2521501","T","A",0.322313,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"
+0.00112412,8622480,1.0595e-10,292053,-0.00726008,"20","ukb-a-207","rs6039216","C","T",0.361293,"Illnesses of father: High blood pressure || id:ukb-a-207",TRUE,"reported","igd"

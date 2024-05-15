@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,36114973,rs2231569,T,G,0.1586,1.918e-12,0.022527,35375,0.03419,TBCB_TBCB,TRUE,reported,TBCB_TBCB

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,36638487,A,G,0.0318969,-0.267639,0.0413865,1.00079e-10,rs62354638,8287,Glutamate levels,TRUE,reported,H1RUwp

@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241028169,A,G,0.0341103,-0.240617,0.0425147,1.51711e-08,rs11586345,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+2,27519736,C,T,0.597661,-0.088817,0.0157842,1.83414e-08,rs780093,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+3,142936448,G,A,0.530738,0.118256,0.0155615,2.97792e-14,rs12638256,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+11,61820833,G,A,0.343443,0.106316,0.0162849,6.64436e-11,rs174564,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+11,116778201,C,G,0.869475,-0.152412,0.0229276,2.98004e-11,rs964184,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+15,58386313,T,C,0.288319,0.324382,0.0167507,1.51463e-83,rs10468017,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o
+15,58433640,G,A,0.285328,0.22324,0.0172987,4.21919e-38,rs633695,8262,1-palmitoyl-2-oleoyl-GPE (16:0/18:1) levels,TRUE,reported,IoZa4o

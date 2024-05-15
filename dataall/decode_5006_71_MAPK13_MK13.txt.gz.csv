@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,36145821,rs10447396,A,G,0.1156,7.041e-36,0.009245,35356,0.24445,MAPK13_MK13,TRUE,reported,MAPK13_MK13

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,59709332,T,C,0.770401,0.10909,0.0176477,6.34882e-10,rs1171615,8147,N1-methylinosine levels,TRUE,reported,HrPBZ2

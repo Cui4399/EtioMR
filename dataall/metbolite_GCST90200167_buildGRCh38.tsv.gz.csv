@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,75701297,G,C,0.336711,0.113153,0.0158115,8.28294e-13,rs150404394,7881,Glutamine conjugate of C7H12O2 levels,TRUE,reported,cWDeyD

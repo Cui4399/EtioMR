@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,164791381,T,A,0.30438,0.0756784,0.0165681,4.93089e-06,rs4657374,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+2,235041233,C,T,0.100617,0.12243,0.0249287,9.05105e-07,rs3731644,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+3,8677262,A,G,0.0880974,-0.129799,0.0277867,2.99335e-06,rs115264719,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+3,47628057,T,A,0.64401,-0.0855922,0.0160852,1.03106e-07,rs12497825,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+4,156785921,A,G,0.0503145,-0.184627,0.0347278,1.0583e-07,rs116530753,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+5,374992,C,T,0.728736,-0.0807157,0.0169359,1.87975e-06,rs2671912,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+5,96814807,C,T,0.0356796,-0.211443,0.0409427,2.41245e-07,rs79859092,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+6,156385615,C,T,0.584989,-0.0725072,0.0153344,2.26293e-06,rs1349890,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+7,2658714,A,G,0.0350792,-0.203113,0.0411969,8.21001e-07,rs73045049,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+18,49542767,G,A,0.0282116,0.218184,0.0451995,1.38515e-06,rs28468489,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe
+19,56248382,A,G,0.0625459,-0.155458,0.0311288,5.91346e-07,rs113915691,8279,Margarate (17:0) levels,TRUE,reported,lXgXBe

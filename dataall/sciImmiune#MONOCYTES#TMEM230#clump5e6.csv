@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"20",5061017,"rs4315602","T","C",1.75902061406e-06,0.696448915233,0.145721793275959,89,"Classical monocyte#TMEM230",TRUE,"reported","TriOlA",NA

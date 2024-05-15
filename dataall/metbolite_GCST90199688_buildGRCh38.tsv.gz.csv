@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.307889,0.381478,0.0157461,1.16081e-129,rs1047891,8250,N-acetylglycine levels,TRUE,reported,xRZBkg
+11,67592132,G,T,0.572668,-0.115999,0.0149808,9.69793e-15,rs596603,8250,N-acetylglycine levels,TRUE,reported,xRZBkg

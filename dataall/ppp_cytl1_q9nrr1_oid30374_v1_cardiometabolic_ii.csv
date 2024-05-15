@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,4772663,rs12186236,A,G,-0.131847,3.11601830310547e-22,0.0135972,33924,0.0781393,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,4825513,rs62291764,T,C,0.147443,1.32047444265929e-10,0.022949,33924,0.0259982,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,4903723,rs76237790,A,G,-0.132424,5.65978586242697e-12,0.0192254,33924,0.0370828,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,4914376,rs77564418,G,A,0.262552,7.13674205122475e-24,0.0260601,33924,0.020065,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,4989653,rs10022680,A,G,0.108843,2.80091545538291e-39,0.00830085,33924,0.734098,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,5000526,rs11731771,G,C,0.0500349,5.46801881160422e-10,0.00806357,33924,0.292395,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,5008440,rs114515041,T,C,-0.348426,1.66724721255107e-43,0.0251924,33924,0.0224439,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,5015156,rs11722554,A,G,-1.31722,1e-200,0.0188905,33924,0.0379377,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,5015781,rs10031270,G,T,0.533317,1e-200,0.0100065,33924,0.154363,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis
+4,5066062,rs1868047,T,C,-0.0685768,1.8543854028468e-18,0.00782322,33924,0.321221,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,TRUE,reported,cytl1_q9nrr1_oid30374_v1_cardiometabolic_ii,chr4,5019470,cis

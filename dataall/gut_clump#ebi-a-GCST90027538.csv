@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,226678563,-0.274747,0.0600411,4.73969e-06,7738,ebi-a-GCST90027538,rs12028490,T,C,0.0871635,PWY.5088..L.glutamate.degradation.VIII..to.propanoate.,TRUE,reported,igd
+4,189412503,0.346719,0.0709011,1.00744e-06,7738,ebi-a-GCST90027538,rs11732315,A,G,0.0608812,PWY.5088..L.glutamate.degradation.VIII..to.propanoate.,TRUE,reported,igd
+6,49482342,-0.161332,0.0352874,4.83237e-06,7738,ebi-a-GCST90027538,rs2127754,A,G,0.368415,PWY.5088..L.glutamate.degradation.VIII..to.propanoate.,TRUE,reported,igd
+16,78318743,-0.339265,0.0590702,9.27833e-09,7738,ebi-a-GCST90027538,rs9927590,T,C,0.0843884,PWY.5088..L.glutamate.degradation.VIII..to.propanoate.,TRUE,reported,igd

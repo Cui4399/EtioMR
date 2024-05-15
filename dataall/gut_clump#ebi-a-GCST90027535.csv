@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,63105389,0.157204,0.032997,1.89605e-06,7738,ebi-a-GCST90027535,rs61775945,T,C,0.0707767,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd
+3,172172254,-0.0955912,0.0209091,4.83671e-06,7738,ebi-a-GCST90027535,rs477441,G,T,0.808862,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd
+3,83521231,-0.150044,0.0322521,3.28375e-06,7738,ebi-a-GCST90027535,rs138195517,A,G,0.0684669,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd
+7,151025947,0.09425,0.0204759,4.16495e-06,7738,ebi-a-GCST90027535,rs9640172,G,A,0.204853,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd
+8,40420851,-0.153626,0.0312936,9.14619e-07,7738,ebi-a-GCST90027535,rs10093578,A,G,0.0808034,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd
+18,11707320,0.0868118,0.0188477,4.10563e-06,7738,ebi-a-GCST90027535,rs11080532,G,A,0.694008,PWY4FS.7..phosphatidylglycerol.biosynthesis.I..plastidic.,TRUE,reported,igd

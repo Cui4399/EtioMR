@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,102896809,rs1676494,T,C,0.142065,3.34734133129235e-19,0.0158614,32101,0.0638713,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,102974941,rs41301263,G,A,-0.24466,1.69121958773965e-13,0.0331915,32101,0.0137223,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103194204,rs72688841,A,C,0.213552,1.33690331447279e-81,0.0111613,32101,0.141249,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103481378,rs72692398,T,C,-0.371573,1e-200,0.00896991,32101,0.250741,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103588835,rs114922930,T,C,-0.361646,2.69587654355745e-25,0.0348004,32101,0.0126639,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103615613,rs142439658,T,C,0.65799,4.46683592150969e-140,0.0261152,32101,0.0257998,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103821273,rs11800555,A,G,-0.257839,7.61728140468678e-31,0.022329,32101,0.0323874,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,103827170,rs148480463,A,G,0.201719,3.48337315036012e-11,0.0304504,32101,0.019321,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104042691,rs74382608,A,G,0.40096,3.86544946598283e-29,0.0357849,32101,0.0118532,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104065803,rs114479022,T,G,0.297329,7.8234804203146e-19,0.0335491,32101,0.0137161,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104131536,rs1932471,A,C,-0.168855,4.22668614265608e-101,0.00791031,32101,0.418415,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104238114,rs142394676,C,T,0.177024,7.00841805861541e-09,0.0305702,32101,0.0182663,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104424479,rs77506146,A,G,0.170045,4.19478783627305e-09,0.0289373,32101,0.0192594,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104443408,rs10881159,A,G,0.101703,9.20237654805668e-23,0.0103564,32101,0.205355,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis
+1,104535364,rs11184195,A,G,0.070636,5.73720013549353e-19,0.00793929,32101,0.389843,amy2a_p04746_oid20333_v1_cardiometabolic,TRUE,reported,amy2a_p04746_oid20333_v1_cardiometabolic,chr1,103617331,cis

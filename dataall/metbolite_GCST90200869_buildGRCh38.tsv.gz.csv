@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22225320,C,T,0.51819,-0.0705011,0.0153077,4.11273e-06,rs2744738,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+2,183752638,AACATT,A,0.026612,0.218767,0.0468172,2.97149e-06,rs150495483,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+3,5786226,G,A,0.315034,0.0773658,0.0161354,1.62853e-06,rs1435367,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+3,8799831,T,A,0.0171697,-0.28298,0.0581416,1.13261e-06,rs148882505,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+3,171812145,G,T,0.853607,0.101947,0.0216059,2.37644e-06,rs6792151,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+3,184386115,C,A,0.170888,0.0957053,0.0200022,1.71204e-06,rs16858780,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+4,155126451,A,C,0.58706,-0.072481,0.0152408,1.97732e-06,rs1902497,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+9,529429,C,G,0.0688499,0.143831,0.0301497,1.83722e-06,rs9407294,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+10,60980126,A,G,0.0257833,0.230702,0.0475207,1.20523e-06,rs118182258,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+17,55212120,A,G,0.636231,-0.0738564,0.0159072,3.43452e-06,rs12941798,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+18,74407627,C,T,0.0179015,-0.29642,0.057076,2.06461e-07,rs118103311,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4
+19,55106746,C,T,0.0158247,-0.279824,0.060792,4.1651e-06,rs117579136,8225,Adenosine 5'-monophosphate (AMP) to valine ratio,TRUE,reported,d3uPe4

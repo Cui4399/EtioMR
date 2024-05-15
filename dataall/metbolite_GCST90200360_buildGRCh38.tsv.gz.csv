@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,116169298,A,C,0.0221049,-0.234308,0.0513287,4.99847e-06,rs74998052,8153,Cortisone levels,TRUE,reported,04tJB9
+3,78305168,A,C,0.0415536,-0.175854,0.0374443,2.6476e-06,rs58426046,8153,Cortisone levels,TRUE,reported,04tJB9
+4,12517438,G,C,0.0157959,-0.285392,0.059055,1.34732e-06,rs115679395,8153,Cortisone levels,TRUE,reported,04tJB9
+4,170129132,T,G,0.0381679,-0.200126,0.0393243,3.59758e-07,rs115916364,8153,Cortisone levels,TRUE,reported,04tJB9
+6,10180304,C,T,0.0119194,-0.331995,0.0692153,1.61421e-06,rs6934373,8153,Cortisone levels,TRUE,reported,04tJB9
+6,36125553,A,G,0.192782,0.0900163,0.0190746,2.36798e-06,rs763097,8153,Cortisone levels,TRUE,reported,04tJB9
+6,113238996,A,G,0.403463,0.0750252,0.0161258,3.27927e-06,rs1330804,8153,Cortisone levels,TRUE,reported,04tJB9
+18,40354922,A,G,0.0155943,0.277769,0.0605563,4.4977e-06,rs11662439,8153,Cortisone levels,TRUE,reported,04tJB9

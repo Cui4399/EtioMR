@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,187281359,rs698082,T,C,0.0825,2.251e-23,0.008282,35368,0.39945,MASP1_MASP3,TRUE,reported,MASP1_MASP3

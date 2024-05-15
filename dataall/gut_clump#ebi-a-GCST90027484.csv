@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,11223628,-0.0756411,0.0165006,4.55848e-06,7738,ebi-a-GCST90027484,rs1073201,G,A,0.485935,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+3,143845688,-0.0933045,0.0186972,6.02865e-07,7738,ebi-a-GCST90027484,rs36107535,T,C,0.244568,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+7,155082494,0.168368,0.03564,2.31116e-06,7738,ebi-a-GCST90027484,rs113884393,G,C,0.0567687,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+9,7870283,-0.175176,0.0357139,9.34415e-07,7738,ebi-a-GCST90027484,rs117005086,G,C,0.0714832,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+10,98251214,0.116194,0.025124,3.74887e-06,7738,ebi-a-GCST90027484,rs10882802,G,A,0.885574,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+12,21498926,0.137352,0.0293118,2.78747e-06,7738,ebi-a-GCST90027484,rs112704675,T,C,0.0839629,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+17,959515,-0.0800054,0.0170991,2.8839e-06,7738,ebi-a-GCST90027484,rs2304958,G,A,0.665235,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+18,61019692,0.0810826,0.0175717,3.94239e-06,7738,ebi-a-GCST90027484,rs12455185,T,C,0.694565,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+18,13377128,-0.0841755,0.0177961,2.24507e-06,7738,ebi-a-GCST90027484,rs735254,G,A,0.679164,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+19,50696248,0.159693,0.0305452,1.71281e-07,7738,ebi-a-GCST90027484,rs76383640,A,G,0.0801085,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd
+20,38118302,-0.120324,0.0262563,4.59113e-06,7738,ebi-a-GCST90027484,rs2869014,A,G,0.103713,HSERMETANA.PWY..L.methionine.biosynthesis.III,TRUE,reported,igd

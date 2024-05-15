@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,181473194,C,A,0.313471,-0.0774017,0.016642,3.30343e-06,rs75258258,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+3,56815721,C,T,0.608578,0.0772343,0.0159586,1.30062e-06,rs1354034,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+7,17038584,A,T,0.34222,-0.0808838,0.0165093,9.61825e-07,rs17279471,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+7,93056451,ATTATAT,A,0.118554,-0.117276,0.0248879,2.45111e-06,rs57022560,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+7,113712411,A,T,0.0334393,-0.214694,0.0430424,6.10212e-07,rs62488266,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+7,129645555,A,G,0.903629,-0.125134,0.0264504,2.23527e-06,rs7778085,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+8,68751105,A,C,0.0701235,0.14476,0.0305869,2.21499e-06,rs72668507,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+10,65443381,A,G,0.130544,-0.106031,0.0231365,4.58685e-06,rs10761980,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+10,121064629,C,A,0.0257272,-0.236432,0.0490012,1.39982e-06,rs79970697,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+11,27481128,G,C,0.456159,0.0730686,0.0157237,3.36731e-06,rs7938467,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+15,89425268,G,A,0.172056,0.0985356,0.0212694,3.60845e-06,rs113464900,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+17,59721334,A,G,0.0126621,-0.330626,0.0694556,1.93352e-06,rs144460129,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+19,30865086,A,G,0.0230549,-0.246209,0.051831,2.03195e-06,rs117629373,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+20,2821401,T,G,0.0133333,-0.319104,0.06712,1.99198e-06,rs6051418,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la
+20,57959604,C,A,0.470445,-0.0809153,0.0158297,3.19405e-07,rs6025931,8196,3-phosphoglycerate levels,TRUE,reported,Wsj7la

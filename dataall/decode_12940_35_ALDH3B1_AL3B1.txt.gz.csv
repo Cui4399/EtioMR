@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,68017592,rs475325,T,C,0.135,6.226e-47,0.009383,35354,0.23363,ALDH3B1_AL3B1,TRUE,reported,ALDH3B1_AL3B1

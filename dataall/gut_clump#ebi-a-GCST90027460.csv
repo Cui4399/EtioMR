@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,45822918,-0.0783129,0.0167721,3.02315e-06,7738,ebi-a-GCST90027460,rs4683140,C,T,0.579406,DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+5,147059845,0.122378,0.0255005,1.59419e-06,7738,ebi-a-GCST90027460,rs17561784,T,C,0.117215,DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+9,133392841,-0.115706,0.0232243,6.28956e-07,7738,ebi-a-GCST90027460,rs511179,C,G,0.85471,DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd
+16,84344533,0.0853315,0.0182062,2.77313e-06,7738,ebi-a-GCST90027460,rs393435,C,T,0.687467,DENOVOPURINE2.PWY..superpathway.of.purine.nucleotides.de.novo.biosynthesis.II,TRUE,reported,igd

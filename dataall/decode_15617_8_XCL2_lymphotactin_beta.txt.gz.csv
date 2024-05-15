@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,168542087,rs4301615,C,G,0.0744,3.142e-14,0.009799,35364,0.20457,XCL2_lymphotactin_beta,TRUE,reported,XCL2_lymphotactin_beta

@@ -1,0 +1,8 @@
+"se.exposure","samplesize.exposure","pval.exposure","pos.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000720442,335587,3.60247e-14,127459552,"6",-0.00545729,"ukb-a-308","rs9482773","C","G",0.480289,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.000723349,335587,8.13954e-13,38150056,"7",-0.00517851,"ukb-a-308","rs10237265","C","T",0.545561,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.000820555,335587,7.0648e-41,120966790,"7",-0.0109874,"ukb-a-308","rs3779381","G","A",0.259261,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.00116341,335587,1.60835e-09,54434511,"10",0.00701919,"ukb-a-308","rs11003047","G","T",0.107004,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.000775531,335587,2.44709e-08,86868071,"11",0.00432524,"ukb-a-308","rs576679","A","G",0.311822,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.000749191,335587,5.71479e-11,41801246,"17",-0.00490813,"ukb-a-308","rs7217502","C","A",0.38114,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"
+0.000717996,335587,4.48745e-08,13722465,"18",0.0039279,"ukb-a-308","rs1941750","A","G",0.477091,"Fractured/broken bones in last 5 years || id:ukb-a-308",TRUE,"reported","igd"

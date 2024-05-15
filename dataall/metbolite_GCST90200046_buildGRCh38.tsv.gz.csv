@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,10984097,A,G,0.430426,-0.136946,0.0148725,3.32269e-20,rs9379992,8257,1-stearoyl-2-docosahexaenoyl-gpc (18:0/22:6) levels,TRUE,reported,oNenxm
+11,61802358,T,C,0.338303,-0.247473,0.0154875,1.79325e-57,rs174546,8257,1-stearoyl-2-docosahexaenoyl-gpc (18:0/22:6) levels,TRUE,reported,oNenxm
+17,17536144,T,C,0.536383,-0.0883803,0.0149412,3.3148e-09,rs750546,8257,1-stearoyl-2-docosahexaenoyl-gpc (18:0/22:6) levels,TRUE,reported,oNenxm

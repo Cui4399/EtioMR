@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,139379813,T,C,0.0306009,0.322287,0.0450792,8.7188e-13,rs33972313,8097,Citrate to oxalate (ethanedioate) ratio,TRUE,reported,yjPN7b

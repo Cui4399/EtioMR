@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,93593838,rs183727817,G,T,-0.208668,1.05813236910106e-08,0.0364732,32907,0.0120291,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,93839111,rs4264798,A,G,0.0837538,2.42493443103346e-26,0.00788698,32907,0.609506,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,93871617,rs55785438,G,C,-0.112715,8.0278638798979e-37,0.00889197,32907,0.250959,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,93923416,rs10049841,T,C,0.0692015,4.26383116900078e-15,0.00881894,32907,0.5166,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94026795,rs180687056,T,A,-0.292432,2.63511758986384e-33,0.0243193,32907,0.0287733,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94071981,rs72663742,G,T,-1.07182,1e-200,0.020078,32907,0.0386212,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94078086,rs6813484,C,T,0.406031,1e-200,0.010277,32907,0.166895,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94405062,rs7666590,A,C,0.245544,1e-200,0.00779186,32907,0.455259,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94405454,rs185853524,A,T,-0.21746,1.04978412255235e-33,0.0179712,32907,0.0589082,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94620064,rs72667648,T,C,-0.183064,7.51449846374687e-39,0.0140416,32907,0.0814416,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94656103,rs183434279,G,A,0.209749,2.40935059133549e-09,0.0351486,32907,0.0144848,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis
+4,94677952,rs17021994,G,C,0.154279,1.45680022546016e-13,0.0208739,32907,0.0351293,hpgds_o60760_oid21266_v1_oncology,TRUE,reported,hpgds_o60760_oid21266_v1_oncology,chr4,94342876,cis

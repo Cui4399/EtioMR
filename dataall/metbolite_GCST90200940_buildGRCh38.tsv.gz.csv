@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,162376534,A,C,0.0150417,-0.394443,0.0846763,3.18906e-06,rs116974459,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+2,234191055,C,A,0.0289855,0.31028,0.0611344,3.86741e-07,rs80332390,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+7,119633899,GC,G,0.170865,-0.12779,0.0271212,2.45545e-06,rs72475287,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+8,100846652,G,T,0.156265,-0.144668,0.0296368,1.05355e-06,rs7829662,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+9,29378733,G,A,0.705487,0.107856,0.0228353,2.32137e-06,rs12003375,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+12,5278207,T,C,0.0190999,-0.359215,0.074554,1.44875e-06,rs117717775,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+12,76187259,C,T,0.0184042,-0.376966,0.0759981,7.04209e-07,rs118110285,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+13,83396878,G,T,0.0181598,0.36572,0.0769172,1.98723e-06,rs117739522,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+14,95684913,T,C,0.400451,0.0985011,0.0212682,3.63241e-06,rs2181066,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF
+17,54661552,A,T,0.842379,0.132587,0.0285772,3.49051e-06,rs10468504,4563,Adenosine 5'-diphosphate (ADP) to EDTA ratio,TRUE,reported,ChPJlF

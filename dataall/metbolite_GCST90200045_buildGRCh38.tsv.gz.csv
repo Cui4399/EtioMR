@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,136222574,A,C,0.117561,-0.137807,0.0238119,7.15241e-09,rs13081352,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+11,61814292,C,T,0.308136,-0.23265,0.0164026,1.15431e-45,rs174560,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+11,116778201,C,G,0.868942,-0.206164,0.0226163,7.81325e-20,rs964184,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+15,58255679,A,G,0.13913,0.147999,0.0221356,2.29352e-11,rs12904367,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+15,58391167,G,A,0.623195,-0.351719,0.0154255,4.46859e-115,rs1532085,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+15,58431280,C,T,0.216367,0.357376,0.018375,2.96619e-84,rs1077834,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9
+19,44915533,C,T,0.221837,0.122116,0.0184235,3.39625e-11,rs5117,8259,1-stearoyl-2-arachidonoyl-GPE (18:0/20:4) levels,TRUE,reported,0d8Wv9

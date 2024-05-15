@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,52078217,A,C,0.010637,0.54705,0.0752244,3.53572e-13,rs148804382,7993,N-acetylmethionine levels,TRUE,reported,b7NGvm

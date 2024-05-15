@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233764076,G,T,0.324651,-0.233627,0.0169838,4.69635e-43,rs4148324,7747,"Cholate to bilirubin (Z,Z) ratio",TRUE,reported,ZI3iJP

@@ -1,0 +1,6 @@
+"pos.exposure","chr.exposure","samplesize.exposure","se.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+62149155,"3",337159,0.000252317,1.63031e-08,0.00142494,"ukb-a-133","rs77602353","G","A",0.00985471,"Treatment/medication code: logynon tablet || id:ukb-a-133",TRUE,"reported","igd"
+121069508,"5",337159,0.000325989,1.38112e-08,0.00185026,"ukb-a-133","rs74621396","C","T",0.00592084,"Treatment/medication code: logynon tablet || id:ukb-a-133",TRUE,"reported","igd"
+46435682,"7",337159,0.000242071,1.02334e-08,0.00138633,"ukb-a-133","rs75345253","C","G",0.0109653,"Treatment/medication code: logynon tablet || id:ukb-a-133",TRUE,"reported","igd"
+118082796,"12",337159,0.000161149,5.84857e-09,0.000938076,"ukb-a-133","rs73211964","T","C",0.024616,"Treatment/medication code: logynon tablet || id:ukb-a-133",TRUE,"reported","igd"
+45124533,"22",337159,0.000268217,6.80613e-11,0.00175014,"ukb-a-133","rs147681082","A","G",0.00917411,"Treatment/medication code: logynon tablet || id:ukb-a-133",TRUE,"reported","igd"

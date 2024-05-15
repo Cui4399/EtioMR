@@ -1,0 +1,3 @@
+"samplesize.exposure","beta.exposure","pos.exposure","se.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+463010,-0.00147281,120962164,0.000161391,"7",7.10068e-20,"ukb-b-2804","rs2908007","G","A",0.401077,"Diagnoses - main ICD10: S52.50 Fracture of lower end of radius (closed) || id:ukb-b-2804",TRUE,"reported","igd"
+463010,-0.000900338,11259905,0.000164732,"8",4.60002e-08,"ukb-b-2804","rs11250133","C","T",0.629943,"Diagnoses - main ICD10: S52.50 Fracture of lower end of radius (closed) || id:ukb-b-2804",TRUE,"reported","igd"

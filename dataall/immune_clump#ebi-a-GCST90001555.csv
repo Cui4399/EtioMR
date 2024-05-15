@@ -1,0 +1,5 @@
+samplesize.exposure,se.exposure,pval.exposure,pos.exposure,beta.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3427,0.1943,1.13789e-16,197924770,-1.619,1,ebi-a-GCST90001555,rs17583875,A,G,0.0029,Effector Memory CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001555,TRUE,reported,igd
+3427,0.02205,2.38891e-30,38925155,-0.2549,2,ebi-a-GCST90001555,rs11896593,C,G,0.3707,Effector Memory CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001555,TRUE,reported,igd
+3427,0.02234,9.44496e-13,38899155,-0.16,2,ebi-a-GCST90001555,rs28578699,C,A,0.3669,Effector Memory CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001555,TRUE,reported,igd
+3427,0.2032,1.457e-08,103672986,1.154,2,ebi-a-GCST90001555,rs2463509,T,C,0.9971,Effector Memory CD8+ T cell %CD8+ T cell || id:ebi-a-GCST90001555,TRUE,reported,igd

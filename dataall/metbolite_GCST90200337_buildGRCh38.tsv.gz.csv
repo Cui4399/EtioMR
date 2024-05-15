@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,8925891,T,C,0.0806299,0.148161,0.0297444,6.32148e-07,rs75856230,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+1,66463397,C,T,0.28727,-0.083496,0.0174937,1.81566e-06,rs12758529,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+1,199225571,T,C,0.0228319,-0.250452,0.0519012,1.39612e-06,rs114150217,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+1,233910630,C,T,0.0580062,0.154973,0.0331163,2.87357e-06,rs115240947,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+3,104263009,A,G,0.0702356,-0.145024,0.0303914,1.82527e-06,rs62259485,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+5,64675647,T,G,0.0739015,0.149848,0.029691,4.48987e-07,rs112006783,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+6,69642607,T,C,0.0606364,0.150786,0.0326844,3.96137e-06,rs112156304,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+9,16081996,A,G,0.0194846,0.272233,0.0560565,1.19535e-06,rs62550920,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+10,127918736,A,G,0.0154831,0.291096,0.0631637,4.05411e-06,rs116916133,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+17,10808360,A,C,0.0819146,-0.147263,0.0289931,3.78918e-07,rs76149982,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm
+18,58225985,T,C,0.318856,-0.0867183,0.0168317,2.57592e-07,rs292450,8048,Taurochenodeoxycholate levels,TRUE,reported,ja2Nmm

@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,125663470,T,C,0.0234452,0.232316,0.0506092,4.42414e-06,rs13390128,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+2,136180790,G,C,0.0223542,-0.235892,0.051474,4.58925e-06,rs6737096,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+2,157628563,T,G,0.0453419,0.173053,0.0376063,4.19054e-06,rs114245489,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+5,73051700,G,T,0.461699,-0.0732978,0.015189,1.39491e-06,rs194493,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+10,58793279,T,C,0.0233321,0.272638,0.0511149,9.6162e-08,rs139721493,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+11,75576830,A,C,0.27953,0.0812905,0.0175954,3.83749e-06,rs676206,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+12,116440229,G,C,0.304818,0.0813037,0.0172714,2.50862e-06,rs2264772,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+13,37948835,T,A,0.354577,-0.0805648,0.0160724,5.36929e-07,rs9576403,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+13,46493070,T,C,0.11252,0.11394,0.0243878,2.98292e-06,rs17268898,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ
+16,17540208,A,C,0.0633725,0.147822,0.0311407,2.06562e-06,rs75039646,8180,Adenosine 5'-monophosphate (AMP) to histidine ratio,TRUE,reported,76M8iJ

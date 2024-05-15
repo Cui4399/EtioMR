@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,205330509,A,G,0.319712,-0.109137,0.0216785,4.79562e-07,rs7417402,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+3,33290172,A,T,0.0107404,-0.450496,0.0976915,3.99932e-06,rs116644041,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+3,71124079,A,C,0.335536,0.0978164,0.0212295,4.07415e-06,rs2686270,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+4,10314958,G,T,0.214107,-0.115484,0.0242961,2.00239e-06,rs4698032,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+5,158150551,A,G,0.157687,-0.130215,0.0277836,2.77559e-06,rs72802557,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+6,11039769,A,G,0.437031,-0.0949704,0.0202214,2.6463e-06,rs3798720,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+7,130464129,T,C,0.0324064,0.260121,0.0568242,4.70226e-06,rs74588165,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+8,27214419,T,G,0.110512,0.158996,0.0321491,7.59097e-07,rs34759235,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+15,35073889,A,G,0.0375861,0.242612,0.0529621,4.63045e-06,rs8025144,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr
+20,49389215,C,T,0.156401,-0.144533,0.0273944,1.32035e-07,rs16994553,4814,3-ethylcatechol sulfate (2) levels,TRUE,reported,p4BCMr

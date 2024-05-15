@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+9,107287633,rs7035725,G,C,-0.0641375,4.47095192463045e-17,0.00763557,32907,0.54975,rad23b_p54727_oid21166_v1_oncology,TRUE,reported,rad23b_p54727_oid21166_v1_oncology,chr9,107283235,cis

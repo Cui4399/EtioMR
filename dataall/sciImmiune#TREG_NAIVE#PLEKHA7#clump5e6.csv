@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",17025712,"rs4757483","G","A",3.11805744303e-13,-0.956932979615,0.13128097108723,89,"TREG_NAIVE#PLEKHA7",TRUE,"reported","ZomsE0",NA

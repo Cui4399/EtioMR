@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,18328179,G,T,0.0848481,0.19751,0.0287081,5.98704e-12,rs999376,7599,5-acetylamino-6-formylamino-3-methyluracil levels,TRUE,reported,1Mwz3x
+8,18402366,T,C,0.705945,-0.669775,0.0160613,1e-200,rs11780610,7599,5-acetylamino-6-formylamino-3-methyluracil levels,TRUE,reported,1Mwz3x
+8,18414438,T,G,0.390469,-0.164242,0.0166001,4.41954e-23,rs12545528,7599,5-acetylamino-6-formylamino-3-methyluracil levels,TRUE,reported,1Mwz3x

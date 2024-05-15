@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,177202726,C,T,0.555966,0.0729509,0.0155727,2.80605e-06,rs6443435,8260,Hippurate levels,TRUE,reported,QIw6PY
+4,171966715,G,C,0.236388,-0.0890288,0.0182274,1.03783e-06,rs62326335,8260,Hippurate levels,TRUE,reported,QIw6PY
+5,40519286,T,C,0.0219714,-0.24093,0.0524855,4.42373e-06,rs1505993,8260,Hippurate levels,TRUE,reported,QIw6PY
+6,114434155,T,C,0.0190974,-0.255607,0.0555964,4.27499e-06,rs375709482,8260,Hippurate levels,TRUE,reported,QIw6PY
+7,50501037,G,A,0.212634,0.0853795,0.0186386,4.63251e-06,rs3779084,8260,Hippurate levels,TRUE,reported,QIw6PY
+10,13172160,C,T,0.886196,0.121973,0.0241952,4.62648e-07,rs7073480,8260,Hippurate levels,TRUE,reported,QIw6PY
+10,120838827,T,C,0.824509,0.0916728,0.0200283,4.71341e-06,rs1271526,8260,Hippurate levels,TRUE,reported,QIw6PY
+12,14111937,T,C,0.0418998,-0.19262,0.0384132,5.31941e-07,rs16909710,8260,Hippurate levels,TRUE,reported,QIw6PY
+16,22787037,A,G,0.162015,-0.0980699,0.0209321,2.79769e-06,rs72770519,8260,Hippurate levels,TRUE,reported,QIw6PY

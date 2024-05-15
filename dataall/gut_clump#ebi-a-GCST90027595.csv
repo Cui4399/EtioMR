@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,207936911,0.102583,0.0209988,1.0334e-06,7738,ebi-a-GCST90027595,rs1263629,G,A,0.181109,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+2,103977499,-0.124701,0.0268023,3.27763e-06,7738,ebi-a-GCST90027595,rs72831788,C,T,0.104502,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+3,192089178,0.111336,0.0214587,2.12158e-07,7738,ebi-a-GCST90027595,rs6804526,G,A,0.170134,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+10,43856612,0.166331,0.0353081,2.467e-06,7738,ebi-a-GCST90027595,rs17366560,T,A,0.0610195,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+11,116273511,-0.0773775,0.0168186,4.21046e-06,7738,ebi-a-GCST90027595,rs505128,C,T,0.353709,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+14,95944478,0.102872,0.0217188,2.1739e-06,7738,ebi-a-GCST90027595,rs17829116,A,G,0.183342,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+16,24047271,0.184638,0.0359187,2.74107e-07,7738,ebi-a-GCST90027595,rs78048823,T,C,0.0535389,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+17,34055935,-0.100368,0.020885,1.54188e-06,7738,ebi-a-GCST90027595,rs72829932,G,A,0.183187,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+17,7249870,-0.101907,0.0217462,2.7833e-06,7738,ebi-a-GCST90027595,rs11657406,T,G,0.166064,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+19,23458920,0.122537,0.0257537,1.9547e-06,7738,ebi-a-GCST90027595,rs384592,G,A,0.137667,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd
+20,11612323,-0.167732,0.0361844,3.56123e-06,7738,ebi-a-GCST90027595,rs75314238,T,A,0.0560906,PWY.6703..preQ0.biosynthesis,TRUE,reported,igd

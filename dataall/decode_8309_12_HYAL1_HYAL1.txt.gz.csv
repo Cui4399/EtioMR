@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,50302191,rs116482870,T,C,-0.2397,1.434e-36,0.018978,35343,0.04773,HYAL1_HYAL1,TRUE,reported,HYAL1_HYAL1
+3,50303331,rs113603579,T,G,-0.3046,4.456e-14,0.040361,35343,0.00958,HYAL1_HYAL1,TRUE,reported,HYAL1_HYAL1

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,106922725,C,G,0.966961,0.242403,0.0471092,2.66721e-07,rs4676095,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+2,149444993,A,C,0.0126619,0.341876,0.074385,4.30592e-06,rs114305930,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+2,226088788,G,T,0.213783,-0.0970574,0.020465,2.10983e-06,rs62187668,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+4,45380989,G,A,0.0387097,0.196941,0.043129,4.9638e-06,rs73237701,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+5,125820716,T,C,0.358928,0.0794221,0.0172508,4.14501e-06,rs35102177,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+5,151138415,A,G,0.235624,0.0899976,0.0196591,4.69661e-06,rs35144462,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+17,60151352,G,T,0.105052,0.128475,0.027244,2.40876e-06,rs28714482,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+18,11941425,C,T,0.447002,0.0861992,0.0168895,3.33058e-07,rs2083810,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz
+21,42269381,T,C,0.396341,0.0802776,0.0174343,4.13273e-06,rs532345,6984,2-acetamidophenol sulfate levels,TRUE,reported,9YQtyz

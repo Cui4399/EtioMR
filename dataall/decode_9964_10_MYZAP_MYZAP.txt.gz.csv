@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,57563562,rs4774967,T,G,0.0716,1.889e-18,0.00817,35359,0.34582,MYZAP_MYZAP,TRUE,reported,MYZAP_MYZAP

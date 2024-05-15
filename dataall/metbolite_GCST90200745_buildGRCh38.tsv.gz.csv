@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,78306045,T,C,0.260475,-0.083057,0.0175436,2.19779e-06,rs1887539,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+3,84407476,G,T,0.55686,-0.0706501,0.0154182,4.5998e-06,rs13072652,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+5,73051700,G,T,0.461925,-0.0712959,0.0152179,2.79975e-06,rs194493,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+8,94751263,T,C,0.236316,-0.0902857,0.0183021,8.0943e-07,rs13279344,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+10,58793279,T,C,0.0231825,0.258103,0.0513671,5.04276e-07,rs139721493,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+10,60980126,A,G,0.0257132,0.23679,0.0481033,8.54339e-07,rs118182258,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+12,6295614,A,C,0.0182107,-0.277781,0.0574511,1.33091e-06,rs75350542,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+14,62249072,A,G,0.134218,-0.105081,0.022368,2.6296e-06,rs11846826,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX
+18,74407627,C,T,0.0179196,-0.287165,0.0576893,6.43145e-07,rs118103311,8189,Adenosine 5'-monophosphate (AMP) to phenylalanine ratio,TRUE,reported,oIQENX

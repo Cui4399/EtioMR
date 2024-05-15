@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+2,229076723,rs150909446,G,T,0.126921,2.63985455676052e-08,0.022812,33593,0.028392,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229272608,rs1239009,C,A,0.0605148,1.02569916035572e-09,0.00991175,33593,0.169739,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229367173,rs2302769,T,A,0.101205,1.29538838897489e-42,0.00739676,33593,0.544169,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229421054,rs10192937,G,A,0.0516265,1.45780689505628e-08,0.00911089,33593,0.210998,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229445094,rs35565740,C,G,-0.203425,1.31219989901919e-109,0.00914551,33593,0.220264,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229550753,rs148570733,A,G,0.141684,1.22857026524939e-18,0.0160783,33593,0.0583046,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229591076,rs78808906,C,T,-0.174293,1.19085805886342e-08,0.0305723,33593,0.0154545,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229656625,rs4973214,C,T,-0.128999,1.20032817416268e-67,0.00742292,33593,0.540101,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229706839,rs180860326,A,G,0.175468,5.04661297563528e-13,0.0242894,33593,0.025622,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229727643,rs34412673,T,A,-0.280264,1e-200,0.00791054,33593,0.331787,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,229743095,rs181771174,A,G,0.0993548,7.82167920475605e-25,0.00965551,33593,0.181898,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,230150918,rs13020206,A,T,-0.0639668,7.35529337867272e-14,0.00855016,33593,0.74953,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,230253156,rs114326047,A,G,-0.192517,9.79489985408698e-12,0.0282718,33593,0.0175743,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis
+2,230283413,rs12694846,G,A,0.0530218,1.79866382438244e-10,0.00831374,33593,0.273126,dner_q8nft8_oid20712_v1_inflammation,TRUE,reported,dner_q8nft8_oid20712_v1_inflammation,chr2,229714570,cis

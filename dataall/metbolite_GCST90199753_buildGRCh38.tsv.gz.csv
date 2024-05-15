@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,111228992,A,G,0.150096,0.122954,0.0220161,2.3406e-08,rs10457236,7902,Gamma-glutamyltryptophan levels,TRUE,reported,bkvwJB
+22,24598329,C,T,0.366134,-0.118486,0.0164246,5.43479e-13,rs6004193,7902,Gamma-glutamyltryptophan levels,TRUE,reported,bkvwJB

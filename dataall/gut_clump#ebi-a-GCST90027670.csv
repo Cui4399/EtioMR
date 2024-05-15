@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,104284483,-0.135924,0.0270776,5.17249e-07,7738,ebi-a-GCST90027670,rs9828991,T,A,0.7027,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+4,7277846,0.209054,0.0455591,4.4617e-06,7738,ebi-a-GCST90027670,rs28719561,C,T,0.0837098,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+6,117227284,-0.144528,0.0300958,1.56874e-06,7738,ebi-a-GCST90027670,rs11153641,C,T,0.206792,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+7,122783839,0.205148,0.0405881,4.31748e-07,7738,ebi-a-GCST90027670,rs73447940,A,C,0.101803,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+9,78709777,-0.154409,0.0323208,1.77595e-06,7738,ebi-a-GCST90027670,rs12345570,T,C,0.168494,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+10,55325964,-0.246374,0.0526148,2.8327e-06,7738,ebi-a-GCST90027670,rs73242161,C,A,0.0557373,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+12,32226658,0.12428,0.0270266,4.25706e-06,7738,ebi-a-GCST90027670,rs2668320,T,C,0.278342,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+14,80660670,0.11913,0.0258328,3.99595e-06,7738,ebi-a-GCST90027670,rs74064457,A,G,0.339887,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd
+16,60407480,0.143701,0.0300179,1.69138e-06,7738,ebi-a-GCST90027670,rs1901115,T,C,0.799426,k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae,TRUE,reported,igd

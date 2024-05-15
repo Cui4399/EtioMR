@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,57276048,0.0886546,0.0189872,3.0242e-06,7738,ebi-a-GCST90027838,rs56282904,G,A,0.2577,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_vulgatus,TRUE,reported,igd
+3,69516937,0.0871456,0.0189414,4.20862e-06,7738,ebi-a-GCST90027838,rs1498839,T,C,0.258826,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_vulgatus,TRUE,reported,igd
+15,73669313,0.149921,0.0322005,3.22626e-06,7738,ebi-a-GCST90027838,rs142222485,A,G,0.072205,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_vulgatus,TRUE,reported,igd
+16,115817,0.081255,0.0170316,1.83455e-06,7738,ebi-a-GCST90027838,rs11646266,T,C,0.428434,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__Bacteroides_vulgatus,TRUE,reported,igd

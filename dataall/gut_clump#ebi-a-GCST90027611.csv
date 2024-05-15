@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+10,8502417,-0.103127,0.0222823,3.68867e-06,7738,ebi-a-GCST90027611,rs72773357,C,T,0.157079,PWY.7199..pyrimidine.deoxyribonucleosides.salvage,TRUE,reported,igd
+14,73901590,-0.170639,0.0368399,3.62318e-06,7738,ebi-a-GCST90027611,rs117273466,G,T,0.059133,PWY.7199..pyrimidine.deoxyribonucleosides.salvage,TRUE,reported,igd
+19,1095151,-0.0794591,0.0168564,2.43036e-06,7738,ebi-a-GCST90027611,rs10416031,G,A,0.653782,PWY.7199..pyrimidine.deoxyribonucleosides.salvage,TRUE,reported,igd
+21,42306226,0.0755324,0.0163735,3.96753e-06,7738,ebi-a-GCST90027611,rs1041447,T,C,0.581197,PWY.7199..pyrimidine.deoxyribonucleosides.salvage,TRUE,reported,igd

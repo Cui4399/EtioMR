@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,88710195,rs12441312,C,G,0.0872,1.775e-18,0.009942,35353,0.20578,ACAN_Aggrecan,TRUE,reported,ACAN_Aggrecan
+15,88843421,rs34949187,A,G,-0.1415,1.491e-39,0.010752,35355,0.16378,ACAN_Aggrecan,TRUE,reported,ACAN_Aggrecan
+15,88872016,rs3817428,G,C,0.049,4.06e-08,0.008928,35355,0.28422,ACAN_Aggrecan,TRUE,reported,ACAN_Aggrecan

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,229353849,0.0833518,0.0180549,3.9014e-06,7738,ebi-a-GCST90027554,rs10933259,G,A,0.287092,PWY.5676..acetyl.CoA.fermentation.to.butanoate.II,TRUE,reported,igd
+9,9139951,0.187733,0.0389839,1.46707e-06,7738,ebi-a-GCST90027554,rs7043302,T,G,0.0508132,PWY.5676..acetyl.CoA.fermentation.to.butanoate.II,TRUE,reported,igd
+10,8111168,-0.0932478,0.0202551,4.15126e-06,7738,ebi-a-GCST90027554,rs409534,T,C,0.209549,PWY.5676..acetyl.CoA.fermentation.to.butanoate.II,TRUE,reported,igd
+16,25933464,-0.11869,0.0244319,1.18582e-06,7738,ebi-a-GCST90027554,rs4533289,A,G,0.129961,PWY.5676..acetyl.CoA.fermentation.to.butanoate.II,TRUE,reported,igd
+17,74389890,-0.0791191,0.0169237,2.939e-06,7738,ebi-a-GCST90027554,rs11077815,C,T,0.616275,PWY.5676..acetyl.CoA.fermentation.to.butanoate.II,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73539327,T,A,0.230577,-0.0931593,0.0167526,2.68386e-08,rs6704782,8210,"N2,n2-dimethylguanosine levels",TRUE,reported,ktykCd

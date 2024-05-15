@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,170113591,T,C,0.377733,0.0954508,0.0151521,2.98559e-10,rs10000291,8256,3-formylindole levels,TRUE,reported,GuWkCa
+6,25800694,C,T,0.301662,0.0995025,0.015874,3.65099e-10,rs1165211,8256,3-formylindole levels,TRUE,reported,GuWkCa
+9,128821966,G,A,0.747545,0.275053,0.0164742,1.403e-62,rs2977995,8256,3-formylindole levels,TRUE,reported,GuWkCa
+16,58736977,A,C,0.0790336,0.177857,0.026839,3.42996e-11,rs11647808,8256,3-formylindole levels,TRUE,reported,GuWkCa
+22,23924860,T,C,0.590567,0.382782,0.0141867,2.41856e-160,rs5751777,8256,3-formylindole levels,TRUE,reported,GuWkCa

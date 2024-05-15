@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,89332801,rs10509571,A,T,-0.0904,7.449e-24,0.008977,35356,0.26379,IFIT3_CIG49,TRUE,reported,IFIT3_CIG49

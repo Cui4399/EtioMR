@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","chr.exposure","pos.exposure","se.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+117733,0.011079,"5",141913508,0.00198687,2.46496e-08,"ukb-d-20553_5","rs249407","G","A",0.0260663,"Methods of self-harm used: Self-injury such as self-cutting, scratching or hitting, etc. || id:ukb-d-20553_5",TRUE,"reported","igd"
+117733,0.0199351,"11",100230088,0.00325134,8.74118e-10,"ukb-d-20553_5","rs143632412","A","T",0.00882357,"Methods of self-harm used: Self-injury such as self-cutting, scratching or hitting, etc. || id:ukb-d-20553_5",TRUE,"reported","igd"
+117733,0.00969912,"13",33421985,0.00177217,4.43343e-08,"ukb-d-20553_5","rs116917481","T","C",0.031111,"Methods of self-harm used: Self-injury such as self-cutting, scratching or hitting, etc. || id:ukb-d-20553_5",TRUE,"reported","igd"

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,91904085,-0.0786778,0.0171333,4.38824e-06,7738,ebi-a-GCST90027625,rs6603965,T,C,0.643205,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd
+5,15655657,-0.0812905,0.0172559,2.46661e-06,7738,ebi-a-GCST90027625,rs12658046,C,T,0.340781,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd
+5,153550200,0.0940498,0.0181342,2.14501e-07,7738,ebi-a-GCST90027625,rs11747315,A,G,0.274188,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd
+5,52350521,0.0750064,0.0164125,4.87517e-06,7738,ebi-a-GCST90027625,rs2910964,A,G,0.392802,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd
+8,128073689,0.0892195,0.0165028,6.43369e-08,7738,ebi-a-GCST90027625,rs35569027,A,G,0.451022,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd
+10,98099765,-0.104066,0.0219845,2.20562e-06,7738,ebi-a-GCST90027625,rs12254238,G,A,0.161674,PWY.7400..L.arginine.biosynthesis.IV..archaebacteria.,TRUE,reported,igd

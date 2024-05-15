@@ -1,0 +1,8 @@
+"se.exposure","samplesize.exposure","pval.exposure","pos.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00151592,323267,1.18812e-08,23736400,"9",0.0086431,"ukb-a-242","rs10119773","G","A",0.53859,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00150951,323267,2.391e-08,96387675,"9",0.00842483,"ukb-a-242","rs10761245","T","C",0.511925,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00203765,323267,3.41547e-08,35524202,"10",0.0112454,"ukb-a-242","rs12769539","G","T",0.160826,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00205797,323267,1.88465e-08,103538004,"12",0.0115708,"ukb-a-242","rs11111468","C","T",0.157901,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00347396,323267,3.88857e-08,30685789,"14",0.0190928,"ukb-a-242","rs75005703","A","G",0.0498741,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00165002,323267,1.11887e-10,35266137,"18",0.0106429,"ukb-a-242","rs9946342","A","G",0.290686,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"
+0.00150841,323267,1.0617e-13,50755757,"18",0.0112125,"ukb-a-242","rs62100777","A","G",0.451555,"Frequency of depressed mood in last 2 weeks || id:ukb-a-242",TRUE,"reported","igd"

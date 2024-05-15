@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,164939937,rs3924335,G,C,0.0437428,3.6387314127205e-08,0.00794234,33719,0.380924,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165116855,rs6812338,C,T,-0.0653754,8.20672725157432e-09,0.0113417,33719,0.129692,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165188544,rs6846518,C,G,-0.0805712,2.99916251898765e-13,0.0110456,33719,0.137171,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165257980,rs189173868,G,A,0.240219,2.42828691703896e-13,0.0328043,33719,0.014138,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165340648,rs1550270,C,T,0.255847,1e-200,0.00825542,33719,0.300855,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165357426,rs41489646,G,A,0.107929,7.68953361845663e-18,0.0125438,33719,0.105084,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165505694,rs62326999,T,C,0.158543,7.90496588476486e-13,0.0221343,33719,0.0313373,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis
+4,165523772,rs2033766,A,G,0.0692679,4.85847530937491e-18,0.00800171,33719,0.661256,cpe_p16870_oid21392_v1_oncology,TRUE,reported,cpe_p16870_oid21392_v1_oncology,chr4,165378941,cis

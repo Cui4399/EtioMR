@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,105568411,rs9760233,T,C,-0.1681,8.798e-11,0.025916,35351,0.02337,NPNT_Nephronectin,TRUE,reported,NPNT_Nephronectin
+4,105587711,rs150259121,T,C,0.1152,9.734e-11,0.017802,35343,0.05401,NPNT_Nephronectin,TRUE,reported,NPNT_Nephronectin
+4,105883784,rs186816912,T,C,0.1322,5.343e-17,0.015778,35352,0.06891,NPNT_Nephronectin,TRUE,reported,NPNT_Nephronectin
+4,105897896,rs34712979,A,G,-0.1964,2.055e-100,0.009233,35350,0.24399,NPNT_Nephronectin,TRUE,reported,NPNT_Nephronectin
+4,106079868,rs7689298,A,G,-0.0714,9.829e-19,0.00808,35352,0.42136,NPNT_Nephronectin,TRUE,reported,NPNT_Nephronectin

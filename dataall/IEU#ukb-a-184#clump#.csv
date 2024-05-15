@@ -1,0 +1,5 @@
+"samplesize.exposure","beta.exposure","pval.exposure","pos.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,0.00292939,4.15059e-08,81917480,"1",0.000534127,"ukb-a-184","rs187455998","A","G",0.00850833,"Treatment/medication code: rosiglitazone || id:ukb-a-184",TRUE,"reported","igd"
+337159,0.00162183,1.96196e-09,158321203,"7",0.000270257,"ukb-a-184","rs138205523","C","G",0.0320048,"Treatment/medication code: rosiglitazone || id:ukb-a-184",TRUE,"reported","igd"
+337159,0.00325914,1.13569e-08,132336077,"12",0.000570852,"ukb-a-184","rs117299843","T","C",0.0066741,"Treatment/medication code: rosiglitazone || id:ukb-a-184",TRUE,"reported","igd"
+337159,0.00245609,1.96472e-08,70037510,"16",0.000437399,"ukb-a-184","rs144741037","A","G",0.0124126,"Treatment/medication code: rosiglitazone || id:ukb-a-184",TRUE,"reported","igd"

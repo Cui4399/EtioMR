@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,182996504,T,C,0.0125523,-0.588073,0.0919035,1.56598e-10,rs73045704,4553,Adenosine 5'-diphosphate (ADP) to N-acetylneuraminate ratio,TRUE,reported,dqovn7

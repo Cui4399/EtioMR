@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,43181651,rs2435382,T,A,-0.1148,6.609e-43,0.008361,35316,0.33153,CSGALNACT2_CGAT2,TRUE,reported,CSGALNACT2_CGAT2

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,7234953,rs767298,TAACTAAT,GAACTAAT,0.0473,1.048e-08,0.008265,35350,0.41967,COL28A1_COSA1,TRUE,reported,COL28A1_COSA1

@@ -1,0 +1,5 @@
+"beta.exposure","samplesize.exposure","pos.exposure","se.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00217655,462933,130738972,0.000331467,"8",5.19996e-11,"ukb-b-15904","rs7826493","G","A",0.202969,"Non-cancer illness code, self-reported: prolapsed disc/slipped disc || id:ukb-b-15904",TRUE,"reported","igd"
+0.00225011,462933,73772161,0.000272618,"10",1.50003e-16,"ukb-b-15904","rs1871451","T","G",0.603387,"Non-cancer illness code, self-reported: prolapsed disc/slipped disc || id:ukb-b-15904",TRUE,"reported","igd"
+0.00196385,462933,23950015,0.000279013,"12",1.9002e-12,"ukb-b-15904","rs4641571","A","T",0.353782,"Non-cancer illness code, self-reported: prolapsed disc/slipped disc || id:ukb-b-15904",TRUE,"reported","igd"
+-0.0017706,462933,37449880,0.000296978,"14",2.5e-09,"ukb-b-15904","rs2180599","C","T",0.283861,"Non-cancer illness code, self-reported: prolapsed disc/slipped disc || id:ukb-b-15904",TRUE,"reported","igd"

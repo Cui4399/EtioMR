@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",25895526,"rs3924235","G","A",1.23303723416e-07,0.736687526802,0.139299128654614,89,"TH1#LDLRAP1",TRUE,"reported","asONXB",NA

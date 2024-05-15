@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25825162,A,T,0.292546,-0.138282,0.017096,6.03517e-16,rs1165181,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc
+11,67647176,G,A,0.825197,-0.192515,0.020513,6.29018e-21,rs7108760,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc
+14,52457102,C,T,0.0301756,-0.417786,0.045136,2.11927e-20,rs61744423,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc
+14,52514946,C,G,0.0297096,-0.90152,0.0451165,7.89229e-89,rs117463339,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc
+14,52570751,G,A,0.0380661,-0.226519,0.0406495,2.51098e-08,rs117768308,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc
+22,36507049,T,C,0.0501832,0.323697,0.035437,6.57481e-20,rs146532334,8214,6-bromotryptophan levels,TRUE,reported,HAoYPc

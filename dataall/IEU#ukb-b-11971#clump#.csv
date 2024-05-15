@@ -1,0 +1,4 @@
+"chr.exposure","se.exposure","samplesize.exposure","pval.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",0.00380967,151053,7.89951e-16,-0.0306913,145775399,"ukb-b-11971","rs1006923","C","T",0.320623,"Pulse wave Arterial Stiffness index || id:ukb-b-11971",TRUE,"reported","igd"
+"13",0.00402976,151053,6.4003e-11,-0.0263287,41185309,"ukb-b-11971","rs7331212","A","G",0.261602,"Pulse wave Arterial Stiffness index || id:ukb-b-11971",TRUE,"reported","igd"
+"19",0.00490059,151053,1.40001e-09,-0.0296753,658013,"ukb-b-11971","rs1009628","G","A",0.845372,"Pulse wave Arterial Stiffness index || id:ukb-b-11971",TRUE,"reported","igd"

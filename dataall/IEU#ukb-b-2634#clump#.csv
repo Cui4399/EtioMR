@@ -1,0 +1,3 @@
+"pval.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.59998e-08,0.00594717,0.0331227,"8",182778,4842010,"ukb-b-2634","rs2924726","A","G",0.317208,"Duration of heavy DIY || id:ukb-b-2634",TRUE,"reported","igd"
+3.59998e-08,0.0199851,0.110086,"13",182778,24524337,"ukb-b-2634","rs61945278","T","C",0.022828,"Duration of heavy DIY || id:ukb-b-2634",TRUE,"reported","igd"

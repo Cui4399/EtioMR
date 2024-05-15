@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,74462331,rs11721898,G,A,0.0536,2.925e-09,0.00903,35341,0.26083,BTC_BTC,TRUE,reported,BTC_BTC
+4,74621380,rs4596322,T,C,-0.0719,2.35e-10,0.011347,35341,0.14389,BTC_BTC,TRUE,reported,BTC_BTC
+4,74704104,rs10025144,G,A,0.1023,1.317e-29,0.009053,35336,0.25795,BTC_BTC,TRUE,reported,BTC_BTC
+4,74792894,rs967874,T,A,-0.0907,7.72e-29,0.008139,35342,0.38761,BTC_BTC,TRUE,reported,BTC_BTC
+4,74794307,rs28549760,C,A,-0.2084,1.863e-52,0.013673,35342,0.09469,BTC_BTC,TRUE,reported,BTC_BTC
+4,74794598,rs62316317,A,G,0.2,1.372e-14,0.025978,35342,0.02495,BTC_BTC,TRUE,reported,BTC_BTC

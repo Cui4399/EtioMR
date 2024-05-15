@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,37344483,rs56358455,C,T,-0.0628,1.332e-09,0.010357,35350,0.17539,ELMO1_ELMO1,TRUE,reported,ELMO1_ELMO1
+7,37407090,rs7782999,T,A,-0.1054,3.676e-25,0.010171,35349,0.18282,ELMO1_ELMO1,TRUE,reported,ELMO1_ELMO1
+7,37429286,rs28628397,A,C,-0.0742,8.025e-17,0.008907,35350,0.26767,ELMO1_ELMO1,TRUE,reported,ELMO1_ELMO1

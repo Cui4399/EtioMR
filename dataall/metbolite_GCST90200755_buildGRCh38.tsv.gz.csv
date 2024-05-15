@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,96611358,C,T,0.0626097,-0.202365,0.0426718,2.11238e-06,rs9816900,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+3,130407329,C,T,0.015224,-0.384688,0.0826398,3.23984e-06,rs78185304,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+3,152950199,T,C,0.0650371,-0.196307,0.0418562,2.73155e-06,rs9838567,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+4,9370449,T,C,0.0375481,0.256347,0.0549069,3.03015e-06,rs4306951,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+4,128767347,T,C,0.0720339,-0.189813,0.0398001,1.85003e-06,rs17013669,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+5,81701196,A,C,0.114066,0.157029,0.0324447,1.2991e-06,rs72773085,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+7,32094526,A,G,0.277534,-0.111406,0.0229335,1.18691e-06,rs11761910,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+8,8480921,G,C,0.193085,0.121149,0.0261673,3.66062e-06,rs2979193,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+8,81122557,T,C,0.420879,0.101271,0.0207735,1.08797e-06,rs28655196,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+16,78083979,C,T,0.124154,0.14339,0.0312803,4.56077e-06,rs16947101,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI
+17,76024907,C,G,0.438311,0.106143,0.0215329,8.2512e-07,rs2665965,4605,Inosine 5'-monophosphate (IMP) to phosphate ratio,TRUE,reported,zdVbCI

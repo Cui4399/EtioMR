@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,208172725,-0.0769954,0.0164974,3.05443e-06,7738,ebi-a-GCST90027572,rs1751578,T,C,0.446455,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+1,4220095,0.181259,0.0301318,1.79283e-09,7738,ebi-a-GCST90027572,rs7513344,A,C,0.0865728,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+4,137651020,-0.108276,0.0234693,3.95959e-06,7738,ebi-a-GCST90027572,rs62314649,A,G,0.144953,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+5,169646064,0.0768625,0.0162327,2.18993e-06,7738,ebi-a-GCST90027572,rs6879880,C,T,0.384954,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+6,15736512,0.0987123,0.0204932,1.45855e-06,7738,ebi-a-GCST90027572,rs12530267,A,G,0.19027,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+12,94289723,0.0764044,0.0162284,2.50086e-06,7738,ebi-a-GCST90027572,rs12833807,G,C,0.464291,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+15,101676776,-0.140893,0.0282078,5.88871e-07,7738,ebi-a-GCST90027572,rs116996492,T,C,0.113678,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+21,23720260,-0.140764,0.03022,3.19352e-06,7738,ebi-a-GCST90027572,rs2827430,A,G,0.077787,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd
+22,37904251,-0.0835144,0.0157276,1.0959e-07,7738,ebi-a-GCST90027572,rs2235334,C,T,0.528302,PWY.6151..S.adenosyl.L.methionine.cycle.I,TRUE,reported,igd

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,8067983,rs9910732,A,G,-0.0741,7.849e-18,0.008614,35365,0.29487,ALOX15B_LX15B,TRUE,reported,ALOX15B_LX15B

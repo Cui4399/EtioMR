@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,122063038,rs2681406,C,T,0.0686,8.115e-13,0.009582,35369,0.21909,CD86_B7_2,TRUE,reported,CD86_B7_2

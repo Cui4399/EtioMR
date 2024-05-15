@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","pval.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,0.000285545,1e-23,"2",-0.00286601,144302171,"ukb-b-14796","rs7597834","A","G",0.821008,"Non-cancer illness code, self-reported: diverticular disease/diverticulitis || id:ukb-b-14796",TRUE,"reported","igd"
+462933,0.000329871,1.7e-08,"10",-0.00185894,101453066,"ukb-b-14796","rs2013255","T","C",0.874241,"Non-cancer illness code, self-reported: diverticular disease/diverticulitis || id:ukb-b-14796",TRUE,"reported","igd"
+462933,0.000220548,4.70002e-08,"18",0.00120482,3469290,"ukb-b-14796","rs12963737","C","T",0.468485,"Non-cancer illness code, self-reported: diverticular disease/diverticulitis || id:ukb-b-14796",TRUE,"reported","igd"

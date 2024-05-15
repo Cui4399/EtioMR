@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,41718700,rs73100943,T,A,-0.0937,4.163e-24,0.009252,35352,0.26082,INHBA_Activin_A,TRUE,reported,INHBA_Activin_A

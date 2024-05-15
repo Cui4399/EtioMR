@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233718962,G,T,0.0797723,-0.161655,0.0257084,3.21544e-10,rs2011425,8228,Pregnenetriol disulfate levels,TRUE,reported,wm5t8r
+7,64576997,A,C,0.433665,-0.101178,0.0142629,1.30476e-12,rs62461553,8228,Pregnenetriol disulfate levels,TRUE,reported,wm5t8r
+10,99849905,A,G,0.0590633,-0.181177,0.0298536,1.28838e-09,rs72838150,8228,Pregnenetriol disulfate levels,TRUE,reported,wm5t8r
+12,21178615,C,T,0.155699,0.105831,0.0192867,4.08145e-08,rs4149056,8228,Pregnenetriol disulfate levels,TRUE,reported,wm5t8r
+19,47871693,A,C,0.1598,-0.558626,0.0182796,1e-200,rs62129966,8228,Pregnenetriol disulfate levels,TRUE,reported,wm5t8r

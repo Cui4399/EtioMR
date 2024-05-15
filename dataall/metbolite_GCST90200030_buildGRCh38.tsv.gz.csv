@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61802358,T,C,0.339963,0.295385,0.0156238,1.01697e-79,rs174546,8227,"1,2-dilinoleoyl-GPC (18:2/18:2) levels",TRUE,reported,racCxT

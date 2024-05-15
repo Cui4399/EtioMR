@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,44407940,rs28497688,T,C,0.2139,3.889e-09,0.036323,35351,0.0119,CASC4_CASC4,TRUE,reported,CASC4_CASC4
+15,44550211,rs144917757,T,C,0.1966,2.41e-09,0.032945,35351,0.01554,CASC4_CASC4,TRUE,reported,CASC4_CASC4

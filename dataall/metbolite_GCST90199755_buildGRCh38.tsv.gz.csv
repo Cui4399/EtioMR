@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,71331609,A,G,0.686517,-0.105669,0.0190313,2.81773e-08,rs7487383,6894,"3,7-dimethylurate levels",TRUE,reported,S20pO8

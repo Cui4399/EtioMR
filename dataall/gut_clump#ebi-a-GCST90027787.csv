@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,60243843,0.186816,0.0394039,2.12613e-06,7738,ebi-a-GCST90027787,rs17398712,C,G,0.156544,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum,TRUE,reported,igd
+4,11169139,-0.246343,0.0531684,3.59956e-06,7738,ebi-a-GCST90027787,rs79201749,A,G,0.0910655,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum,TRUE,reported,igd
+6,25454869,0.138489,0.0299489,3.76062e-06,7738,ebi-a-GCST90027787,rs9356977,A,C,0.645474,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum,TRUE,reported,igd
+10,10139363,0.148601,0.0308155,1.41932e-06,7738,ebi-a-GCST90027787,rs7073292,G,A,0.374935,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum,TRUE,reported,igd
+15,93596061,-0.189446,0.0397457,1.87491e-06,7738,ebi-a-GCST90027787,rs11858399,T,C,0.163698,k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__Clostridium_leptum,TRUE,reported,igd

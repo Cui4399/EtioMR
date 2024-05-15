@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,129118729,G,A,0.611567,-0.177577,0.0150639,4.48722e-32,rs530686,7940,N-acetylglucosamine/n-acetylgalactosamine levels,TRUE,reported,VDH8os
+4,164185811,C,A,0.0129474,0.369143,0.0657862,2.0086e-08,rs28462207,7940,N-acetylglucosamine/n-acetylgalactosamine levels,TRUE,reported,VDH8os
+6,167294271,T,C,0.107571,0.361234,0.0235676,5.00419e-53,rs2076007,7940,N-acetylglucosamine/n-acetylgalactosamine levels,TRUE,reported,VDH8os

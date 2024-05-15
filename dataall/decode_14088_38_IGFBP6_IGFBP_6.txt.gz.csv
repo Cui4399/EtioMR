@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,53107653,rs10876406,C,T,-0.1046,2.718e-15,0.013235,35372,0.10751,IGFBP6_IGFBP_6,TRUE,reported,IGFBP6_IGFBP_6

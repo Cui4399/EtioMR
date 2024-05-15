@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,102251898,rs34563909,TAA,TT,-0.0437,4.502e-08,0.007989,35364,0.48548,IL18RAP_IL_18_Rb,TRUE,reported,IL18RAP_IL_18_Rb
+2,102399584,rs11123926,AAAATAG,CAAATAG,-0.0613,1.932e-14,0.008008,35367,0.48699,IL18RAP_IL_18_Rb,TRUE,reported,IL18RAP_IL_18_Rb
+2,102439667,rs4851010,T,A,0.0815,1.045e-21,0.008514,35366,0.32583,IL18RAP_IL_18_Rb,TRUE,reported,IL18RAP_IL_18_Rb

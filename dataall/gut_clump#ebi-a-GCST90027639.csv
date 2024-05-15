@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,133654153,-0.0848311,0.0170377,6.39072e-07,7738,ebi-a-GCST90027639,rs13150666,A,G,0.333639,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+5,58732661,0.157036,0.0336192,2.99702e-06,7738,ebi-a-GCST90027639,rs13190249,A,G,0.0713675,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+6,22106050,0.217119,0.0475229,4.90693e-06,7738,ebi-a-GCST90027639,rs1980434,G,A,0.0727811,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+11,116269470,-0.0946285,0.0186532,3.91525e-07,7738,ebi-a-GCST90027639,rs7102851,C,T,0.271291,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+14,49342239,0.0836141,0.0178534,2.82195e-06,7738,ebi-a-GCST90027639,rs17699454,C,A,0.685126,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+18,66082363,0.110543,0.0235196,2.60124e-06,7738,ebi-a-GCST90027639,rs4891683,G,A,0.148357,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd
+22,43893034,0.0771383,0.0166792,3.74904e-06,7738,ebi-a-GCST90027639,rs143107308,C,T,0.528154,PYRIDOXSYN.PWY..pyridoxal.5..phosphate.biosynthesis.I,TRUE,reported,igd

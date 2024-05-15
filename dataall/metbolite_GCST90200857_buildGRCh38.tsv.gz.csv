@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.609132,-0.107146,0.0151794,1.6815e-12,rs1354034,8205,Adenosine 5'-monophosphate (AMP) to aspartate ratio,TRUE,reported,9fDpbG
+12,116397262,A,G,0.145049,0.116693,0.0211305,3.34203e-08,rs10466932,8205,Adenosine 5'-monophosphate (AMP) to aspartate ratio,TRUE,reported,9fDpbG

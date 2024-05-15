@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,66441929,-0.132943,0.0279034,1.89396e-06,7738,ebi-a-GCST90027552,rs73100534,C,G,0.0944874,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+3,190827728,-0.0953908,0.020759,4.32454e-06,7738,ebi-a-GCST90027552,rs2666365,T,C,0.176541,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+3,427635,0.100032,0.0213377,2.75848e-06,7738,ebi-a-GCST90027552,rs7349532,G,C,0.197711,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+9,125165794,0.121846,0.0252455,1.38986e-06,7738,ebi-a-GCST90027552,rs4837963,T,C,0.116006,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+10,72518441,0.104962,0.0221493,2.14936e-06,7738,ebi-a-GCST90027552,rs7086625,T,G,0.15398,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+11,34588712,-0.162909,0.0352049,3.70177e-06,7738,ebi-a-GCST90027552,rs72929354,C,G,0.0635831,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd
+22,47497291,0.212819,0.041602,3.12745e-07,7738,ebi-a-GCST90027552,rs73170444,A,C,0.0520125,PWY.5659..GDP.mannose.biosynthesis,TRUE,reported,igd

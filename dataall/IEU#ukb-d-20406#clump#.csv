@@ -1,0 +1,4 @@
+"beta.exposure","pval.exposure","pos.exposure","samplesize.exposure","chr.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0900252,3.28519e-08,11541364,6514,"4",0.0162728,"ukb-d-20406","rs113545030","T","G",0.0885592,"Ever addicted to alcohol || id:ukb-d-20406",TRUE,"reported","igd"
+0.201205,1.09046e-10,100239319,6514,"4",0.0311248,"ukb-d-20406","rs1229984","C","T",0.98058,"Ever addicted to alcohol || id:ukb-d-20406",TRUE,"reported","igd"
+0.116606,1.96993e-08,83129279,6514,"12",0.0207423,"ukb-d-20406","rs186443522","T","C",0.0486211,"Ever addicted to alcohol || id:ukb-d-20406",TRUE,"reported","igd"

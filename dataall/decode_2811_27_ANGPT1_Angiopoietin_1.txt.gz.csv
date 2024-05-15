@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,107070148,rs2927124,C,G,0.0678,1.261e-15,0.008477,35344,0.3583,ANGPT1_Angiopoietin_1,TRUE,reported,ANGPT1_Angiopoietin_1

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.586757,0.117787,0.0158749,1.17374e-13,rs1260326,8099,Threonine to alpha-ketobutyrate ratio,TRUE,reported,0FHB7p

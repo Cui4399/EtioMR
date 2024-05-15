@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,228235929,0.1277,0.0276583,3.89233e-06,7738,ebi-a-GCST90027565,rs58803641,G,A,0.117129,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+2,182263951,0.146258,0.0316506,3.81883e-06,7738,ebi-a-GCST90027565,rs831864,C,T,0.903397,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+2,134471302,0.0982908,0.0199481,8.33566e-07,7738,ebi-a-GCST90027565,rs3936142,A,G,0.70319,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+4,25813070,-0.0863461,0.0186802,3.79455e-06,7738,ebi-a-GCST90027565,rs936232,A,G,0.355818,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+10,11424595,0.157672,0.0337872,3.06182e-06,7738,ebi-a-GCST90027565,rs12357875,T,C,0.0746233,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+11,81791571,0.0838797,0.0180643,3.42744e-06,7738,ebi-a-GCST90027565,rs1453942,G,A,0.559055,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+12,88229346,-0.0999631,0.0211644,2.3221e-06,7738,ebi-a-GCST90027565,rs1436177,A,G,0.243165,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd
+21,45362489,0.0877575,0.0180908,1.22868e-06,7738,ebi-a-GCST90027565,rs2838445,C,G,0.444064,PWY.5971..palmitate.biosynthesis.II..bacteria.and.plants.,TRUE,reported,igd

@@ -1,0 +1,6 @@
+"pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+8.86748e-12,190094,"1",109817192,-0.00953382,0.00139706,"ukb-d-2654_2","rs7528419","G","A",0.220817,"Non-butter spread type details: Flora Pro-Active or Benecol || id:ukb-d-2654_2",TRUE,"reported","igd"
+3.48907e-08,190094,"2",29298372,0.00654071,0.00118595,"ukb-d-2654_2","rs7583117","T","C",0.391888,"Non-butter spread type details: Flora Pro-Active or Benecol || id:ukb-d-2654_2",TRUE,"reported","igd"
+1.492e-10,190094,"19",11201124,-0.0114944,0.00179417,"ukb-d-2654_2","rs57217136","C","T",0.118454,"Non-butter spread type details: Flora Pro-Active or Benecol || id:ukb-d-2654_2",TRUE,"reported","igd"
+9.50824e-23,190094,"19",45411941,0.0155562,0.00158441,"ukb-d-2654_2","rs429358","C","T",0.158856,"Non-butter spread type details: Flora Pro-Active or Benecol || id:ukb-d-2654_2",TRUE,"reported","igd"
+4.21231e-10,190094,"19",45356752,0.00846652,0.00135545,"ukb-d-2654_2","rs199956232","CT","C",0.266329,"Non-butter spread type details: Flora Pro-Active or Benecol || id:ukb-d-2654_2",TRUE,"reported","igd"

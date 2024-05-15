@@ -1,0 +1,6 @@
+"samplesize.exposure","se.exposure","chr.exposure","beta.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+436185,0.000754939,"2",0.00419469,2.80001e-08,63301164,"ukb-b-4943","rs6545977","A","G",0.48579,"Frequency of solarium/sunlamp use || id:ukb-b-4943",TRUE,"reported","igd"
+436185,0.000793373,"3",-0.00474044,2.30001e-09,85646002,"ukb-b-4943","rs2044723","G","A",0.64723,"Frequency of solarium/sunlamp use || id:ukb-b-4943",TRUE,"reported","igd"
+436185,0.000761751,"4",-0.00429162,1.79999e-08,164772977,"ukb-b-4943","rs11100520","C","T",0.478825,"Frequency of solarium/sunlamp use || id:ukb-b-4943",TRUE,"reported","igd"
+436185,0.00183823,"8",-0.0108607,3.50002e-09,141024377,"ukb-b-4943","rs62527030","A","G",0.043912,"Frequency of solarium/sunlamp use || id:ukb-b-4943",TRUE,"reported","igd"
+436185,0.00077215,"11",0.00471236,1e-09,28591587,"ukb-b-4943","rs7127383","T","C",0.603408,"Frequency of solarium/sunlamp use || id:ukb-b-4943",TRUE,"reported","igd"

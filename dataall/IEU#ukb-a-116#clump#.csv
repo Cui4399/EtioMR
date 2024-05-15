@@ -1,0 +1,3 @@
+"pos.exposure","samplesize.exposure","chr.exposure","se.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+81174592,337159,"4",0.000440959,3.67672e-10,0.00276365,"ukb-a-116","rs13125101","A","G",0.293706,"Treatment/medication code: lisinopril || id:ukb-a-116",TRUE,"reported","igd"
+11526765,337159,"19",0.000400878,9.39291e-11,-0.00259633,"ukb-a-116","rs167479","T","G",0.470348,"Treatment/medication code: lisinopril || id:ukb-a-116",TRUE,"reported","igd"

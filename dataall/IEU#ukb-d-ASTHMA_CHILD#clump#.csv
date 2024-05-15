@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","se.exposure","chr.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.75525e-09,361194,0.000178991,"6",32409530,0.00107737,"ukb-d-ASTHMA_CHILD","rs3129882","A","G",0.614169,"Childhood asthma (age<16) || id:ukb-d-ASTHMA_CHILD",TRUE,"reported","igd"
+7.37564e-18,361194,0.000188918,"6",32615945,0.00162647,"ukb-d-ASTHMA_CHILD","rs17612712","T","A",0.421196,"Childhood asthma (age<16) || id:ukb-d-ASTHMA_CHILD",TRUE,"reported","igd"
+7.942e-09,361194,0.000176447,"10",9058671,-0.00101807,"ukb-d-ASTHMA_CHILD","rs1444782","A","G",0.423243,"Childhood asthma (age<16) || id:ukb-d-ASTHMA_CHILD",TRUE,"reported","igd"

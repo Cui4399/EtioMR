@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,130801664,T,C,0.0494076,-0.239564,0.0345332,3.99947e-12,rs13357247,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C
+5,132349604,A,G,0.626691,-0.17937,0.0153843,2.05705e-31,rs272857,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C
+6,14133342,T,C,0.162286,0.114421,0.0206573,3.04241e-08,rs9382940,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C
+6,160130454,T,C,0.0689951,0.176096,0.0294943,2.36518e-09,rs112201728,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C
+10,45459588,G,A,0.247134,-0.114304,0.0173178,4.10109e-11,rs11239528,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C
+17,19529080,T,C,0.394753,0.113223,0.0154553,2.37406e-13,rs11871125,8214,"N,N,N-trimethyl-5-aminovalerate levels",TRUE,reported,QduA9C

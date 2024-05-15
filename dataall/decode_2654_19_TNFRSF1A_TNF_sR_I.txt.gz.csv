@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,6324123,rs740841,T,C,-0.0533,2.066e-10,0.008385,35377,0.47728,TNFRSF1A_TNF_sR_I,TRUE,reported,TNFRSF1A_TNF_sR_I
+12,6333477,rs4149584,T,C,-0.4263,1.497e-48,0.029113,35380,0.02047,TNFRSF1A_TNF_sR_I,TRUE,reported,TNFRSF1A_TNF_sR_I

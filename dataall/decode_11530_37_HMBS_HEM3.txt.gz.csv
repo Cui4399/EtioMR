@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,119046875,rs45510602,T,C,-0.0668,6.581e-11,0.01023,35371,0.19079,HMBS_HEM3,TRUE,reported,HMBS_HEM3
+11,119074792,rs72997349,C,T,0.1524,6.311e-09,0.026238,35371,0.02508,HMBS_HEM3,TRUE,reported,HMBS_HEM3

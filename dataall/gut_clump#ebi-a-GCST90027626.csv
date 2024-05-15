@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,148398301,-0.281398,0.0608104,3.70177e-06,7738,ebi-a-GCST90027626,rs1919443,G,A,0.0861027,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+2,19848291,-0.294206,0.0578183,3.60994e-07,7738,ebi-a-GCST90027626,rs11691985,T,A,0.0994064,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+6,73325227,-0.217557,0.042523,3.11702e-07,7738,ebi-a-GCST90027626,rs35490354,T,C,0.206551,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+7,76719391,-0.197772,0.0382732,2.37405e-07,7738,ebi-a-GCST90027626,rs7783534,C,G,0.710052,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+8,111982871,-0.304012,0.0660709,4.19875e-06,7738,ebi-a-GCST90027626,rs61445572,C,A,0.0788306,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+11,130500775,-0.172564,0.0346642,6.41963e-07,7738,ebi-a-GCST90027626,rs4937552,C,G,0.390939,PWY.7446..sulfoglycolysis,TRUE,reported,igd
+12,88185792,-0.186497,0.0385403,1.30488e-06,7738,ebi-a-GCST90027626,rs12370008,T,C,0.267372,PWY.7446..sulfoglycolysis,TRUE,reported,igd

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,128817300,G,A,0.25,-0.232885,0.017906,1.13233e-38,rs10988130,7848,3-indoleglyoxylic acid levels,TRUE,reported,8vAsie
+16,58736977,A,C,0.0793205,0.166628,0.0288147,7.3485e-09,rs11647808,7848,3-indoleglyoxylic acid levels,TRUE,reported,8vAsie
+22,23924860,T,C,0.594707,0.319109,0.0154785,1.96016e-94,rs5751777,7848,3-indoleglyoxylic acid levels,TRUE,reported,8vAsie

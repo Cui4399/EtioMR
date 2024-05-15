@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,31674119,G,A,0.086379,0.175082,0.0281955,5.31247e-10,rs1651059,7744,Linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2] levels,TRUE,reported,htcQ1I
+11,61820833,G,A,0.338294,-0.326948,0.0164738,1.18088e-87,rs174564,7744,Linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2] levels,TRUE,reported,htcQ1I
+19,19268740,T,C,0.0745506,-0.209338,0.0304765,6.47312e-12,rs58542926,7744,Linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2] levels,TRUE,reported,htcQ1I
+19,44912921,T,G,0.224952,0.181667,0.0189232,7.97681e-22,rs483082,7744,Linoleoyl-arachidonoyl-glycerol (18:2/20:4) [2] levels,TRUE,reported,htcQ1I

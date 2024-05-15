@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160246568,A,G,0.771891,-0.113672,0.0174868,8.01044e-11,rs316022,8247,N1-methyladenosine levels,TRUE,reported,yz2Dy7
+20,44642751,G,C,0.230142,-0.106831,0.0174868,1.00097e-09,rs406383,8247,N1-methyladenosine levels,TRUE,reported,yz2Dy7

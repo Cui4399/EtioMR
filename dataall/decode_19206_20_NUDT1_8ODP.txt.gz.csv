@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,2217167,rs1637732,C,T,-0.3717,6.839e-16,0.04604,35334,0.00783,NUDT1_8ODP,TRUE,reported,NUDT1_8ODP
+7,2304340,rs12699825,G,A,-0.405,1.852e-11,0.060293,35334,0.00452,NUDT1_8ODP,TRUE,reported,NUDT1_8ODP

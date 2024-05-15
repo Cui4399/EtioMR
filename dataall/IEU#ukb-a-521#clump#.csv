@@ -1,0 +1,4 @@
+"chr.exposure","pval.exposure","beta.exposure","pos.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"8",8.27199e-10,0.003332,117635602,0.000542689,337199,"ukb-a-521","rs16888589","G","A",0.0768819,"Diagnoses - main ICD10: D12 Benign neoplasm of colon  rectum  anus and anal canal || id:ukb-a-521",TRUE,"reported","igd"
+"15",9.70287e-14,0.00269585,33010736,0.000362093,337199,"ukb-a-521","rs2293581","A","G",0.199243,"Diagnoses - main ICD10: D12 Benign neoplasm of colon  rectum  anus and anal canal || id:ukb-a-521",TRUE,"reported","igd"
+"18",3.21884e-15,-0.00227454,46453463,0.000288556,337199,"ukb-a-521","rs4939827","C","T",0.476944,"Diagnoses - main ICD10: D12 Benign neoplasm of colon  rectum  anus and anal canal || id:ukb-a-521",TRUE,"reported","igd"

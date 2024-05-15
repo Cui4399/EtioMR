@@ -1,0 +1,4 @@
+"pval.exposure","se.exposure","beta.exposure","pos.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+7.13724e-09,0.00131362,0.00760298,225450161,"2",335650,"ukb-a-479","rs3768886","C","G",0.315661,"Types of transport used (excluding work): Walk || id:ukb-a-479",TRUE,"reported","igd"
+2.43047e-09,0.00122258,0.0072942,77492891,"14",335650,"ukb-a-479","rs879027","A","G",0.543683,"Types of transport used (excluding work): Walk || id:ukb-a-479",TRUE,"reported","igd"
+4.56541e-09,0.00122679,-0.00719199,89569317,"16",335650,"ukb-a-479","rs4785680","C","G",0.550315,"Types of transport used (excluding work): Walk || id:ukb-a-479",TRUE,"reported","igd"

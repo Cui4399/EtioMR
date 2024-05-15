@@ -1,0 +1,4 @@
+"se.exposure","samplesize.exposure","beta.exposure","pos.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00595995,113106,0.035214,26579560,"6",3.50002e-09,"ukb-b-15625","rs9379891","T","C",0.141922,"Number of symbol digit matches made correctly || id:ukb-b-15625",TRUE,"reported","igd"
+0.00437016,113106,0.024586,133642599,"7",1.79999e-08,"ukb-b-15625","rs2971968","A","C",0.650196,"Number of symbol digit matches made correctly || id:ukb-b-15625",TRUE,"reported","igd"
+0.00421421,113106,0.0234871,113814625,"11",2.5e-08,"ukb-b-15625","rs11606288","A","G",0.544493,"Number of symbol digit matches made correctly || id:ukb-b-15625",TRUE,"reported","igd"

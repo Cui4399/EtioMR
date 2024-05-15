@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,134252402,rs12278812,C,A,-0.0627,1.119e-10,0.009721,35144,0.20778,THYN1_THYN1,TRUE,reported,THYN1_THYN1

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,19146092,rs715544,A,G,-0.1782,2.078e-24,0.017478,35337,0.05468,DGCR14_DGC14,TRUE,reported,DGCR14_DGC14

@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132369766,G,C,0.522988,0.102345,0.0150745,1.12668e-11,rs2631367,8195,Linolenoylcarnitine (C18:3) levels,TRUE,reported,UtxLWW
+6,110438805,G,A,0.238293,-0.18284,0.017486,1.36997e-25,rs12210538,8195,Linolenoylcarnitine (C18:3) levels,TRUE,reported,UtxLWW
+12,21178615,C,T,0.155594,0.113394,0.0206519,4.0027e-08,rs4149056,8195,Linolenoylcarnitine (C18:3) levels,TRUE,reported,UtxLWW

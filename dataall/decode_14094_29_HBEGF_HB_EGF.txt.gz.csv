@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,140157337,rs269767,G,A,-0.0502,2.448e-09,0.008416,35362,0.43885,HBEGF_HB_EGF,TRUE,reported,HBEGF_HB_EGF

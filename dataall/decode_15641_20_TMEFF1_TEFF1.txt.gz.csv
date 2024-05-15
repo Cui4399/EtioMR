@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,100484832,rs3983768,C,T,0.0755,5.706e-11,0.011525,35343,0.14187,TMEFF1_TEFF1,TRUE,reported,TMEFF1_TEFF1

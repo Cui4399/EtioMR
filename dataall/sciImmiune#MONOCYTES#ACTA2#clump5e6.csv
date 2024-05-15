@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",90756065,"rs6586166","C","T",9.87625907372e-23,-1.13507142884,0.115667545643488,89,"Classical monocyte#ACTA2",TRUE,"reported","IHvwma",NA

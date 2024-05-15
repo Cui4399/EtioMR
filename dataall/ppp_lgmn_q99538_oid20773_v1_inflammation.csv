@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,92638993,rs8017311,A,G,0.0484052,1.24348342293693e-10,0.00752343,33848,0.581443,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92681798,rs7158614,A,G,0.070422,9.45801503371012e-18,0.00820735,33848,0.280991,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92709697,rs148659834,A,G,-1.05518,1e-200,0.0338526,33848,0.0121425,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92735683,rs7157038,C,T,-0.128315,1.39027271648397e-58,0.00795136,33848,0.322545,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92750678,rs72701845,A,G,0.430495,1.01859138805411e-101,0.0201047,33848,0.0377811,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92763939,rs10142622,T,A,0.201773,2.54624389075764e-15,0.0255043,33848,0.0225858,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92824426,rs45487597,T,C,0.138555,1.46110019932088e-08,0.0244534,33848,0.0239157,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,92885417,rs28419697,A,G,-0.0983671,7.77857422127148e-27,0.00917186,33848,0.207697,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,93145146,rs113520995,T,C,-0.147338,3.65594791613125e-13,0.0202729,33848,0.0345663,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis
+14,93192220,rs78446781,T,C,-0.116101,7.31560082133578e-10,0.0188503,33848,0.0413619,lgmn_q99538_oid20773_v1_inflammation,TRUE,reported,lgmn_q99538_oid20773_v1_inflammation,chr14,92748702,cis

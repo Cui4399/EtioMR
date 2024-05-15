@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,43470750,A,G,0.0167482,-0.235598,0.0515573,4.88591e-06,rs17030870,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+2,217855319,T,C,0.0524223,0.143287,0.0298606,1.59846e-06,rs2059409,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+4,76488642,A,G,0.524475,0.0667376,0.0132644,4.87055e-07,rs7654754,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+4,91708311,A,G,0.0165198,-0.268551,0.0517048,2.0591e-07,rs114558399,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+6,9543911,A,C,0.545119,-0.0654165,0.013457,1.16712e-06,rs7757300,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+8,48210903,C,T,0.125953,0.0957286,0.0201532,2.03371e-06,rs146354326,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+9,69770862,GACAT,G,0.0398626,-0.165149,0.0338465,1.06436e-06,rs147420616,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+10,17004642,A,T,0.160708,0.0845188,0.0181325,3.14419e-06,rs60918373,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+14,50051938,A,G,0.279492,0.070141,0.0149348,2.6467e-06,rs9323181,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+14,90676435,T,C,0.289892,0.0797076,0.014837,7.7779e-08,rs1077697,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+16,20381010,A,G,0.192399,-0.0909117,0.0171111,1.07823e-07,rs77924615,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+16,73024524,A,G,0.189653,-0.0816654,0.0171118,1.81992e-06,rs56311231,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q
+21,21097414,T,C,0.0397533,0.15627,0.0339312,4.11493e-06,rs1474521,8206,Hydroxyasparagine levels,TRUE,reported,vTM08Q

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+11,119361224,-0.116273,0.0253157,4.37119e-06,7738,ebi-a-GCST90027454,rs2509667,A,C,0.120838,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd
+11,2279372,-0.0951081,0.0199996,1.97952e-06,7738,ebi-a-GCST90027454,rs10831658,A,G,0.207259,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd
+13,71978130,0.0961761,0.0202786,2.10839e-06,7738,ebi-a-GCST90027454,rs9599845,C,T,0.237425,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd
+16,1026094,-0.138123,0.0286697,1.45208e-06,7738,ebi-a-GCST90027454,rs9931054,C,T,0.0885579,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd
+17,9363863,0.0858815,0.0182785,2.6209e-06,7738,ebi-a-GCST90027454,rs8067677,A,G,0.299483,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd
+19,11266693,-0.0801886,0.0173897,4.00203e-06,7738,ebi-a-GCST90027454,rs7251031,G,T,0.308219,COA.PWY..coenzyme.A.biosynthesis.I,TRUE,reported,igd

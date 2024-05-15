@@ -1,0 +1,6 @@
+beta.exposure,pos.exposure,se.exposure,chr.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.4389,32384933,0.06992,6,4.314e-10,1855,ebi-a-GCST90001530,rs80032720,A,G,0.0749,Monocytic Myeloid-Derived Suppressor Cells Absolute Count || id:ebi-a-GCST90001530,TRUE,reported,igd
+-0.2405,32782605,0.03772,6,2.298e-10,1855,ebi-a-GCST90001530,rs2071473,T,C,0.3892,Monocytic Myeloid-Derived Suppressor Cells Absolute Count || id:ebi-a-GCST90001530,TRUE,reported,igd
+0.3668,32594188,0.03985,6,8.9929e-20,1855,ebi-a-GCST90001530,rs9271768,G,A,0.4372,Monocytic Myeloid-Derived Suppressor Cells Absolute Count || id:ebi-a-GCST90001530,TRUE,reported,igd
+0.4161,32561424,0.03887,6,5.45632e-26,1855,ebi-a-GCST90001530,rs9270591,T,C,0.5755,Monocytic Myeloid-Derived Suppressor Cells Absolute Count || id:ebi-a-GCST90001530,TRUE,reported,igd
+-0.4306,51737991,0.03825,19,1.71712e-28,1855,ebi-a-GCST90001530,rs1354106,G,T,0.2237,Monocytic Myeloid-Derived Suppressor Cells Absolute Count || id:ebi-a-GCST90001530,TRUE,reported,igd

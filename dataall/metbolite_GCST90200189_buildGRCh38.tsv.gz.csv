@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,19959946,T,C,0.440492,-0.174947,0.0178496,1.11239e-22,rs174695,6512,Glucuronide of piperine metabolite C17H21NO3 (3) levels,TRUE,reported,jfLwKW

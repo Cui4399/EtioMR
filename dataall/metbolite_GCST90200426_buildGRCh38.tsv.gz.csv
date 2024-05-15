@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,69914089,C,A,0.0234776,0.297087,0.0561685,1.22843e-07,rs80310084,6822,Xylose levels,TRUE,reported,5NLpPe
+4,66477345,G,C,0.0129298,0.382299,0.0754152,3.99359e-07,rs140097299,6822,Xylose levels,TRUE,reported,5NLpPe
+5,22445685,G,A,0.79782,0.110183,0.0214167,2.67897e-07,rs1911963,6822,Xylose levels,TRUE,reported,5NLpPe
+5,82418343,A,G,0.944989,-0.179007,0.0384071,3.15019e-06,rs224946,6822,Xylose levels,TRUE,reported,5NLpPe
+5,98104685,CCT,C,0.360236,-0.0849915,0.0177601,1.70525e-06,rs10669674,6822,Xylose levels,TRUE,reported,5NLpPe
+7,21617954,G,T,0.345476,-0.0826738,0.017992,4.32706e-06,rs10950862,6822,Xylose levels,TRUE,reported,5NLpPe
+8,142422646,A,G,0.0158508,0.313203,0.0678122,3.86194e-06,rs6985837,6822,Xylose levels,TRUE,reported,5NLpPe
+13,63841879,A,G,0.019259,0.337031,0.0619532,5.3253e-08,rs12429666,6822,Xylose levels,TRUE,reported,5NLpPe
+16,85868060,T,C,0.208856,0.0993625,0.020922,2.04242e-06,rs12926601,6822,Xylose levels,TRUE,reported,5NLpPe
+19,10968379,G,A,0.0173881,0.30133,0.0650252,3.58581e-06,rs12979487,6822,Xylose levels,TRUE,reported,5NLpPe

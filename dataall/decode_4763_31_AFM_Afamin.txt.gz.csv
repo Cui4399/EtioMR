@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,72637640,rs183552068,A,G,-0.2279,2.371e-11,0.034111,35350,0.01409,AFM_Afamin,TRUE,reported,AFM_Afamin
+4,72736855,rs114843093,T,C,-0.1493,2.108e-09,0.024928,35351,0.02963,AFM_Afamin,TRUE,reported,AFM_Afamin
+4,72757501,rs148180535,A,T,-0.4672,1.28e-18,0.053046,35352,0.00654,AFM_Afamin,TRUE,reported,AFM_Afamin
+4,73539253,rs72858937,T,C,-0.7517,1.494e-96,0.036051,35353,0.01389,AFM_Afamin,TRUE,reported,AFM_Afamin
+4,73555360,rs150254826,A,C,0.1092,3.028e-17,0.01293,35353,0.11861,AFM_Afamin,TRUE,reported,AFM_Afamin
+4,73561406,rs150577204,TATAGAG,TAGAG,0.2887,6.091e-23,0.029274,35353,0.01992,AFM_Afamin,TRUE,reported,AFM_Afamin

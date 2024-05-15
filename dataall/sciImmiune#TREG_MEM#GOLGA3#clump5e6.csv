@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",133038610,"rs12301509","G","A",1.34699514058e-06,0.705666320159,0.146019322108854,89,"TREG_MEM#GOLGA3",TRUE,"reported","iwc2sd",NA

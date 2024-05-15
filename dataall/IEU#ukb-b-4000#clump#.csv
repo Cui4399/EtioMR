@@ -1,0 +1,8 @@
+"chr.exposure","se.exposure","pos.exposure","beta.exposure","samplesize.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",0.00139262,62803731,-0.00788121,461369,1.5e-08,"ukb-b-4000","rs17315037","C","T",0.862717,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"2",0.00109537,137613935,0.0060452,461369,3.40001e-08,"ukb-b-4000","rs13002862","A","C",0.251988,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"3",0.000960555,49914397,-0.00597808,461369,4.90004e-10,"ukb-b-4000","rs11712056","C","T",0.442933,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"3",0.000992244,85648246,-0.00611858,461369,7.00003e-10,"ukb-b-4000","rs62263912","A","G",0.626402,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"6",0.000960636,33945972,0.00535184,461369,2.5e-08,"ukb-b-4000","rs2499760","A","C",0.473136,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"9",0.00100373,122681580,0.00550414,461369,4.20001e-08,"ukb-b-4000","rs6478444","G","A",0.349217,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"
+"18",0.00106034,75887984,-0.00580003,461369,4.49997e-08,"ukb-b-4000","rs7228990","G","C",0.286178,"Leisure/social activities: Sports club or gym || id:ukb-b-4000",TRUE,"reported","igd"

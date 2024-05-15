@@ -1,0 +1,14 @@
+chr.exposure,samplesize.exposure,beta.exposure,pval.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,3437,1.718,1.35114e-20,0.1835,199999121,ebi-a-GCST90001485,rs11579717,A,G,0.0044,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+1,3437,1.311,6.98232e-12,0.1905,194010208,ebi-a-GCST90001485,rs116794175,C,T,0.0042,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+1,3437,0.7843,1.293e-09,0.1289,195875605,ebi-a-GCST90001485,rs34645541,A,C,0.0095,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+1,3437,2.267,3.79315e-25,0.2171,198151688,ebi-a-GCST90001485,rs113435341,G,A,0.0032,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+2,3437,-0.1612,7.94292e-09,0.02787,38745822,ebi-a-GCST90001485,rs11890666,A,G,0.2866,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+2,3437,0.201,1.82684e-13,0.02719,38897249,ebi-a-GCST90001485,rs12712610,G,A,0.2975,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,0.1965,1.55704e-13,0.02651,96998743,ebi-a-GCST90001485,rs12777195,G,A,0.3595,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,-0.3593,1.07994e-47,0.02438,97741071,ebi-a-GCST90001485,rs10882701,C,A,0.5141,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,-0.5496,6.37236e-25,0.05289,98173715,ebi-a-GCST90001485,rs1923692,G,T,0.9453,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,0.5247,2.46093e-13,0.07138,95387682,ebi-a-GCST90001485,rs192831774,T,A,0.0313,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,0.8426,1e-200,0.02078,97562938,ebi-a-GCST90001485,rs4918969,A,G,0.4267,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,-0.182,2.59597e-09,0.03048,98205222,ebi-a-GCST90001485,rs11188757,C,A,0.2207,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd
+10,3437,0.5051,1.32892e-21,0.05255,97285715,ebi-a-GCST90001485,rs72809757,G,A,0.0588,CD39+ resting CD4 regulatory T cell %CD4 regulatory T cell || id:ebi-a-GCST90001485,TRUE,reported,igd

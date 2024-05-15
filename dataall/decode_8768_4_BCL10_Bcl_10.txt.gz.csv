@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,85454536,rs12717764,C,G,0.0563,4.766e-11,0.008559,35335,0.32701,BCL10_Bcl_10,TRUE,reported,BCL10_Bcl_10

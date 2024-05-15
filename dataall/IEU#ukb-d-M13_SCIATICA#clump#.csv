@@ -1,0 +1,4 @@
+"se.exposure","beta.exposure","pos.exposure","samplesize.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000462129,0.00288736,58333583,361194,4.16342e-10,"4","ukb-d-M13_SCIATICA","rs184761711","A","T",0.0224783,"Siatica+with lumbago || id:ukb-d-M13_SCIATICA",TRUE,"reported","igd"
+0.00035626,0.00197884,107838871,361194,2.78619e-08,"10","ukb-d-M13_SCIATICA","rs72817029","T","C",0.0359751,"Siatica+with lumbago || id:ukb-d-M13_SCIATICA",TRUE,"reported","igd"
+0.000432411,0.00240253,50377483,361194,2.76007e-08,"19","ukb-d-M13_SCIATICA","rs75272647","C","A",0.0242479,"Siatica+with lumbago || id:ukb-d-M13_SCIATICA",TRUE,"reported","igd"

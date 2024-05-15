@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,54863799,rs17172402,T,A,-0.1022,4.717e-18,0.011801,35338,0.1433,EGFR_ERBB1,TRUE,reported,EGFR_ERBB1
+7,55124563,rs13244925,C,A,-0.102,1.574e-34,0.008323,35339,0.41682,EGFR_ERBB1,TRUE,reported,EGFR_ERBB1
+7,55146750,rs7801956,A,G,0.0889,1.145e-10,0.013791,35339,0.09726,EGFR_ERBB1,TRUE,reported,EGFR_ERBB1
+7,55174945,rs17290378,C,T,0.2288,6.195e-27,0.021292,35339,0.03978,EGFR_ERBB1,TRUE,reported,EGFR_ERBB1
+7,55179992,rs17290399,C,A,0.2063,7.841e-16,0.025606,35339,0.02572,EGFR_ERBB1,TRUE,reported,EGFR_ERBB1

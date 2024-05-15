@@ -1,0 +1,3 @@
+"pos.exposure","chr.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+28751041,"6",2.03822e-10,-0.0163877,0.00257709,117706,"ukb-d-20544_11","rs1311917","T","G",0.119143,"Mental health problems ever diagnosed by a professional: Depression || id:ukb-d-20544_11",TRUE,"reported","igd"
+12250378,"7",2.83159e-09,0.0100816,0.00169681,117706,"ukb-d-20544_11","rs3807866","A","G",0.408921,"Mental health problems ever diagnosed by a professional: Depression || id:ukb-d-20544_11",TRUE,"reported","igd"

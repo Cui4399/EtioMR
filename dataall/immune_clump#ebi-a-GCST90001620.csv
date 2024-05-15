@@ -1,0 +1,6 @@
+beta.exposure,se.exposure,chr.exposure,pos.exposure,samplesize.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.2699,0.04426,6,32503204,3596,1.185e-09,ebi-a-GCST90001620,rs68174286,T,C,0.2799,HLA DR+ T cell%lymphocyte || id:ebi-a-GCST90001620,TRUE,reported,igd
+-0.1552,0.0249,9,117645562,3596,5.14505e-10,ebi-a-GCST90001620,rs7032773,T,C,0.4182,HLA DR+ T cell%lymphocyte || id:ebi-a-GCST90001620,TRUE,reported,igd
+-0.2598,0.0468,16,10993712,3596,3.046e-08,ebi-a-GCST90001620,rs55724950,A,G,0.0654,HLA DR+ T cell%lymphocyte || id:ebi-a-GCST90001620,TRUE,reported,igd
+-0.4689,0.02616,16,10970902,3596,7.09088e-69,ebi-a-GCST90001620,rs3087456,A,G,0.7661,HLA DR+ T cell%lymphocyte || id:ebi-a-GCST90001620,TRUE,reported,igd
+0.4397,0.07676,16,10651993,3596,1.096e-08,ebi-a-GCST90001620,rs62029480,T,C,0.0236,HLA DR+ T cell%lymphocyte || id:ebi-a-GCST90001620,TRUE,reported,igd

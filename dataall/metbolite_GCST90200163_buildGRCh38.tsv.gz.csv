@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,173532718,T,C,0.215687,0.0854295,0.018284,2.97767e-06,rs10798284,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+2,14512557,G,A,0.0384423,0.18485,0.0394621,2.80995e-06,rs112390194,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+3,128898947,G,T,0.0227047,-0.233548,0.0505919,3.9063e-06,rs1979528,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+4,177541617,T,G,0.0237742,0.227012,0.0494162,4.35108e-06,rs142210908,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+5,138658930,A,C,0.202714,0.086658,0.0186238,3.27026e-06,rs11242437,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+6,158492220,G,A,0.112636,-0.111496,0.0236705,2.47326e-06,rs17504230,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+11,115377397,C,T,0.016679,-0.267243,0.0584789,4.87959e-06,rs45625132,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus
+18,41814507,C,G,0.0242616,-0.227961,0.0493282,3.81314e-06,rs113484345,8128,Heptenedioate (C7:1-DC) levels,TRUE,reported,wJKPus

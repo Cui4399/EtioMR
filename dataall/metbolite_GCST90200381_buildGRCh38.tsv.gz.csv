@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,18872954,T,G,0.0204607,0.378705,0.0552177,6.96381e-12,rs61757683,8232,S-1-pyrroline-5-carboxylate levels,TRUE,reported,vxgG3g
+8,143606566,G,C,0.544364,-0.370421,0.0149933,9.2909e-135,rs2242090,8232,S-1-pyrroline-5-carboxylate levels,TRUE,reported,vxgG3g

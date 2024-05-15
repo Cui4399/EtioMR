@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,186540441,rs149434699,T,C,0.1716,2.405e-10,0.027096,35367,0.02296,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186626825,rs9870756,T,C,-0.0785,8.621e-11,0.012097,35366,0.13363,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186661794,rs114450524,TTCCCCA,TTCCCCG,0.1237,1.237e-09,0.020361,35368,0.04286,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186693415,rs77188638,A,G,0.1724,2.474e-16,0.021033,35368,0.03969,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186736391,rs5030062,C,A,0.2433,7.605e-178,0.008557,35367,0.35548,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186755027,rs1846899,T,C,-0.1467,5.842e-23,0.014869,35366,0.08575,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,186920430,rs6801612,G,A,0.0564,4.881e-08,0.010338,35368,0.20257,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin
+3,187169635,rs270153,AGC,AGG,0.0494,2.407e-09,0.008278,35363,0.4587,KNG1_Kininostatin,TRUE,reported,KNG1_Kininostatin

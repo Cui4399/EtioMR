@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,47119525,rs11754660,C,T,0.1392,9.717e-10,0.022767,35355,0.03428,TNFRSF21_DR6,TRUE,reported,TNFRSF21_DR6
+6,47147214,rs7748496,T,C,-0.0646,1.318e-14,0.008385,35356,0.40745,TNFRSF21_DR6,TRUE,reported,TNFRSF21_DR6
+6,47198451,rs13213075,G,A,0.1336,1.893e-09,0.022242,35356,0.03581,TNFRSF21_DR6,TRUE,reported,TNFRSF21_DR6
+6,47309833,rs6458555,A,G,0.1141,3.231e-40,0.008595,35355,0.35173,TNFRSF21_DR6,TRUE,reported,TNFRSF21_DR6
+6,47533834,rs114889123,C,T,0.1419,2.73e-10,0.022476,35362,0.03319,TNFRSF21_DR6,TRUE,reported,TNFRSF21_DR6

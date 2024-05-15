@@ -1,0 +1,3 @@
+samplesize.exposure,pos.exposure,pval.exposure,beta.exposure,se.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3668,100526652,5.86138e-13,0.471,0.06515,6,ebi-a-GCST90001612,rs79086781,T,C,0.0378,CD8dim T cell %leukocyte || id:ebi-a-GCST90001612,TRUE,reported,igd
+3668,102294761,6.09537e-13,0.5228,0.07237,6,ebi-a-GCST90001612,rs139249541,G,A,0.0315,CD8dim T cell %leukocyte || id:ebi-a-GCST90001612,TRUE,reported,igd

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,234191055,C,A,0.0290301,0.288956,0.0618305,2.96311e-06,rs80332390,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+4,168732632,TG,T,0.145539,0.144226,0.0296055,1.10692e-06,rs138347206,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+6,2353442,G,A,0.604031,-0.10641,0.0213742,6.40917e-07,rs1041213,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+6,36784864,C,A,0.144926,-0.137819,0.0300779,4.60368e-06,rs6920224,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+8,26932905,C,T,0.0194848,0.346644,0.0739353,2.75251e-06,rs74754867,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+11,17419838,T,C,0.20608,-0.12227,0.0256462,1.86454e-06,rs2299639,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+11,67620559,T,C,0.319802,-0.101867,0.0222011,4.46726e-06,rs12805594,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+12,42597336,T,C,0.235887,0.111842,0.024355,4.3867e-06,rs10785350,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+12,96420684,G,A,0.0308927,0.276821,0.0585852,2.30005e-06,rs7305350,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+17,78730341,T,C,0.0230379,-0.372876,0.0694809,8.02351e-08,rs140272073,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk
+17,79155794,G,C,0.0369615,0.275022,0.0564042,1.08302e-06,rs143031595,4556,Adenosine 5'-diphosphate (ADP) to oxalate (ethanedioate) ratio,TRUE,reported,tybxfk

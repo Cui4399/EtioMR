@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,184671855,rs111667591,G,A,-0.2269,3.742e-73,0.012542,35391,0.11822,CASP3_Caspase_3,TRUE,reported,CASP3_Caspase_3
+4,184717848,rs10428373,T,A,-0.1711,1.462e-53,0.011105,35391,0.15994,CASP3_Caspase_3,TRUE,reported,CASP3_Caspase_3
+4,184759036,rs191215861,G,A,0.2009,3.677e-12,0.02891,35391,0.0208,CASP3_Caspase_3,TRUE,reported,CASP3_Caspase_3

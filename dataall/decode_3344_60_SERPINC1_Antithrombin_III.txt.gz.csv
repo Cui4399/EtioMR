@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,174628677,rs145862173,G,A,-0.3393,1.556e-18,0.03862,35351,0.00987,SERPINC1_Antithrombin_III,TRUE,reported,SERPINC1_Antithrombin_III

@@ -1,0 +1,3 @@
+"pval.exposure","chr.exposure","samplesize.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.29997e-08,"3",221015,0.00854701,20342264,0.00154775,"ukb-b-14649","rs9846056","G","T",0.624661,"Invitation to physical activity study, acceptance || id:ukb-b-14649",TRUE,"reported","igd"
+2.99999e-10,"19",221015,-0.00999242,18207397,0.00158668,"ukb-b-14649","rs55714539","C","A",0.342522,"Invitation to physical activity study, acceptance || id:ukb-b-14649",TRUE,"reported","igd"

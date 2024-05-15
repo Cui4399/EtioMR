@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,132537092,rs7119651,G,A,-0.0462,1.75e-08,0.008199,35372,0.47285,OPCML_OBCAM,TRUE,reported,OPCML_OBCAM

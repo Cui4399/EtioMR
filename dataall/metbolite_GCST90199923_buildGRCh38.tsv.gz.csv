@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46405089,A,C,0.208425,0.335583,0.0181115,1.21118e-76,rs324420,8236,N-palmitoylglycine levels,TRUE,reported,N5ldcO
+2,210675783,A,C,0.310194,0.246863,0.0161005,4.6308e-53,rs1047891,8236,N-palmitoylglycine levels,TRUE,reported,N5ldcO
+12,21190952,G,A,0.131663,0.133771,0.0222146,1.72525e-09,rs67981690,8236,N-palmitoylglycine levels,TRUE,reported,N5ldcO

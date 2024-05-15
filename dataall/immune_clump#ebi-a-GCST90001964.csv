@@ -1,0 +1,5 @@
+pos.exposure,pval.exposure,se.exposure,beta.exposure,samplesize.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+89045233,5.274e-09,0.0366,-0.2143,2872,16,ebi-a-GCST90001964,rs62045817,T,C,0.1737,FSC-A on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001964,TRUE,reported,igd
+8677215,3.65603e-08,0.02762,0.1525,2872,17,ebi-a-GCST90001964,rs722926,T,C,0.4102,FSC-A on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001964,TRUE,reported,igd
+63066415,3.33204e-09,0.06208,0.3683,2872,17,ebi-a-GCST90001964,rs144843975,T,C,0.0519,FSC-A on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001964,TRUE,reported,igd
+62128083,7.96526e-13,0.08914,0.6413,2872,17,ebi-a-GCST90001964,rs117067704,G,A,0.0232,FSC-A on plasmacytoid Dendritic Cell || id:ebi-a-GCST90001964,TRUE,reported,igd

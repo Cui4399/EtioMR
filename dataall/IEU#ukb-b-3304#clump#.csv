@@ -1,0 +1,5 @@
+"se.exposure","chr.exposure","pos.exposure","beta.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00272292,"3",48591481,0.0154696,1.29999e-08,151232,"ukb-b-3304","rs2267844","T","C",0.560986,"Friendships satisfaction || id:ukb-b-3304",TRUE,"reported","igd"
+0.00275059,"6",98392667,-0.0157523,1e-08,151232,"ukb-b-3304","rs9482120","A","C",0.603412,"Friendships satisfaction || id:ukb-b-3304",TRUE,"reported","igd"
+0.00296334,"7",44800176,0.016326,3.59998e-08,151232,"ukb-b-3304","rs3735478","T","G",0.288393,"Friendships satisfaction || id:ukb-b-3304",TRUE,"reported","igd"
+0.00523619,"8",9131950,-0.0302644,7.49998e-09,151232,"ukb-b-3304","rs330021","C","A",0.927102,"Friendships satisfaction || id:ukb-b-3304",TRUE,"reported","igd"

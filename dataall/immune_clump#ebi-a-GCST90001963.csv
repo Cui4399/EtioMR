@@ -1,0 +1,4 @@
+pos.exposure,chr.exposure,pval.exposure,se.exposure,beta.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+161515326,1,1.22405e-17,0.03208,-0.2761,2872,ebi-a-GCST90001963,rs55971447,T,C,0.2371,FSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90001963,TRUE,reported,igd
+203485086,2,2.20699e-33,0.0281,0.3426,2872,ebi-a-GCST90001963,rs72926952,T,G,0.4991,FSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90001963,TRUE,reported,igd
+42664508,4,3.66902e-08,0.05783,-0.3193,2872,ebi-a-GCST90001963,rs28424875,C,A,0.0627,FSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90001963,TRUE,reported,igd

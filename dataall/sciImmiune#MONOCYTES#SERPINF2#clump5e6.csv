@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",1638718,"rs7502910","A","G",1.44105986719e-09,-0.815353355453,0.134750776105897,89,"Classical monocyte#SERPINF2",TRUE,"reported","FwGD1V",NA

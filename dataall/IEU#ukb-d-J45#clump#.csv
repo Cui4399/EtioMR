@@ -1,0 +1,4 @@
+"samplesize.exposure","pval.exposure","pos.exposure","chr.exposure","se.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,9.64495e-17,32605189,"6",0.000172486,0.00143327,"ukb-d-J45","rs9272426","G","A",0.452257,"Diagnoses - main ICD10: J45 Asthma || id:ukb-d-J45",TRUE,"reported","igd"
+361194,4.18283e-10,32452176,"6",0.000188017,0.00117459,"ukb-d-J45","rs2395206","T","G",0.692998,"Diagnoses - main ICD10: J45 Asthma || id:ukb-d-J45",TRUE,"reported","igd"
+361194,9.28902e-10,9058671,"10",0.000170944,-0.00104641,"ukb-d-J45","rs1444782","A","G",0.423243,"Diagnoses - main ICD10: J45 Asthma || id:ukb-d-J45",TRUE,"reported","igd"

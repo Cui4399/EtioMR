@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,6951505,rs147621831,A,G,-0.1721,9.087e-13,0.024091,35374,0.03085,CD68_CD68,TRUE,reported,CD68_CD68
+17,6988967,rs144507790,A,G,-0.2198,3.657e-12,0.031627,35374,0.01764,CD68_CD68,TRUE,reported,CD68_CD68
+17,7350302,rs184469798,T,G,-0.2732,3.452e-15,0.034699,35370,0.01321,CD68_CD68,TRUE,reported,CD68_CD68
+17,7656359,rs1641511,A,G,-0.0663,1.355e-11,0.009804,35379,0.22218,CD68_CD68,TRUE,reported,CD68_CD68
+17,8025391,rs147267669,A,G,-0.1881,1.146e-09,0.030899,35372,0.01736,CD68_CD68,TRUE,reported,CD68_CD68

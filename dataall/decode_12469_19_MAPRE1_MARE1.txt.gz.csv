@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,32813300,rs141101569,CAAGGCGGGCG,AAGGCGGGCG,0.0594,1.695e-11,0.008826,35356,0.31728,MAPRE1_MARE1,TRUE,reported,MAPRE1_MARE1
+20,32830490,rs20654,G,A,-0.0669,3.961e-14,0.008847,35356,0.31162,MAPRE1_MARE1,TRUE,reported,MAPRE1_MARE1

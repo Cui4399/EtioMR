@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,77539705,T,C,0.0153345,0.299124,0.0641994,3.17297e-06,rs147905737,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+1,247876149,T,C,0.349525,0.101743,0.0167794,1.3313e-09,rs3811444,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+3,56815721,C,T,0.613909,0.0852202,0.0165309,2.53335e-07,rs1354034,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+5,76041706,T,C,0.0176949,-0.310541,0.0609783,3.53094e-07,rs116095400,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+6,103597090,C,A,0.120456,0.113909,0.0246638,3.86572e-06,rs12212502,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+11,261209,T,C,0.234154,0.0900432,0.0190589,2.3071e-06,rs56093448,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+11,123459076,T,G,0.0227951,0.256238,0.0540885,2.1649e-06,rs79114739,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+12,27263365,T,C,0.739391,0.0862396,0.0183394,2.57083e-06,rs1963512,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+16,67577329,G,A,0.0146139,-0.307151,0.0660039,3.26306e-06,rs141586656,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+17,41091848,C,A,0.0728654,-0.141777,0.0310118,4.83763e-06,rs8075810,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C
+18,79786861,T,C,0.55742,-0.077574,0.0161526,1.56641e-06,rs528859,7382,Spermidine to phosphate ratio,TRUE,reported,21vC2C

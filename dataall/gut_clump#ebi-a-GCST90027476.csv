@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,90382950,0.156802,0.0329529,1.95173e-06,7738,ebi-a-GCST90027476,rs61295363,A,T,0.0652665,GLYCOGENSYNTH.PWY..glycogen.biosynthesis.I..from.ADP.D.Glucose.,TRUE,reported,igd
+2,241089267,0.10428,0.0224112,3.27069e-06,7738,ebi-a-GCST90027476,rs10460443,A,G,0.789414,GLYCOGENSYNTH.PWY..glycogen.biosynthesis.I..from.ADP.D.Glucose.,TRUE,reported,igd
+8,22491980,-0.0880821,0.0172082,3.07815e-07,7738,ebi-a-GCST90027476,rs17746902,T,G,0.660202,GLYCOGENSYNTH.PWY..glycogen.biosynthesis.I..from.ADP.D.Glucose.,TRUE,reported,igd
+12,54152627,-0.0764665,0.0165573,3.86901e-06,7738,ebi-a-GCST90027476,rs4759294,C,G,0.421776,GLYCOGENSYNTH.PWY..glycogen.biosynthesis.I..from.ADP.D.Glucose.,TRUE,reported,igd

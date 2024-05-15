@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,1890520,C,A,0.04932,-0.192573,0.0408329,2.40374e-06,rs71442305,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+3,189585922,G,T,0.519484,0.0898836,0.0178213,4.5682e-07,rs2378502,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+4,5535453,A,G,0.0257786,-0.279107,0.0566427,8.32842e-07,rs79553530,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+4,134691429,A,G,0.0323138,0.235439,0.0496349,2.10145e-06,rs148948392,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+5,132364266,A,G,0.700206,-0.0987569,0.0192237,2.78796e-07,rs200837,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+6,40406107,C,T,0.970108,-0.247389,0.0524322,2.37876e-06,rs2504846,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+8,81526986,G,A,0.101783,0.136086,0.0292567,3.2961e-06,rs16909306,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+14,70233305,A,G,0.0222686,0.287469,0.0602962,1.86428e-06,rs17176113,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+15,96299040,T,C,0.0524221,0.184391,0.04011,4.28327e-06,rs12909542,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+16,286229,C,A,0.820614,0.11581,0.0234016,7.46734e-07,rs520761,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+18,66492615,C,A,0.342,-0.0867043,0.0187989,3.98409e-06,rs12958307,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w
+22,27278871,G,T,0.29653,0.0902445,0.0193735,3.19071e-06,rs134810,5822,Malonylcarnitine levels,TRUE,reported,KNGU2w

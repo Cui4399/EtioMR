@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,82530445,rs11233162,C,T,-0.0509,6.748e-10,0.008247,35337,0.48752,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase
+11,82648308,rs1497109,A,G,-1.9386,2.018e-17,0.228265,35341,0.00023,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase
+11,82853252,rs2229437,G,T,0.2154,6.782e-83,0.011168,35343,0.16215,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase
+11,82857034,rs11388763,CAA,C,0.1532,2.293e-49,0.010372,35340,0.20563,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase
+11,82915870,rs11821336,A,G,-0.2117,1.119e-15,0.026419,35343,0.02636,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase
+11,82998546,rs34769119,TAA,TA,0.0613,6.415e-10,0.009919,35342,0.23993,PRCP_Prolylcarboxypeptidase,TRUE,reported,PRCP_Prolylcarboxypeptidase

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"6",29890448,"rs1611392","T","C",3.22492446697e-07,-1.04289486108,0.204096824784007,89,"Classical monocyte#HLA-U",TRUE,"reported","nhiwaf",NA

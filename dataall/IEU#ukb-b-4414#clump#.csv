@@ -1,0 +1,4 @@
+"pval.exposure","chr.exposure","samplesize.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.2e-08,"1",64949,0.0135621,0.0750249,181798877,"ukb-b-4414","rs143523506","G","T",0.027287,"Bacon intake || id:ukb-b-4414",TRUE,"reported","igd"
+9.49992e-09,"7",64949,0.0134062,0.0769557,125406799,"ukb-b-4414","rs74871396","G","T",0.026505,"Bacon intake || id:ukb-b-4414",TRUE,"reported","igd"
+2.19999e-08,"11",64949,0.00434391,-0.0243051,134821821,"ukb-b-4414","rs6590783","G","A",0.448161,"Bacon intake || id:ukb-b-4414",TRUE,"reported","igd"

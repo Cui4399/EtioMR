@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,147224087,G,A,0.0241867,-0.242788,0.0438128,2.99908e-08,rs117050209,8220,"N,n,n-trimethyl-alanylproline betaine (tmap) levels",TRUE,reported,M85tCR

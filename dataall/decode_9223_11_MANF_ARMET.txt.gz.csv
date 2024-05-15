@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,51482760,rs11130292,GTCTCAAAAAAAAAA,ATCTCAAAAAAAAAA,0.0832,1.139e-13,0.011207,35338,0.16297,MANF_ARMET,TRUE,reported,MANF_ARMET

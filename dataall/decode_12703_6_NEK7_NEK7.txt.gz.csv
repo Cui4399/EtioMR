@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,198041651,rs142662761,G,A,-0.4527,1.133e-18,0.05132,35333,0.00574,NEK7_NEK7,TRUE,reported,NEK7_NEK7

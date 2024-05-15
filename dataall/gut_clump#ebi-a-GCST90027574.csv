@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,91109033,-0.097888,0.0208796,2.7562e-06,7738,ebi-a-GCST90027574,rs1221558,T,G,0.805197,PWY.621..sucrose.degradation.III..sucrose.invertase.,TRUE,reported,igd
+7,21965073,-0.0977785,0.0211209,3.66632e-06,7738,ebi-a-GCST90027574,rs7798564,T,C,0.825171,PWY.621..sucrose.degradation.III..sucrose.invertase.,TRUE,reported,igd
+13,104401268,-0.14697,0.0303512,1.28351e-06,7738,ebi-a-GCST90027574,rs7989040,A,G,0.0848581,PWY.621..sucrose.degradation.III..sucrose.invertase.,TRUE,reported,igd
+17,59520438,-0.191576,0.0375793,3.43416e-07,7738,ebi-a-GCST90027574,rs75967282,C,G,0.0514132,PWY.621..sucrose.degradation.III..sucrose.invertase.,TRUE,reported,igd
+17,59555112,0.0847977,0.0181586,3.01432e-06,7738,ebi-a-GCST90027574,rs6504045,G,A,0.265218,PWY.621..sucrose.degradation.III..sucrose.invertase.,TRUE,reported,igd

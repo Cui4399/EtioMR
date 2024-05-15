@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","beta.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,6.4e-09,0.00185285,0.000319112,"6",31881731,"ukb-b-6514","rs685031","A","G",0.615971,"Non-cancer illness code, self-reported: hiatus hernia || id:ukb-b-6514",TRUE,"reported","igd"
+462933,8.4004e-11,-0.00210911,0.000324783,"11",32457138,"ukb-b-6514","rs2234580","G","A",0.365026,"Non-cancer illness code, self-reported: hiatus hernia || id:ukb-b-6514",TRUE,"reported","igd"

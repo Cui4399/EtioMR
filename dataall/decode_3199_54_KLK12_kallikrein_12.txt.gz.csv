@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,51031874,rs3745540,G,A,-0.1384,4.12e-63,0.008253,35365,0.41851,KLK12_kallikrein_12,TRUE,reported,KLK12_kallikrein_12

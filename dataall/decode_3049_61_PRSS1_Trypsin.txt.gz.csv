@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,142726322,rs62470638,A,G,0.1292,1.894e-14,0.016872,35373,0.06806,PRSS1_Trypsin,TRUE,reported,PRSS1_Trypsin

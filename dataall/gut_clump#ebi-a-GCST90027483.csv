@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,218776958,-0.0802746,0.017234,3.19396e-06,7738,ebi-a-GCST90027483,rs17048278,G,A,0.34117,HOMOSER.METSYN.PWY..L.methionine.biosynthesis.I,TRUE,reported,igd
+13,34300469,-0.0888739,0.0182976,1.19091e-06,7738,ebi-a-GCST90027483,rs61945524,T,C,0.299793,HOMOSER.METSYN.PWY..L.methionine.biosynthesis.I,TRUE,reported,igd
+15,25080892,-0.0848608,0.0168171,4.50921e-07,7738,ebi-a-GCST90027483,rs61994705,G,C,0.39267,HOMOSER.METSYN.PWY..L.methionine.biosynthesis.I,TRUE,reported,igd

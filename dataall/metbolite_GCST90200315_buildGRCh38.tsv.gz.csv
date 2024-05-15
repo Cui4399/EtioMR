@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210678331,C,T,0.307021,-0.104173,0.0169998,8.90385e-10,rs715,8220,Gamma-glutamylhistidine levels,TRUE,reported,Cruz4M

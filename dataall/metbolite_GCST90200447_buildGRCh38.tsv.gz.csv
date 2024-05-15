@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,91569746,A,G,0.774131,-0.095817,0.020863,4.3761e-06,rs6689719,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+1,170678947,T,C,0.0297084,0.232799,0.0504509,3.9429e-06,rs116000650,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+2,1461193,T,C,0.390576,-0.0893066,0.0177584,4.93119e-07,rs17731501,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+2,216008629,G,A,0.282773,-0.0919762,0.0192336,1.73503e-06,rs67736553,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+4,81360846,G,T,0.0293977,-0.254695,0.0515877,7.92842e-07,rs71596066,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+5,129165069,A,G,0.342903,-0.0846425,0.0183826,4.13504e-06,rs918511,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+6,22907309,T,C,0.444921,-0.0834984,0.0174819,1.7858e-06,rs9460799,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+11,63433988,C,A,0.041021,0.223007,0.0436635,3.26624e-07,rs4963417,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+11,74260148,A,G,0.271385,-0.0921177,0.0195313,2.40044e-06,rs471539,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+15,38981499,T,C,0.0207282,0.2718,0.0593797,4.70971e-06,rs12591611,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs
+19,44139120,C,A,0.347242,0.09218,0.0180584,3.31603e-07,rs7249209,6351,Maltose levels in coronary artery disease,TRUE,reported,jGIWfs

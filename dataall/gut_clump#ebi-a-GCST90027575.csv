@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,60230735,-0.1592,0.0343571,3.59211e-06,7738,ebi-a-GCST90027575,rs11693339,C,T,0.296342,PWY.6263..superpathway.of.menaquinol.8.biosynthesis.II,TRUE,reported,igd
+14,106291513,-0.237573,0.0508739,3.01439e-06,7738,ebi-a-GCST90027575,rs11849839,C,T,0.258696,PWY.6263..superpathway.of.menaquinol.8.biosynthesis.II,TRUE,reported,igd
+17,30937416,0.312579,0.0672004,3.29602e-06,7738,ebi-a-GCST90027575,rs78044740,G,A,0.0565355,PWY.6263..superpathway.of.menaquinol.8.biosynthesis.II,TRUE,reported,igd

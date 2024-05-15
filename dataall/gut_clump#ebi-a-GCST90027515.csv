@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,59988924,0.138554,0.0301188,4.21998e-06,7738,ebi-a-GCST90027515,rs71420343,C,T,0.164126,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd
+3,16390078,0.171793,0.037161,3.78338e-06,7738,ebi-a-GCST90027515,rs12633789,A,G,0.102012,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd
+7,155148917,-0.163821,0.0357516,4.6014e-06,7738,ebi-a-GCST90027515,rs3923652,C,A,0.103319,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd
+7,16068628,0.107238,0.022109,1.23205e-06,7738,ebi-a-GCST90027515,rs35006616,A,G,0.467335,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd
+13,94779284,0.152298,0.0331672,4.3937e-06,7738,ebi-a-GCST90027515,rs17175056,G,A,0.122605,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd
+13,43851788,-0.161047,0.0329118,9.91631e-07,7738,ebi-a-GCST90027515,rs1444625,G,C,0.130907,PWY0.1241..ADP.L.glycero..beta..D.manno.heptose.biosynthesis,TRUE,reported,igd

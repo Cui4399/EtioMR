@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,2585609,-0.099592,0.0217077,4.47806e-06,7738,ebi-a-GCST90027630,rs73001914,G,A,0.182659,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+8,78639613,0.0974371,0.0180461,6.68898e-08,7738,ebi-a-GCST90027630,rs34746747,A,T,0.332093,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+10,14216561,0.0855056,0.0184332,3.50671e-06,7738,ebi-a-GCST90027630,rs56355152,G,A,0.282307,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+12,60220568,-0.086344,0.0185708,3.32828e-06,7738,ebi-a-GCST90027630,rs7305791,T,A,0.267398,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+14,86894654,0.0906787,0.0183615,7.87155e-07,7738,ebi-a-GCST90027630,rs17122325,T,G,0.283931,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+14,69177415,0.0857279,0.0186268,4.17667e-06,7738,ebi-a-GCST90027630,rs61641915,G,A,0.265486,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+18,2641314,-0.0898501,0.016609,6.31248e-08,7738,ebi-a-GCST90027630,rs7228238,T,C,0.415585,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd
+20,11802439,-0.0767759,0.016646,3.983e-06,7738,ebi-a-GCST90027630,rs2423617,G,A,0.416906,PWY_GLYCOLYSIS.E.D..superpathway.of.glycolysis.and.Entner.Doudoroff,TRUE,reported,igd

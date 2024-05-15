@@ -1,0 +1,3 @@
+"se.exposure","chr.exposure","pval.exposure","beta.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+28.234,"7",6.76457e-10,174.28,54498,2016230,"ukb-d-30800_raw","rs184457477","C","G",0.0021554,"Oestradiol || id:ukb-d-30800_raw",TRUE,"reported","igd"
+3.4473,"11",3.24026e-09,-20.408,54498,30252352,"ukb-d-30800_raw","rs10835638","T","G",0.15566,"Oestradiol || id:ukb-d-30800_raw",TRUE,"reported","igd"

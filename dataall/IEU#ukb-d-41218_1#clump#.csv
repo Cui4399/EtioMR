@@ -1,0 +1,3 @@
+"pval.exposure","samplesize.exposure","pos.exposure","beta.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.62679e-08,787,162556535,0.420382,0.0761415,"1","ukb-d-41218_1","rs61811801","G","T",0.0202282,"History of psychiatric care on admission: One or more previous psychiatric episodes with this Health Care Provider || id:ukb-d-41218_1",TRUE,"reported","igd"
+9.08511e-09,787,101483052,0.318187,0.0547472,"11","ukb-d-41218_1","rs79398990","G","A",0.0368488,"History of psychiatric care on admission: One or more previous psychiatric episodes with this Health Care Provider || id:ukb-d-41218_1",TRUE,"reported","igd"

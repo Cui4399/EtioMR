@@ -1,0 +1,3 @@
+se.exposure,chr.exposure,pos.exposure,beta.exposure,samplesize.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.0264,10,6075831,0.1714,3435,9.58959e-11,ebi-a-GCST90001940,rs7078614,T,G,0.3413,CD25 on CD39+ activated CD4 regulatory T cell || id:ebi-a-GCST90001940,TRUE,reported,igd
+0.02501,10,97566052,-0.2344,3435,1.21703e-20,ebi-a-GCST90001940,rs6584030,C,G,0.4677,CD25 on CD39+ activated CD4 regulatory T cell || id:ebi-a-GCST90001940,TRUE,reported,igd

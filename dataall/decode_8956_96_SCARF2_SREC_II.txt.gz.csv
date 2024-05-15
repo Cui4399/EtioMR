@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,20421260,rs738087,G,A,0.1556,5.159e-56,0.009868,35362,0.21652,SCARF2_SREC_II,TRUE,reported,SCARF2_SREC_II

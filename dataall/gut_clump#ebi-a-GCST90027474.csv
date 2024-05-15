@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,105798717,-0.130473,0.0274844,2.06281e-06,7738,ebi-a-GCST90027474,rs13403023,C,G,0.222549,GLUCOSE1PMETAB.PWY..glucose.and.glucose.1.phosphate.degradation,TRUE,reported,igd
+7,17813651,0.115642,0.0239472,1.37196e-06,7738,ebi-a-GCST90027474,rs2723521,C,T,0.630932,GLUCOSE1PMETAB.PWY..glucose.and.glucose.1.phosphate.degradation,TRUE,reported,igd
+8,98799918,0.153883,0.0333731,4.00765e-06,7738,ebi-a-GCST90027474,rs2449502,T,G,0.14791,GLUCOSE1PMETAB.PWY..glucose.and.glucose.1.phosphate.degradation,TRUE,reported,igd
+9,24049517,0.172204,0.0370412,3.3358e-06,7738,ebi-a-GCST90027474,rs72700025,A,G,0.106642,GLUCOSE1PMETAB.PWY..glucose.and.glucose.1.phosphate.degradation,TRUE,reported,igd

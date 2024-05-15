@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,59556763,0.12472,0.0254893,9.93002e-07,7738,ebi-a-GCST90027543,rs3010318,G,T,0.856341,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+2,121097024,0.172524,0.0362487,1.9412e-06,7738,ebi-a-GCST90027543,rs12477233,A,G,0.0953506,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+2,128354823,0.10559,0.0224937,2.67646e-06,7738,ebi-a-GCST90027543,rs34280534,C,G,0.195189,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+3,110300607,-0.0874978,0.0187245,2.96989e-06,7738,ebi-a-GCST90027543,rs11708774,G,A,0.370633,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+6,10449258,-0.103083,0.0222436,3.58212e-06,7738,ebi-a-GCST90027543,rs1348,C,T,0.198638,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+6,168705006,0.168872,0.0366397,4.0465e-06,7738,ebi-a-GCST90027543,rs7768092,C,T,0.0753044,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+8,81333057,-0.168228,0.0335577,5.35599e-07,7738,ebi-a-GCST90027543,rs34880012,C,T,0.0974342,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+9,9107265,-0.0869535,0.0185896,2.90349e-06,7738,ebi-a-GCST90027543,rs324546,G,A,0.623757,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+10,106618448,0.085438,0.0186763,4.76969e-06,7738,ebi-a-GCST90027543,rs10786832,T,C,0.372798,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd
+14,94884667,-0.128246,0.0279642,4.51669e-06,7738,ebi-a-GCST90027543,rs118145836,A,G,0.125925,PWY.5121..superpathway.of.geranylgeranyl.diphosphate.biosynthesis.II..via.MEP.,TRUE,reported,igd

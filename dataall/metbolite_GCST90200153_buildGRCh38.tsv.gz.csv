@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,86707772,G,A,0.88155,0.127625,0.0227854,2.12866e-08,rs1187208,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX
+7,150840547,A,G,0.303374,-0.260473,0.015934,4.57287e-60,rs62492368,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX
+7,150859064,A,G,0.111497,0.220555,0.0231468,1.59531e-21,rs11981217,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX
+10,133144983,T,C,0.168214,0.107283,0.0195995,4.40564e-08,rs59540563,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX
+10,133383915,A,G,0.874543,-0.259277,0.0221341,1.08192e-31,rs4240520,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX
+22,50123655,G,A,0.0179115,0.788665,0.0553901,5.29552e-46,rs148381953,8219,(N(1) + N(8))-acetylspermidine levels,TRUE,reported,GCqJJX

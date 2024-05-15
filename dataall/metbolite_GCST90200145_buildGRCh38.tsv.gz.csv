@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,47543124,A,C,0.176848,0.29805,0.0199722,2.32528e-50,rs35818294,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u
+4,48037885,T,A,0.369069,0.121958,0.0157364,9.18309e-15,rs11736427,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u
+9,35739879,A,G,0.425553,0.118903,0.015437,1.33476e-14,rs3750434,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u
+14,63765502,A,G,0.164474,0.159149,0.0203875,5.89287e-15,rs7160525,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u
+19,8218935,A,C,0.538395,0.183716,0.0159503,1.07088e-30,rs1871194,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u
+20,12978039,G,A,0.615394,-0.115929,0.0156794,1.42802e-13,rs438568,8259,"Glycosyl ceramide (d18:1/20:0, d16:1/22:0) levels",TRUE,reported,HpTc0u

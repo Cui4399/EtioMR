@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233302326,A,G,0.56391,-0.0887542,0.0152991,6.58182e-09,rs6759896,8263,"Bilirubin (E,E) levels",TRUE,reported,RtD5KH
+2,233763993,T,G,0.322008,0.59556,0.0149596,1e-200,rs6742078,8263,"Bilirubin (E,E) levels",TRUE,reported,RtD5KH
+12,21199381,G,A,0.156413,0.134689,0.020857,1.06279e-10,rs1871395,8263,"Bilirubin (E,E) levels",TRUE,reported,RtD5KH
+17,4723886,T,C,0.112013,-0.136003,0.0245522,3.03613e-08,rs4533344,8263,"Bilirubin (E,E) levels",TRUE,reported,RtD5KH

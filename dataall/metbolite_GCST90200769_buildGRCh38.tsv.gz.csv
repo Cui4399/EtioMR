@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.5883,-0.223397,0.0151827,5.24517e-49,rs1260326,8206,Phosphate to mannose ratio,TRUE,reported,53Db46

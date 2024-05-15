@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,177105662,T,C,0.0547554,0.158583,0.0339588,3.01404e-06,rs74814187,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+8,57529930,G,A,0.0555418,-0.153467,0.0335068,4.64555e-06,rs76646064,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+9,113940486,G,T,0.236476,0.094951,0.0183807,2.39425e-07,rs34075683,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+10,71569896,T,A,0.12492,-0.110296,0.024104,4.74296e-06,rs735122,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+11,122733590,G,A,0.0206658,0.261528,0.0540747,1.32199e-06,rs141767821,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+14,68172250,A,T,0.965941,0.202688,0.0428403,2.23155e-06,rs1555942,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+15,59840593,C,A,0.959474,0.207885,0.0409971,3.96318e-07,rs1437468,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+16,21199718,T,C,0.0156579,-0.310804,0.0620054,5.37186e-07,rs16971219,8120,Oleoylcholine levels,TRUE,reported,3JicpK
+20,35115804,T,C,0.162968,-0.0950594,0.0207727,4.73579e-06,rs3746429,8120,Oleoylcholine levels,TRUE,reported,3JicpK

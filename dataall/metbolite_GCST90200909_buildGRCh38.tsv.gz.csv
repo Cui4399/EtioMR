@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,50532837,C,T,0.665447,0.171616,0.0167348,1.1234e-24,rs140522,7873,Uridine to 2'-deoxyuridine ratio,TRUE,reported,pd66Kt

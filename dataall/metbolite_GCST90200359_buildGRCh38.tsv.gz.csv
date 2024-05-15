@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.310446,-0.106771,0.0162798,5.43463e-11,rs1047891,8210,5-methylthioadenosine (mta) levels,TRUE,reported,1Yk5U0
+6,42951484,C,T,0.579794,0.0946975,0.0151834,4.46355e-10,rs9471975,8210,5-methylthioadenosine (mta) levels,TRUE,reported,1Yk5U0
+6,149839978,A,G,0.341109,-0.102285,0.0156703,6.69699e-11,rs4870052,8210,5-methylthioadenosine (mta) levels,TRUE,reported,1Yk5U0
+6,160143444,G,C,0.175624,-0.114689,0.01978,6.70285e-09,rs662138,8210,5-methylthioadenosine (mta) levels,TRUE,reported,1Yk5U0
+16,16165739,A,G,0.0241985,0.294315,0.0482533,1.06477e-09,rs41278174,8210,5-methylthioadenosine (mta) levels,TRUE,reported,1Yk5U0

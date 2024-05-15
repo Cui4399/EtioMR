@@ -1,0 +1,6 @@
+"pval.exposure","pos.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+5.39995e-09,217920769,0.000176098,-0.0010273,"2",463010,"ukb-b-6352","rs4442975","T","G",0.510505,"Type of cancer: ICD10: C50.4 Upper-outer quadrant of breast || id:ukb-b-6352",TRUE,"reported","igd"
+6.09958e-11,56003831,0.000238838,0.0015621,"5",463010,"ukb-b-6352","rs10461612","C","G",0.161796,"Type of cancer: ICD10: C50.4 Upper-outer quadrant of breast || id:ukb-b-6352",TRUE,"reported","igd"
+1.29987e-24,123340664,0.000179025,0.00183342,"10",463010,"ukb-b-6352","rs11599804","A","G",0.406921,"Type of cancer: ICD10: C50.4 Upper-outer quadrant of breast || id:ukb-b-6352",TRUE,"reported","igd"
+4.19952e-11,69330983,0.000269017,0.00177428,"11",463010,"ukb-b-6352","rs661204","A","G",0.12116,"Type of cancer: ICD10: C50.4 Upper-outer quadrant of breast || id:ukb-b-6352",TRUE,"reported","igd"
+1.10002e-14,52599188,0.000205238,0.00158694,"16",463010,"ukb-b-6352","rs4784227","T","C",0.240212,"Type of cancer: ICD10: C50.4 Upper-outer quadrant of breast || id:ukb-b-6352",TRUE,"reported","igd"

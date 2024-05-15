@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61814292,C,T,0.308773,-0.135833,0.0166808,3.85389e-16,rs174560,8208,1-lignoceroyl-GPC (24:0) levels,TRUE,reported,feLhj5

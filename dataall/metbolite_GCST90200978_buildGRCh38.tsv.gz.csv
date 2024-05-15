@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,17244953,C,T,0.626752,-0.121601,0.0162802,8.06623e-14,rs4410790,7873,Caffeine to paraxanthine ratio,TRUE,reported,SdxiDN
+15,74735539,T,C,0.250636,-0.178512,0.0179948,3.40114e-23,rs2472297,7873,Caffeine to paraxanthine ratio,TRUE,reported,SdxiDN
+19,40847202,C,T,0.574832,0.19285,0.0156759,8.79481e-35,rs56113850,7873,Caffeine to paraxanthine ratio,TRUE,reported,SdxiDN

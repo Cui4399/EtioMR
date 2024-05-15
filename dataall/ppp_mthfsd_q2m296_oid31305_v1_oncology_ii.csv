@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+16,86377708,rs78827268,C,G,-0.176407,8.2054045900229e-19,0.0199167,33335,0.0382402,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86452431,rs8051133,A,G,-0.126175,8.57630070524156e-17,0.0151598,33335,0.0708513,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86461854,rs78122098,T,C,0.168192,4.4558442288572e-10,0.0269661,33335,0.0206886,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86478191,rs9929991,G,A,-0.0759318,5.72927937331752e-18,0.00879062,33335,0.751142,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86492085,rs72818115,A,G,-0.440079,4.85623841391429e-48,0.0302198,33335,0.0167727,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86520069,rs75986586,A,G,-0.190311,5.02573980109591e-46,0.0133626,33335,0.0898576,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86522952,rs12920306,T,G,0.462069,1e-200,0.00788716,33335,0.598323,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86684909,rs62042107,T,C,0.101005,8.13766860778785e-20,0.0110857,33335,0.138401,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86699723,rs149813103,T,C,-0.211347,4.8300319104123e-08,0.0387264,33335,0.0111609,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis
+16,86701172,rs74981559,C,T,0.0770347,2.2614136017654e-08,0.013779,33335,0.0933479,mthfsd_q2m296_oid31305_v1_oncology_ii,TRUE,reported,mthfsd_q2m296_oid31305_v1_oncology_ii,chr16,86555840,cis

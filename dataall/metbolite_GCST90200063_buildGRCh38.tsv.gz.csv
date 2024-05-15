@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27530004,T,C,0.544681,-0.0819497,0.0149682,4.37719e-08,rs6753534,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9
+7,73471480,A,G,0.188984,-0.105613,0.0190299,2.85925e-08,rs6976930,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9
+11,116778201,C,G,0.868974,-0.153691,0.0220238,2.98508e-12,rs964184,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9
+15,58288582,C,T,0.217448,-0.153465,0.0182147,3.59709e-17,rs1560390,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9
+15,58387979,C,T,0.344204,0.402273,0.0151253,7.56476e-156,rs261291,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9
+15,58446224,T,C,0.696406,-0.198284,0.0162744,3.79284e-34,rs12914626,8262,1-palmitoyl-2-docosahexaenoyl-GPE (16:0/22:6) levels,TRUE,reported,dxZgB9

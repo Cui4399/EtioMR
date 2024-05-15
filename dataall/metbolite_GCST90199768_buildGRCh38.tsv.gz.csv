@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,12068441,A,G,0.193287,-0.0926698,0.0185831,6.13945e-07,rs12029016,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+1,77453753,C,G,0.259367,0.0778303,0.0166804,3.07158e-06,rs2247536,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+2,190998023,A,G,0.0220678,0.228661,0.0495372,3.91294e-06,rs45479293,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+6,31254427,G,A,0.793606,0.0870965,0.0178683,1.0917e-06,rs9264231,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+7,55234079,A,G,0.0140828,0.284977,0.0618003,4.00252e-06,rs117113249,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+9,78331375,T,C,0.539207,0.0698461,0.0150343,3.38765e-06,rs2776859,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+11,32806391,A,G,0.0133722,0.294714,0.0634009,3.34489e-06,rs148515684,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+16,80619059,T,C,0.023824,0.21821,0.0475422,4.43624e-06,rs142214219,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+19,53692374,A,T,0.0115399,-0.326406,0.068219,1.71268e-06,rs150845270,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+20,7082667,G,T,0.0668371,-0.136353,0.0291371,2.87269e-06,rs7272932,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+20,33861445,T,C,0.0438205,0.168081,0.0359799,2.98963e-06,rs117576452,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc
+21,17374612,G,A,0.012497,0.309917,0.0655961,2.30531e-06,rs189965433,8251,Phenylacetylglutamine levels,TRUE,reported,ubgYoc

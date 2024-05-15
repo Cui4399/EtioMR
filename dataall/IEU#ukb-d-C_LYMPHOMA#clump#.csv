@@ -1,0 +1,3 @@
+"chr.exposure","beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"6",0.00142862,32626040,9.36052e-15,361194,0.000184386,"ukb-d-C_LYMPHOMA","rs4713570","T","C",0.268475,"Lymphomas || id:ukb-d-C_LYMPHOMA",TRUE,"reported","igd"
+"11",0.00115534,118680702,9.03649e-09,361194,0.000200998,"ukb-d-C_LYMPHOMA","rs59065116","TA","T",0.210445,"Lymphomas || id:ukb-d-C_LYMPHOMA",TRUE,"reported","igd"

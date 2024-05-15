@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.669976,-0.0823036,0.0168131,9.81943e-07,rs1168041,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+1,183949686,T,G,0.589875,-0.0742681,0.0162603,4.93669e-06,rs2378789,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+3,187232968,T,C,0.344392,0.0814213,0.0165126,8.18691e-07,rs698086,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+5,109588314,G,C,0.116757,-0.113286,0.0244759,3.68345e-06,rs6884766,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+6,70091495,G,A,0.172214,-0.0970242,0.0206456,2.60801e-06,rs6903986,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+9,93046676,A,C,0.0752058,0.14245,0.0298476,1.81884e-06,rs146015262,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+10,5605153,T,C,0.0208002,0.2569,0.0547526,2.70534e-06,rs146215475,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+11,26411428,A,C,0.0195706,0.263969,0.056422,2.89022e-06,rs117050083,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+11,55351138,C,T,0.304239,-0.087918,0.0170517,2.5234e-07,rs7116463,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+12,50122540,T,G,0.613603,-0.0849096,0.0160431,1.20592e-07,rs7972842,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n
+13,19443330,T,C,0.0486171,-0.175232,0.0369637,2.13046e-06,rs9513108,8223,Phosphate to N-palmitoyl-sphingosine (d18:1 to 16:0) ratio,TRUE,reported,IkKC0n

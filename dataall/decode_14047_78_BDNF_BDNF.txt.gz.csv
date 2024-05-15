@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,27633375,rs144178847,AT,AG,0.0877,2.278e-09,0.014674,35361,0.08542,BDNF_BDNF,TRUE,reported,BDNF_BDNF
+11,27722009,rs28383487,T,G,-0.1593,1.654e-12,0.022561,35360,0.03573,BDNF_BDNF,TRUE,reported,BDNF_BDNF
+11,27767312,rs10501089,T,C,0.1625,6.102e-24,0.016105,35360,0.07064,BDNF_BDNF,TRUE,reported,BDNF_BDNF

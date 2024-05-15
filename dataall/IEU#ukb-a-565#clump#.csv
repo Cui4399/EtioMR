@@ -1,0 +1,8 @@
+"pval.exposure","se.exposure","beta.exposure","chr.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+6.11787e-10,0.000391849,0.00242459,"1",337199,64142927,"ukb-a-565","rs35557781","T","C",0.0116178,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+2.66575e-10,0.000304926,0.0019263,"2",337199,19688534,"ukb-a-565","rs12477938","A","T",0.0182785,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+4.74264e-08,0.000932341,0.00509135,"4",337199,134783532,"ukb-a-565","rs72618091","C","T",0.00191578,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+2.64588e-08,0.00030061,0.00167245,"5",337199,37810383,"ukb-a-565","rs72745190","C","T",0.0189369,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+3.22203e-08,9.70765e-05,0.000536741,"11",337199,43927688,"ukb-a-565","rs12790543","C","T",0.229801,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+3.43226e-08,0.000102312,-0.00056455,"15",337199,58444720,"ukb-a-565","rs56101108","T","A",0.79331,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"
+1.51677e-08,0.000278345,0.00157537,"20",337199,43115626,"ukb-a-565","rs183214927","A","T",0.0224378,"Diagnoses - main ICD10: M21 Other acquired deformities of limbs || id:ukb-a-565",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,130088714,rs6470800,T,G,-0.0491,6.58e-10,0.00795,35374,0.44351,FAM49B_FA49B,TRUE,reported,FAM49B_FA49B

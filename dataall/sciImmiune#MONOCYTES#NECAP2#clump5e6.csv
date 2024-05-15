@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",16773880,"rs821000","A","G",4.52109573667e-13,-1.09741049742,0.151597631286428,89,"Classical monocyte#NECAP2",TRUE,"reported","uaNNoc",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,18075942,rs429774,C,T,-0.0791,3.442e-20,0.008594,35351,0.30493,IL12RB1_IL_12_Rb1,TRUE,reported,IL12RB1_IL_12_Rb1

@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,76159946,C,T,0.298734,0.0914331,0.0162682,1.9056e-08,rs1859792,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu
+12,20979253,G,A,0.0535389,0.298149,0.0328285,1.06572e-19,rs7306128,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu
+12,20979640,G,A,0.0535389,0.298149,0.0328285,1.06572e-19,rs11829410,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu
+12,21162039,T,A,0.714241,0.195248,0.0165847,5.38962e-32,rs4762697,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu
+12,21178615,C,T,0.155863,0.564187,0.0195475,3.54795e-183,rs4149056,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu
+19,15873592,G,C,0.295821,-0.150725,0.0162078,1.41037e-20,rs79400241,8245,Octadecenedioylcarnitine (C18:1-DC) levels,TRUE,reported,jScpuu

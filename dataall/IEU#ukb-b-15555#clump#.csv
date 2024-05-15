@@ -1,0 +1,6 @@
+"pval.exposure","pos.exposure","chr.exposure","se.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.30001e-08,13839729,"8",0.00249963,0.0139597,64949,"ukb-b-15555","rs112608685","G","A",0.043812,"Unsalted peanuts intake || id:ukb-b-15555",TRUE,"reported","igd"
+1.89998e-08,25157026,"9",0.00398133,0.0223962,64949,"ukb-b-15555","rs958108","A","C",0.01611,"Unsalted peanuts intake || id:ukb-b-15555",TRUE,"reported","igd"
+2.39999e-08,21139009,"13",0.00428859,0.0239199,64949,"ukb-b-15555","rs117116541","C","T",0.013977,"Unsalted peanuts intake || id:ukb-b-15555",TRUE,"reported","igd"
+1.29999e-09,2968048,"16",0.00561229,0.0340413,64949,"ukb-b-15555","rs140323162","T","C",0.008978,"Unsalted peanuts intake || id:ukb-b-15555",TRUE,"reported","igd"
+7.19996e-09,76530318,"18",0.00418489,0.0242147,64949,"ukb-b-15555","rs116588489","T","C",0.01428,"Unsalted peanuts intake || id:ukb-b-15555",TRUE,"reported","igd"

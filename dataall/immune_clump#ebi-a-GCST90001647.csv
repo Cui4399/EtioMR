@@ -1,0 +1,4 @@
+pval.exposure,pos.exposure,se.exposure,samplesize.exposure,chr.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2.51299e-10,25076059,0.06431,3669,1,-0.408,ebi-a-GCST90001647,rs183053322,T,C,0.0354,Natural Killer %lymphocyte || id:ebi-a-GCST90001647,TRUE,reported,igd
+1.97606e-15,33770802,0.03122,3669,17,0.249,ebi-a-GCST90001647,rs10512469,T,C,0.1639,Natural Killer %lymphocyte || id:ebi-a-GCST90001647,TRUE,reported,igd
+1.51391e-23,33797371,0.02306,3669,17,-0.2323,ebi-a-GCST90001647,rs9916257,T,G,0.5685,Natural Killer %lymphocyte || id:ebi-a-GCST90001647,TRUE,reported,igd

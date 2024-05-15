@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135726662,rs72970243,A,G,0.1108,4.776e-14,0.014699,35382,0.08647,DARS_SYDC,TRUE,reported,DARS_SYDC

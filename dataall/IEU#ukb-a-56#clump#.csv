@@ -1,0 +1,8 @@
+"pos.exposure","beta.exposure","chr.exposure","samplesize.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+128434467,0.0018184,"2",337159,7.49653e-10,0.000295414,"ukb-a-56","rs143507767","G","A",0.0087263,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+101734199,0.00103181,"2",337159,4.93856e-08,0.000189198,"ukb-a-56","rs147636075","G","C",0.0215511,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+78658935,0.000763737,"3",337159,2.85213e-08,0.0001376,"ukb-a-56","rs113335353","A","G",0.0394025,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+186529234,0.0019811,"4",337159,3.4637e-09,0.000335319,"ukb-a-56","rs183014129","G","C",0.00680755,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+86605453,0.00145705,"6",337159,3.8507e-08,0.00026503,"ukb-a-56","rs145192708","G","T",0.0103396,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+113137872,0.000827805,"9",337159,7.45968e-09,0.000143209,"ukb-a-56","rs77933629","T","C",0.0348044,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"
+59874945,0.00131987,"20",337159,2.33228e-09,0.000220974,"ukb-a-56","rs78909187","A","G",0.0142497,"Cancer code  self-reported: small intestine/small bowel cancer || id:ukb-a-56",TRUE,"reported","igd"

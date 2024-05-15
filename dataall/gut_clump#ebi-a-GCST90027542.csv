@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,107994,-0.0893593,0.0186885,1.73972e-06,7738,ebi-a-GCST90027542,rs17042641,C,G,0.251995,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+5,106773195,-0.0876991,0.0182213,1.48686e-06,7738,ebi-a-GCST90027542,rs153114,C,T,0.271122,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+9,16397155,-0.119688,0.0231574,2.36026e-07,7738,ebi-a-GCST90027542,rs10810562,C,T,0.857462,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+10,67455242,0.0773397,0.0166746,3.5148e-06,7738,ebi-a-GCST90027542,rs1904729,A,G,0.596126,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+14,33859612,-0.0749804,0.0163068,4.26363e-06,7738,ebi-a-GCST90027542,rs1887496,G,A,0.406246,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+18,71957315,-0.122242,0.0257831,2.12471e-06,7738,ebi-a-GCST90027542,rs77090789,C,T,0.110354,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd
+20,7384810,0.0858536,0.0187379,4.60935e-06,7738,ebi-a-GCST90027542,rs1997943,A,G,0.245532,PWY.5104..L.isoleucine.biosynthesis.IV,TRUE,reported,igd

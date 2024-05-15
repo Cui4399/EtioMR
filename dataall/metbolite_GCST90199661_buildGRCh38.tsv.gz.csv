@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,171037487,G,A,0.140637,-0.105459,0.0227622,3.60232e-06,rs72710584,8171,Maleate levels,TRUE,reported,qDSuyJ
+4,182887202,G,A,0.0398995,-0.191127,0.0392515,1.12e-06,rs62337911,8171,Maleate levels,TRUE,reported,qDSuyJ
+6,41723085,A,C,0.40824,-0.0760477,0.0156955,1.26496e-06,rs13200335,8171,Maleate levels,TRUE,reported,qDSuyJ
+7,17523328,T,C,0.130699,-0.120147,0.0230713,1.91233e-07,rs73073176,8171,Maleate levels,TRUE,reported,qDSuyJ
+9,108564519,A,G,0.0161251,0.285202,0.0612361,3.20202e-06,rs117247923,8171,Maleate levels,TRUE,reported,qDSuyJ
+11,35453504,C,A,0.0528864,-0.160747,0.0347303,3.68428e-06,rs61880906,8171,Maleate levels,TRUE,reported,qDSuyJ
+12,21946362,G,A,0.0174547,-0.276781,0.0589389,2.65226e-06,rs74069834,8171,Maleate levels,TRUE,reported,qDSuyJ
+14,49488289,A,G,0.0166093,0.286001,0.0604766,2.25496e-06,rs115520044,8171,Maleate levels,TRUE,reported,qDSuyJ
+15,74735539,T,C,0.250184,0.0860376,0.0177102,1.18529e-06,rs2472297,8171,Maleate levels,TRUE,reported,qDSuyJ
+16,5075878,C,G,0.0357502,-0.200611,0.0420445,1.82957e-06,rs76680658,8171,Maleate levels,TRUE,reported,qDSuyJ
+19,14808556,A,G,0.014088,0.350122,0.0658295,1.04557e-07,rs117261516,8171,Maleate levels,TRUE,reported,qDSuyJ
+19,40579494,G,T,0.0211932,-0.269244,0.0526641,3.17963e-07,rs61457016,8171,Maleate levels,TRUE,reported,qDSuyJ

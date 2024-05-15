@@ -1,0 +1,8 @@
+"samplesize.exposure","pval.exposure","chr.exposure","beta.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,3.16665e-29,"1",-0.0095074,0.000847103,169467654,"ukb-a-160","rs1894692","A","G",0.978035,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,3.37272e-08,"2",0.0027337,0.000495143,13588906,"ukb-a-160","rs71450391","A","G",0.0666758,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,1.26424e-09,"4",0.00151831,0.00025005,187173546,"ukb-a-160","rs4253303","A","G",0.386313,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,1.26561e-12,"4",-0.00174619,0.000246001,111765495,"ukb-a-160","rs6838973","T","C",0.433925,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,4.97622e-35,"4",0.00381679,0.000309059,111701798,"ukb-a-160","rs1906615","T","G",0.193206,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,1.73492e-10,"9",0.00199925,0.000313197,136141870,"ukb-a-160","rs2519093","T","C",0.186016,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"
+337159,2.19538e-08,"10",0.00152814,0.000273077,104166466,"ukb-a-160","rs3781291","G","T",0.286667,"Treatment/medication code: warfarin || id:ukb-a-160",TRUE,"reported","igd"

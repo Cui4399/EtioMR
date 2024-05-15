@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,242354411,T,C,0.012919,0.347302,0.0681114,3.4141e-07,rs115663722,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+2,10742560,T,C,0.0188978,0.262478,0.0568572,3.90391e-06,rs116583151,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+5,66793707,A,G,0.357603,-0.0745661,0.0163026,4.78806e-06,rs6887024,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+8,28823499,C,G,0.067146,0.144296,0.0307405,2.67927e-06,rs79587818,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+8,144567718,C,T,0.0267026,0.220003,0.0480816,4.74823e-06,rs141308922,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+11,132186092,T,C,0.158767,0.0961594,0.0209501,4.43427e-06,rs7123193,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+13,89980657,A,G,0.011141,0.339906,0.0732854,3.51606e-06,rs35916217,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+14,94176625,T,C,0.839194,0.0999414,0.021138,2.26691e-06,rs1956456,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+16,57022596,T,C,0.297859,0.0828334,0.0170053,1.11024e-06,rs1651666,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+18,30059245,G,A,0.28002,0.0798923,0.0171757,3.29566e-06,rs2222570,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+18,51608261,C,A,0.338214,-0.0783843,0.01639,1.73182e-06,rs1893408,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S
+19,6358481,T,C,0.0284895,-0.22167,0.0466801,2.04726e-06,rs55898369,8216,Alpha-ketoglutarate to alpha-ketobutyrate ratio,TRUE,reported,kip98S

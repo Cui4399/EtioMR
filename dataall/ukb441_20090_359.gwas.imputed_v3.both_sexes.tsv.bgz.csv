@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,0.0326225,0.00661188,8.08478e-07,"1",178955810,"G","A","rs72707262",1,0.0252371,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,-0.0155908,0.00337582,3.87682e-06,"2",62461120,"G","A","rs13385025",0.966925,0.109124,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,0.0357707,0.00762979,2.76199e-06,"3",61282474,"C","T","rs115644589",1,0.018389,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,0.0103452,0.00221615,3.04749e-06,"10",14410250,"T","C","rs789683",0.985557,0.664837,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,0.0116613,0.00243903,1.74809e-06,"16",13467492,"G","A","rs62029901",0.984184,0.244526,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,0.032276,0.00691767,3.08296e-06,"19",41156709,"C","T","rs76958745",1,0.0224007,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"
+51427,-0.0154568,0.00310373,6.37677e-07,"22",47836534,"GT","G","rs5845787",1,0.872523,6547,"Type of fat/oil used in cooking: Butter",TRUE,"reported","nTvIF5","Diet","ukb441"

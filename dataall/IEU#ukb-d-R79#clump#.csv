@@ -1,0 +1,4 @@
+"pval.exposure","samplesize.exposure","beta.exposure","se.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+4.0535e-08,361194,-0.00137688,0.000250862,"1",110114352,"ukb-d-R79","rs6660640","G","A",0.198719,"Diagnoses - main ICD10: R79 Other abnormal findings of blood chemistry || id:ukb-d-R79",TRUE,"reported","igd"
+1.31024e-08,361194,-0.00141159,0.000248307,"5",1312329,"ukb-d-R79","rs35953391","T","C",0.206107,"Diagnoses - main ICD10: R79 Other abnormal findings of blood chemistry || id:ukb-d-R79",TRUE,"reported","igd"
+2.60856e-14,361194,-0.00292865,0.000384503,"19",51360840,"ukb-d-R79","rs62113212","T","C",0.0737508,"Diagnoses - main ICD10: R79 Other abnormal findings of blood chemistry || id:ukb-d-R79",TRUE,"reported","igd"

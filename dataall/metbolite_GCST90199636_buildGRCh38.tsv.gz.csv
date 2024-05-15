@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241550102,T,C,0.246402,0.130031,0.0171027,2.89497e-14,rs61825638,8244,Kynurenine levels,TRUE,reported,xUhxqG
+8,39947074,T,C,0.372432,-0.092585,0.0153069,1.4614e-09,rs10216901,8244,Kynurenine levels,TRUE,reported,xUhxqG
+12,111446804,C,T,0.513669,-0.108142,0.0148104,2.83947e-13,rs3184504,8244,Kynurenine levels,TRUE,reported,xUhxqG
+16,87784963,A,G,0.287217,-0.107927,0.0164258,5.01151e-11,rs6540080,8244,Kynurenine levels,TRUE,reported,xUhxqG
+16,87844466,A,C,0.265349,0.205627,0.0165261,1.53431e-35,rs4843270,8244,Kynurenine levels,TRUE,reported,xUhxqG

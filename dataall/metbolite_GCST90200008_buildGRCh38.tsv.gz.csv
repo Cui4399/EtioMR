@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,76488642,A,G,0.524847,0.0908886,0.0137294,3.59234e-11,rs7654754,8204,C-glycosyltryptophan levels,TRUE,reported,LVCA0P
+16,20381010,A,G,0.192597,-0.104618,0.0177094,3.47334e-09,rs77924615,8204,C-glycosyltryptophan levels,TRUE,reported,LVCA0P

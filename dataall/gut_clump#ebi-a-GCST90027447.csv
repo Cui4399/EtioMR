@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4,24504770,0.188783,0.0373683,4.3728e-07,7738,ebi-a-GCST90027447,rs12647170,G,A,0.0765661,ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.,TRUE,reported,igd
+9,27341338,-0.157604,0.0341699,3.98107e-06,7738,ebi-a-GCST90027447,rs7041639,G,A,0.0875309,ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.,TRUE,reported,igd
+9,89959664,0.0760825,0.0164219,3.60421e-06,7738,ebi-a-GCST90027447,rs4878062,G,A,0.402286,ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.,TRUE,reported,igd
+9,93850539,-0.153253,0.033084,3.61743e-06,7738,ebi-a-GCST90027447,rs58235446,T,C,0.0638651,ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.,TRUE,reported,igd
+11,96206005,0.129356,0.0262545,8.35026e-07,7738,ebi-a-GCST90027447,rs35731059,A,C,0.104757,ANAGLYCOLYSIS.PWY..glycolysis.III..from.glucose.,TRUE,reported,igd

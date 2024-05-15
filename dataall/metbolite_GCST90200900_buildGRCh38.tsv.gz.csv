@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62568692,C,A,0.664786,-0.1117,0.0163033,7.31377e-12,rs7555577,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv
+2,27375230,C,T,0.589173,0.0882582,0.015883,2.74833e-08,rs4665972,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv
+8,19966137,T,A,0.289563,0.0995801,0.0170209,4.90232e-09,rs3208305,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv
+11,116778201,C,G,0.867939,0.246617,0.0227724,2.49074e-27,rs964184,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv
+19,8364439,A,G,0.0214178,0.352146,0.0528833,2.75833e-11,rs116843064,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv
+19,44893408,T,G,0.204773,-0.13279,0.0191343,3.92423e-12,rs59007384,7992,Phosphate to oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] ratio,TRUE,reported,ZdAjNv

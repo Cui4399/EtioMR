@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,10477033,rs684016,A,C,0.0509,1.922e-10,0.007994,35391,0.49155,PEX14_PEX14,TRUE,reported,PEX14_PEX14

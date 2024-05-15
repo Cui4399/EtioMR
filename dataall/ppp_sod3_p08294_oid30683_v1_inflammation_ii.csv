@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+4,24637136,rs116530051,A,C,0.249493,4.65264589099902e-21,0.0264946,33985,0.0173662,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24755860,rs74757748,T,C,-0.358073,1.53320419903492e-22,0.0366549,33985,0.0124935,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24793175,rs2284659,G,T,-0.283727,1e-200,0.00735507,33985,0.668926,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24803100,rs17552548,G,A,0.0959721,1.2849019848726e-10,0.0149281,33985,0.0633162,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24905582,rs141154372,T,C,-0.278265,7.6771495376903e-17,0.0333806,33985,0.0137234,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24947311,rs113089419,C,A,0.288519,1.80426365166414e-52,0.0189267,33985,0.0361602,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,24970377,rs74870948,A,G,0.142989,1.00832375776155e-13,0.0192195,33985,0.0332941,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,25011026,rs112783548,C,G,0.141738,2.58047704443602e-11,0.0212541,33985,0.0303463,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,25027470,rs62409675,G,A,-0.046387,1.05681750921366e-09,0.0076037,33985,0.311582,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis
+4,25054087,rs16876707,T,C,0.171217,1.35506460054136e-09,0.0282502,33985,0.0151537,sod3_p08294_oid30683_v1_inflammation_ii,TRUE,reported,sod3_p08294_oid30683_v1_inflammation_ii,chr4,24795462,cis

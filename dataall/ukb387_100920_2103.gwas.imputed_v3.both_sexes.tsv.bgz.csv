@@ -1,0 +1,8 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51427,0.0131809,0.00283262,3.27576e-06,"3",25003280,"A","G","rs10510548",0.992457,0.267121,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,-0.0120231,0.00257294,2.97693e-06,"3",36740273,"A","G","rs10865875",1,0.613497,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,0.0610001,0.0123063,7.1884e-07,"11",9212878,"G","A","rs148803929",0.947123,0.0105331,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,0.0348045,0.00761856,4.92631e-06,"11",55639861,"C","T","rs181521132",0.890138,0.0328978,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,-0.0215912,0.00413978,1.83988e-07,"15",30362894,"GT","G","rs368657488",0.82487,0.116028,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,0.0262728,0.0056797,3.74173e-06,"20",44357765,"G","T","rs73118854",0.978575,0.0507414,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"
+51427,0.0485543,0.0101012,1.53809e-06,"21",31124258,"C","T","rs147432614",0.943883,0.0170033,10533,"Type milk consumed: skimmed",TRUE,"reported","4HVVIi","Diet","ukb387"

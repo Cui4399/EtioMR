@@ -1,0 +1,4 @@
+"se.exposure","pos.exposure","pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00146271,97595236,4.72933e-11,0.0096238,335599,"1","ukb-a-487","rs79313673","C","T",0.209808,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding  lawn mowing  carpentry  digging) || id:ukb-a-487",TRUE,"reported","igd"
+0.001295,57665336,6.92947e-11,0.00844651,335599,"11","ukb-a-487","rs674094","C","A",0.700871,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding  lawn mowing  carpentry  digging) || id:ukb-a-487",TRUE,"reported","igd"
+0.00145408,77049857,9.05566e-09,-0.00835758,335599,"13","ukb-a-487","rs9573867","G","A",0.209777,"Types of physical activity in last 4 weeks: Heavy DIY (eg: weeding  lawn mowing  carpentry  digging) || id:ukb-a-487",TRUE,"reported","igd"

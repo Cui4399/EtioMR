@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,33799573,rs9876986,G,A,-0.1121,5.689e-35,0.009086,35353,0.26504,PDCD6IP_PDC6I,TRUE,reported,PDCD6IP_PDC6I

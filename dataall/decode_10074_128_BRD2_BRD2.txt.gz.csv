@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,32009122,rs9501600,T,C,0.0686,2.185e-09,0.011465,35428,0.15016,BRD2_BRD2,TRUE,reported,BRD2_BRD2

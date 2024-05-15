@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,23838518,rs2023671,T,G,-0.0819,1.688e-17,0.00962,35369,0.229,PRKCB_PKC_B_II,TRUE,reported,PRKCB_PKC_B_II

@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,135851076,A,G,0.646606,0.125118,0.015516,7.39543e-16,rs4988235,8139,"1,5-anhydroglucitol (1,5-ag) levels",TRUE,reported,5AXQ7M
+7,142097764,C,T,0.817748,-0.132448,0.0208369,2.06534e-10,rs11976181,8139,"1,5-anhydroglucitol (1,5-ag) levels",TRUE,reported,5AXQ7M
+17,18982968,A,C,0.0189905,-0.552741,0.0562598,8.80516e-23,rs77283946,8139,"1,5-anhydroglucitol (1,5-ag) levels",TRUE,reported,5AXQ7M
+17,19002728,T,G,0.0309995,-0.267495,0.0444913,1.82908e-09,rs116139938,8139,"1,5-anhydroglucitol (1,5-ag) levels",TRUE,reported,5AXQ7M

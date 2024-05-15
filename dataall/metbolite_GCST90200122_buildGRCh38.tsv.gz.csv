@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,11005453,A,G,0.216642,-0.148992,0.0241894,7.30322e-10,rs2295601,4765,Nisinate (24:6n3) levels,TRUE,reported,4vbWeU
+11,61783884,C,T,0.315025,-0.15576,0.0219644,1.32689e-12,rs174535,4765,Nisinate (24:6n3) levels,TRUE,reported,4vbWeU

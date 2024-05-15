@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,40364607,rs7254808,C,T,0.1354,5.496e-12,0.019646,35365,0.04313,PLD3_PLD3,TRUE,reported,PLD3_PLD3
+19,40440886,rs34185184,CAAAAAAA,CAAAAA,-0.0939,1.683e-09,0.015583,35362,0.07101,PLD3_PLD3,TRUE,reported,PLD3_PLD3

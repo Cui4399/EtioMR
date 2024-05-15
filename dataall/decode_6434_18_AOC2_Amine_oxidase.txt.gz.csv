@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,42285152,rs181345153,C,T,-0.1896,2.485e-11,0.028408,35383,0.0176,AOC2_Amine_oxidase,TRUE,reported,AOC2_Amine_oxidase
+17,42844639,rs34230945,G,A,0.1693,8.41e-16,0.021036,35369,0.03431,AOC2_Amine_oxidase,TRUE,reported,AOC2_Amine_oxidase

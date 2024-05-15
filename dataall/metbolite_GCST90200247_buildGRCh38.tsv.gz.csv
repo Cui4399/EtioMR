@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,160143444,G,C,0.17263,-0.167147,0.0218161,1.83564e-14,rs662138,7197,Levulinoylcarnitine levels,TRUE,reported,4ec7eP
+9,26825201,G,A,0.07101,-0.179547,0.0322422,2.56649e-08,rs112106551,7197,Levulinoylcarnitine levels,TRUE,reported,4ec7eP
+10,59708831,T,G,0.775482,0.137117,0.0202439,1.25928e-11,rs1171616,7197,Levulinoylcarnitine levels,TRUE,reported,4ec7eP
+14,23976965,T,G,0.0548509,0.387677,0.0363795,1.62649e-26,rs200374463,7197,Levulinoylcarnitine levels,TRUE,reported,4ec7eP

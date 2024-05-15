@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,196215616,G,A,0.616206,-0.108214,0.0163486,3.61156e-11,rs2342307,7415,Andro steroid monosulfate C19H28O6S (1) levels,TRUE,reported,JIDh1N
+6,25874195,A,G,0.0725665,0.259274,0.0301369,7.75109e-18,rs13198474,7415,Andro steroid monosulfate C19H28O6S (1) levels,TRUE,reported,JIDh1N
+7,99477415,C,T,0.0359946,0.828762,0.0412966,1.39135e-89,rs148982377,7415,Andro steroid monosulfate C19H28O6S (1) levels,TRUE,reported,JIDh1N
+10,95068566,C,T,0.278341,-0.146263,0.0175046,6.50531e-17,rs2071426,7415,Andro steroid monosulfate C19H28O6S (1) levels,TRUE,reported,JIDh1N

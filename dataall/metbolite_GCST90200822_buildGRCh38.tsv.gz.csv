@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,61611804,G,T,0.0511184,-0.153517,0.0331172,3.55949e-06,rs78382157,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+2,178004749,T,C,0.0111542,-0.316033,0.0688886,4.48382e-06,rs77275380,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+3,107878774,A,C,0.508964,-0.0722715,0.0143558,4.79564e-07,rs6798345,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+5,11151807,G,C,0.51649,0.0675193,0.0144389,2.92206e-06,rs10059397,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+5,54937440,A,G,0.601394,0.0684676,0.0146754,3.07912e-06,rs1991497,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+6,56114012,A,G,0.0141835,-0.299765,0.0608075,8.23434e-07,rs115705575,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+6,89973842,A,G,0.201296,-0.0888771,0.0181816,1.01705e-06,rs6930584,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+7,23204837,G,T,0.0128299,0.333911,0.0647764,2.53862e-07,rs79701819,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+7,25466607,C,T,0.166236,-0.0940765,0.0197183,1.83291e-06,rs62452228,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+7,40974926,T,C,0.500249,-0.0680589,0.0147157,3.74734e-06,rs17689617,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+7,80057667,C,T,0.0218447,-0.259447,0.0494823,1.5779e-07,rs7779835,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+8,3615793,T,G,0.0807954,0.12608,0.0269712,2.9449e-06,rs80084508,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+8,63937862,T,C,0.0430835,0.170005,0.0354666,1.63986e-06,rs78145602,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+9,87880785,A,G,0.0367156,0.187555,0.0384207,1.05221e-06,rs113979038,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2
+10,84874789,C,A,0.192312,-0.0860446,0.0183381,2.70387e-06,rs7090846,8277,Phosphate to valine ratio,TRUE,reported,oaCGV2

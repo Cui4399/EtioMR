@@ -1,0 +1,5 @@
+"samplesize.exposure","se.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337199,0.000687959,4.52658e-10,0.00428934,184331520,"4","ukb-a-525","rs149298414","T","G",0.00293447,"Diagnoses - main ICD10: F31 Bipolar affective disorder || id:ukb-a-525",TRUE,"reported","igd"
+337199,0.00110814,1.0501e-09,0.0067616,118693888,"5","ukb-a-525","rs142244414","A","G",0.00117142,"Diagnoses - main ICD10: F31 Bipolar affective disorder || id:ukb-a-525",TRUE,"reported","igd"
+337199,0.000805745,1.82054e-08,0.00453504,89572702,"5","ukb-a-525","rs62378009","C","T",0.00214265,"Diagnoses - main ICD10: F31 Bipolar affective disorder || id:ukb-a-525",TRUE,"reported","igd"
+337199,0.000329218,9.88621e-10,0.00201199,7740545,"19","ukb-a-525","rs142996631","T","C",0.0135943,"Diagnoses - main ICD10: F31 Bipolar affective disorder || id:ukb-a-525",TRUE,"reported","igd"

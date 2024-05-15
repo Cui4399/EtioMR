@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,150498680,rs34542152,T,C,-0.1298,6.484e-19,0.014612,35362,0.07811,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151025464,rs3738478,C,T,0.0882,4.365e-28,0.008027,35360,0.39146,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151240555,rs61817981,G,C,0.1107,1.24e-08,0.019441,35360,0.04292,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151464532,rs4364884,G,A,0.6355,1e-200,0.009798,35359,0.1363,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151484520,rs61819479,A,C,0.1068,5.267e-19,0.011991,35361,0.12618,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151527808,rs141985486,TACACACACACACACACACACACACACACAC,TACACACACACACACACACACACACACAC,-0.3962,7.049e-79,0.02107,35352,0.03715,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151584505,rs34134913,A,G,-0.2274,2.988e-11,0.03421,35365,0.01394,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151603034,rs142823591,T,C,-0.1672,4.957e-09,0.028588,35365,0.01959,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151810848,rs61815115,G,T,0.0878,1.303e-10,0.013661,35364,0.09279,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,151812065,rs11204893,G,A,-0.1361,9.979e-19,0.015404,35363,0.06915,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain
+1,152236184,rs11581805,G,A,-0.3781,5.601e-49,0.025704,35364,0.02228,PSMB4_Proteasome_beta_chain,TRUE,reported,PSMB4_Proteasome_beta_chain

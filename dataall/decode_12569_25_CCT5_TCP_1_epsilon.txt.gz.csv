@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,10256060,rs11557652,T,A,-0.1539,1.204e-11,0.0227,35358,0.03389,CCT5_TCP_1_epsilon,TRUE,reported,CCT5_TCP_1_epsilon

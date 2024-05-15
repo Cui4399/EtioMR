@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,185471787,A,C,0.0117454,-0.386868,0.0700722,3.37092e-08,rs151304595,8273,Alpha-ketoglutarate to proline ratio,TRUE,reported,xtePGg
+20,46608139,C,T,0.191054,0.12618,0.019411,8.00856e-11,rs6124830,8273,Alpha-ketoglutarate to proline ratio,TRUE,reported,xtePGg
+22,18972067,C,G,0.0936048,-0.336381,0.025705,3.94678e-39,rs2540640,8273,Alpha-ketoglutarate to proline ratio,TRUE,reported,xtePGg
+22,19028734,G,C,0.17787,0.115111,0.0199788,8.32965e-09,rs13433658,8273,Alpha-ketoglutarate to proline ratio,TRUE,reported,xtePGg

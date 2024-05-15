@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,12173181,rs2399786,C,T,-0.0714,7.137e-19,0.008047,35378,0.45012,NUDT5_NUDT5,TRUE,reported,NUDT5_NUDT5

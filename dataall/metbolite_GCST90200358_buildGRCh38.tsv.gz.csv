@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61790331,C,T,0.346261,-0.313782,0.0155465,1.36953e-90,rs102275,8272,Arachidonate (20:4n6) levels,TRUE,reported,lRv9uZ

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,124095824,rs6588740,T,C,0.0987,3.249e-27,0.009134,35375,0.27369,CHST15_ST4S6,TRUE,reported,CHST15_ST4S6
+10,124275485,rs4379785,A,G,-0.0742,5.21e-19,0.00833,35378,0.39731,CHST15_ST4S6,TRUE,reported,CHST15_ST4S6

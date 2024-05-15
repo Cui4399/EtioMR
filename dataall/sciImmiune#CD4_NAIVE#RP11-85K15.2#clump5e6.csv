@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"14",35412361,"rs7146776","G","A",1.12942131251e-07,-0.740243632,0.139548419658445,89,"CD4_NAIVE#RP11-85K15.2",TRUE,"reported","aXIMUB",NA

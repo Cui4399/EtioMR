@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,59086452,rs61891807,A,T,-0.1678,7.788e-20,0.018407,35369,0.04959,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor
+11,59570899,rs376223300,AAAGCAAAG,AGCAAAG,-0.1428,3.138e-10,0.022696,35370,0.03356,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor
+11,59574856,rs117354671,A,G,-0.3124,6.891e-16,0.0387,35372,0.01074,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor
+11,59764883,rs71454394,CTATTATTATTATTATTATTAT,CTATTATTATTATTAT,-0.2168,7.18e-25,0.021052,35372,0.03785,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor
+11,59843108,rs150884181,G,A,-0.5713,5.789e-100,0.026918,35364,0.02266,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor
+11,60232278,rs373377575,GCCATCAACACACACACACACACACACACACACACACACACACACACACACA,GCCATCAACACACACACACACACACACACACACACACACACACA,-0.4982,1.341e-34,0.040609,35375,0.0091,GIF_Gastric_intrinsic_factor,TRUE,reported,GIF_Gastric_intrinsic_factor

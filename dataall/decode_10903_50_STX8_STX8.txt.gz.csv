@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,9433928,rs11078801,C,G,0.0681,2.307e-12,0.009708,35359,0.21153,STX8_STX8,TRUE,reported,STX8_STX8

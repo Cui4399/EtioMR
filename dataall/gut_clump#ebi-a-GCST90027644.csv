@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,169250883,0.151579,0.0317041,1.74373e-06,7738,ebi-a-GCST90027644,rs7559622,C,T,0.069746,SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis,TRUE,reported,igd
+7,75161416,0.1401,0.0301214,3.3005e-06,7738,ebi-a-GCST90027644,rs112661041,A,G,0.0892864,SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis,TRUE,reported,igd
+8,88741064,0.124583,0.0263582,2.2837e-06,7738,ebi-a-GCST90027644,rs7461966,G,C,0.105637,SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis,TRUE,reported,igd
+10,120683526,0.0789931,0.0166785,2.17726e-06,7738,ebi-a-GCST90027644,rs10749277,G,A,0.583049,SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis,TRUE,reported,igd
+16,6285543,0.0792001,0.0172233,4.25706e-06,7738,ebi-a-GCST90027644,rs4786844,A,G,0.436704,SULFATE.CYS.PWY..superpathway.of.sulfate.assimilation.and.cysteine.biosynthesis,TRUE,reported,igd

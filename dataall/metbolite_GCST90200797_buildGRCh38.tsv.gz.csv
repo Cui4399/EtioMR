@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.349389,0.0957115,0.0169975,1.79258e-08,rs3811444,7299,Spermidine to N-acetylputrescine ratio,TRUE,reported,KSjyTx
+8,18415371,A,G,0.773251,0.346826,0.0189099,3.89645e-75,rs1495741,7299,Spermidine to N-acetylputrescine ratio,TRUE,reported,KSjyTx

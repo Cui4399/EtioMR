@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,174766172,-0.0850326,0.0185278,4.44375e-06,7738,ebi-a-GCST90027492,rs55804433,T,C,0.277617,NONOXIPENT.PWY..pentose.phosphate.pathway..non.oxidative.branch.,TRUE,reported,igd
+3,149696358,0.111617,0.0235532,2.14862e-06,7738,ebi-a-GCST90027492,rs2306372,G,A,0.186595,NONOXIPENT.PWY..pentose.phosphate.pathway..non.oxidative.branch.,TRUE,reported,igd
+6,25235303,-0.0970976,0.0211387,4.36164e-06,7738,ebi-a-GCST90027492,rs9461124,T,C,0.17584,NONOXIPENT.PWY..pentose.phosphate.pathway..non.oxidative.branch.,TRUE,reported,igd
+9,119627620,-0.0831557,0.0174273,1.82785e-06,7738,ebi-a-GCST90027492,rs10817945,G,C,0.312346,NONOXIPENT.PWY..pentose.phosphate.pathway..non.oxidative.branch.,TRUE,reported,igd
+12,95311669,0.110006,0.0226014,1.13167e-06,7738,ebi-a-GCST90027492,rs11107787,T,C,0.148261,NONOXIPENT.PWY..pentose.phosphate.pathway..non.oxidative.branch.,TRUE,reported,igd

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",32205586,"rs2859755","G","C",1.93560403963e-06,-0.640489959344,0.134555754644271,89,"Classical monocyte#ARHGAP12",TRUE,"reported","WrkA1R",NA

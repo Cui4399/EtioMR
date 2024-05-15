@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,18973294,C,T,0.0940837,-0.403822,0.0246264,1.97705e-60,rs2540644,8241,Phosphate to proline ratio,TRUE,reported,qEEuiW
+22,19028734,G,C,0.177809,0.11687,0.0192954,1.38768e-09,rs13433658,8241,Phosphate to proline ratio,TRUE,reported,qEEuiW

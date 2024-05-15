@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,77467668,rs1922804,A,T,-0.0534,6.621e-10,0.008648,35348,0.3135,LRRTM4_LRRT4,TRUE,reported,LRRTM4_LRRT4

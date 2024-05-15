@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,19768826,C,T,0.427974,0.0700027,0.0145981,1.62405e-06,rs62110849,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+2,37733492,T,C,0.103797,0.121902,0.0238847,3.32971e-07,rs61040705,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+3,11420389,A,G,0.663364,0.0700583,0.015213,4.12133e-06,rs9826803,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+3,172996444,A,G,0.0605613,0.143963,0.0302513,1.94644e-06,rs71310531,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+4,99445484,C,T,0.124447,0.101629,0.0215252,2.34237e-06,rs1530320,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+6,87790084,G,C,0.0313983,-0.21514,0.0419084,2.84295e-07,rs146149679,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+7,106154315,T,C,0.0952054,-0.124018,0.0245937,4.59096e-07,rs115051750,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+9,93142522,C,T,0.96162,0.183544,0.0373881,9.14676e-07,rs4744179,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+14,94338363,C,A,0.206099,-0.0939593,0.0176079,9.49206e-08,rs4491436,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ
+17,10186482,C,T,0.022666,-0.226246,0.0482245,2.71182e-06,rs79015029,8173,Cortisone to cortisol ratio,TRUE,reported,WZ9FDQ

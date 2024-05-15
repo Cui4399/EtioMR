@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,177799955,G,A,0.0305023,0.266714,0.0509299,1.63312e-07,rs72717429,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+2,58601838,G,A,0.0147948,0.382419,0.0726647,1.41884e-07,rs150488329,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+3,156686992,A,G,0.0242063,0.273758,0.0568626,1.47665e-06,rs114127005,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+3,159737038,G,A,0.550574,-0.0849335,0.0180615,2.57029e-06,rs4602438,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+4,56246964,G,A,0.743034,-0.0972465,0.0202525,1.57312e-06,rs4865075,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+5,16790974,T,C,0.105792,-0.137375,0.0284569,1.38287e-06,rs4702173,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+6,44277504,C,G,0.244756,-0.0965424,0.0207191,3.1686e-06,rs1044690,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+7,31428692,G,T,0.646049,0.0854463,0.0185732,4.21445e-06,rs218148,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+9,133657152,T,C,0.0805273,0.150671,0.0322266,2.93427e-06,rs6271,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+10,22559078,G,T,0.926445,0.165631,0.0335643,8.02643e-07,rs9787428,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+12,26444233,A,G,0.0140979,0.3491,0.072996,1.73163e-06,rs73083274,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+12,81935399,T,C,0.0400254,-0.204639,0.0439361,3.19834e-06,rs73157386,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+17,6057529,A,G,0.530395,0.0849808,0.0178258,1.86712e-06,rs8064677,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf
+18,31954993,A,G,0.257867,0.094008,0.0204448,4.26276e-06,rs112324482,6320,Homovanillate (hva) levels,TRUE,reported,aytLMf

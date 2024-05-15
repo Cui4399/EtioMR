@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+21,14372785,rs2822638,T,C,-0.1073,7.466e-29,0.009627,35277,0.22509,HSPA13_STCH,TRUE,reported,HSPA13_STCH

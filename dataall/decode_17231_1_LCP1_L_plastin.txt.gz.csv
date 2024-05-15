@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,45279661,rs191789249,A,G,-0.5309,3.322e-08,0.096116,35359,0.00177,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,45669096,rs151273880,A,C,-0.1794,7.944e-18,0.020859,35357,0.04152,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,45821173,rs9567579,T,A,0.0759,5.346e-12,0.011006,35358,0.17252,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46105323,rs17843980,T,C,-0.3932,1.31e-32,0.033066,35360,0.01477,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46117262,rs7990889,G,C,-0.1186,2.077e-38,0.009152,35358,0.28085,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46145800,rs9645993,C,T,0.085,1.532e-18,0.009673,35355,0.35792,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46245540,rs148634192,G,A,-0.174,3.451e-09,0.029449,35362,0.02022,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46467673,rs181305590,C,T,-0.5196,1.059e-21,0.054289,35360,0.0057,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46575510,rs149031293,ATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG,ATGTGTGTGTGTGTG,-0.6733,1.848e-17,0.079184,35365,0.00269,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin
+13,46767880,rs141552695,G,T,-0.3035,4.203e-16,0.037319,35360,0.01197,LCP1_L_plastin,TRUE,reported,LCP1_L_plastin

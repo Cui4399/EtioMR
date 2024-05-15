@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+9,132793656,rs74541369,T,C,-0.104875,4.68220042445913e-08,0.0191974,34090,0.0389117,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133003827,rs1755629,G,A,-0.0723158,7.6401168351702e-12,0.0105645,34090,0.850286,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133131462,rs117993921,T,C,-0.217529,3.24638482788033e-16,0.0266456,34090,0.0197859,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133205149,rs12379461,A,G,0.0810466,1.01601471989977e-25,0.00773001,34090,0.367478,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133325778,rs142596951,A,G,0.239217,9.05315591648484e-13,0.0334843,34090,0.0128668,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133328771,rs4962130,C,T,-1.22647,1e-200,0.029857,34090,0.0160971,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133389365,rs62575992,T,C,0.13439,1.589644456908e-30,0.0117024,34090,0.117863,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133425943,rs3118667,T,C,-0.25624,1e-200,0.00745289,34090,0.517292,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133520331,rs9802273,G,A,-0.0605197,2.97166603173803e-13,0.00829528,34090,0.722653,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133539572,rs3793628,C,T,0.0640907,3.35196905022163e-12,0.00920565,34090,0.64753,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133629501,rs3025370,T,C,-0.227271,8.72509169890147e-10,0.0370683,34090,0.0102229,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis
+9,133637206,rs2519143,G,A,0.0701078,7.66831597863028e-14,0.00937784,34090,0.803143,adamts13_q76lx8_oid20249_v1_cardiometabolic,TRUE,reported,adamts13_q76lx8_oid20249_v1_cardiometabolic,chr9,133414338,cis

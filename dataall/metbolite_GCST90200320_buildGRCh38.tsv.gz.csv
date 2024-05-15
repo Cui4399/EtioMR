@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,47628057,T,A,0.643938,-0.0796778,0.0161079,7.55518e-07,rs12497825,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+4,156785921,A,G,0.0502236,-0.162088,0.0348295,3.25929e-06,rs116530753,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+5,11520799,C,T,0.0186103,-0.261723,0.056209,3.22015e-06,rs77207094,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+5,96792319,C,T,0.0324707,-0.19668,0.0428337,4.39626e-06,rs80144245,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+6,142741666,C,T,0.399398,-0.0713528,0.0154249,3.73111e-06,rs197490,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+7,10226349,A,G,0.710805,-0.0775374,0.0167007,3.43761e-06,rs7803343,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+7,96776335,A,T,0.026319,-0.221768,0.0473175,2.77507e-06,rs139278946,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+9,14170637,C,T,0.117458,0.107225,0.0233883,4.54906e-06,rs79715983,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+9,110873692,T,C,0.0455153,0.172561,0.0362217,1.89779e-06,rs79950608,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA
+12,24993537,C,G,0.0199297,0.270052,0.0541214,6.04588e-07,rs79507970,8284,Dihomo-linoleate (20:2n6) levels,TRUE,reported,eMSldA

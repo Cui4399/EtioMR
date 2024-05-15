@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,203458384,rs116468241,T,A,0.1849,5.946e-15,0.02369,35368,0.0297,REN_Renin,TRUE,reported,REN_Renin
+1,203676906,rs12739352,A,C,-0.0505,1.468e-08,0.008914,35365,0.30477,REN_Renin,TRUE,reported,REN_Renin
+1,203982964,rs111877946,T,G,0.1798,4.988e-16,0.022165,35370,0.03363,REN_Renin,TRUE,reported,REN_Renin
+1,204190050,rs34729972,G,A,-0.0708,9.378e-12,0.010388,35369,0.19227,REN_Renin,TRUE,reported,REN_Renin
+1,204389944,rs3014620,C,T,0.3118,1.336e-34,0.025415,35366,0.02694,REN_Renin,TRUE,reported,REN_Renin
+1,204645347,rs11801229,G,A,-0.0743,1.804e-10,0.011651,35372,0.1433,REN_Renin,TRUE,reported,REN_Renin
+1,204925066,rs11240312,T,G,0.4438,3.539e-08,0.080509,35372,0.00274,REN_Renin,TRUE,reported,REN_Renin

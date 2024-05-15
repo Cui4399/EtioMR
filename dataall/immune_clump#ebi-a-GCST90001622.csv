@@ -1,0 +1,8 @@
+samplesize.exposure,se.exposure,chr.exposure,pos.exposure,beta.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3669,0.05512,6,101417409,0.3253,3.90904e-09,ebi-a-GCST90001622,rs115536607,T,C,0.0545,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.07722,6,101980039,0.6063,5.36661e-15,ebi-a-GCST90001622,rs117147408,G,A,0.0275,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.06614,6,100468602,0.4184,2.828e-10,ebi-a-GCST90001622,rs79251210,A,G,0.0377,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.05934,6,97889936,0.3723,3.91399e-10,ebi-a-GCST90001622,rs9488834,A,G,0.0465,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.02495,8,144992862,0.148,3.24997e-09,ebi-a-GCST90001622,rs7819099,G,A,0.5112,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.03097,11,112914680,0.1713,3.41499e-08,ebi-a-GCST90001622,rs12224032,G,C,0.2086,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd
+3669,0.03955,11,112751407,-0.435,1.03992e-27,ebi-a-GCST90001622,rs77738700,A,G,0.1067,Natural Killer T %T cell || id:ebi-a-GCST90001622,TRUE,reported,igd

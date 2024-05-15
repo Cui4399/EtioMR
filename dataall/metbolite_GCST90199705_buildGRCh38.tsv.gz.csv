@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.320777,0.358921,0.0172869,9.42979e-96,rs1047891,7311,Propionylglycine levels,TRUE,reported,S5nEaN
+9,6540540,C,T,0.288836,-0.098395,0.0178947,3.82931e-08,rs2297442,7311,Propionylglycine levels,TRUE,reported,S5nEaN
+11,67614755,C,T,0.422212,0.116302,0.0163996,1.32409e-12,rs60774377,7311,Propionylglycine levels,TRUE,reported,S5nEaN

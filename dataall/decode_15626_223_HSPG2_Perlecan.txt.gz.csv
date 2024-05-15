@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21299849,rs213055,A,G,0.0713,4.023e-08,0.012988,35378,0.12191,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21355843,rs78487864,A,G,0.1557,2.451e-09,0.026104,35374,0.02646,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21554339,rs142935969,TATATAT,T,0.2625,1.892e-13,0.035684,35376,0.01411,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21626558,rs139927819,A,G,0.2159,8.34e-12,0.031599,35374,0.01804,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21785574,rs113855594,T,C,0.3822,9.643e-20,0.042033,35376,0.01114,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21855402,rs2229475,T,C,0.5138,2.283e-191,0.017412,35375,0.06056,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21889786,rs3767141,T,C,-0.1016,7.727e-30,0.008954,35374,0.32734,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,21926297,rs9426790,G,A,0.2182,3.306e-09,0.036885,35374,0.0131,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,22138667,rs2865174,T,C,-0.1436,2.55e-24,0.014112,35374,0.09909,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,22251216,rs115558877,G,A,0.1446,8.519e-10,0.02357,35373,0.03293,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,22421034,rs144654395,A,G,0.2878,3.012e-13,0.039458,35370,0.01207,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan
+1,22588680,rs78230509,A,G,0.1375,3.777e-13,0.018931,35369,0.05026,HSPG2_Perlecan,TRUE,reported,HSPG2_Perlecan

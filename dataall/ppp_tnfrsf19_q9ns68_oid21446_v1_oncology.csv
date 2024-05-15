@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+13,23459842,rs73449242,T,C,0.100982,2.66379009676699e-12,0.0144375,33966,0.0658008,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23476331,rs184751212,G,C,-0.270992,2.45470891568503e-17,0.0319945,33966,0.0139657,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23494205,rs9552975,C,T,-0.1022,3.65763193009451e-19,0.011423,33966,0.109913,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23530878,rs34374457,A,G,-0.247816,1.29062478206054e-14,0.0321557,33966,0.0127461,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23547546,rs117973095,C,T,-0.418735,2.72458273325772e-66,0.0243471,33966,0.0226346,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23579770,rs61947047,T,C,0.259204,1e-200,0.00772853,33966,0.309477,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23639074,rs77648492,C,T,0.178532,1.93107881755808e-16,0.0217026,33966,0.0289515,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23694841,rs9551001,A,G,0.0933809,6.16453041959876e-11,0.0142791,33966,0.0681198,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23786658,rs140203001,A,G,-0.105707,2.75930685581751e-12,0.0151237,33966,0.0753779,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis
+13,23837461,rs75337010,T,C,0.185043,2.72772133142651e-23,0.0186119,33966,0.0376553,tnfrsf19_q9ns68_oid21446_v1_oncology,TRUE,reported,tnfrsf19_q9ns68_oid21446_v1_oncology,chr13,23570247,cis

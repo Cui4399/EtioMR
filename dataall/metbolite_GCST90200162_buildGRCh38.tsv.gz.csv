@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+8,102387474,A,G,0.0170604,0.34391,0.0723429,1.99543e-06,rs149076654,5371,3-hydroxyphenylacetoylglutamine levels,TRUE,reported,NWOX1y
+9,81765989,C,T,0.013788,-0.371576,0.0803103,3.71433e-06,rs117958693,5371,3-hydroxyphenylacetoylglutamine levels,TRUE,reported,NWOX1y

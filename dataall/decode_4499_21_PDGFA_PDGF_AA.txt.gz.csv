@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,512291,rs145726150,A,G,-0.307,1.505e-12,0.043398,35323,0.0101,PDGFA_PDGF_AA,TRUE,reported,PDGFA_PDGF_AA
+7,533360,rs150821630,A,G,0.143,5.574e-10,0.023057,35323,0.03212,PDGFA_PDGF_AA,TRUE,reported,PDGFA_PDGF_AA
+7,589908,rs145793648,G,A,-0.1502,1.59e-08,0.026577,35323,0.02697,PDGFA_PDGF_AA,TRUE,reported,PDGFA_PDGF_AA
+7,605294,rs113405464,T,C,-0.2999,6.065e-09,0.051574,35323,0.00737,PDGFA_PDGF_AA,TRUE,reported,PDGFA_PDGF_AA

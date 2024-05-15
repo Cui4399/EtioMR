@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,46930301,A,G,0.794552,0.153817,0.0190909,7.81372e-16,rs1126743,7926,Sebacate (C10-DC) levels,TRUE,reported,ATFenq
+1,152007294,G,C,0.30584,-0.107369,0.0167554,1.47404e-10,rs2012674,7926,Sebacate (C10-DC) levels,TRUE,reported,ATFenq

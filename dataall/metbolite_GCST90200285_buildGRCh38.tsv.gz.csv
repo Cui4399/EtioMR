@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,192421878,T,C,0.0131144,0.317229,0.0673166,2.44694e-06,rs76259022,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+2,133166359,G,A,0.0693667,0.141346,0.0308522,4.6187e-06,rs72842475,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+2,153181611,G,T,0.0301649,0.22788,0.0461708,7.99081e-07,rs182245529,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+3,147569111,T,G,0.0216269,0.264128,0.0530146,6.28769e-07,rs77304820,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+4,205359,A,G,0.019635,-0.266189,0.0568183,2.80068e-06,rs115392687,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+4,18761594,A,G,0.0197352,-0.266127,0.0555892,1.68968e-06,rs77376871,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+7,12782706,G,T,0.725806,-0.0852009,0.0174071,9.84997e-07,rs10250987,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+10,2249869,T,G,0.0256284,-0.232587,0.0488686,1.94139e-06,rs77321789,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+16,6219438,C,G,0.0151031,0.301369,0.0628047,1.59852e-06,rs140599500,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY
+19,34844644,T,C,0.0231062,0.233353,0.0509644,4.67789e-06,rs73034311,8166,Eicosenedioate (C20:1-DC) levels,TRUE,reported,dQjeHY

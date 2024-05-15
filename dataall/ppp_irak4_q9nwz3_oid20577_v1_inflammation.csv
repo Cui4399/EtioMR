@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+12,43783708,rs55944915,A,G,-0.289648,2.26725307714517e-15,0.036545,33657,0.0108318,irak4_q9nwz3_oid20577_v1_inflammation,TRUE,reported,irak4_q9nwz3_oid20577_v1_inflammation,chr12,43758908,cis

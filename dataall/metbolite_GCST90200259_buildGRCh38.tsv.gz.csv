@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,56736806,G,A,0.120437,0.131536,0.0232472,1.5303e-08,rs146924265,8235,Pentose acid levels,TRUE,reported,DYyMVC

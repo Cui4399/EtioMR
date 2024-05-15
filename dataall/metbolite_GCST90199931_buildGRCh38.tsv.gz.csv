@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,61215199,A,G,0.0788924,-0.1335,0.0292109,4.87228e-06,rs333147,7760,Lanthionine levels,TRUE,reported,tif91e
+2,4304578,C,A,0.11494,0.116082,0.0249757,3.35525e-06,rs17552614,7760,Lanthionine levels,TRUE,reported,tif91e
+3,116557468,G,A,0.142208,-0.110346,0.0225806,1.02506e-06,rs1599769,7760,Lanthionine levels,TRUE,reported,tif91e
+3,164640109,C,A,0.0279684,0.22817,0.0474653,1.53141e-06,rs189891669,7760,Lanthionine levels,TRUE,reported,tif91e
+4,16410399,G,T,0.394207,-0.0813537,0.0163323,6.32062e-07,rs4698484,7760,Lanthionine levels,TRUE,reported,tif91e
+7,112037859,G,A,0.0109159,-0.34665,0.0755563,4.47567e-06,rs80165526,7760,Lanthionine levels,TRUE,reported,tif91e
+7,151710715,A,G,0.2742,0.0843034,0.0177916,2.15441e-06,rs7805747,7760,Lanthionine levels,TRUE,reported,tif91e
+9,135717442,A,G,0.028577,0.22012,0.047466,3.52772e-06,rs147338254,7760,Lanthionine levels,TRUE,reported,tif91e
+11,21812259,A,G,0.0146584,0.297224,0.0649606,4.75179e-06,rs149485174,7760,Lanthionine levels,TRUE,reported,tif91e
+11,131087549,T,C,0.251203,-0.0852409,0.0182142,2.86987e-06,rs2276436,7760,Lanthionine levels,TRUE,reported,tif91e
+13,25349819,G,A,0.12264,0.122233,0.0238238,2.88658e-07,rs9507503,7760,Lanthionine levels,TRUE,reported,tif91e
+13,25394927,T,C,0.193875,0.0980217,0.0201408,1.13404e-06,rs9507512,7760,Lanthionine levels,TRUE,reported,tif91e
+15,52571210,C,T,0.891514,0.119032,0.0257236,3.70395e-06,rs11630559,7760,Lanthionine levels,TRUE,reported,tif91e
+16,64160234,A,G,0.0880173,0.131678,0.0284972,3.82397e-06,rs59441435,7760,Lanthionine levels,TRUE,reported,tif91e
+19,52767207,A,G,0.079363,0.133618,0.0292161,4.79805e-06,rs4614842,7760,Lanthionine levels,TRUE,reported,tif91e
+20,10532165,T,C,0.0112273,-0.353579,0.0744919,2.06931e-06,rs118122994,7760,Lanthionine levels,TRUE,reported,tif91e

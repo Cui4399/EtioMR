@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241550102,T,C,0.246201,-0.143387,0.0166825,8.32619e-18,rs61825638,8203,Quinolinate levels,TRUE,reported,GoNNTj
+2,134956133,A,G,0.45474,-0.0895797,0.0143635,4.47114e-10,rs3769023,8203,Quinolinate levels,TRUE,reported,GoNNTj
+8,39929326,T,C,0.381702,-0.0879405,0.0149202,3.76844e-09,rs11779313,8203,Quinolinate levels,TRUE,reported,GoNNTj
+12,111469627,AC,A,0.500306,-0.119854,0.0144072,8.86687e-17,rs35350651,8203,Quinolinate levels,TRUE,reported,GoNNTj

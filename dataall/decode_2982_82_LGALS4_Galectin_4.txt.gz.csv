@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,38714973,rs883394,T,C,-0.0533,4.001e-11,0.008071,35375,0.47527,LGALS4_Galectin_4,TRUE,reported,LGALS4_Galectin_4

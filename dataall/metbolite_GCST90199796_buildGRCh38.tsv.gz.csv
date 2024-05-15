@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,149408424,C,A,0.289175,-0.0974666,0.0177866,4.25855e-08,rs17686579,7540,Docosapentaenoate (n6 DPA; 22:5n6) levels,TRUE,reported,uD9YQk
+11,61829740,T,C,0.131023,-0.162184,0.0231642,2.53287e-12,rs174570,7540,Docosapentaenoate (n6 DPA; 22:5n6) levels,TRUE,reported,uD9YQk

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,59709332,T,C,0.77054,0.142349,0.0168286,2.70294e-17,rs1171615,8271,Deoxycarnitine levels,TRUE,reported,cyrnRZ
+11,27095194,C,A,0.039432,0.276975,0.0357078,8.71619e-15,rs17243908,8271,Deoxycarnitine levels,TRUE,reported,cyrnRZ
+12,204273,T,C,0.406837,0.0888067,0.0143927,6.81839e-10,rs2072536,8271,Deoxycarnitine levels,TRUE,reported,cyrnRZ
+12,240132,T,C,0.651563,0.351263,0.0141938,3.28849e-135,rs10774021,8271,Deoxycarnitine levels,TRUE,reported,cyrnRZ
+12,120977112,A,G,0.347887,0.0899565,0.0146227,7.65871e-10,rs2255531,8271,Deoxycarnitine levels,TRUE,reported,cyrnRZ

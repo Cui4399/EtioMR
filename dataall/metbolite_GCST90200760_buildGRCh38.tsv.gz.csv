@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,166688754,T,C,0.112018,0.13844,0.0243021,1.222e-08,rs4710080,8214,Methionine to methionine sulfoxide ratio,TRUE,reported,hHw4rK

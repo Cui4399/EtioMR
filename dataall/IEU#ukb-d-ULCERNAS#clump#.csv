@@ -1,0 +1,7 @@
+"pval.exposure","chr.exposure","beta.exposure","samplesize.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.09481e-10,"1",0.00112995,361194,20173858,0.000175092,"ukb-d-ULCERNAS","rs10737482","C","T",0.61368,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"
+6.98715e-31,"6",0.00691742,361194,32247045,0.00059861,"ukb-d-ULCERNAS","rs145568234","G","T",0.0251793,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"
+1.90985e-15,"6",-0.00139117,361194,32611450,0.000175047,"ukb-d-ULCERNAS","rs7757696","T","G",0.608454,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"
+1.12642e-12,"6",-0.00127083,361194,32607898,0.000178628,"ukb-d-ULCERNAS","rs28359904","A","AG",0.352692,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"
+4.52637e-10,"6",-0.00136378,361194,32548921,0.000218734,"ukb-d-ULCERNAS","rs149717632","G","A",0.221271,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"
+8.45123e-09,"21",-0.0011337,361194,40463283,0.000196845,"ukb-d-ULCERNAS","rs9977672","A","G",0.258021,"Ulcerative colitis, NAS || id:ukb-d-ULCERNAS",TRUE,"reported","igd"

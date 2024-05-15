@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","chr.exposure","beta.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+273111,2.19999e-08,"4",-0.039877,28090375,0.00712594,"ukb-b-12687","rs74326661","C","A",0.035057,"Mother's age at death || id:ukb-b-12687",TRUE,"reported","igd"
+273111,4.79954e-12,"19",-0.0236043,45422946,0.00341509,"ukb-b-12687","rs4420638","G","A",0.191391,"Mother's age at death || id:ukb-b-12687",TRUE,"reported","igd"

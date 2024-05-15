@@ -1,0 +1,5 @@
+"beta.exposure","chr.exposure","pval.exposure","samplesize.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00940565,"1",1.07374e-13,178676,22450487,0.00126555,"ukb-a-325","rs2235529","T","C",0.156845,"Bilateral oophorectomy (both ovaries removed) || id:ukb-a-325",TRUE,"reported","igd"
+0.005889,"2",4.10119e-10,178676,11702661,0.000942168,"ukb-a-325","rs10929757","C","A",0.579496,"Bilateral oophorectomy (both ovaries removed) || id:ukb-a-325",TRUE,"reported","igd"
+0.00663318,"5",7.79274e-09,178676,1283755,0.00114897,"ukb-a-325","rs72709458","T","C",0.207042,"Bilateral oophorectomy (both ovaries removed) || id:ukb-a-325",TRUE,"reported","igd"
+-0.00736497,"11",3.84494e-09,178676,30339461,0.0012502,"ukb-a-325","rs7929660","G","A",0.161817,"Bilateral oophorectomy (both ovaries removed) || id:ukb-a-325",TRUE,"reported","igd"

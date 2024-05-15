@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309954,-0.152264,0.0165101,2.9044e-20,rs1047891,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+2,240854128,A,G,0.301705,-0.273941,0.0164274,1.96212e-62,rs55649245,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+2,240911676,G,A,0.635274,-0.0946305,0.0159924,3.2746e-09,rs12694989,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+8,74006636,C,T,0.318176,0.106336,0.0165996,1.4945e-10,rs1426060,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+10,93079885,A,G,0.455961,0.0840083,0.0152674,3.74502e-08,rs2068888,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+14,100346168,C,A,0.487294,-0.109032,0.0155584,2.41911e-12,rs115256445,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+16,1777001,T,C,0.0494566,-0.194609,0.035474,4.1123e-08,rs13889,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje
+17,55001925,G,C,0.162089,-0.118199,0.0209396,1.65428e-08,rs78136893,8223,"2R,3R-dihydroxybutyrate levels",TRUE,reported,BteUje

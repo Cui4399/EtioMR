@@ -1,0 +1,6 @@
+"pval.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.1e-09,399920,0.000530466,"9",-0.00317638,22112599,"ukb-b-7910","rs10511701","C","T",0.509604,"Illnesses of father: Bowel cancer || id:ukb-b-7910",TRUE,"reported","igd"
+2.90001e-09,399920,0.000664631,"15",0.00394674,33009478,"ukb-b-7910","rs1406389","T","A",0.19939,"Illnesses of father: Bowel cancer || id:ukb-b-7910",TRUE,"reported","igd"
+4.39997e-10,399920,0.000556017,"17",-0.00346918,809425,"ukb-b-7910","rs4968126","G","A",0.639453,"Illnesses of father: Bowel cancer || id:ukb-b-7910",TRUE,"reported","igd"
+1.2e-09,399920,0.000533171,"18",-0.00324338,46451873,"ukb-b-7910","rs4939567","A","G",0.463894,"Illnesses of father: Bowel cancer || id:ukb-b-7910",TRUE,"reported","igd"
+1.40001e-09,399920,0.000640009,"20",-0.003873,60940702,"ukb-b-7910","rs67072353","A","G",0.224559,"Illnesses of father: Bowel cancer || id:ukb-b-7910",TRUE,"reported","igd"

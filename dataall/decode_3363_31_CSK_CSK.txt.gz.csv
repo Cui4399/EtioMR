@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,74813797,rs4886619,T,C,-0.068,7.316e-14,0.009088,35360,0.26855,CSK_CSK,TRUE,reported,CSK_CSK

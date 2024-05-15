@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"18",3247256,"rs4798075","A","C",1.60314024621e-13,1.0303598628,0.139647178315805,89,"Classical monocyte#MYOM1",TRUE,"reported","2tHaCT",NA

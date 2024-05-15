@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,44980215,rs6958168,G,T,0.0729,1.045e-11,0.01072,35343,0.17184,CCM2_CCM2,TRUE,reported,CCM2_CCM2

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,68898993,rs10192176,G,A,0.0468,1.487e-08,0.008264,35357,0.37319,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,69070309,rs4312527,C,G,0.0574,7.096e-13,0.007997,35360,0.47633,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,69167804,rs7565651,T,C,0.064,2.42e-15,0.008083,35362,0.43875,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,69535426,rs78891445,C,A,-0.1613,2.437e-20,0.017454,35364,0.05511,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,69806517,rs17037076,A,G,-0.2876,2.695e-200,0.009525,35364,0.22091,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,69820236,rs200494911,GTTT,GTT,0.1343,1.393e-47,0.009268,35363,0.24768,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,70214642,rs11695163,AAAAAAAAACAAAAAAAC,AAAAAAAAAAAAAAAAAC,0.0539,8.345e-10,0.008781,35344,0.47758,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV
+2,70535369,rs430338,T,C,-0.0499,4.527e-10,0.008004,35358,0.46318,ANXA4_annexin_IV,TRUE,reported,ANXA4_annexin_IV

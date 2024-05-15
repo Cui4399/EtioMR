@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61825533,G,A,0.345579,-0.166931,0.0166567,1.22146e-23,rs174567,7776,Arachidonate (20:4n6) to paraxanthine ratio,TRUE,reported,xiCopI
+19,40847202,C,T,0.573837,0.105543,0.015881,3.01456e-11,rs56113850,7776,Arachidonate (20:4n6) to paraxanthine ratio,TRUE,reported,xiCopI

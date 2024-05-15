@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,25808859,T,C,0.555391,-0.163892,0.0150858,1.71082e-27,rs1165199,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup
+10,100315722,A,G,0.175179,-0.191326,0.0197781,3.90279e-22,rs603424,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup
+14,73252171,G,A,0.351866,-0.10066,0.0159149,2.53483e-10,rs2242610,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup
+14,73566890,G,A,0.413797,-0.654991,0.0139798,1e-200,rs11626972,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup
+14,73579515,C,T,0.388826,0.120927,0.0154038,4.14605e-15,rs28410246,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup
+14,73706728,G,A,0.118478,-0.21723,0.0232125,8.0996e-21,rs12587545,8131,Decadienedioic acid (C10:2-DC) levels,TRUE,reported,AOuwup

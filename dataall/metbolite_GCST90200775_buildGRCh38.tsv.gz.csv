@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119711883,G,A,0.580465,0.101716,0.0155511,6.12034e-11,rs561931,8235,Serine to pyruvate ratio,TRUE,reported,o6aQQt
+2,27519736,C,T,0.596949,0.0987604,0.0155401,2.08177e-10,rs780093,8235,Serine to pyruvate ratio,TRUE,reported,o6aQQt
+2,210675783,A,C,0.308831,0.125225,0.0165337,3.62161e-14,rs1047891,8235,Serine to pyruvate ratio,TRUE,reported,o6aQQt

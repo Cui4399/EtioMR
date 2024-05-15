@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"3",53098209,"rs6803486","T","A",4.92920327032e-08,0.974595703122,0.178698810361762,89,"Classical monocyte#ITIH4",TRUE,"reported","HaN06I",NA

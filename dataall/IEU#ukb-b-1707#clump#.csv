@@ -1,0 +1,5 @@
+"chr.exposure","se.exposure","beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"3",0.00355347,-0.023024,49067904,9.20026e-11,326565,"ukb-b-1707","rs61729488","C","T",0.10572,"Average weekly spirits intake || id:ukb-b-1707",TRUE,"reported","igd"
+"10",0.00250042,0.0139343,77570060,2.5e-08,326565,"ukb-b-1707","rs9299529","C","T",0.742611,"Average weekly spirits intake || id:ukb-b-1707",TRUE,"reported","igd"
+"12",0.00218655,0.0124828,11140483,1.09999e-08,326565,"ukb-b-1707","rs6488335","G","T",0.477991,"Average weekly spirits intake || id:ukb-b-1707",TRUE,"reported","igd"
+"16",0.0022256,0.0144754,53824226,7.8001e-11,326565,"ukb-b-1707","rs62033406","G","A",0.408781,"Average weekly spirits intake || id:ukb-b-1707",TRUE,"reported","igd"

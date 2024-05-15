@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,88656439,rs148455330,T,C,-0.2217,6.327e-15,0.028433,35324,0.01807,MVD_ERG19,TRUE,reported,MVD_ERG19
+16,88662105,rs12933657,G,A,-0.077,5.233e-13,0.010666,35325,0.16508,MVD_ERG19,TRUE,reported,MVD_ERG19

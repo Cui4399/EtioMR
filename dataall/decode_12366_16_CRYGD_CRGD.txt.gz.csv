@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,207989674,rs115453743,T,C,0.1257,2.103e-11,0.018765,35346,0.04765,CRYGD_CRGD,TRUE,reported,CRYGD_CRGD
+2,208114213,rs34570682,A,G,-0.1165,4.913e-44,0.00837,35347,0.33429,CRYGD_CRGD,TRUE,reported,CRYGD_CRGD
+2,208124234,rs61731517,C,T,0.0851,1.352e-18,0.009669,35342,0.30203,CRYGD_CRGD,TRUE,reported,CRYGD_CRGD

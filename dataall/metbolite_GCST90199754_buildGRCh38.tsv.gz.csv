@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,130185619,G,A,0.727036,-0.0991221,0.0179795,3.52642e-08,rs6569661,8019,7-methylxanthine levels,TRUE,reported,xfMnCG
+15,74929884,T,C,0.360333,0.102616,0.0165371,5.4616e-10,rs12148513,8019,7-methylxanthine levels,TRUE,reported,xfMnCG

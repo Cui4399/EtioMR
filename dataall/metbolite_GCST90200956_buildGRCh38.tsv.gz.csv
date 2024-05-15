@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,167294271,T,C,0.10788,-0.171449,0.0258033,3.0436e-11,rs2076007,7427,Cytidine to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,K8fRjo
+15,84961789,C,T,0.0589626,-0.261886,0.0344111,2.72998e-14,rs72754978,7427,Cytidine to N-acetylglucosamine to N-acetylgalactosamine ratio,TRUE,reported,K8fRjo

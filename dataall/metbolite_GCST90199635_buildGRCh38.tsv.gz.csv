@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,156527256,T,C,0.0178844,-0.304207,0.0586874,2.1775e-07,rs191187061,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+1,204454067,A,G,0.0250225,-0.238964,0.0506661,2.40006e-06,rs112307471,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+2,133697804,C,T,0.194635,0.0909404,0.0194777,3.02745e-06,rs17767728,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+2,224858109,T,C,0.0724275,0.150663,0.0304065,7.23414e-07,rs74432647,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+4,86073341,T,C,0.0945706,-0.121342,0.0264241,4.38776e-06,rs146175767,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+7,5766027,G,A,0.0130043,-0.340237,0.0690333,8.28252e-07,rs147941428,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+9,3389660,A,G,0.0526149,0.170526,0.0347529,9.25742e-07,rs13283163,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+11,23891620,T,C,0.0739347,-0.143423,0.0298661,1.56938e-06,rs141685561,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+11,109411117,TAG,T,0.448611,-0.077274,0.0160935,1.57426e-06,rs60377797,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+13,84382959,T,C,0.042993,-0.195098,0.03888,5.2225e-07,rs79970883,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+16,20426589,G,A,0.0199163,-0.27871,0.0551887,4.41503e-07,rs148153141,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+16,20433373,T,C,0.0178774,0.294909,0.0587005,5.06156e-07,rs34927101,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+17,12879352,T,C,0.168677,-0.105084,0.0220071,1.7969e-06,rs62058082,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu
+20,40610096,G,A,0.253933,-0.0994662,0.0192108,2.24745e-07,rs4812445,7925,3-phenylpropionate hydrocinnamate levels,TRUE,reported,4C0IHu

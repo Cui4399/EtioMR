@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,111182084,T,C,0.708526,-0.0992148,0.0160867,6.93763e-10,rs1216018,8259,3-(4-hydroxyphenyl)lactate levels,TRUE,reported,Lzdzu9
+17,82233285,C,T,0.700061,-0.161652,0.0158478,1.97677e-24,rs12602929,8259,3-(4-hydroxyphenyl)lactate levels,TRUE,reported,Lzdzu9

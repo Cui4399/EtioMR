@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,45810958,rs7130656,G,A,0.0729,2.687e-09,0.012253,35376,0.12781,MDK_Midkine,TRUE,reported,MDK_Midkine
+11,46316968,rs111651038,A,G,-0.1142,1.239e-15,0.014274,35376,0.09161,MDK_Midkine,TRUE,reported,MDK_Midkine
+11,46506102,rs77817298,A,G,0.381,1.447e-28,0.034364,35376,0.01498,MDK_Midkine,TRUE,reported,MDK_Midkine
+11,46667632,rs140572040,G,A,0.223,2.654e-10,0.035297,35376,0.01363,MDK_Midkine,TRUE,reported,MDK_Midkine

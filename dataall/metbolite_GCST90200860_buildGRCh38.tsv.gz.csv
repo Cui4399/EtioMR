@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309425,-0.100859,0.0167198,1.61653e-09,rs1047891,8194,Adenosine 5'-monophosphate (AMP) to serine ratio,TRUE,reported,PVL8Z7
+7,56071486,C,G,0.702964,-0.09315,0.0168432,3.1945e-08,rs12669623,8194,Adenosine 5'-monophosphate (AMP) to serine ratio,TRUE,reported,PVL8Z7

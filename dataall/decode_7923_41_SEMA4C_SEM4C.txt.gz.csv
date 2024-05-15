@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,96798540,rs111368952,T,C,-0.461,1.44e-82,0.023949,35362,0.02832,SEMA4C_SEM4C,TRUE,reported,SEMA4C_SEM4C
+2,96871333,rs62152868,C,T,-0.056,1.262e-08,0.00984,35359,0.21227,SEMA4C_SEM4C,TRUE,reported,SEMA4C_SEM4C
+2,96911924,rs6732237,C,A,0.1491,2.401e-25,0.014332,35359,0.08403,SEMA4C_SEM4C,TRUE,reported,SEMA4C_SEM4C
+2,97097241,rs56065109,G,A,-0.2681,3.732e-45,0.019013,35362,0.04767,SEMA4C_SEM4C,TRUE,reported,SEMA4C_SEM4C

@@ -1,0 +1,3 @@
+"samplesize.exposure","pos.exposure","beta.exposure","se.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,161005610,0.00233056,0.000353531,"6",4.3391e-11,"ukb-a-180","rs55730499","T","C",0.081655,"Treatment/medication code: clopidogrel || id:ukb-a-180",TRUE,"reported","igd"
+337159,22098574,0.00127435,0.000193385,"9",4.41266e-11,"ukb-a-180","rs4977574","G","A",0.487377,"Treatment/medication code: clopidogrel || id:ukb-a-180",TRUE,"reported","igd"

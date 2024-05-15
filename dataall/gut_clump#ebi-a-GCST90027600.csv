@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,1064700,-0.177033,0.0371638,1.90182e-06,7738,ebi-a-GCST90027600,rs7426276,A,G,0.149009,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+2,231425650,0.223486,0.044371,4.73511e-07,7738,ebi-a-GCST90027600,rs28887188,A,G,0.0962352,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+5,3305712,0.17174,0.0366048,2.70913e-06,7738,ebi-a-GCST90027600,rs6858961,C,A,0.150873,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+7,51667991,0.208553,0.0456689,4.95656e-06,7738,ebi-a-GCST90027600,rs62465767,A,G,0.0934947,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+7,8329708,-0.271457,0.0529763,2.98917e-07,7738,ebi-a-GCST90027600,rs7784347,C,T,0.0648245,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+7,42482854,0.272518,0.0592538,4.24199e-06,7738,ebi-a-GCST90027600,rs78206502,A,G,0.0581025,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+9,22140224,0.156778,0.0314314,6.10267e-07,7738,ebi-a-GCST90027600,rs2065501,C,A,0.68472,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+11,72778113,-0.123848,0.026866,4.0294e-06,7738,ebi-a-GCST90027600,rs7925466,C,A,0.411115,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+12,20137785,-0.263745,0.0571971,4.00452e-06,7738,ebi-a-GCST90027600,rs147068992,A,G,0.0564545,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+15,34202667,-0.279654,0.0590033,2.14112e-06,7738,ebi-a-GCST90027600,rs73379542,C,G,0.0510867,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+17,1080200,-0.128802,0.0280471,4.38258e-06,7738,ebi-a-GCST90027600,rs4968174,C,A,0.535432,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd
+21,21941433,0.132353,0.0271084,1.04817e-06,7738,ebi-a-GCST90027600,rs67469682,A,T,0.375479,PWY.6891..thiazole.biosynthesis.II..Bacillus.,TRUE,reported,igd

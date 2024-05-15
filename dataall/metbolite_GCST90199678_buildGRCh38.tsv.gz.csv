@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,139350290,G,T,0.0302787,-0.288241,0.044521,9.52738e-11,rs62381620,8125,Tartronate (hydroxymalonate) levels,TRUE,reported,QijdnD

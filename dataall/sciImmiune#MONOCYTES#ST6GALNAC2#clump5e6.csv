@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",74576721,"rs11653476","G","A",1.39987306256e-06,-0.741950028232,0.153771302386086,89,"Classical monocyte#ST6GALNAC2",TRUE,"reported","EdMVK9",NA
+"17",74595060,"rs11077841","C","G",2.34444577005e-09,-1.04823138742,0.17552602277432,89,"Classical monocyte#ST6GALNAC2",TRUE,"reported","EdMVK9",NA

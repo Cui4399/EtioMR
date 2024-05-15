@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,220596516,-0.1778,0.0369226,1.46852e-06,7738,ebi-a-GCST90027599,rs1338762,A,G,0.269544,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+2,188791863,0.219994,0.0477522,4.08536e-06,7738,ebi-a-GCST90027599,rs16829385,T,A,0.130089,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+4,115874047,0.170577,0.0361569,2.38523e-06,7738,ebi-a-GCST90027599,rs10015390,A,G,0.703903,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+8,88481776,0.331454,0.0706149,2.68145e-06,7738,ebi-a-GCST90027599,rs62523849,C,T,0.0576356,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+10,112365004,0.177643,0.0383181,3.55206e-06,7738,ebi-a-GCST90027599,rs61861701,G,A,0.260402,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+15,63088916,-0.169423,0.0370187,4.72433e-06,7738,ebi-a-GCST90027599,rs2292862,T,A,0.653047,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd
+20,18179543,0.174781,0.0338956,2.51675e-07,7738,ebi-a-GCST90027599,rs6081036,T,C,0.675759,PWY.6823..molybdenum.cofactor.biosynthesis,TRUE,reported,igd

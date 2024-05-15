@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,201141835,rs4915486,T,C,0.0656,2.62e-15,0.008296,35347,0.33706,TMEM9_TMEM9,TRUE,reported,TMEM9_TMEM9

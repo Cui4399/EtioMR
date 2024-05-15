@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,83018726,-0.175844,0.0352956,6.29158e-07,7738,ebi-a-GCST90027475,rs115001375,C,T,0.0755566,GLYCOCAT.PWY..glycogen.degradation.I..bacterial.,TRUE,reported,igd
+2,11209820,0.0909124,0.0188903,1.48953e-06,7738,ebi-a-GCST90027475,rs2056101,T,C,0.535799,GLYCOCAT.PWY..glycogen.degradation.I..bacterial.,TRUE,reported,igd
+3,41049101,-0.102628,0.0223393,4.3468e-06,7738,ebi-a-GCST90027475,rs35296932,G,A,0.242946,GLYCOCAT.PWY..glycogen.degradation.I..bacterial.,TRUE,reported,igd
+6,46422725,0.110105,0.0199672,3.50155e-08,7738,ebi-a-GCST90027475,rs59657730,G,A,0.559955,GLYCOCAT.PWY..glycogen.degradation.I..bacterial.,TRUE,reported,igd
+12,125549956,0.127405,0.0271228,2.63585e-06,7738,ebi-a-GCST90027475,rs41474647,T,C,0.136106,GLYCOCAT.PWY..glycogen.degradation.I..bacterial.,TRUE,reported,igd

@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,98373847,A,G,0.1313,-0.101091,0.0219345,4.0508e-06,rs55763646,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+5,172823258,A,G,0.709615,0.0779082,0.0170594,4.95059e-06,rs6870663,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+9,27295609,A,G,0.3794,0.0758339,0.0158578,1.73461e-06,rs10967866,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+9,130234368,T,G,0.306859,-0.0738164,0.016127,4.71219e-06,rs6478954,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+12,117586522,A,G,0.016285,0.267154,0.0581279,4.3076e-06,rs146947505,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+14,56416152,T,A,0.609184,0.0764264,0.0153736,6.65148e-07,rs1201422,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+18,41052239,A,G,0.349324,0.0713016,0.0154942,4.18832e-06,rs34642338,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD
+18,73690943,T,C,0.0118009,0.319521,0.0684252,3.01742e-06,rs140887328,8226,Laurate (12:0) levels,TRUE,reported,TB9BzD

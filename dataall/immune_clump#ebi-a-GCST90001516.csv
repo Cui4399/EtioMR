@@ -1,0 +1,3 @@
+se.exposure,pos.exposure,samplesize.exposure,beta.exposure,pval.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.09656,176970247,1857,-0.5379,2.91897e-08,2,ebi-a-GCST90001516,rs72923436,A,C,0.0307,Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516,TRUE,reported,igd
+0.03266,51728641,1857,0.2522,1.8608e-14,19,ebi-a-GCST90001516,rs2455069,G,A,0.5197,Immature Myeloid-Derived Suppressor Cells %CD33dim HLA DR- CD66b- || id:ebi-a-GCST90001516,TRUE,reported,igd

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,155810010,rs5024165,C,A,-0.079,1.114e-18,0.008954,35356,0.29334,CTSO_CATO,TRUE,reported,CTSO_CATO
+4,155935041,rs2334114,A,C,-0.1756,3.196e-75,0.009569,35357,0.22887,CTSO_CATO,TRUE,reported,CTSO_CATO
+4,156015053,rs70954081,CTT,C,-0.1301,5.434e-50,0.008751,35355,0.31537,CTSO_CATO,TRUE,reported,CTSO_CATO
+4,156176552,rs11725379,A,G,-0.0876,5.873e-22,0.009095,35357,0.27112,CTSO_CATO,TRUE,reported,CTSO_CATO
+4,156369986,rs199698860,A,G,-0.0485,2.392e-09,0.008126,35357,0.4927,CTSO_CATO,TRUE,reported,CTSO_CATO

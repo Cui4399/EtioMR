@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,41759235,rs12459454,G,A,-0.0737,4.963e-17,0.008787,35374,0.32116,CEACAM8_CEAM8,TRUE,reported,CEACAM8_CEAM8
+19,42482787,rs367616646,CTTT,CT,-0.0944,1.602e-08,0.016707,35367,0.06455,CEACAM8_CEAM8,TRUE,reported,CEACAM8_CEAM8
+19,42578696,rs10402361,T,A,-0.1022,8.631e-12,0.014969,35369,0.08191,CEACAM8_CEAM8,TRUE,reported,CEACAM8_CEAM8
+19,42613822,rs116905402,A,T,0.1071,5.092e-09,0.018326,35369,0.05486,CEACAM8_CEAM8,TRUE,reported,CEACAM8_CEAM8

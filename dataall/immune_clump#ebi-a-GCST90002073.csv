@@ -1,0 +1,10 @@
+samplesize.exposure,chr.exposure,se.exposure,pos.exposure,pval.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2850,2,0.02902,203570761,4.32305e-08,0.1594,ebi-a-GCST90002073,rs72928949,C,G,0.5009,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,7,0.03441,92408370,1.45399e-09,0.2088,ebi-a-GCST90002073,rs445,T,C,0.1975,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,8,0.02755,145003777,2.201e-09,-0.1653,ebi-a-GCST90002073,rs11136335,A,G,0.4853,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,12,0.05614,70949085,1.63493e-13,-0.4161,ebi-a-GCST90002073,rs75994780,A,G,0.0637,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,12,0.0981,67839087,4.348e-09,-0.5777,ebi-a-GCST90002073,rs80216229,C,T,0.0212,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,12,0.1053,69247557,7.26942e-15,-0.8234,ebi-a-GCST90002073,rs1152928,G,A,0.0172,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,12,0.04471,69744014,1.71396e-145,-1.218,ebi-a-GCST90002073,rs1800973,A,C,0.0844,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,12,0.08769,70360198,3.80014e-23,-0.8766,ebi-a-GCST90002073,rs148146302,C,G,0.0239,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd
+2850,19,0.02938,18285944,3.1369e-36,-0.3745,ebi-a-GCST90002073,rs11554159,A,G,0.2982,SSC-A on monocyte || id:ebi-a-GCST90002073,TRUE,reported,igd

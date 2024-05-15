@@ -1,0 +1,19 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22215952,T,G,0.526057,-0.0717313,0.0154513,3.44375e-06,rs2505722,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+3,8695451,G,A,0.0634189,-0.157144,0.0313672,5.44833e-07,rs60110084,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+3,184300053,T,G,0.0146444,-0.289613,0.063108,4.45023e-06,rs144161168,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+5,73051700,G,T,0.46194,-0.0717988,0.0150846,1.93841e-06,rs194493,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+6,34517343,G,A,0.975343,-0.23805,0.0490381,1.20758e-06,rs2395568,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+6,121920807,A,C,0.0349423,0.18956,0.0409843,3.74271e-06,rs4946601,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+10,214104,C,T,0.201714,0.0877384,0.019124,4.47771e-06,rs74332769,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+10,58793279,T,C,0.0232702,0.239672,0.0508112,2.39456e-06,rs139721493,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+10,60980126,A,G,0.0258642,0.222024,0.0475374,3.00467e-06,rs118182258,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+12,40827178,G,GT,0.173287,0.0943216,0.0202638,3.24478e-06,rs368626238,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+12,116440229,G,C,0.305181,0.0807888,0.0171393,2.43321e-06,rs2264772,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+13,37978827,A,G,0.424044,-0.0751891,0.0152585,8.32151e-07,rs4644745,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+13,46610551,T,C,0.101725,0.121689,0.0249505,1.0759e-06,rs76442921,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+13,69314269,T,C,0.0330305,0.199549,0.0427362,3.02212e-06,rs112368051,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+14,44213611,G,A,0.200968,0.0922429,0.019581,2.46689e-06,rs144612973,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+14,62249072,A,G,0.13406,-0.10661,0.0221882,1.54912e-06,rs11846826,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+16,27310077,G,A,0.301763,0.0784259,0.0166212,2.37694e-06,rs7205510,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC
+18,74407627,C,T,0.0180023,-0.280617,0.0570354,8.65192e-07,rs118103311,8180,Adenosine 5'-monophosphate (AMP) to tryptophan ratio,TRUE,reported,26mZLC

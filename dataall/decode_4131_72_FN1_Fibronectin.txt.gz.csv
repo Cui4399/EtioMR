@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,215033421,rs10206852,T,C,0.0715,3.192e-09,0.012075,35352,0.11828,FN1_Fibronectin,TRUE,reported,FN1_Fibronectin
+2,215393427,rs138259153,AATATATATATATATATATATT,AATATATATATATATATATT,-0.0745,5.901e-19,0.008377,35355,0.31579,FN1_Fibronectin,TRUE,reported,FN1_Fibronectin
+2,215435759,rs1250259,A,T,0.176,2.472e-102,0.008194,35355,0.3267,FN1_Fibronectin,TRUE,reported,FN1_Fibronectin
+2,215500753,rs4674006,TTTTCCTTCCTTCCTTCCTTTCTTT,TTTTCCTTCCTTCCTTCCTTCCTTT,-0.076,5.924e-18,0.008802,35355,0.26866,FN1_Fibronectin,TRUE,reported,FN1_Fibronectin

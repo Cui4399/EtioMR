@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+19,7613602,rs117029024,A,G,-0.356832,1.65691412397365e-34,0.0291265,33590,0.0177834,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7617024,rs62113430,T,C,0.0830251,1.02305739748667e-14,0.0107318,33590,0.142345,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7669625,rs3745367,A,G,0.140218,9.6961650604947e-54,0.0090851,33590,0.246427,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7670411,rs3745368,A,G,-0.706564,1e-200,0.0216478,33590,0.0330938,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7677492,rs117758146,T,C,0.279389,1.18549574625455e-15,0.0348977,33590,0.0116255,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7677916,rs10401670,C,T,-0.185576,1.69433780044738e-132,0.00757625,33590,0.569991,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis
+19,7706856,rs12611038,C,T,0.0471077,5.89236986825102e-09,0.0080944,33590,0.652633,retn_q9hd89_oid20327_v1_cardiometabolic,TRUE,reported,retn_q9hd89_oid20327_v1_cardiometabolic,chr19,7669085,cis

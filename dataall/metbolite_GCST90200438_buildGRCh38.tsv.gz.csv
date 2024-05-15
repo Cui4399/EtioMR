@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27508073,C,T,0.587667,-0.0736448,0.0158637,3.44485e-06,rs1260326,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+2,119490335,G,A,0.817296,0.101148,0.0205994,9.09669e-07,rs744927,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+4,2489968,A,G,0.106518,-0.115095,0.0249202,3.86449e-06,rs17132647,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+5,88405100,AT,A,0.0247767,0.237055,0.0501403,2.26934e-06,rs201407091,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+11,20510100,A,G,0.0372182,-0.193273,0.0405663,1.8944e-06,rs116875736,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+12,116652870,T,G,0.494506,-0.0751385,0.01616,3.32496e-06,rs11068128,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+18,40961735,G,T,0.0279956,0.21504,0.0467833,4.29637e-06,rs79259434,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07
+22,16388785,A,G,0.283776,-0.0861332,0.0186434,3.83688e-06,rs131525,8192,Alpha-ketobutyrate levels,TRUE,reported,O17G07

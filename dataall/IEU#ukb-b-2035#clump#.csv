@@ -1,0 +1,3 @@
+"beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0215026,1.6e-08,64949,"4",0.00380224,155989439,"ukb-b-2035","rs112118594","G","A",0.022102,"Scotch pancake intake || id:ukb-b-2035",TRUE,"reported","igd"
+0.00813953,1.6e-09,64949,"18",0.00134953,57465508,"ukb-b-2035","rs1791339","G","C",0.225047,"Scotch pancake intake || id:ukb-b-2035",TRUE,"reported","igd"

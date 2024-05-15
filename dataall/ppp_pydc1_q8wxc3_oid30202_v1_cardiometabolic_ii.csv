@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+16,30450730,rs72791268,A,G,-0.201254,1.02520331073239e-09,0.032963,33042,0.0125388,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,30691204,rs150070251,A,G,-0.193381,3.58756683039262e-11,0.0292109,33042,0.016149,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,30933902,rs142711568,A,G,-0.152345,1.54170045294956e-17,0.0178724,33042,0.0368407,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31164284,rs12935054,T,C,0.289238,1e-200,0.0071584,33042,0.673389,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31245664,rs142366936,A,G,0.350797,2.32166738279313e-37,0.027464,33042,0.0174565,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31510013,rs4889546,A,G,0.0898683,2.28717818453151e-16,0.0109516,33042,0.102823,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31553861,rs75840790,G,A,-0.0716233,1.06627689832734e-08,0.0125219,33042,0.0772125,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31588423,rs118070325,A,G,-0.144778,1.962682273314e-08,0.0257829,33042,0.0180749,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis
+16,31732740,rs71391224,A,G,-0.0660265,4.64868372719775e-10,0.0105973,33042,0.121623,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,TRUE,reported,pydc1_q8wxc3_oid30202_v1_cardiometabolic_ii,chr16,31217093,cis

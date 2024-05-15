@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,20388275,T,C,0.0280044,-0.219339,0.0465526,2.45732e-06,rs115625365,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+3,59357068,T,G,0.010459,-0.353568,0.0761119,3.39464e-06,rs147509209,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+4,30649351,T,A,0.696775,-0.0810395,0.0170012,1.87262e-06,rs7697610,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+10,56015837,A,C,0.983621,0.294325,0.0606492,1.21663e-06,rs4606409,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+11,87413562,C,G,0.021546,-0.247418,0.0525939,2.54717e-06,rs117693717,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+11,107487965,G,A,0.0325307,-0.202047,0.0433943,3.22295e-06,rs73551625,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+12,9403338,C,G,0.703531,-0.0804469,0.0173364,3.47821e-06,rs61914450,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+12,19575043,T,C,0.51673,-0.0735918,0.0158441,3.40503e-06,rs10841268,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+12,59051185,C,T,0.0353633,0.190146,0.0414582,4.5083e-06,rs7303996,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+15,92855509,C,T,0.507343,0.0752252,0.0159064,2.25376e-06,rs4777746,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+17,13187017,A,G,0.159569,-0.0974519,0.0211717,4.16606e-06,rs79814358,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw
+19,11197621,T,C,0.0623851,-0.154702,0.031962,1.29714e-06,rs113390889,8252,Glycoursodeoxycholate levels,TRUE,reported,frf9pw

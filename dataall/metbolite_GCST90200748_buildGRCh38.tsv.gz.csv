@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.607664,0.127524,0.0152962,7.62374e-17,rs1354034,8190,Aspartate to glutamate ratio,TRUE,reported,TFpTj7
+4,177438565,G,A,0.472368,-0.0876644,0.0150678,5.95524e-09,rs2271101,8190,Aspartate to glutamate ratio,TRUE,reported,TFpTj7

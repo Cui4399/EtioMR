@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"9",139594014,"rs4880128","T","C",4.67362378228e-11,-0.858827378412,0.130501472843841,89,"Classical monocyte#SNHG7",TRUE,"reported","Pyxi1K",NA

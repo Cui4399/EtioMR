@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"9",139970225,"rs4880088","C","T",3.96560663928e-15,-1.15308793115,0.146777792164064,89,"Classical monocyte#SAPCD2",TRUE,"reported","Zonods",NA

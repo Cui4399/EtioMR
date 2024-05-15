@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,22965089,A,G,0.689453,0.079748,0.0166623,1.7003e-06,rs4655138,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+2,176716001,T,C,0.0831733,0.131963,0.0275529,1.67237e-06,rs1398979,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+4,187124956,G,T,0.016671,-0.278279,0.0607596,4.64971e-06,rs115324866,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+6,7954704,A,G,0.226006,0.0844474,0.0184457,4.69075e-06,rs62389879,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+6,163385541,G,A,0.0222996,-0.253061,0.0524496,1.4011e-06,rs117011716,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+10,94802231,A,G,0.0631062,0.153445,0.0319195,1.53005e-06,rs113546720,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+10,110932907,T,G,0.0213921,0.268861,0.0532262,4.38855e-07,rs75087565,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+10,125114209,G,A,0.132662,0.10893,0.0228567,1.88112e-06,rs7899253,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+11,133635687,C,G,0.440349,-0.0797602,0.0157792,4.30941e-07,rs3104215,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+16,12103584,A,C,0.705341,0.079443,0.0170638,3.22962e-06,rs2457192,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld
+20,43624902,G,A,0.798577,-0.0922636,0.0191915,1.52805e-06,rs6073157,7855,Propyl 4-hydroxybenzoate sulfate levels,TRUE,reported,mpPFld

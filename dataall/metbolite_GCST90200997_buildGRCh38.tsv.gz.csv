@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210675783,A,C,0.309649,-0.0901629,0.0164584,4.29643e-08,rs1047891,8223,Histidine to glutamine ratio,TRUE,reported,tQEAyi
+12,56471554,G,A,0.195019,0.273716,0.0188481,8.76104e-48,rs2657879,8223,Histidine to glutamine ratio,TRUE,reported,tQEAyi

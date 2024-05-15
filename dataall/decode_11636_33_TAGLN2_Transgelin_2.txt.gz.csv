@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,159922298,rs2789422,A,G,-0.0937,2.228e-29,0.008326,35344,0.39624,TAGLN2_Transgelin_2,TRUE,reported,TAGLN2_Transgelin_2

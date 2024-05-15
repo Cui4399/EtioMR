@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,73673773,C,T,0.198831,-0.43067,0.0205953,4.24421e-97,rs10206899,6517,Alliin levels,TRUE,reported,aP2e1K

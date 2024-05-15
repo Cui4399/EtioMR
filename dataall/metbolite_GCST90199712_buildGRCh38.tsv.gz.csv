@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,3942478,TG,T,0.011307,-0.394045,0.0706047,2.39134e-08,rs201178950,8270,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf) levels,TRUE,reported,wExEyI
+6,25801855,T,C,0.555367,-0.101977,0.0150763,1.34154e-11,rs2328895,8270,3-carboxy-4-methyl-5-propyl-2-furanpropanoate (cmpf) levels,TRUE,reported,wExEyI

@@ -1,0 +1,8 @@
+"pval.exposure","pos.exposure","se.exposure","samplesize.exposure","beta.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+9.64051e-11,1317820,0.000235944,337199,0.0015272,"5","ukb-a-576","rs3816659","G","A",0.581479,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+3.06133e-10,26466392,0.000276453,337199,0.0017405,"6","ukb-a-576","rs1977200","A","G",0.760414,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+6.06876e-12,22427289,0.000665502,337199,0.00457749,"10","ukb-a-576","rs148678804","A","G",0.0319796,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+1.04376e-12,123037203,0.000268063,337199,0.00190991,"10","ukb-a-576","rs10886890","G","A",0.251285,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+2.20582e-10,122685062,0.000299278,337199,0.00189936,"10","ukb-a-576","rs12766385","G","A",0.186823,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+4.35321e-08,51162913,0.000282595,337199,0.00154749,"13","ukb-a-576","rs3116616","G","C",0.215711,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"
+1.72369e-10,32104979,0.000243874,337199,-0.00155698,"19","ukb-a-576","rs11084596","C","T",0.382693,"Diagnoses - main ICD10: N40 Hyperplasia of prostate || id:ukb-a-576",TRUE,"reported","igd"

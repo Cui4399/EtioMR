@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,37537637,rs2092174,C,T,0.0785,1.835e-16,0.009535,35367,0.2317,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37574182,rs5756736,A,G,-0.2069,3.262e-148,0.00798,35365,0.43747,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37576253,rs147602574,C,T,-0.2919,5.388e-10,0.047025,35365,0.00708,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37581706,rs62235968,C,T,0.1183,1.175e-43,0.008538,35364,0.32143,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37612567,rs7511061,C,T,0.1042,5.967e-39,0.007982,35367,0.48703,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37700462,rs5750476,TTTCAGTG,TCTCAGTG,-0.0751,5.489e-21,0.00799,35367,0.49139,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,37719628,rs201428987,TG,G,-0.1474,1.904e-08,0.026225,35369,0.02363,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2
+22,38117362,rs11570748,T,C,0.1818,8.019e-12,0.026586,35364,0.02334,LGALS2_Galectin_2,TRUE,reported,LGALS2_Galectin_2

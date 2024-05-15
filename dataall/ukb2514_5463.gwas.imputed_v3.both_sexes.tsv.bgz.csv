@@ -1,0 +1,7 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+25567,-0.0254702,0.00497702,0.000000311772,"1",231934702,"T","C","rs7514199",0.990066,0.774108,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"
+25567,0.0237854,0.00506234,0.00000263433,"3",2798951,"C","T","rs6810122",0.973473,0.781995,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"
+25567,0.0605831,0.012462,0.0000011724,"4",8306587,"C","T","rs4235259",0.916412,0.96979,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"
+25567,0.032011,0.00666231,0.00000155795,"9",74611170,"G","A","rs13292303",0.993224,0.109499,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"
+25567,-0.0234341,0.00487065,0.00000150821,"11",12827232,"A","G","rs4536195",1,0.240882,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"
+25567,-0.0274712,0.00587974,0.00000299542,"16",15885866,"C","T","rs77197376",0.923957,0.156242,8462,"Leg pain in calf/calves",TRUE,"reported","tU8cKU","Rheumatic and musculoskeletal diseases","ukb2514"

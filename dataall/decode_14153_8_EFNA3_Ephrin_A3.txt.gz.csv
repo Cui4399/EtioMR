@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,155085570,rs67333363,G,A,-0.0914,1.698e-10,0.014312,35365,0.08685,EFNA3_Ephrin_A3,TRUE,reported,EFNA3_Ephrin_A3

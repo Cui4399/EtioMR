@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","beta.exposure","pos.exposure","chr.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+337159,0.00075457,0.0045938,88527177,"5",1.14472e-09,"ukb-a-165","rs114188095","G","T",0.0090021,"Treatment/medication code: nicorandil || id:ukb-a-165",TRUE,"reported","igd"
+337159,0.000633376,0.0035342,32902003,"6",2.4078e-08,"ukb-a-165","rs116502395","T","G",0.0121456,"Treatment/medication code: nicorandil || id:ukb-a-165",TRUE,"reported","igd"
+337159,0.000138095,0.000847442,22103813,"9",8.43723e-10,"ukb-a-165","rs1333042","G","A",0.496987,"Treatment/medication code: nicorandil || id:ukb-a-165",TRUE,"reported","igd"

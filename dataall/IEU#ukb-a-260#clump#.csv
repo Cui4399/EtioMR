@@ -1,0 +1,3 @@
+"beta.exposure","se.exposure","pos.exposure","chr.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0146607,0.00263732,48322221,"2",2.72239e-08,83133,"ukb-a-260","rs12469601","T","C",0.27495,"Tobacco smoking: Ex-smoker || id:ukb-a-260",TRUE,"reported","igd"
+0.0207057,0.00242163,112861443,"11",1.24796e-17,83133,"ukb-a-260","rs4479020","A","G",0.385698,"Tobacco smoking: Ex-smoker || id:ukb-a-260",TRUE,"reported","igd"

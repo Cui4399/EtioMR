@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132360627,G,A,0.704851,-0.167644,0.0167219,1.17842e-23,rs156403,7887,Dihomo-linoleoylcarnitine (C20:2) levels,TRUE,reported,42BDyL
+6,110438805,G,A,0.235201,-0.317629,0.017681,3.69862e-72,rs12210538,7887,Dihomo-linoleoylcarnitine (C20:2) levels,TRUE,reported,42BDyL
+10,45506418,T,C,0.320984,0.0928116,0.0164318,1.62066e-08,rs11239541,7887,Dihomo-linoleoylcarnitine (C20:2) levels,TRUE,reported,42BDyL
+12,21208114,TTTC,T,0.15541,0.145364,0.021052,5.02096e-12,rs151231052,7887,Dihomo-linoleoylcarnitine (C20:2) levels,TRUE,reported,42BDyL

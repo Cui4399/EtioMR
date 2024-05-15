@@ -1,0 +1,4 @@
+"beta.exposure","pval.exposure","se.exposure","pos.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00162958,5.49997e-09,0.000279384,109817590,463010,"1","ukb-b-8184","rs12740374","T","G",0.221167,"Diagnoses - secondary ICD10: I25.9 Chronic ischaemic heart disease, unspecified || id:ukb-b-8184",TRUE,"reported","igd"
+0.00337297,3.80014e-15,0.000429011,161005610,463010,"6","ukb-b-8184","rs55730499","T","C",0.079714,"Diagnoses - secondary ICD10: I25.9 Chronic ischaemic heart disease, unspecified || id:ukb-b-8184",TRUE,"reported","igd"
+0.00178038,1.80011e-14,0.000232206,22112241,463010,"9","ukb-b-8184","rs7341786","C","A",0.517851,"Diagnoses - secondary ICD10: I25.9 Chronic ischaemic heart disease, unspecified || id:ukb-b-8184",TRUE,"reported","igd"

@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,120682642,T,G,0.925853,-0.138236,0.0288186,1.61249e-06,rs10864859,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+3,47760605,C,A,0.316068,0.0781219,0.0164426,2.02219e-06,rs4858853,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+3,193114771,G,A,0.0161114,-0.305981,0.059983,3.3763e-07,rs73065156,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+4,148018341,T,C,0.010581,-0.364318,0.0746863,1.07177e-06,rs144184860,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+5,11096699,T,C,0.0684965,-0.147207,0.0303301,1.2131e-06,rs720001,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+6,124128328,T,C,0.0269498,-0.222992,0.0472526,2.36834e-06,rs117663718,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+6,165719998,A,G,0.56984,0.0702605,0.0153771,4.89646e-06,rs9459492,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+8,114588541,C,T,0.0157831,0.28234,0.0611328,3.86598e-06,rs79998865,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+14,77226090,A,G,0.0655239,0.147729,0.0304807,1.25573e-06,rs61991636,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+19,56248371,G,C,0.0610504,-0.16123,0.0315695,3.27064e-07,rs111949383,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz
+21,38356244,C,T,0.516737,-0.0738579,0.0159965,3.89112e-06,rs9980315,8239,(16 or 17)-methylstearate (a19:0 or i19:0) levels,TRUE,reported,rG5edz

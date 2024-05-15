@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,241550102,T,C,0.255195,0.166703,0.0198436,4.4324e-17,rs61825638,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a
+2,73539537,T,C,0.123298,-0.171709,0.0262924,6.54346e-11,rs11689767,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a
+2,73650092,A,G,0.260117,0.594726,0.0185024,1e-200,rs10168931,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a
+6,25769561,C,A,0.400016,-0.13445,0.0177628,3.75573e-14,rs12209125,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a
+11,67647021,T,C,0.835857,0.275588,0.0234162,5.63175e-32,rs948445,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a
+17,78204884,T,C,0.102264,0.178036,0.028607,4.86193e-10,rs72897843,6193,N-acetylkynurenine (2) levels,TRUE,reported,YKTL7a

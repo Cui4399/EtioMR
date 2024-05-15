@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+15,74839823,rs936228,C,T,-0.0869,5.612e-22,0.009018,35352,0.25656,ULK3_ULK3,TRUE,reported,ULK3_ULK3

@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,11073517,G,A,0.452294,-0.0990888,0.0212064,2.97435e-06,rs896759,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+3,56815721,C,T,0.621346,0.13605,0.0213815,1.97875e-10,rs1354034,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+3,192786100,A,G,0.028281,-0.285901,0.0622959,4.44501e-06,rs56872540,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+6,90096756,G,T,0.261687,-0.12057,0.0251222,1.59193e-06,rs6454801,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+7,76911161,G,C,0.0240151,-0.313195,0.0680825,4.22035e-06,rs201112480,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+8,23224751,G,C,0.0106218,-0.494012,0.100823,9.59346e-07,rs34601117,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+8,106342771,A,T,0.554667,-0.0983854,0.0208712,2.4297e-06,rs28509369,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+10,123454284,C,A,0.586995,-0.0975444,0.0209977,3.39298e-06,rs845086,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+11,247998,T,C,0.121792,0.157345,0.0336289,2.88476e-06,rs55713821,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+15,92905834,A,G,0.368315,-0.107651,0.0224035,1.54676e-06,rs11074118,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+16,8835987,A,G,0.23499,-0.117137,0.0251273,3.13509e-06,rs4485369,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+17,76340991,CT,C,0.0403298,-0.253598,0.0524375,1.32348e-06,rs148203103,4533,Sphingadienine levels,TRUE,reported,MGP4QS
+18,2403125,G,A,0.0441626,0.240249,0.0526014,4.93948e-06,rs72865921,4533,Sphingadienine levels,TRUE,reported,MGP4QS

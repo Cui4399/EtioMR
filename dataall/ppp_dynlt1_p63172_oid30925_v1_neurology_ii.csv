@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+6,158651318,rs6913851,C,T,0.0804155,1.03323711949364e-33,0.00664492,33017,0.580376,dynlt1_p63172_oid30925_v1_neurology_ii,TRUE,reported,dynlt1_p63172_oid30925_v1_neurology_ii,chr6,158644786,cis

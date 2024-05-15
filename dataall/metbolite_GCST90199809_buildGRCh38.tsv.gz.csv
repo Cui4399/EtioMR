@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,21214699,A,G,0.165412,0.144566,0.0207299,3.08547e-12,rs57743625,8124,Taurolithocholate 3-sulfate levels,TRUE,reported,lT5AVP
+13,103065958,T,C,0.0473314,0.401573,0.0365092,3.85404e-28,rs55971546,8124,Taurolithocholate 3-sulfate levels,TRUE,reported,lT5AVP

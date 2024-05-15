@@ -1,0 +1,3 @@
+"chr.exposure","samplesize.exposure","pval.exposure","se.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"7",460340,1.99986e-15,0.000529977,-0.00420934,120966790,"ukb-b-17738","rs3779381","G","A",0.260111,"Fractured bone site(s): Other bones || id:ukb-b-17738",TRUE,"reported","igd"
+"11",460340,8.19993e-10,0.000493943,-0.00303347,68859683,"ukb-b-17738","rs12280942","G","A",0.670098,"Fractured bone site(s): Other bones || id:ukb-b-17738",TRUE,"reported","igd"

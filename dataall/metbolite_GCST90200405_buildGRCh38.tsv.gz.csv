@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+18,31560497,T,A,0.520114,0.101271,0.0154605,5.7425e-11,rs1667226,8247,Retinol (Vitamin A) levels,TRUE,reported,rtgolg
+20,40551182,C,G,0.029437,-0.27778,0.0454347,9.72745e-10,rs1883711,8247,Retinol (Vitamin A) levels,TRUE,reported,rtgolg

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"12",7011947,"rs3759350","G","T",1.62138365738e-10,0.765329075549,0.119704372723821,89,"Classical monocyte#LRRC23",TRUE,"reported","ojkinP",NA

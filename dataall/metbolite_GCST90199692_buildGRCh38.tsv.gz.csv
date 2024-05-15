@@ -1,0 +1,12 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,59226342,G,C,0.162856,-0.102419,0.0224149,4.89518e-06,rs13391525,7125,Citramalate levels,TRUE,reported,7oqxzV
+2,78319900,C,T,0.11165,-0.12161,0.0260117,2.93676e-06,rs79981355,7125,Citramalate levels,TRUE,reported,7oqxzV
+2,211596857,T,C,0.263858,0.0938403,0.0192855,1.13968e-06,rs62180249,7125,Citramalate levels,TRUE,reported,7oqxzV
+4,96681142,T,G,0.0329989,-0.21222,0.046059,4.07416e-06,rs76762532,7125,Citramalate levels,TRUE,reported,7oqxzV
+6,103709194,A,G,0.0642616,-0.155646,0.0338062,4.14289e-06,rs188983534,7125,Citramalate levels,TRUE,reported,7oqxzV
+7,118935307,T,C,0.0207334,0.268336,0.0579862,3.69963e-06,rs116991170,7125,Citramalate levels,TRUE,reported,7oqxzV
+9,26789942,G,A,0.381116,0.0900574,0.0170887,1.36415e-07,rs1889899,7125,Citramalate levels,TRUE,reported,7oqxzV
+11,97304894,A,C,0.819934,-0.104351,0.0214635,1.16325e-06,rs1157094,7125,Citramalate levels,TRUE,reported,7oqxzV
+12,69484339,T,C,0.143109,0.108157,0.0235317,4.30193e-06,rs221084,7125,Citramalate levels,TRUE,reported,7oqxzV
+13,99866380,T,C,0.0238865,-0.266851,0.0539977,7.7369e-07,rs41281112,7125,Citramalate levels,TRUE,reported,7oqxzV
+15,75014807,A,G,0.462872,0.0775075,0.0166471,3.2256e-06,rs12900072,7125,Citramalate levels,TRUE,reported,7oqxzV

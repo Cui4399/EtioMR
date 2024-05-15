@@ -1,0 +1,16 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,91408871,G,A,0.0135813,-0.301661,0.0659687,4.81276e-06,rs116747608,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+2,171357788,A,G,0.0149712,0.296895,0.0636322,3.07436e-06,rs75307382,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+3,22185876,C,G,0.531006,0.0739582,0.0158182,2.93237e-06,rs17638166,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+3,79061463,T,G,0.487933,0.0772578,0.015893,1.1673e-06,rs7433661,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+4,3041693,T,C,0.0813597,-0.137669,0.0281422,9.98628e-07,rs2471342,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+4,111083820,A,G,0.0590931,-0.152462,0.0328216,3.39771e-06,rs116455344,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+4,153463532,A,G,0.280584,0.0820345,0.0174436,2.56578e-06,rs13138509,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+5,121587006,G,A,0.0608892,-0.157209,0.0321338,9.96515e-07,rs73284655,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+7,50349479,C,T,0.0266536,0.228001,0.0477851,1.82969e-06,rs118050676,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+7,156462105,C,T,0.194507,-0.0898771,0.0196585,4.83287e-06,rs7795670,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+8,100541844,C,T,0.0209893,-0.247311,0.0537274,4.16329e-06,rs78217154,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+10,28911037,C,T,0.093997,0.123519,0.0264612,3.04234e-06,rs11596869,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+12,104543256,A,G,0.0160675,0.287017,0.0611512,2.68489e-06,rs144192681,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+16,17553144,A,G,0.380881,-0.0773151,0.0164346,2.54611e-06,rs8045017,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo
+22,27256328,G,A,0.719604,0.0829476,0.0177717,3.05032e-06,rs134785,8194,3-methoxycatechol sulfate (1) levels,TRUE,reported,Qv4BFo

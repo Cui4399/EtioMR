@@ -1,0 +1,4 @@
+pos.exposure,samplesize.exposure,chr.exposure,beta.exposure,pval.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+161479745,3590,1,-0.41,4.45451e-54,0.02603,ebi-a-GCST90001995,rs1801274,G,A,0.3262,CX3CR1 on monocyte || id:ebi-a-GCST90001995,TRUE,reported,igd
+39355919,3590,3,0.2391,6.28203e-17,0.02846,ebi-a-GCST90001995,rs72865957,A,G,0.2681,CX3CR1 on monocyte || id:ebi-a-GCST90001995,TRUE,reported,igd
+39293757,3590,3,-0.4083,7.84874e-29,0.03633,ebi-a-GCST90001995,rs9823718,G,C,0.1319,CX3CR1 on monocyte || id:ebi-a-GCST90001995,TRUE,reported,igd

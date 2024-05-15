@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.608981,0.162211,0.0151931,1.30937e-26,rs1354034,8253,Aspartate levels,TRUE,reported,BBqAjO
+5,36638487,A,G,0.0319679,-0.240184,0.042457,1.5394e-08,rs62354638,8253,Aspartate levels,TRUE,reported,BBqAjO

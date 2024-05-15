@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,75659601,rs62475500,T,A,-0.0572,1.589e-09,0.009478,35349,0.23559,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,75815201,rs117400501,T,C,-0.639,1.594e-14,0.083206,35348,0.00258,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,75947619,rs1966363,A,G,-0.0726,7.465e-17,0.008706,35349,0.30446,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,75970947,rs6150168,TATTTTATTTTATTTTATTTTAAATTTTATTTT,T,0.058,4.367e-12,0.008376,35350,0.347,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,75998301,rs58275187,AT,A,-0.1548,3.881e-08,0.028165,35350,0.0221,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,76009103,rs59882870,A,G,0.193,2.779e-71,0.010811,35350,0.16061,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase
+7,76612342,rs1638135,G,A,-0.0518,7.452e-11,0.007955,35345,0.44568,POR_NADPH_P450_Oxidoreductase,TRUE,reported,POR_NADPH_P450_Oxidoreductase

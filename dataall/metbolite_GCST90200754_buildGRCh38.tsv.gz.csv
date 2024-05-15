@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.610575,0.129811,0.016056,6.22146e-16,rs1354034,8017,Sphingosine to phosphate ratio,TRUE,reported,odljoU
+11,265602,G,A,0.241782,0.102524,0.0181866,1.72679e-08,rs58932608,8017,Sphingosine to phosphate ratio,TRUE,reported,odljoU

@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,175415285,0.136187,0.0296879,4.49024e-06,7738,ebi-a-GCST90027695,rs78335793,T,C,0.0949423,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+2,38063634,0.153567,0.0333456,4.11822e-06,7738,ebi-a-GCST90027695,rs62135856,A,G,0.0776336,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+4,106433814,-0.158181,0.0340512,3.39461e-06,7738,ebi-a-GCST90027695,rs10026787,C,T,0.0698756,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+4,32616774,0.0829432,0.0179741,3.93849e-06,7738,ebi-a-GCST90027695,rs9884588,T,C,0.370832,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+6,167939982,-0.109842,0.0209364,1.55042e-07,7738,ebi-a-GCST90027695,rs6920861,C,T,0.253827,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+8,3804085,0.169254,0.0349493,1.27991e-06,7738,ebi-a-GCST90027695,rs74448867,G,A,0.0685882,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+15,77314031,-0.107635,0.0224718,1.66982e-06,7738,ebi-a-GCST90027695,rs8029854,C,T,0.811072,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+15,101902700,0.0941197,0.0205927,4.86463e-06,7738,ebi-a-GCST90027695,rs1078988,C,T,0.257608,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd
+22,45256730,0.161612,0.0350091,3.90652e-06,7738,ebi-a-GCST90027695,rs34437635,T,C,0.072341,k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Barnesiella,TRUE,reported,igd

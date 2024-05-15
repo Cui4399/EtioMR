@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3,186707884,0.25379,0.0540401,2.64874e-06,7738,ebi-a-GCST90027551,rs35832957,T,C,0.161574,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+3,26853818,0.346972,0.0736956,2.49948e-06,7738,ebi-a-GCST90027551,rs114111279,A,C,0.0785548,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+4,45393364,0.397916,0.0732267,5.50947e-08,7738,ebi-a-GCST90027551,rs10001022,T,C,0.0692782,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+6,158181048,-0.199912,0.0436592,4.67358e-06,7738,ebi-a-GCST90027551,rs844134,T,C,0.290074,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+11,119742803,-0.34505,0.0754496,4.80209e-06,7738,ebi-a-GCST90027551,rs11217548,T,C,0.0682151,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+16,24509583,-0.412225,0.0891587,3.77329e-06,7738,ebi-a-GCST90027551,rs28510778,T,C,0.0522974,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+16,86742581,0.178996,0.0384823,3.29716e-06,7738,ebi-a-GCST90027551,rs12930516,C,T,0.561242,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd
+20,48413539,-0.208672,0.0457102,4.99241e-06,7738,ebi-a-GCST90027551,rs6063434,G,A,0.771033,PWY.5656..mannosylglycerate.biosynthesis.I,TRUE,reported,igd

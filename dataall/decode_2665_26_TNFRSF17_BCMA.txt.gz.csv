@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,11728143,rs78083064,T,A,-0.0995,1.876e-08,0.017695,35381,0.06019,TNFRSF17_BCMA,TRUE,reported,TNFRSF17_BCMA
+16,11964975,rs11570136,A,T,-0.1343,1.794e-53,0.008724,35380,0.35441,TNFRSF17_BCMA,TRUE,reported,TNFRSF17_BCMA

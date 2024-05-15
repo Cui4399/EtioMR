@@ -1,0 +1,7 @@
+"se.exposure","samplesize.exposure","beta.exposure","chr.exposure","pval.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.0155918,20911,-0.0988749,"1",2.30001e-10,114303808,"ukb-b-7435","rs6679677","A","C",0.109655,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"
+0.011846,20911,-0.0906096,"6",1.99986e-14,32853987,"ukb-b-7435","rs3132136","A","G",0.403569,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"
+0.0121174,20911,-0.129117,"6",1.59993e-26,32592582,"ukb-b-7435","rs9271657","C","T",0.225002,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"
+0.0104812,20911,0.09486,"6",1.39991e-19,32626086,"ukb-b-7435","rs7744001","A","G",0.303477,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"
+0.0106283,20911,-0.22975,"6",1.1995e-103,32627480,"ukb-b-7435","rs1064173","A","G",0.316689,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"
+0.0107318,20911,-0.08197,"11",2.19989e-14,2182224,"ukb-b-7435","rs689","T","A",0.71138,"Age diabetes diagnosed || id:ukb-b-7435",TRUE,"reported","igd"

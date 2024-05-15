@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,79814935,A,C,0.0261512,0.224356,0.0487003,4.08763e-06,rs116306912,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+2,230922306,G,T,0.378686,0.0757412,0.0160091,2.23263e-06,rs3098323,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+3,50232733,C,A,0.0446934,-0.183889,0.0373264,8.37033e-07,rs11716295,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+3,161965055,A,G,0.0121201,-0.339732,0.0704145,1.40179e-06,rs143696406,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+5,37917816,C,T,0.0836509,-0.139281,0.0279936,6.50891e-07,rs56053960,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+6,89206042,C,T,0.557983,0.0727698,0.0157236,3.6909e-06,rs10806401,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+7,27431747,AC,A,0.526788,-0.0755371,0.0154867,1.07419e-06,rs5883083,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+8,49757743,C,T,0.0427031,0.195698,0.0376382,1.99874e-07,rs34208684,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y
+10,112272055,T,G,0.406487,-0.075784,0.0165692,4.79005e-06,rs2419615,8170,3-hydroxyisobutyrate to phosphate ratio,TRUE,reported,kdAD1y

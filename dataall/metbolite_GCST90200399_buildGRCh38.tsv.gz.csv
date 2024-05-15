@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,201513207,C,T,0.0625531,-0.1531,0.0311982,9.23233e-07,rs79343412,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+2,40555911,G,C,0.105419,0.122959,0.0253714,1.25754e-06,rs10490256,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+2,45289473,T,C,0.0505216,0.172513,0.034341,5.07298e-07,rs17033387,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+2,240140390,A,G,0.0152838,0.284208,0.0616111,3.97018e-06,rs114600258,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+5,142621588,T,C,0.0518685,0.163096,0.034358,2.06491e-06,rs17223514,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+5,173966955,G,C,0.480649,0.0731484,0.0156007,2.74848e-06,rs10073154,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+7,101133013,C,G,0.0452218,-0.171494,0.0362062,2.17331e-06,rs2227678,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+8,15398054,A,G,0.0409357,-0.182644,0.0385851,2.20639e-06,rs57112193,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+13,113041894,T,A,0.119929,-0.115148,0.0234937,9.52335e-07,rs884313,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+18,67710598,T,C,0.149159,0.100838,0.0212256,2.02613e-06,rs11661293,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+19,6700971,A,C,0.0537742,-0.160383,0.033957,2.32255e-06,rs79434713,8255,Isoleucine levels,TRUE,reported,Fpg4Sq
+21,45614847,A,G,0.0121135,-0.3232,0.0679366,1.9612e-06,rs146081060,8255,Isoleucine levels,TRUE,reported,Fpg4Sq

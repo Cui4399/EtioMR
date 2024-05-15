@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,101131424,rs2227666,A,G,0.1028,7.988e-09,0.01782,35367,0.05549,SERPINE1_PAI_1,TRUE,reported,SERPINE1_PAI_1
+7,101135963,rs2227692,T,C,-0.099,8.628e-11,0.015256,35365,0.08036,SERPINE1_PAI_1,TRUE,reported,SERPINE1_PAI_1
+7,101150638,rs10953324,C,T,-0.1179,2.04e-16,0.014344,35365,0.09077,SERPINE1_PAI_1,TRUE,reported,SERPINE1_PAI_1

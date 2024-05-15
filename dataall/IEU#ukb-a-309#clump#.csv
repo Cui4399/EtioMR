@@ -1,0 +1,4 @@
+"se.exposure","pos.exposure","chr.exposure","beta.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00163401,114303808,"1",0.0117616,6.1235e-13,331274,"ukb-a-309","rs6679677","A","C",0.102573,"Other serious medical condition/disability diagnosed by doctor || id:ukb-a-309",TRUE,"reported","igd"
+0.00141614,31386131,"6",0.0115772,2.96415e-16,331274,"ukb-a-309","rs3132472","A","G",0.144329,"Other serious medical condition/disability diagnosed by doctor || id:ukb-a-309",TRUE,"reported","igd"
+0.00107926,13624019,"19",0.00610293,1.5621e-08,331274,"ukb-a-309","rs1363348","C","T",0.68748,"Other serious medical condition/disability diagnosed by doctor || id:ukb-a-309",TRUE,"reported","igd"

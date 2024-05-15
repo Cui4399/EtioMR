@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,99119898,rs11218462,A,G,0.057,8.46e-12,0.008345,35357,0.35439,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99155937,rs145354359,AATTTGCACAAT,AATTTACACAAT,-0.2107,1.14e-11,0.031042,35356,0.01682,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99215583,rs72998270,A,G,-0.1067,5.604e-18,0.012349,35356,0.11808,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99222947,rs4528296,T,C,-0.4257,7.616e-173,0.015189,35355,0.07442,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99438277,rs7131217,G,A,0.0892,1.39e-19,0.009853,35353,0.20851,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99619232,rs668743,G,T,0.0549,8.726e-12,0.008043,35354,0.47575,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,99992101,rs888598,T,A,-0.0649,6.752e-16,0.008037,35353,0.45565,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5
+11,100013253,rs770574,A,T,0.0548,8.099e-12,0.008015,35351,0.46181,CNTN5_Contactin_5,TRUE,reported,CNTN5_Contactin_5

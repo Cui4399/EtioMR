@@ -1,0 +1,4 @@
+beta.exposure,samplesize.exposure,se.exposure,pos.exposure,chr.exposure,pval.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+0.2327,2870,0.03137,161515638,1,1.55812e-13,ebi-a-GCST90002014,rs6687275,G,T,0.2742,CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014,TRUE,reported,igd
+0.3125,2870,0.02782,161589982,1,1.12902e-28,ebi-a-GCST90002014,rs61802333,T,G,0.4627,CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014,TRUE,reported,igd
+-0.4732,2870,0.05907,46259296,3,1.63983e-15,ebi-a-GCST90002014,rs35587265,G,A,0.0624,CCR2 on CD62L+ myeloid Dendritic Cell || id:ebi-a-GCST90002014,TRUE,reported,igd

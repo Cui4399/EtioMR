@@ -1,0 +1,7 @@
+"se.exposure","samplesize.exposure","chr.exposure","pos.exposure","pval.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000566542,462933,"1",22450487,7.29962e-13,0.00406391,"ukb-b-1962","rs2235529","T","C",0.15533,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"
+0.000419571,462933,"2",11702661,1.09999e-10,0.00270625,"ukb-b-1962","rs10929757","C","A",0.577262,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"
+0.000474191,462933,"3",169552381,1.7e-08,-0.00267232,"ukb-b-1962","rs7647824","G","A",0.248932,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"
+0.000410275,462933,"5",1286516,1.2e-08,-0.0023399,"ukb-b-1962","rs2736100","A","C",0.497663,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"
+0.000777949,462933,"6",152567983,1.7e-10,-0.00496487,"ukb-b-1962","rs75730028","G","A",0.075092,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"
+0.000559206,462933,"11",30307989,5.10035e-13,-0.00403944,"ukb-b-1962","rs75525300","G","A",0.160384,"Operation code: bilateral oophorectomy || id:ukb-b-1962",TRUE,"reported","igd"

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,108075240,rs7105163,GATATCGTGGCGTATTAGTA,GATAGCGTGGCGTATTAGTA,-0.0536,1.595e-10,0.00838,35356,0.34005,ACAT1_THIL,TRUE,reported,ACAT1_THIL
+11,108127399,rs112087419,A,G,0.1137,1.66e-29,0.01008,35356,0.1911,ACAT1_THIL,TRUE,reported,ACAT1_THIL

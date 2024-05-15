@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61802358,T,C,0.340301,0.236846,0.0157327,3.2306e-51,rs174546,8188,1-linoleoyl-2-linolenoyl-GPC (18:2/18:3) levels,TRUE,reported,05aZlR

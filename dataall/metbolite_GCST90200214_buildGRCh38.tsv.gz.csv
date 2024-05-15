@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,31431289,A,G,0.0166189,-0.454672,0.0569641,1.44302e-15,rs72790679,8081,11beta-hydroxyandrosterone glucuronide levels,TRUE,reported,8U7ESf
+2,31580756,T,C,0.0337477,-0.430671,0.0406957,3.58438e-26,rs9282858,8081,11beta-hydroxyandrosterone glucuronide levels,TRUE,reported,8U7ESf
+7,130782095,G,A,0.517226,0.0810732,0.0146239,2.95818e-08,rs972283,8081,11beta-hydroxyandrosterone glucuronide levels,TRUE,reported,8U7ESf
+11,63107062,C,A,0.060882,0.3626,0.0303363,6.28719e-33,rs141232858,8081,11beta-hydroxyandrosterone glucuronide levels,TRUE,reported,8U7ESf
+18,74275094,A,G,0.0219331,0.286687,0.0503116,1.21063e-08,rs10514121,8081,11beta-hydroxyandrosterone glucuronide levels,TRUE,reported,8U7ESf

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,201491124,rs7527761,T,C,0.0958,1.15e-27,0.008789,35351,0.31739,CSRP1_Cysteine_rich_protein_1,TRUE,reported,CSRP1_Cysteine_rich_protein_1

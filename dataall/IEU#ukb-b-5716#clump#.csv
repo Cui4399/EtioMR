@@ -1,0 +1,5 @@
+"pos.exposure","beta.exposure","se.exposure","samplesize.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+215374209,-0.0123793,0.0020965,326801,3.50002e-09,"2","ukb-b-5716","rs13029509","A","G",0.478256,"Average weekly champagne plus white wine intake || id:ukb-b-5716",TRUE,"reported","igd"
+98399208,0.012443,0.00214411,326801,6.49995e-09,"6","ukb-b-5716","rs35121390","G","C",0.40011,"Average weekly champagne plus white wine intake || id:ukb-b-5716",TRUE,"reported","igd"
+61593005,0.0120192,0.00219277,326801,4.20001e-08,"11","ukb-b-5716","rs174567","G","A",0.350388,"Average weekly champagne plus white wine intake || id:ukb-b-5716",TRUE,"reported","igd"
+44836302,0.0133684,0.00235022,326801,1.29999e-08,"17","ukb-b-5716","rs9912530","C","T",0.726616,"Average weekly champagne plus white wine intake || id:ukb-b-5716",TRUE,"reported","igd"

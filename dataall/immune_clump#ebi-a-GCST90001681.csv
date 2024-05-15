@@ -1,0 +1,4 @@
+beta.exposure,samplesize.exposure,chr.exposure,pval.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+-0.7492,3130,2,1.323e-08,0.1315,54957709,ebi-a-GCST90001681,rs78667279,A,G,0.0096,CD25++ CD8+ T cell Absolute Count || id:ebi-a-GCST90001681,TRUE,reported,igd
+-0.1537,3130,3,3.159e-08,0.02772,76674553,ebi-a-GCST90001681,rs2875404,T,C,0.657,CD25++ CD8+ T cell Absolute Count || id:ebi-a-GCST90001681,TRUE,reported,igd
+0.2696,3130,18,8.818e-09,0.04674,30263492,ebi-a-GCST90001681,rs1403755,T,C,0.0864,CD25++ CD8+ T cell Absolute Count || id:ebi-a-GCST90001681,TRUE,reported,igd

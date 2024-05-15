@@ -1,0 +1,6 @@
+"pval.exposure","se.exposure","chr.exposure","pos.exposure","samplesize.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.5e-10,0.00118307,"6",32604198,463010,0.00757559,"ukb-b-13500","rs78933533","A","G",0.065716,"Operative procedures - secondary OPCS: Z27.4 Duodenum || id:ukb-b-13500",TRUE,"reported","igd"
+1.40001e-09,0.000561957,"6",32618190,463010,0.00340053,"ukb-b-13500","rs185774696","T","C",0.296698,"Operative procedures - secondary OPCS: Z27.4 Duodenum || id:ukb-b-13500",TRUE,"reported","igd"
+7.00003e-10,0.000675668,"6",32519791,463010,0.00416646,"ukb-b-13500","rs36020935","T","G",0.199644,"Operative procedures - secondary OPCS: Z27.4 Duodenum || id:ukb-b-13500",TRUE,"reported","igd"
+2.39994e-16,0.000592258,"6",32632200,463010,0.00485588,"ukb-b-13500","rs141127771","A","G",0.25956,"Operative procedures - secondary OPCS: Z27.4 Duodenum || id:ukb-b-13500",TRUE,"reported","igd"
+5.10035e-37,0.000624028,"6",32667910,463010,0.00793238,"ukb-b-13500","rs2647044","A","G",0.145777,"Operative procedures - secondary OPCS: Z27.4 Duodenum || id:ukb-b-13500",TRUE,"reported","igd"

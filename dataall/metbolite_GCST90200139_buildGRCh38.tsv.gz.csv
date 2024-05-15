@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132386383,G,A,0.294303,0.246284,0.0163898,4.91564e-51,rs274556,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+5,151340348,G,A,0.0122479,-0.402335,0.0689432,5.35508e-09,rs149235996,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+6,110438805,G,A,0.23765,-0.464559,0.0170007,2.0906e-164,rs12210538,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+10,45519419,GT,G,0.066741,0.288406,0.030137,1.07083e-21,rs35611625,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+10,59707424,T,G,0.768522,0.138049,0.0183464,5.28911e-14,rs1171617,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+11,61831875,A,G,0.180379,0.238748,0.0195707,3.13779e-34,rs61897793,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+11,68794860,T,C,0.0705184,0.217219,0.0293891,1.4559e-13,rs2229738,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+12,21262562,T,A,0.161956,0.137276,0.0206358,2.88547e-11,rs2199680,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+16,15031584,G,T,0.300458,-0.137514,0.016418,5.48637e-17,rs4985124,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO
+20,34834811,A,G,0.617691,-0.0865731,0.0157573,3.92594e-08,rs2024635,8092,Dihomo-linolenoylcarnitine (C20:3n3 or 6) levels,TRUE,reported,CZyROO

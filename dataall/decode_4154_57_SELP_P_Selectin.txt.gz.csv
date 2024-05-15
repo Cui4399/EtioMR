@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,168932834,rs147301542,TTTGTTGTTGTTGTTGTTGTTG,TTTGTTGTTG,-0.4918,1.668e-32,0.041428,35360,0.01003,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,169197133,rs138205586,A,C,-0.5361,1.855e-37,0.041914,35363,0.01023,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,169427899,rs1400836,C,T,-0.0748,3.502e-17,0.008875,35359,0.31017,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,169565728,rs2040443,A,T,-0.0892,1.904e-15,0.011224,35360,0.16106,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,169594713,rs6136,G,T,-0.3964,1e-200,0.012308,35360,0.12391,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,169611052,rs2235302,T,C,-0.1169,2.813e-46,0.008185,35355,0.48605,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin
+1,170032590,rs144469473,T,C,-0.5473,1.979e-09,0.091224,35362,0.00231,SELP_P_Selectin,TRUE,reported,SELP_P_Selectin

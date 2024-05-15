@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+12,21214699,A,G,0.165219,-0.18578,0.0222872,7.7025e-17,rs57743625,7043,Glycolithocholate to glycolithocholate sulfate ratio,TRUE,reported,geD0FV
+13,103065958,T,C,0.0483504,-0.363578,0.0391833,1.71251e-20,rs55971546,7043,Glycolithocholate to glycolithocholate sulfate ratio,TRUE,reported,geD0FV
+19,47871693,A,C,0.162701,0.204306,0.0227743,2.94083e-19,rs62129966,7043,Glycolithocholate to glycolithocholate sulfate ratio,TRUE,reported,geD0FV

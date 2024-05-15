@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","samplesize.exposure","pval.exposure","chr.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000240616,0.00175025,462933,3.50026e-13,"6",32608886,"ukb-b-9224","rs36151380","C","T",0.187762,"Treatment/medication code: symbicort 100/6 turbohaler || id:ukb-b-9224",TRUE,"reported","igd"
+0.00016245,-0.000914606,462933,1.79999e-08,"9",6071061,"ukb-b-9224","rs343493","G","A",0.471811,"Treatment/medication code: symbicort 100/6 turbohaler || id:ukb-b-9224",TRUE,"reported","igd"

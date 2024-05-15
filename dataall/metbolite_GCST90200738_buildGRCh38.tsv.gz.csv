@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,56815721,C,T,0.623362,-0.134587,0.0212655,2.46925e-10,rs1354034,4601,Adenosine 5'-monophosphate (AMP) to inosine 5'-monophosphate (IMP) ratio,TRUE,reported,q3Tb1E

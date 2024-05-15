@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,5715643,rs11598394,TT,GT,-0.0984,6.285e-32,0.008367,35377,0.34657,GDI2_Rab_GDP_dissociation_inhibitor_beta,TRUE,reported,GDI2_Rab_GDP_dissociation_inhibitor_beta

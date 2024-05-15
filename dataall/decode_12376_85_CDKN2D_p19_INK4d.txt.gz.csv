@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,10633567,rs117717044,T,C,-0.3417,3.39e-09,0.057803,35368,0.00493,CDKN2D_p19_INK4d,TRUE,reported,CDKN2D_p19_INK4d

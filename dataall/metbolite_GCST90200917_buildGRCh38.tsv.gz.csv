@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88302352,G,A,0.532096,-0.12144,0.0156035,7.09071e-15,rs10014755,8133,Alpha-ketobutyrate to 3-methyl-2-oxobutyrate ratio,TRUE,reported,9yClUj

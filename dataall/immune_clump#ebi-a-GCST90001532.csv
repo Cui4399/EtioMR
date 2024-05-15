@@ -1,0 +1,4 @@
+beta.exposure,pval.exposure,chr.exposure,samplesize.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2.421,9.84306e-09,1,1857,0.4204,185852065,ebi-a-GCST90001532,rs114590598,T,C,0.0016,Basophil Absolute Count || id:ebi-a-GCST90001532,TRUE,reported,igd
+-0.4855,7.50931e-35,19,1857,0.03861,51727962,ebi-a-GCST90001532,rs3865444,A,C,0.2132,Basophil Absolute Count || id:ebi-a-GCST90001532,TRUE,reported,igd
+-0.5045,9.45584e-14,19,1857,0.06722,33754548,ebi-a-GCST90001532,rs78744187,T,C,0.0673,Basophil Absolute Count || id:ebi-a-GCST90001532,TRUE,reported,igd

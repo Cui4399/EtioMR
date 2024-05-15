@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,88311266,rs77500696,A,T,0.1349,6.575e-40,0.010203,35344,0.19499,SRI_Sorcin,TRUE,reported,SRI_Sorcin

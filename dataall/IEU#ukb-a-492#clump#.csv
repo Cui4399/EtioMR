@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","pval.exposure","beta.exposure","samplesize.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",204576983,5.79415e-10,0.00865148,336314,0.00139627,"ukb-a-492","rs11584700","G","A",0.208932,"Mineral and other dietary supplements: Fish oil (including cod liver oil) || id:ukb-a-492",TRUE,"reported","igd"
+"7",153485282,8.47169e-10,-0.00698705,336314,0.0011387,"ukb-a-492","rs2533273","A","C",0.484549,"Mineral and other dietary supplements: Fish oil (including cod liver oil) || id:ukb-a-492",TRUE,"reported","igd"

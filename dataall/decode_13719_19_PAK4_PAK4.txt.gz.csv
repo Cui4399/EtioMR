@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,39182691,rs2319153,T,C,-0.0472,4.047e-08,0.008599,35371,0.34045,PAK4_PAK4,TRUE,reported,PAK4_PAK4

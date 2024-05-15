@@ -1,0 +1,6 @@
+"chr.exposure","beta.exposure","se.exposure","pval.exposure","pos.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"1",-0.0123737,0.00225688,4.20001e-08,98378786,388531,"ukb-b-20432","rs9662870","C","A",0.771304,"Hands-free device/speakerphone use with mobile phone in last 3 month || id:ukb-b-20432",TRUE,"reported","igd"
+"2",-0.0108733,0.00197062,3.40001e-08,58068741,388531,"ukb-b-20432","rs1106090","A","G",0.630483,"Hands-free device/speakerphone use with mobile phone in last 3 month || id:ukb-b-20432",TRUE,"reported","igd"
+"5",-0.0150852,0.00223096,1.39991e-11,93228046,388531,"ukb-b-20432","rs17314727","C","T",0.235429,"Hands-free device/speakerphone use with mobile phone in last 3 month || id:ukb-b-20432",TRUE,"reported","igd"
+"8",-0.0118526,0.0018969,4.09996e-10,11427637,388531,"ukb-b-20432","rs7831039","T","A",0.484782,"Hands-free device/speakerphone use with mobile phone in last 3 month || id:ukb-b-20432",TRUE,"reported","igd"
+"11",0.0107568,0.00191819,2e-08,13280403,388531,"ukb-b-20432","rs4757135","G","A",0.579969,"Hands-free device/speakerphone use with mobile phone in last 3 month || id:ukb-b-20432",TRUE,"reported","igd"

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+,100807267,rs2858264,C,T,0.0889,3.432e-35,0.007182,30478,0.45032,SYTL4_SYTL4,TRUE,reported,SYTL4_SYTL4

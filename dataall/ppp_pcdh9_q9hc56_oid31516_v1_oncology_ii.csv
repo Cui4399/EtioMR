@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+13,66265786,rs117522570,T,G,0.240658,1.14894701191667e-14,0.0311669,33796,0.0154512,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,66684425,rs73198541,T,C,0.0808394,6.1362069750969e-26,0.00767543,33796,0.368163,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,66909714,rs9529155,A,C,0.096095,7.13345621670219e-38,0.0074698,33796,0.55869,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,66933239,rs74776797,C,A,0.278974,5.61435668132984e-20,0.030484,33796,0.0166863,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67006183,rs149350298,C,T,-0.171466,3.55721405828352e-09,0.0290445,33796,0.0174627,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67065009,rs9571710,T,G,0.223145,2.26464430759301e-155,0.00840323,33796,0.263704,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67175739,rs4883799,G,T,-0.160294,2.50437869187337e-98,0.00761648,33796,0.597684,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67202072,rs139722173,G,A,-0.319257,1.21814784150736e-81,0.0166818,33796,0.052286,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67229423,rs116899985,T,C,-0.299944,3.76617069714167e-29,0.0267639,33796,0.0208487,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67234051,rs73196184,A,G,0.340734,1.1994993031494e-185,0.0117258,33796,0.113489,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67271769,rs7989814,G,A,-0.15473,5.27472715661686e-17,0.0184633,33796,0.0425434,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67324723,rs117052868,T,C,-0.159819,1.33352143216332e-18,0.0181553,33796,0.0434519,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,67569184,rs5029115,A,G,0.142672,9.37777913412164e-35,0.011602,33796,0.118156,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis
+13,68216678,rs13378977,T,A,0.09223,2.88702137943521e-10,0.0146287,33796,0.0725941,pcdh9_q9hc56_oid31516_v1_oncology_ii,TRUE,reported,pcdh9_q9hc56_oid31516_v1_oncology_ii,chr13,67230336,cis

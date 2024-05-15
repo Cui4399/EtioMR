@@ -1,0 +1,9 @@
+samplesize.exposure,beta.exposure,pval.exposure,se.exposure,chr.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2872,0.2016,1.679e-09,0.03334,1,161563554,ebi-a-GCST90002071,rs139529340,G,A,0.2308,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,0.2775,1.55991e-21,0.02889,2,203545127,ebi-a-GCST90002071,rs113138131,T,A,0.5045,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,0.2631,4.04697e-09,0.04458,6,32556020,ebi-a-GCST90002071,rs17203867,G,T,0.1844,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,0.34,4.35402e-10,0.05429,6,32501627,ebi-a-GCST90002071,rs115780495,G,T,0.1868,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,-0.4081,1.268e-08,0.07152,11,5488177,ebi-a-GCST90002071,rs80297185,T,C,0.0425,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,0.3805,2.38781e-12,0.05405,11,5306509,ebi-a-GCST90002071,rs4910742,A,G,0.9244,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,0.4676,2.88702e-08,0.08405,12,25434182,ebi-a-GCST90002071,rs139947059,A,G,0.0266,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd
+2872,-0.3487,6.14469e-12,0.0505,12,69744014,ebi-a-GCST90002071,rs1800973,A,C,0.0841,SSC-A on myeloid Dendritic Cell || id:ebi-a-GCST90002071,TRUE,reported,igd

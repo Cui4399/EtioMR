@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,128818465,T,C,0.709766,0.111026,0.0166459,2.55995e-11,rs2997922,8241,X-24585 levels,TRUE,reported,luyZ6a

@@ -1,0 +1,17 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,33193468,T,A,0.117186,-0.128479,0.0243601,1.33376e-07,rs72656253,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+1,148323293,C,T,0.0864236,0.137458,0.028023,9.33444e-07,rs61811475,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+2,227663323,A,T,0.0121329,-0.331426,0.0708109,2.86264e-06,rs143567720,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+5,124891201,G,T,0.0145631,-0.31248,0.0645705,1.30252e-06,rs146966752,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+7,105331610,G,C,0.139784,-0.110684,0.0225654,9.34196e-07,rs76524064,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+8,60662370,G,C,0.499687,0.0733028,0.0155341,2.37198e-06,rs629523,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+9,19532480,G,T,0.817949,-0.108295,0.02006,6.71767e-08,rs10811198,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+9,78161420,A,T,0.0163843,0.284692,0.0613225,3.44151e-06,rs34088836,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+12,5445874,A,G,0.334029,-0.0760811,0.0164591,3.79242e-06,rs10744682,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+15,33831441,C,T,0.0287654,0.210325,0.046024,4.87976e-06,rs72715202,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+16,2731457,A,G,0.0101558,-0.366897,0.0772139,2.01713e-06,rs146472463,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+16,20549055,C,T,0.023836,0.254944,0.0506524,4.82341e-07,rs9922704,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+17,15773009,C,A,0.319319,-0.081072,0.0166993,1.20499e-06,rs62072428,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+18,23069508,G,A,0.0341549,-0.197066,0.0428665,4.28218e-06,rs117601457,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+19,43985876,A,G,0.0138923,-0.311835,0.0652012,1.72995e-06,rs12978426,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p
+19,54570493,C,T,0.0760494,0.140183,0.0294348,1.91215e-06,rs62133363,8107,Salicylate to oxalate (ethanedioate) ratio,TRUE,reported,avUL7p

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"11",69563910,"rs1962143","G","C",4.80869840658e-06,0.628862670496,0.137517481900931,89,"CD4_NAIVE#MIR548K",TRUE,"reported","SKOHnt",NA

@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,52268769,rs76033947,C,T,0.094,1.136e-11,0.013848,35351,0.09268,ITIH4_ITI_heavy_chain_H4,TRUE,reported,ITIH4_ITI_heavy_chain_H4
+3,52814191,rs77347777,T,C,-0.1433,6.199e-23,0.014533,35351,0.08722,ITIH4_ITI_heavy_chain_H4,TRUE,reported,ITIH4_ITI_heavy_chain_H4
+3,52846724,rs2001732,T,C,0.1158,2.773e-22,0.011928,35351,0.13589,ITIH4_ITI_heavy_chain_H4,TRUE,reported,ITIH4_ITI_heavy_chain_H4
+3,52988439,rs62253654,T,C,0.0959,8.06e-12,0.014026,35349,0.09043,ITIH4_ITI_heavy_chain_H4,TRUE,reported,ITIH4_ITI_heavy_chain_H4
+3,53775729,rs150768938,A,G,-0.3629,1.756e-14,0.047331,35348,0.0067,ITIH4_ITI_heavy_chain_H4,TRUE,reported,ITIH4_ITI_heavy_chain_H4

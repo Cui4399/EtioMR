@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,137857156,rs59214750,CTTTT,TTT,0.3978,3.865e-51,0.026445,35362,0.02358,TNFAIP3_TNFAIP3,TRUE,reported,TNFAIP3_TNFAIP3
+6,137874586,rs5029939,G,C,0.3992,2.325e-55,0.025471,35362,0.02537,TNFAIP3_TNFAIP3,TRUE,reported,TNFAIP3_TNFAIP3
+6,137898031,rs67543742,G,A,-0.0608,3.68e-09,0.010309,35362,0.19515,TNFAIP3_TNFAIP3,TRUE,reported,TNFAIP3_TNFAIP3

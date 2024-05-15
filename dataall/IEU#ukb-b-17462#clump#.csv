@@ -1,0 +1,3 @@
+"pos.exposure","beta.exposure","pval.exposure","se.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+161089307,0.00150152,5e-10,0.000241494,"6",463010,"ukb-b-17462","rs56393506","T","C",0.171301,"Diagnoses - secondary ICD10: E78.5 Hyperlipidaemia, unspecified || id:ukb-b-17462",TRUE,"reported","igd"
+45422160,0.00144352,2.59998e-10,0.000228299,"19",463010,"ukb-b-17462","rs12721051","G","C",0.188348,"Diagnoses - secondary ICD10: E78.5 Hyperlipidaemia, unspecified || id:ukb-b-17462",TRUE,"reported","igd"

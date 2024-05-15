@@ -1,0 +1,6 @@
+"samplesize.exposure","beta.exposure","se.exposure","pval.exposure","chr.exposure","pos.exposure","other_allele.exposure","effect_allele.exposure","SNP","info.exposure","eaf.exposure","ncase.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","class","index"
+51422,0.10672,0.0226097,2.36365e-06,"2",18128079,"C","T","rs184723666",0.85249,0.0127217,NA,"Beef intake",TRUE,"reported","gat2Df","Diet","ukb343"
+51422,0.112245,0.0235461,1.8746e-06,"6",137355923,"A","T","rs186161748",0.822672,0.0121874,NA,"Beef intake",TRUE,"reported","gat2Df","Diet","ukb343"
+51422,0.0449086,0.00948989,2.22628e-06,"10",33554656,"G","A","rs72790248",0.973607,0.0722728,NA,"Beef intake",TRUE,"reported","gat2Df","Diet","ukb343"
+51422,0.115662,0.0235392,8.9696e-07,"10",54411537,"A","T","rs143363049",0.950126,0.0109858,NA,"Beef intake",TRUE,"reported","gat2Df","Diet","ukb343"
+51422,0.0243978,0.00520213,2.73971e-06,"16",73820205,"A","G","rs328328",0.968879,0.336869,NA,"Beef intake",TRUE,"reported","gat2Df","Diet","ukb343"

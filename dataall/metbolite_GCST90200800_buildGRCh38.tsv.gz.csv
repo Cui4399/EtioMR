@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,247876149,T,C,0.349211,0.107121,0.0171408,4.11746e-10,rs3811444,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw
+2,52917149,A,G,0.0309193,-0.22709,0.047502,1.74742e-06,rs59066200,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw
+6,67865836,A,G,0.0557086,0.175864,0.0354347,6.94001e-07,rs74952882,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw
+7,91430227,T,G,0.015254,0.313381,0.0663872,2.35267e-06,rs183114498,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw
+12,126630737,G,A,0.0161401,-0.297802,0.0644934,3.88266e-06,rs138179500,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw
+16,78724717,G,A,0.014712,0.330371,0.0678644,1.12674e-06,rs72799097,7297,Spermidine to histidine ratio,TRUE,reported,2bxJgw

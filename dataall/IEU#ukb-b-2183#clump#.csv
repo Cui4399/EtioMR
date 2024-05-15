@@ -1,0 +1,5 @@
+"pval.exposure","beta.exposure","samplesize.exposure","chr.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.80001e-08,0.0468643,64949,"6",0.0084407,3909920,"ukb-b-2183","rs78768316","A","G",0.011377,"Number of oatcakes with  butter/margarine || id:ukb-b-2183",TRUE,"reported","igd"
+1.5e-08,0.0503598,64949,"11",0.0089026,86322412,"ukb-b-2183","rs1938934","C","A",0.00945,"Number of oatcakes with  butter/margarine || id:ukb-b-2183",TRUE,"reported","igd"
+2e-09,0.0368984,64949,"13",0.00614912,64112615,"ukb-b-2183","rs61953809","A","C",0.021028,"Number of oatcakes with  butter/margarine || id:ukb-b-2183",TRUE,"reported","igd"
+1.7e-09,0.0162751,64949,"21",0.00270284,45621517,"ukb-b-2183","rs62228211","T","C",0.108889,"Number of oatcakes with  butter/margarine || id:ukb-b-2183",TRUE,"reported","igd"

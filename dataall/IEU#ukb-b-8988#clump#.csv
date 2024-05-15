@@ -1,0 +1,6 @@
+"se.exposure","chr.exposure","beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000302014,"2",0.00381734,44080324,1.29987e-36,463010,"ukb-b-8988","rs6709904","G","A",0.112618,"Diagnoses - main ICD10: K80.1 Calculus of gallbladder with other cholecystitis || id:ukb-b-8988",TRUE,"reported","igd"
+0.000203855,"2",0.00272688,44072576,8.30042e-41,463010,"ukb-b-8988","rs4299376","T","G",0.676773,"Diagnoses - main ICD10: K80.1 Calculus of gallbladder with other cholecystitis || id:ukb-b-8988",TRUE,"reported","igd"
+0.000210794,"4",0.00139004,151199080,4.30031e-11,463010,"ukb-b-8988","rs2290846","A","G",0.286425,"Diagnoses - main ICD10: K80.1 Calculus of gallbladder with other cholecystitis || id:ukb-b-8988",TRUE,"reported","igd"
+0.000256049,"19",0.00159753,48384749,4.39997e-10,463010,"ukb-b-8988","rs10426201","A","G",0.833919,"Diagnoses - main ICD10: K80.1 Calculus of gallbladder with other cholecystitis || id:ukb-b-8988",TRUE,"reported","igd"
+0.000193823,"19",0.00112738,49168942,5.99998e-09,463010,"ukb-b-8988","rs8111874","A","G",0.463963,"Diagnoses - main ICD10: K80.1 Calculus of gallbladder with other cholecystitis || id:ukb-b-8988",TRUE,"reported","igd"

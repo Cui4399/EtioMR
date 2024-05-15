@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,90048139,A,C,0.014922,-0.349952,0.0708009,7.70206e-07,rs115174071,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+1,187912731,A,G,0.038507,-0.203038,0.0441435,4.2353e-06,rs114887829,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+2,50897230,A,T,0.0342751,-0.223309,0.0469369,1.95865e-06,rs111809385,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+2,82915627,T,C,0.0214434,-0.266771,0.0580263,4.27764e-06,rs58977389,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+9,15527571,A,G,0.491866,0.0820116,0.0171079,1.6366e-06,rs28709032,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+9,117120421,G,C,0.43787,-0.0834291,0.017072,1.02446e-06,rs4531122,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+11,72697221,T,C,0.0848386,-0.144622,0.0303988,1.96019e-06,rs2306614,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+13,38099280,C,T,0.0213568,-0.290738,0.0587214,7.3779e-07,rs79620920,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa
+18,62617060,T,C,0.127384,0.126285,0.0263065,1.58245e-06,rs55706563,6773,Adenosine 5'-monophosphate (AMP) to acetoacetate ratio,TRUE,reported,E8PqDa

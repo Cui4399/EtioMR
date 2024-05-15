@@ -1,0 +1,3 @@
+"pos.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+145775399,1.35332e-09,110099,0.00455779,"2",0.0276268,"ukb-a-365","rs1006923","C","T",0.320845,"Pulse wave peak to peak time || id:ukb-a-365",TRUE,"reported","igd"
+41185309,6.12153e-09,110099,0.0048112,"13",0.0279716,"ukb-a-365","rs7331212","A","G",0.263863,"Pulse wave peak to peak time || id:ukb-a-365",TRUE,"reported","igd"

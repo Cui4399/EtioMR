@@ -1,0 +1,3 @@
+pval.exposure,beta.exposure,pos.exposure,samplesize.exposure,se.exposure,chr.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+4.92153e-49,0.3893,167433420,3060,0.02598,1,ebi-a-GCST90001847,rs1723018,G,A,0.4556,CD3 on HLA DR+ T cell || id:ebi-a-GCST90001847,TRUE,reported,igd
+1.55883e-11,0.2057,10970476,3060,0.03039,16,ebi-a-GCST90001847,rs12596540,G,A,0.2521,CD3 on HLA DR+ T cell || id:ebi-a-GCST90001847,TRUE,reported,igd

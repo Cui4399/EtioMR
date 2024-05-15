@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,15362087,rs36039230,G,T,-0.131972,1.47502710175976e-16,0.0159801,33653,0.0522377,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15372746,rs61780971,G,A,-0.147711,2.00032240786504e-12,0.0209982,33653,0.0292693,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15381778,rs113585544,T,C,-0.185636,2.14190399072212e-24,0.0182129,33653,0.0416986,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15420297,rs12070915,C,T,0.143873,5.84924752541185e-27,0.013382,33653,0.0833021,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15442005,rs7527601,A,G,0.0836025,1.24594823727075e-12,0.0117747,33653,0.103194,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15442501,rs41307798,T,C,0.193102,4.26579518801592e-23,0.0195101,33653,0.0342169,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15443607,rs545634,A,G,-0.568286,1e-200,0.0119553,33653,0.0975396,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15454936,rs146916007,T,C,0.162288,6.65273156201742e-12,0.0236402,33653,0.024892,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,15993367,rs1999736,C,G,-0.050034,3.59227850809749e-10,0.0079789,33653,0.728652,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis
+1,16388188,rs187347153,C,A,-0.197033,5.16297473697588e-13,0.0272863,33653,0.0196455,ctrc_q99895_oid20752_v1_inflammation,TRUE,reported,ctrc_q99895_oid20752_v1_inflammation,chr1,15438441,cis

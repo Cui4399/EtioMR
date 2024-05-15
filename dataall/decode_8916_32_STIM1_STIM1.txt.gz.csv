@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,3883134,rs1869085,C,A,-0.0951,5.351e-29,0.008509,35376,0.32545,STIM1_STIM1,TRUE,reported,STIM1_STIM1
+11,3970090,rs145136493,TTTTGTT,TGTT,-0.0771,1.366e-17,0.00903,35371,0.2803,STIM1_STIM1,TRUE,reported,STIM1_STIM1
+11,4173032,rs4460801,A,G,-0.0488,3.265e-09,0.008246,35374,0.3804,STIM1_STIM1,TRUE,reported,STIM1_STIM1

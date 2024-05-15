@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,171115572,T,A,0.253468,0.131389,0.0192059,7.86084e-12,rs2236873,6857,S-allylcysteine levels,TRUE,reported,zLvfNG

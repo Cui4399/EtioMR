@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+17,76423251,T,C,0.461515,0.103917,0.0153977,1.48984e-11,rs12449930,8126,Sphinganine-1-phosphate levels,TRUE,reported,uSv1jg

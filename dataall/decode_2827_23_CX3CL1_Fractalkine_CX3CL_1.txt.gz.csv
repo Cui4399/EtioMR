@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,57424884,rs62037115,A,G,0.7243,6.224e-35,0.058742,35373,0.00487,CX3CL1_Fractalkine_CX3CL_1,TRUE,reported,CX3CL1_Fractalkine_CX3CL_1
+16,57433534,rs147834361,TGTGTGTGTGTGCGTGCGCGTGCGTGCACGC,TGTGTGTGTGCGTGCGCGTGCGTGCACGC,-0.0566,4.297e-12,0.008171,35373,0.43818,CX3CL1_Fractalkine_CX3CL_1,TRUE,reported,CX3CL1_Fractalkine_CX3CL_1

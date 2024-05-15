@@ -1,0 +1,5 @@
+chr.exposure,samplesize.exposure,pval.exposure,beta.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,1634,1.29199e-08,0.2107,0.03686,208170487,ebi-a-GCST90001870,rs586030,T,C,0.5545,CD34 on Hematopoietic Stem Cell || id:ebi-a-GCST90001870,TRUE,reported,igd
+1,1634,3.98566e-20,0.5509,0.05917,208017826,ebi-a-GCST90001870,rs139489968,A,G,0.1016,CD34 on Hematopoietic Stem Cell || id:ebi-a-GCST90001870,TRUE,reported,igd
+6,1634,1.00809e-12,-0.2587,0.036,109598213,ebi-a-GCST90001870,rs4406271,A,G,0.4036,CD34 on Hematopoietic Stem Cell || id:ebi-a-GCST90001870,TRUE,reported,igd
+15,1634,1.893e-08,0.2745,0.04858,50363583,ebi-a-GCST90001870,rs36102158,A,G,0.1622,CD34 on Hematopoietic Stem Cell || id:ebi-a-GCST90001870,TRUE,reported,igd

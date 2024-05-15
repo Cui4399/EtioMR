@@ -1,0 +1,8 @@
+"pos.exposure","chr.exposure","samplesize.exposure","beta.exposure","pval.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+98438135,"1",310555,0.0124911,3.50002e-08,0.00226621,"ukb-b-3793","rs12069474","C","A",0.219499,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+136818719,"2",310555,-0.0130793,3.69999e-08,0.00237565,"ukb-b-3793","rs2090660","T","C",0.194109,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+19028788,"6",310555,0.0147866,1.29999e-09,0.00243891,"ukb-b-3793","rs975303","G","A",0.180828,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+63524979,"10",310555,-0.0104367,3.40001e-08,0.0018905,"ukb-b-3793","rs2588917","A","C",0.4483,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+124464836,"12",310555,-0.0113117,1.2e-08,0.0019833,"ukb-b-3793","rs11057408","T","G",0.334235,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+30018720,"16",310555,0.0120469,2.90001e-10,0.00191049,"ukb-b-3793","rs12921753","T","C",0.399799,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"
+47723127,"20",310555,-0.0116004,6.90001e-10,0.00188059,"ukb-b-3793","rs2426132","C","G",0.459272,"Time spent driving || id:ukb-b-3793",TRUE,"reported","igd"

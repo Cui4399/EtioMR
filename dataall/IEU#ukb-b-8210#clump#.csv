@@ -1,0 +1,4 @@
+"pval.exposure","pos.exposure","samplesize.exposure","chr.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+2.29985e-15,67730055,462933,"1",-0.000950355,0.000119944,"ukb-b-8210","rs6669582","G","A",0.347351,"Non-cancer illness code, self-reported: crohns disease || id:ukb-b-8210",TRUE,"reported","igd"
+1.20005e-11,40440063,462933,"5",0.000792845,0.00011694,"ukb-b-8210","rs7713270","T","C",0.606534,"Non-cancer illness code, self-reported: crohns disease || id:ukb-b-8210",TRUE,"reported","igd"
+2.39994e-18,50737498,462933,"16",0.00110177,0.000126103,"ukb-b-8210","rs7500036","T","C",0.287255,"Non-cancer illness code, self-reported: crohns disease || id:ukb-b-8210",TRUE,"reported","igd"

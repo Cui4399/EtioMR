@@ -1,0 +1,7 @@
+"beta.exposure","chr.exposure","se.exposure","samplesize.exposure","pos.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00775888,"2",0.00121274,461949,56102744,1.6e-10,"ukb-b-6541","rs11899888","G","A",0.158118,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"
+0.0169411,"2",0.00179439,461949,44081627,3.69999e-21,"ukb-b-6541","rs4076834","G","T",0.064353,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"
+0.0200849,"3",0.00256864,461949,38051211,5.30029e-15,"ukb-b-6541","rs75495843","A","G",0.030309,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"
+0.00834313,"10",0.000951367,461949,21916728,1.80011e-18,"ukb-b-6541","rs1243182","T","C",0.31201,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"
+-0.00697289,"11",0.00125254,461949,108006182,2.59998e-08,"ukb-b-6541","rs4754296","G","T",0.146256,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"
+-0.00614058,"19",0.00111807,461949,18495014,4e-08,"ukb-b-6541","rs62122429","G","A",0.807974,"Main speciality of consultant (recoded): General surgery || id:ukb-b-6541",TRUE,"reported","igd"

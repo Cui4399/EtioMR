@@ -1,0 +1,8 @@
+"pos.exposure","samplesize.exposure","chr.exposure","se.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+31925679,337159,"6",0.000335873,0.0042954,1.9333e-37,"ukb-a-88","rs114969413","A","G",0.0391208,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+30193577,337159,"6",0.000352422,0.00327933,1.34586e-20,"ukb-a-88","rs114447660","A","G",0.0409848,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+31556635,337159,"6",0.000571334,0.00744865,7.67185e-39,"ukb-a-88","rs986476","T","A",0.0152758,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+32882799,337159,"6",0.000247045,0.00138436,2.10034e-08,"ukb-a-88","rs154980","T","A",0.0752627,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+31335997,337159,"6",0.0003187,0.0182411,1e-200,"ukb-a-88","rs146683910","T","C",0.0432386,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+32678136,337159,"6",0.000131949,0.000817565,5.79656e-10,"ukb-a-88","rs9275569","T","C",0.575365,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"
+83923835,337159,"7",0.00115092,0.00721762,3.58715e-10,"ukb-a-88","rs147101373","T","G",0.00355576,"Non-cancer illness code  self-reported: ankylosing spondylitis || id:ukb-a-88",TRUE,"reported","igd"

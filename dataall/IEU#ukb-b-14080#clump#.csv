@@ -1,0 +1,6 @@
+"se.exposure","beta.exposure","pos.exposure","pval.exposure","samplesize.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000450417,0.00257086,212666847,1.09999e-08,461242,"2","ukb-b-14080","rs55888029","A","G",0.282102,"Current employment status: Unable to work because of sickness or disability || id:ukb-b-14080",TRUE,"reported","igd"
+0.000431671,-0.00243913,57640994,1.6e-08,461242,"11","ukb-b-14080","rs682503","G","C",0.680254,"Current employment status: Unable to work because of sickness or disability || id:ukb-b-14080",TRUE,"reported","igd"
+0.000407102,-0.00229152,113436072,1.79999e-08,461242,"11","ukb-b-14080","rs7125588","G","A",0.442497,"Current employment status: Unable to work because of sickness or disability || id:ukb-b-14080",TRUE,"reported","igd"
+0.000463264,-0.0025309,8064779,4.70002e-08,461242,"17","ukb-b-14080","rs75664430","G","C",0.253549,"Current employment status: Unable to work because of sickness or disability || id:ukb-b-14080",TRUE,"reported","igd"
+0.000812102,0.00461091,77628605,1.40001e-08,461242,"18","ukb-b-14080","rs77622349","A","G",0.068098,"Current employment status: Unable to work because of sickness or disability || id:ukb-b-14080",TRUE,"reported","igd"

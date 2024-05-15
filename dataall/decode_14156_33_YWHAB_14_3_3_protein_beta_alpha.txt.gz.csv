@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,44885562,rs6031847,T,C,-0.181,3.259e-87,0.009144,35370,0.2594,YWHAB_14_3_3_protein_beta_alpha,TRUE,reported,YWHAB_14_3_3_protein_beta_alpha
+20,45863385,rs73911123,A,G,-0.183,1.688e-08,0.03244,35371,0.01529,YWHAB_14_3_3_protein_beta_alpha,TRUE,reported,YWHAB_14_3_3_protein_beta_alpha

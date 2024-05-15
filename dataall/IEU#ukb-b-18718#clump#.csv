@@ -1,0 +1,3 @@
+"samplesize.exposure","se.exposure","pval.exposure","chr.exposure","beta.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+64949,0.00921134,8.50002e-10,"13",0.0565151,71198774,"ukb-b-18718","rs183277736","G","T",0.007419,"Other savoury snack intake || id:ukb-b-18718",TRUE,"reported","igd"
+64949,0.00948729,4.39997e-08,"22",0.0519324,29710873,"ukb-b-18718","rs151207001","C","G",0.007935,"Other savoury snack intake || id:ukb-b-18718",TRUE,"reported","igd"

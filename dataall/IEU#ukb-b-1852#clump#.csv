@@ -1,0 +1,5 @@
+"se.exposure","samplesize.exposure","pval.exposure","beta.exposure","pos.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000293086,461170,5.60003e-09,0.0017084,32685371,"6","ukb-b-1852","rs3998153","C","G",0.612988,"Main speciality of consultant (recoded): Dermatology || id:ukb-b-1852",TRUE,"reported","igd"
+0.000707535,461170,2.1e-08,0.00396691,27734774,"12","ukb-b-1852","rs75480577","A","G",0.047144,"Main speciality of consultant (recoded): Dermatology || id:ukb-b-1852",TRUE,"reported","igd"
+0.000475124,461170,1.59993e-13,0.0035038,89792856,"16","ukb-b-1852","rs12925026","T","C",0.099502,"Main speciality of consultant (recoded): Dermatology || id:ukb-b-1852",TRUE,"reported","igd"
+0.000483623,461170,1.29999e-08,-0.0027473,33690010,"20","ukb-b-1852","rs4911466","T","C",0.902273,"Main speciality of consultant (recoded): Dermatology || id:ukb-b-1852",TRUE,"reported","igd"

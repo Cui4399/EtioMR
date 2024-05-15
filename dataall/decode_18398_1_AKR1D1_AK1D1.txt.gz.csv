@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,138112731,rs1038626,T,A,0.0589,2.937e-08,0.010622,35377,0.17316,AKR1D1_AK1D1,TRUE,reported,AKR1D1_AK1D1

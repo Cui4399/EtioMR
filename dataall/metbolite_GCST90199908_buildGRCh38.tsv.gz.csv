@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,19943884,C,T,0.276158,0.1201,0.0162007,1.23257e-13,rs933271,8219,2-o-methylascorbic acid levels,TRUE,reported,77WBTN
+22,19963748,A,G,0.515549,-0.441232,0.0137517,1e-200,rs4680,8219,2-o-methylascorbic acid levels,TRUE,reported,77WBTN

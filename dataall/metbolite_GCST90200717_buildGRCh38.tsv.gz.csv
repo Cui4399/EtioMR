@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,65430991,G,A,0.247457,-0.120834,0.0238796,4.18932e-07,rs9436303,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+3,118567183,T,C,0.0832963,0.170822,0.0367855,3.42189e-06,rs142622373,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+4,86455369,T,C,0.123313,-0.175596,0.031452,2.36402e-08,rs72663992,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+8,16856688,C,T,0.588282,0.0978362,0.0210318,3.29018e-06,rs10503585,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+9,105208228,G,A,0.0615813,0.212735,0.0429007,7.09395e-07,rs117951521,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+10,63778535,G,C,0.0563725,-0.223704,0.0447452,5.74747e-07,rs117522656,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+13,83396878,G,T,0.0188387,-0.365212,0.0759538,1.52186e-06,rs117739522,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+17,54664475,A,T,0.844041,-0.147383,0.028812,3.13169e-07,rs1530382,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj
+22,47566825,T,G,0.0142573,0.42791,0.0873005,9.507e-07,rs79369357,4530,3-phosphoglycerate to adenosine 5'-diphosphate (ADP) ratio,TRUE,reported,qnliVj

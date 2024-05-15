@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,31081980,0.0874913,0.0188945,3.64762e-06,7738,ebi-a-GCST90027491,rs741054,A,T,0.243661,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+9,10515836,0.089341,0.019147,3.07029e-06,7738,ebi-a-GCST90027491,rs10756052,C,G,0.240585,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+11,59726765,-0.0891578,0.0167524,1.02579e-07,7738,ebi-a-GCST90027491,rs7108080,A,G,0.508635,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+11,90723689,-0.127657,0.0279162,4.81072e-06,7738,ebi-a-GCST90027491,rs76346802,G,A,0.0931431,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+12,127091880,-0.155967,0.0319398,1.04412e-06,7738,ebi-a-GCST90027491,rs11058744,T,G,0.0707436,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+14,29433065,0.162288,0.03077,1.33315e-07,7738,ebi-a-GCST90027491,rs79747739,C,A,0.0806663,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+15,31340812,-0.077654,0.0164151,2.23815e-06,7738,ebi-a-GCST90027491,rs11070764,C,T,0.553392,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd
+17,47907641,-0.0899681,0.0191208,2.53554e-06,7738,ebi-a-GCST90027491,rs7221118,C,T,0.229708,NONMEVIPP.PWY..methylerythritol.phosphate.pathway.I,TRUE,reported,igd

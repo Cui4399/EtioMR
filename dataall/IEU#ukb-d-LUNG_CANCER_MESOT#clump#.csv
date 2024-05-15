@@ -1,0 +1,3 @@
+"samplesize.exposure","pval.exposure","chr.exposure","beta.exposure","se.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+361194,2.1151e-09,"8",-0.00141374,0.000236061,13012376,"ukb-d-LUNG_CANCER_MESOT","rs12543486","C","T",0.16641,"Lung cancer and mesothelioma || id:ukb-d-LUNG_CANCER_MESOT",TRUE,"reported","igd"
+361194,3.67578e-08,"15",0.00102479,0.000186126,78750549,"ukb-d-LUNG_CANCER_MESOT","rs2656065","A","G",0.328465,"Lung cancer and mesothelioma || id:ukb-d-LUNG_CANCER_MESOT",TRUE,"reported","igd"

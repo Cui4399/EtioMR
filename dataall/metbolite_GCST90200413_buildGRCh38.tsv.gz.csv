@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,20589745,A,G,0.31854,-0.107077,0.0164002,6.62155e-11,rs66731853,7915,2'-deoxyuridine levels,TRUE,reported,oZMrqV
+6,35727497,A,G,0.0378683,0.226432,0.0396392,1.11433e-08,rs7751693,7915,2'-deoxyuridine levels,TRUE,reported,oZMrqV
+22,50525724,C,T,0.771952,-0.315498,0.0180221,1.286e-68,rs131805,7915,2'-deoxyuridine levels,TRUE,reported,oZMrqV

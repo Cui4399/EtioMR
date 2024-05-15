@@ -1,0 +1,3 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"8",141989143,"rs9657438","T","C",1.87840130834e-06,-0.642436269504,0.134793291056682,89,"Classical monocyte#PTK2",TRUE,"reported","7ncL4y",NA
+"8",141994272,"rs13251272","A","C",7.68801610873e-07,0.660195546617,0.133558335821742,89,"Classical monocyte#PTK2",TRUE,"reported","7ncL4y",NA

@@ -1,0 +1,4 @@
+"pos.exposure","pval.exposure","samplesize.exposure","se.exposure","chr.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+146835819,2.33034e-08,241381,0.00666612,"4",0.0372348,"ukb-a-30","rs116499549","G","A",0.0106332,"Average weekly fortified wine intake || id:ukb-a-30",TRUE,"reported","igd"
+87981030,2.72007e-08,241381,0.00143111,"5",-0.00795517,"ukb-a-30","rs153685","T","C",0.623067,"Average weekly fortified wine intake || id:ukb-a-30",TRUE,"reported","igd"
+70554474,4.73522e-08,241381,0.00470999,"12",0.025722,"ukb-a-30","rs146048594","T","C",0.0218447,"Average weekly fortified wine intake || id:ukb-a-30",TRUE,"reported","igd"

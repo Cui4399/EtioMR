@@ -1,0 +1,5 @@
+samplesize.exposure,pval.exposure,beta.exposure,pos.exposure,chr.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3113,1.392e-10,0.2404,32585071,6,0.03733,ebi-a-GCST90002081,rs113243185,C,G,0.2014,SSC-A on CD4+ T cell || id:ebi-a-GCST90002081,TRUE,reported,igd
+3113,8.84504e-14,-0.2591,32589978,6,0.03458,ebi-a-GCST90002081,rs9271536,T,A,0.7772,SSC-A on CD4+ T cell || id:ebi-a-GCST90002081,TRUE,reported,igd
+3113,2.31302e-08,0.2287,31405825,6,0.04083,ebi-a-GCST90002081,rs79493037,G,C,0.1481,SSC-A on CD4+ T cell || id:ebi-a-GCST90002081,TRUE,reported,igd
+3113,1.91399e-09,0.2974,31148873,6,0.04937,ebi-a-GCST90002081,rs148031710,C,T,0.1078,SSC-A on CD4+ T cell || id:ebi-a-GCST90002081,TRUE,reported,igd

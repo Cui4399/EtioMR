@@ -1,0 +1,4 @@
+pos.exposure,samplesize.exposure,beta.exposure,chr.exposure,pval.exposure,se.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+161410253,2971,0.2464,1,2.85299e-13,0.03359,ebi-a-GCST90002077,rs115805162,T,C,0.2099,SSC-A on HLA DR+ Natural Killer || id:ebi-a-GCST90002077,TRUE,reported,igd
+160798209,2971,-0.1723,1,4.62402e-10,0.02756,ebi-a-GCST90002077,rs569911,C,T,0.4305,SSC-A on HLA DR+ Natural Killer || id:ebi-a-GCST90002077,TRUE,reported,igd
+161526397,2971,-0.5652,1,1.97879e-74,0.0301,ebi-a-GCST90002077,rs71632979,G,A,0.2402,SSC-A on HLA DR+ Natural Killer || id:ebi-a-GCST90002077,TRUE,reported,igd

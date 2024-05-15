@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",174802519,"rs17064966","G","C",4.57944364299e-06,-0.810852814392,0.17691902873378,89,"B_CELL_NAIVE#NIFKP2",TRUE,"reported","HeVIqi",NA

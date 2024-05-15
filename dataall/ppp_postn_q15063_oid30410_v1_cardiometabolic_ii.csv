@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+13,37283431,rs58106020,A,G,0.0766088,9.97240711741548e-24,0.00762891,33924,0.379031,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37426695,rs11147653,A,T,0.140847,4.40960816450637e-11,0.0213741,33924,0.0315991,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37546263,rs4561320,A,C,0.255609,1e-200,0.00774338,33924,0.359019,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37569858,rs78082123,A,G,-0.477467,9.34329368257317e-68,0.0274519,33924,0.0190013,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37635192,rs117728287,A,G,-0.184217,2.94509968999601e-11,0.0277048,33924,0.0180845,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37716473,rs61955495,C,T,-0.18597,1.17896252324379e-66,0.0107828,33924,0.148731,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37750711,rs140296331,T,C,0.193937,3.61651274551036e-10,0.0309322,33924,0.0147904,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37837884,rs145845846,A,C,-0.0806748,1.81013097459689e-10,0.0126516,33924,0.0958828,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis
+13,37859088,rs187687713,C,A,0.136468,6.08233028959796e-10,0.0220526,33924,0.0300222,postn_q15063_oid30410_v1_cardiometabolic_ii,TRUE,reported,postn_q15063_oid30410_v1_cardiometabolic_ii,chr13,37598844,cis

@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"17",63556290,"rs12452513","G","A",8.52850787567e-15,1.14730883312,0.147859176269024,89,"B_CELL_NAIVE#AXIN2",TRUE,"reported","eTOCB1",NA

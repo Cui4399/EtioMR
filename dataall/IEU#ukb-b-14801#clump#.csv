@@ -1,0 +1,4 @@
+"pos.exposure","pval.exposure","chr.exposure","se.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+32582577,4.70002e-31,"6",0.000199886,0.00231632,444199,"ukb-b-14801","rs3104415","C","A",0.337954,"Treatment speciality of consultant (recoded): Rheumatology || id:ukb-b-14801",TRUE,"reported","igd"
+31315512,1.6e-09,"6",0.000314583,0.00189888,444199,"ukb-b-14801","rs116685461","A","G",0.101015,"Treatment speciality of consultant (recoded): Rheumatology || id:ukb-b-14801",TRUE,"reported","igd"
+32485579,8.49963e-14,"6",0.000300256,0.00224051,444199,"ukb-b-14801","rs115627609","T","C",0.186794,"Treatment speciality of consultant (recoded): Rheumatology || id:ukb-b-14801",TRUE,"reported","igd"

@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","chr.exposure","pval.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+123894,0.00207277,"2",1.79999e-08,1974582,0.0116649,"ukb-b-8133","rs1864882","G","T",0.362711,"Light smokers, at least 100 smokes in lifetime || id:ukb-b-8133",TRUE,"reported","igd"
+123894,0.00247863,"8",1.80011e-11,27426077,-0.0166603,"ukb-b-8133","rs1565735","A","T",0.205996,"Light smokers, at least 100 smokes in lifetime || id:ukb-b-8133",TRUE,"reported","igd"
+123894,0.00212978,"15",1e-36,78851615,-0.0269549,"ukb-b-8133","rs2036527","A","G",0.323107,"Light smokers, at least 100 smokes in lifetime || id:ukb-b-8133",TRUE,"reported","igd"

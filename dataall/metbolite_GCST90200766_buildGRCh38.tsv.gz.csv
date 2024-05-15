@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,21563893,A,G,0.784837,-0.107967,0.0188124,9.51626e-09,rs1256335,8205,Phosphate to phosphoethanolamine ratio,TRUE,reported,HIRITX

@@ -1,0 +1,3 @@
+pos.exposure,pval.exposure,se.exposure,beta.exposure,chr.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+206855483,3.38197e-08,0.0895,0.4952,1,3657,ebi-a-GCST90001740,rs112417310,A,G,0.0201,CD19 on switched memory B cell || id:ebi-a-GCST90001740,TRUE,reported,igd
+28913787,2.9792e-11,0.02504,0.167,16,3657,ebi-a-GCST90001740,rs7189927,C,T,0.5982,CD19 on switched memory B cell || id:ebi-a-GCST90001740,TRUE,reported,igd

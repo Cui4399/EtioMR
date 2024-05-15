@@ -1,0 +1,7 @@
+"pval.exposure","se.exposure","chr.exposure","pos.exposure","beta.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+1.2e-08,0.0005807,"1",150165849,0.00331311,462933,"ukb-b-14486","rs12133235","C","A",0.42131,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"
+1.39991e-13,0.000574592,"2",70717653,-0.00425112,462933,"ukb-b-14486","rs3771501","G","A",0.524169,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"
+8.99912e-19,0.00108817,"4",103188709,0.00962712,462933,"ukb-b-14486","rs13107325","T","C",0.074913,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"
+2.90001e-11,0.000581364,"15",75129594,0.0038676,462933,"ukb-b-14486","rs2290573","A","G",0.559693,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"
+1.20005e-11,0.00193883,"19",41833784,0.0131574,462933,"ukb-b-14486","rs75621460","A","G",0.027098,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"
+4.30002e-08,0.000606046,"19",10752968,-0.00331891,462933,"ukb-b-14486","rs10405617","G","A",0.664222,"Non-cancer illness code, self-reported: osteoarthritis || id:ukb-b-14486",TRUE,"reported","igd"

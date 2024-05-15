@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,160400285,G,A,0.209402,0.0936085,0.0197416,2.11952e-06,rs72960519,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+5,139134446,C,T,0.0237726,0.249412,0.0524186,1.95436e-06,rs62381246,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+6,69642607,T,C,0.0613465,0.179386,0.0334026,7.85595e-08,rs112156304,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+10,89226191,T,C,0.821444,0.110896,0.0218479,3.85853e-07,rs2254747,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+13,88227277,A,G,0.109799,-0.118301,0.0255309,3.59304e-06,rs72632505,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+16,7434220,T,C,0.774088,0.0921834,0.0191326,1.44904e-06,rs11648362,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+19,29772568,A,C,0.144049,-0.105718,0.0230092,4.33567e-06,rs12460888,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+20,31853669,G,A,0.0498952,-0.177675,0.036937,1.50771e-06,rs62206283,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI
+20,56717423,G,A,0.479167,-0.0785488,0.0160578,1.00001e-06,rs2426643,7755,Taurocholate to oxalate (ethanedioate) ratio,TRUE,reported,Q5uEJI

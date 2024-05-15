@@ -1,0 +1,3 @@
+"se.exposure","beta.exposure","pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000246474,0.00162543,4.2658e-11,"16",361194,89986117,"ukb-d-L12_NONIONRADISKIN","rs1805007","T","C",0.104538,"Skin changes due to chronic exposure to nonionizing radiation || id:ukb-d-L12_NONIONRADISKIN",TRUE,"reported","igd"
+0.000258709,0.00144254,2.46422e-08,"20",361194,33236696,"ukb-d-L12_NONIONRADISKIN","rs56238684","C","G",0.0978192,"Skin changes due to chronic exposure to nonionizing radiation || id:ukb-d-L12_NONIONRADISKIN",TRUE,"reported","igd"

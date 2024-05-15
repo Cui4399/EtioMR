@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,88307231,C,T,0.497027,0.0791272,0.0148481,9.86958e-08,rs7660693,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+6,156517427,C,A,0.0606153,-0.154962,0.0310005,5.77179e-07,rs56107485,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+9,83720430,T,A,0.752536,-0.0841116,0.0179331,2.72804e-06,rs11791075,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+11,36050283,T,C,0.159259,0.101193,0.0201862,5.35894e-07,rs58729469,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+12,24284993,T,C,0.0102986,-0.347476,0.0734813,2.2589e-06,rs145992024,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+14,25575454,G,A,0.026332,-0.220081,0.0468793,2.67075e-06,rs142461926,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+18,10810833,T,C,0.0472576,-0.177185,0.0350913,4.43549e-07,rs77876488,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do
+20,858872,C,G,0.962906,-0.215685,0.0396894,5.50013e-08,rs6055350,8257,3-methyl-2-oxovalerate levels,TRUE,reported,JTp0do

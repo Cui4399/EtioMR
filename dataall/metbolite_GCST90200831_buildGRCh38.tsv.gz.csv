@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,229039324,C,T,0.131976,-0.110335,0.0237871,3.51049e-06,rs34269014,7742,Cholate to phosphate ratio,TRUE,reported,I1wnmu
+3,26508226,A,G,0.194879,0.100508,0.0207295,1.2437e-06,rs62248512,7742,Cholate to phosphate ratio,TRUE,reported,I1wnmu
+5,153150452,G,A,0.0108497,-0.355215,0.0767951,3.73712e-06,rs115392659,7742,Cholate to phosphate ratio,TRUE,reported,I1wnmu
+16,4440399,A,G,0.723501,0.0889636,0.0178067,5.85137e-07,rs11643803,7742,Cholate to phosphate ratio,TRUE,reported,I1wnmu
+21,40573479,G,T,0.805514,0.101331,0.0209204,1.27472e-06,rs388806,7742,Cholate to phosphate ratio,TRUE,reported,I1wnmu

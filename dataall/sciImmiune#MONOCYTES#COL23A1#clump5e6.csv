@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"5",177891551,"rs2672843","G","A",4.46491426424e-07,-0.68004910924,0.134716911740557,89,"Classical monocyte#COL23A1",TRUE,"reported","nudbDK",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,47305227,rs55771110,A,G,0.109,3.807e-21,0.011549,35343,0.14938,CAMP_LL_37,TRUE,reported,CAMP_LL_37

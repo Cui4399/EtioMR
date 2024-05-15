@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,132369766,G,C,0.522496,0.111841,0.0149618,7.71344e-14,rs2631367,8262,Acetylcarnitine levels (Biocrates platform),TRUE,reported,ACleym
+5,151300049,T,C,0.0122617,-0.407734,0.0679719,1.99076e-09,rs74823953,8262,Acetylcarnitine levels (Biocrates platform),TRUE,reported,ACleym
+10,59707424,T,G,0.769509,0.215613,0.0180295,5.83405e-33,rs1171617,8262,Acetylcarnitine levels (Biocrates platform),TRUE,reported,ACleym

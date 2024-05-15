@@ -1,0 +1,10 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+1,242928602,-0.100104,0.0214414,3.03075e-06,7738,ebi-a-GCST90027579,rs7527876,C,T,0.177998,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+1,190995271,-0.0989151,0.0204746,1.35772e-06,7738,ebi-a-GCST90027579,rs10801008,T,C,0.204592,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+5,165313869,0.0928377,0.0202644,4.62083e-06,7738,ebi-a-GCST90027579,rs396769,C,T,0.22785,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+5,144586523,-0.0828222,0.0167918,8.12643e-07,7738,ebi-a-GCST90027579,rs2895633,A,C,0.416051,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+6,10213643,-0.120363,0.0246445,1.0398e-06,7738,ebi-a-GCST90027579,rs12201310,A,C,0.129567,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+8,23415240,-0.156047,0.028477,4.25883e-08,7738,ebi-a-GCST90027579,rs2137304,A,G,0.0902271,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+9,118124074,-0.110372,0.0230925,1.75663e-06,7738,ebi-a-GCST90027579,rs12336386,A,G,0.148984,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+12,43104353,-0.169028,0.0363326,3.28345e-06,7738,ebi-a-GCST90027579,rs4551833,G,T,0.054037,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd
+22,36576231,0.0872357,0.0188637,3.75457e-06,7738,ebi-a-GCST90027579,rs132685,C,G,0.291621,PWY.6353..purine.nucleotides.degradation.II..aerobic.,TRUE,reported,igd

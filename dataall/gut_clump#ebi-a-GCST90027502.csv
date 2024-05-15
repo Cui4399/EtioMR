@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,162746359,0.0843052,0.016916,6.2362e-07,7738,ebi-a-GCST90027502,rs6930880,T,C,0.648879,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+6,11484475,-0.182013,0.0381171,1.79626e-06,7738,ebi-a-GCST90027502,rs9368736,C,T,0.0542344,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+8,26198233,0.146879,0.0308675,1.95173e-06,7738,ebi-a-GCST90027502,rs73217710,A,G,0.0762051,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+9,16103030,-0.0966023,0.0204411,2.29124e-06,7738,ebi-a-GCST90027502,rs10962279,C,T,0.210045,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+13,51551823,0.192704,0.0386401,6.12774e-07,7738,ebi-a-GCST90027502,rs17075041,T,A,0.0542748,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+15,39641885,-0.0785513,0.0166586,2.4129e-06,7738,ebi-a-GCST90027502,rs10520129,G,A,0.420966,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd
+20,49610929,0.215774,0.0449735,1.60424e-06,7738,ebi-a-GCST90027502,rs78776904,A,T,0.0585796,P441.PWY..superpathway.of.N.acetylneuraminate.degradation,TRUE,reported,igd

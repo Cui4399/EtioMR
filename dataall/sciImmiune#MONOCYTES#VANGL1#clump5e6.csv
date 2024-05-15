@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"1",116176751,"rs79959555","C","T",3.72468422912e-08,-0.90038983771,0.163605156281745,89,"Classical monocyte#VANGL1",TRUE,"reported","OITbiU",NA

@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,35776193,rs10758322,T,C,0.0624,1.156e-13,0.008408,35350,0.41831,MSMP_PSMP,TRUE,reported,MSMP_PSMP

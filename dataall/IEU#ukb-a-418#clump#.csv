@@ -1,0 +1,4 @@
+"chr.exposure","pos.exposure","pval.exposure","samplesize.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+"2",60475509,2.89068e-08,335219,0.0043842,0.000790221,"ukb-a-418","rs359243","C","T",0.606909,"Illness  injury  bereavement  stress in last 2 years: Financial difficulties || id:ukb-a-418",TRUE,"reported","igd"
+"4",8604863,1.09031e-08,335219,-0.00494115,0.000864414,"ukb-a-418","rs3756168","T","C",0.272812,"Illness  injury  bereavement  stress in last 2 years: Financial difficulties || id:ukb-a-418",TRUE,"reported","igd"
+"7",39308367,1.9459e-08,335219,-0.00598665,0.00106583,"ukb-a-418","rs73128428","T","C",0.153828,"Illness  injury  bereavement  stress in last 2 years: Financial difficulties || id:ukb-a-418",TRUE,"reported","igd"

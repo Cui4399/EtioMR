@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"4",159863382,"rs17287504","C","T",3.31341260641e-06,-0.806384533168,0.173402259152857,89,"Classical monocyte#FNIP2",TRUE,"reported","H12dPn",NA

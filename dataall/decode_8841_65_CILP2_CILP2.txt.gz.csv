@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,19245099,rs10408021,G,A,-0.0983,2.095e-10,0.01547,35352,0.07658,CILP2_CILP2,TRUE,reported,CILP2_CILP2
+19,19369729,rs2315282,G,A,-0.1136,2.297e-24,0.011153,35353,0.15731,CILP2_CILP2,TRUE,reported,CILP2_CILP2
+19,20270178,rs62107033,C,A,0.0691,2.031e-08,0.012319,35350,0.12348,CILP2_CILP2,TRUE,reported,CILP2_CILP2

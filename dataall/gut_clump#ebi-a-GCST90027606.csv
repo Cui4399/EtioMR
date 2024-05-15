@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+2,222312590,-0.438592,0.0853246,2.74334e-07,7738,ebi-a-GCST90027606,rs114990902,A,G,0.0560495,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+5,148240905,0.348734,0.0749867,3.30963e-06,7738,ebi-a-GCST90027606,rs72829142,G,A,0.0601282,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+6,14952171,0.208976,0.0456846,4.77793e-06,7738,ebi-a-GCST90027606,rs1555643,A,G,0.173527,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+7,75187621,0.288692,0.0626113,4.01014e-06,7738,ebi-a-GCST90027606,rs7806452,G,A,0.102024,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+8,76915110,0.168754,0.0366068,4.02819e-06,7738,ebi-a-GCST90027606,rs1381664,T,A,0.448913,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+12,133164690,-0.211976,0.0462092,4.48962e-06,7738,ebi-a-GCST90027606,rs7303969,T,C,0.832051,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+16,17881203,0.194255,0.0414638,2.80059e-06,7738,ebi-a-GCST90027606,rs9933327,G,A,0.305774,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd
+18,24916309,-0.303254,0.0646742,2.74606e-06,7738,ebi-a-GCST90027606,rs1589199,G,A,0.0833208,PWY.7013..L.1.2.propanediol.degradation,TRUE,reported,igd

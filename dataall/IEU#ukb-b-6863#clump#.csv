@@ -1,0 +1,4 @@
+"samplesize.exposure","beta.exposure","pos.exposure","pval.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+462933,0.00563472,22468215,5.79963e-20,0.000615948,"1","ukb-b-6863","rs3820282","T","C",0.156452,"Operation code: caesarean section / caesarian section || id:ukb-b-6863",TRUE,"reported","igd"
+462933,-0.00409408,22390577,4.40048e-15,0.000521942,"1","ukb-b-6863","rs2473321","C","T",0.759336,"Operation code: caesarean section / caesarian section || id:ukb-b-6863",TRUE,"reported","igd"
+462933,-0.00358688,228203268,1.20005e-13,0.000483263,"1","ukb-b-6863","rs708119","G","C",0.317103,"Operation code: caesarean section / caesarian section || id:ukb-b-6863",TRUE,"reported","igd"

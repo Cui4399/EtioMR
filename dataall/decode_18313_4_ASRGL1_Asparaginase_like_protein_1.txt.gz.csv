@@ -1,0 +1,8 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,62004619,rs10665397,TACACACACACAC,T,-0.241,3.635e-08,0.043757,35364,0.00804,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62040468,rs113174841,AAAATAAAATAAATAAATAAATAAATAAATA,AAAATAAAATAAATAAATAAATAAATA,-0.061,6.392e-13,0.008482,35366,0.34137,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62242643,rs114271337,C,T,0.2184,2.924e-19,0.024344,35364,0.02864,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62322339,rs12275541,A,G,-0.2112,5.143e-132,0.008638,35364,0.31592,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62348415,rs148009600,TGGTCATG,GGGTCATG,0.2586,9.205e-15,0.033369,35364,0.01547,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62446644,rs12806071,T,C,0.117,5.256e-12,0.01696,35362,0.05703,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1
+11,62907312,rs34498220,G,A,0.1593,2.389e-09,0.026688,35360,0.02284,ASRGL1_Asparaginase_like_protein_1,TRUE,reported,ASRGL1_Asparaginase_like_protein_1

@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61820833,G,A,0.336602,0.460747,0.0162081,9.40286e-178,rs174564,7615,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,AFYr04
+16,15056648,A,C,0.28972,-0.105611,0.0175868,1.9115e-09,rs12928099,7615,Oleoyl-linoleoyl-glycerol (18:1 to 18:2) [2] to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [2] ratio,TRUE,reported,AFYr04

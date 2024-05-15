@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"10",86295520,"rs72828613","C","A",2.92440088694e-12,-1.10000110799,0.157563709180234,89,"CD4_NAIVE#CCSER2",TRUE,"reported","xyrAT8",NA

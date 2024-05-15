@@ -1,0 +1,6 @@
+"se.exposure","pval.exposure","chr.exposure","samplesize.exposure","pos.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.000169476,3.67519e-08,"2",337159,164667432,0.00093312,"ukb-a-112","rs35994273","G","C",0.0447555,"Non-cancer illness code  self-reported: polio / poliomyelitis || id:ukb-a-112",TRUE,"reported","igd"
+0.000273283,1.69254e-08,"2",337159,34603763,0.00154157,"ukb-a-112","rs142550847","T","C",0.0154345,"Non-cancer illness code  self-reported: polio / poliomyelitis || id:ukb-a-112",TRUE,"reported","igd"
+0.000247422,3.61177e-08,"4",337159,81511902,0.00136304,"ukb-a-112","rs114276667","T","C",0.0180087,"Non-cancer illness code  self-reported: polio / poliomyelitis || id:ukb-a-112",TRUE,"reported","igd"
+0.000264384,1.94138e-08,"8",337159,110895008,0.00148512,"ukb-a-112","rs149944390","A","G",0.0183186,"Non-cancer illness code  self-reported: polio / poliomyelitis || id:ukb-a-112",TRUE,"reported","igd"
+0.00033719,2.57371e-08,"12",337159,63235847,0.00187759,"ukb-a-112","rs147713009","A","G",0.0101291,"Non-cancer illness code  self-reported: polio / poliomyelitis || id:ukb-a-112",TRUE,"reported","igd"

@@ -1,0 +1,14 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,210683950,G,A,0.139984,0.110545,0.0231975,1.88503e-06,rs17775871,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+3,67290058,A,G,0.0230098,0.246396,0.0535915,4.27228e-06,rs112048572,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+3,80395732,C,T,0.147565,-0.107992,0.0225817,1.73321e-06,rs17817733,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+5,1182536,T,C,0.483754,0.0755722,0.0159689,2.21806e-06,rs13180948,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+5,111230662,T,C,0.0641376,0.155386,0.0331841,2.83363e-06,rs114378220,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+7,7602420,G,T,0.017385,0.28713,0.0611156,2.62535e-06,rs377596054,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+7,110842497,G,C,0.0186661,-0.284198,0.059459,1.75523e-06,rs79931337,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+7,129532368,T,G,0.0684614,0.154303,0.0317392,1.16451e-06,rs76174232,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+9,19583122,C,G,0.186076,0.104344,0.0206749,4.49073e-07,rs12345219,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+10,76404213,T,C,0.0295123,-0.215616,0.0470506,4.59135e-06,rs77246171,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+11,64792426,C,T,0.268711,0.0839602,0.0182118,4.02288e-06,rs10897526,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+18,2679141,T,C,0.0324129,0.223242,0.0451946,7.8297e-07,rs111435668,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp
+18,9675267,C,A,0.0367461,0.2177,0.0426447,3.30851e-07,rs79804844,7614,Salicylate to taurocholate ratio,TRUE,reported,ad5ogp

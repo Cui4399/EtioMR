@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+7,132553252,rs6467443,T,G,0.0997,2.911e-22,0.010275,35355,0.18543,PLXNA4_PLXA4,TRUE,reported,PLXNA4_PLXA4

@@ -1,0 +1,4 @@
+"pos.exposure","chr.exposure","pval.exposure","samplesize.exposure","se.exposure","beta.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+160816409,"6",1.72088e-08,259921,0.00293885,0.0165696,"ukb-a-217","rs1510226","C","T",0.0196976,"Illnesses of siblings: Heart disease || id:ukb-a-217",TRUE,"reported","igd"
+160985526,"6",3.31055e-22,259921,0.00150008,0.0145378,"ukb-a-217","rs118039278","A","G",0.0809062,"Illnesses of siblings: Heart disease || id:ukb-a-217",TRUE,"reported","igd"
+22124450,"9",1.18222e-14,259921,0.000813905,0.00628204,"ukb-a-217","rs10757277","G","A",0.480999,"Illnesses of siblings: Heart disease || id:ukb-a-217",TRUE,"reported","igd"

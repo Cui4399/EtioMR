@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+3,133469440,rs115684737,C,T,0.168681,1.05654986776309e-09,0.0276498,33995,0.0183998,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133533525,rs12630919,C,T,0.0714712,6.27913759680094e-13,0.00993446,33995,0.237023,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133674805,rs112227893,T,A,-0.301233,6.18158720057992e-20,0.0329536,33995,0.0136835,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133716632,rs149591457,C,A,-0.376992,5.3988343199921e-30,0.0331342,33995,0.0131705,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133726716,rs149838918,T,C,-0.316794,1.473329891232e-29,0.0280602,33995,0.0186064,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133758008,rs3811658,T,C,0.317507,1e-200,0.00782905,33995,0.347718,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133834039,rs1880666,T,G,-0.131326,1.22800461798878e-40,0.00983916,33995,0.176687,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133839310,rs2280673,C,A,-0.0580755,1.23395692613962e-13,0.00783418,33995,0.654758,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133889504,rs7641134,A,G,0.0966821,2.56035390600421e-12,0.0138118,33995,0.0793031,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis
+3,133988030,rs9809190,G,A,-0.0624671,2.67546947265611e-16,0.00762991,33995,0.415142,tf_p02787_oid30783_v1_inflammation_ii,TRUE,reported,tf_p02787_oid30783_v1_inflammation_ii,chr3,133661985,cis

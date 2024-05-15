@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,44015012,rs10793518,G,A,0.0751,2.897e-14,0.009878,35323,0.22326,EPYC_Epiphycan,TRUE,reported,EPYC_Epiphycan
+10,44395099,rs11239032,T,C,0.1592,1.288e-09,0.026232,35323,0.02582,EPYC_Epiphycan,TRUE,reported,EPYC_Epiphycan
+10,44397783,rs72790869,T,C,-0.0631,7.217e-09,0.010906,35323,0.17088,EPYC_Epiphycan,TRUE,reported,EPYC_Epiphycan
+10,44575864,rs10900074,A,G,0.0636,1.388e-14,0.008262,35322,0.48143,EPYC_Epiphycan,TRUE,reported,EPYC_Epiphycan

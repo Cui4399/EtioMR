@@ -1,0 +1,5 @@
+pos.exposure,chr.exposure,pval.exposure,samplesize.exposure,se.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+165314063,1,1.49799e-10,2919,0.07664,-0.4927,ebi-a-GCST90001853,rs35055340,T,C,0.0324,CD3 on activated CD4 regulatory T cell || id:ebi-a-GCST90001853,TRUE,reported,igd
+166464476,1,3.82472e-13,2919,0.0384,-0.2802,ebi-a-GCST90001853,rs12138291,A,G,0.1482,CD3 on activated CD4 regulatory T cell || id:ebi-a-GCST90001853,TRUE,reported,igd
+167424924,1,7.26106e-122,2919,0.02511,0.6184,ebi-a-GCST90001853,rs2949661,T,C,0.4466,CD3 on activated CD4 regulatory T cell || id:ebi-a-GCST90001853,TRUE,reported,igd
+168306279,1,3.99402e-09,2919,0.1046,-0.6177,ebi-a-GCST90001853,rs114672530,A,G,0.0173,CD3 on activated CD4 regulatory T cell || id:ebi-a-GCST90001853,TRUE,reported,igd

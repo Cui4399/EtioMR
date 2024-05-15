@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,55229837,A,G,0.160306,-0.157905,0.0210476,6.27056e-14,rs3826886,8264,1-(1-enyl-palmitoyl)-2-oleoyl-GPE (p-16:0/18:1) levels,TRUE,reported,F6x8lg

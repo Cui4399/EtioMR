@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+1,109525165,rs114382843,C,T,-0.105444,3.2419775266597e-08,0.0190751,32862,0.0429067,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109567902,rs149430394,T,C,-0.150624,1.04397476257347e-09,0.0246822,32862,0.0279644,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109571336,rs115394162,C,A,0.18327,3.02621653576334e-17,0.0217002,32862,0.0330691,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109588019,rs12033376,T,A,0.0947006,2.36319739915402e-21,0.00998146,32862,0.184315,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109628106,rs34030799,A,G,0.26412,1.40863994636126e-25,0.0252656,32862,0.0237813,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109658958,rs650985,T,C,0.124018,3.81329145276778e-16,0.0152275,32862,0.928503,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109686291,rs36210087,G,C,0.29572,2.81449187981215e-17,0.0349799,32862,0.0160057,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109687165,rs36209093,T,C,-0.370714,1e-200,0.009249,32862,0.677155,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109712974,rs4970773,G,C,-0.127595,5.87083669396274e-49,0.00867622,32862,0.281058,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis
+1,109735215,rs55976937,T,A,0.188791,1.19591413769408e-12,0.0265684,32862,0.0223159,gstm4_q03013_oid30164_v1_cardiometabolic_ii,TRUE,reported,gstm4_q03013_oid30164_v1_cardiometabolic_ii,chr1,109656075,cis

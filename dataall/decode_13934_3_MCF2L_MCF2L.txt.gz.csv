@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+13,112861261,rs1006879,T,C,-0.0606,8.849e-14,0.008127,34912,0.49609,MCF2L_MCF2L,TRUE,reported,MCF2L_MCF2L
+13,112924107,rs3011487,C,T,0.2089,6.985e-149,0.008039,34900,0.48488,MCF2L_MCF2L,TRUE,reported,MCF2L_MCF2L
+13,113057547,rs113051014,A,G,-0.1253,1.946e-11,0.018674,34874,0.04722,MCF2L_MCF2L,TRUE,reported,MCF2L_MCF2L

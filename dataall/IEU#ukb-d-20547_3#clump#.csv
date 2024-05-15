@@ -1,0 +1,3 @@
+"pval.exposure","chr.exposure","se.exposure","beta.exposure","samplesize.exposure","pos.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3.58187e-08,"5",0.00558568,0.0307809,117763,126585195,"ukb-d-20547_3","rs144141556","A","G",0.0104578,"Activities undertaken to treat depression: Other therapeutic activities such as mindfulness, yoga or art classes || id:ukb-d-20547_3",TRUE,"reported","igd"
+2.63597e-08,"6",0.0015736,0.00875616,117763,28682442,"ukb-d-20547_3","rs9393925","C","T",0.859626,"Activities undertaken to treat depression: Other therapeutic activities such as mindfulness, yoga or art classes || id:ukb-d-20547_3",TRUE,"reported","igd"

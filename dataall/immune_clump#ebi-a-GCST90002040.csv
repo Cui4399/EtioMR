@@ -1,0 +1,4 @@
+pval.exposure,chr.exposure,samplesize.exposure,beta.exposure,se.exposure,pos.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3.36403e-08,1,2850,-0.2078,0.03753,236105910,ebi-a-GCST90002040,rs1886654,C,T,0.8374,CD80 on granulocyte || id:ebi-a-GCST90002040,TRUE,reported,igd
+1.77215e-14,8,2850,-0.2231,0.02895,6801712,ebi-a-GCST90002040,rs2981398,G,A,0.3354,CD80 on granulocyte || id:ebi-a-GCST90002040,TRUE,reported,igd
+2.53922e-15,8,2850,-0.6716,0.08441,6828813,ebi-a-GCST90002040,rs12675298,A,G,0.0277,CD80 on granulocyte || id:ebi-a-GCST90002040,TRUE,reported,igd

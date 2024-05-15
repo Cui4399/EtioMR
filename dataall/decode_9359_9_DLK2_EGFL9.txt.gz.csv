@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,43242372,rs9462880,T,C,0.0536,2.933e-10,0.008505,35368,0.35402,DLK2_EGFL9,TRUE,reported,DLK2_EGFL9
+6,43385897,rs113789029,A,T,0.1332,5.269e-16,0.016434,35368,0.0667,DLK2_EGFL9,TRUE,reported,DLK2_EGFL9
+6,43445127,rs2125739,C,T,-0.1848,3.076e-85,0.009445,35366,0.24693,DLK2_EGFL9,TRUE,reported,DLK2_EGFL9

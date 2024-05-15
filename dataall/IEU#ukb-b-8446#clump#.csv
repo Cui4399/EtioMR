@@ -1,0 +1,3 @@
+"beta.exposure","pval.exposure","samplesize.exposure","pos.exposure","se.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00338985,1.79999e-08,462725,15087465,0.000602517,"4","ukb-b-8446","rs2702557","C","T",0.645526,"Answered sexual history questions || id:ukb-b-8446",TRUE,"reported","igd"
+0.00326093,1.7e-08,462725,71459146,0.000577963,"16","ukb-b-8446","rs12930148","T","G",0.441844,"Answered sexual history questions || id:ukb-b-8446",TRUE,"reported","igd"

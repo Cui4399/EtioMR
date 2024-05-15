@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+19,15879621,T,C,0.274106,-0.211418,0.0196247,4.61516e-27,rs2108622,6305,Gamma-CEHC glucuronide levels,TRUE,reported,ZBF7Vs

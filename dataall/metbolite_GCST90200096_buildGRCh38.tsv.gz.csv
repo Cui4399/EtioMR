@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,156797659,C,T,0.273605,0.105134,0.0228423,4.17245e-06,rs2131801,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+3,73917739,C,A,0.0601722,0.198263,0.0433701,4.84414e-06,rs28593138,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+4,13943076,A,G,0.0706629,0.184948,0.0404762,4.89327e-06,rs75069734,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+4,181508975,G,C,0.0338169,0.257533,0.0563787,4.92617e-06,rs6830244,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+5,11039606,T,G,0.0269288,0.29962,0.0634927,2.37051e-06,rs76193259,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+7,138891629,G,C,0.0234747,0.309297,0.0671463,4.09872e-06,rs58693122,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+8,111477803,A,C,0.88296,-0.152018,0.0315872,1.48938e-06,rs2606201,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+9,76074322,G,A,0.656411,0.100936,0.022102,4.95124e-06,rs10781331,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+10,48302771,C,T,0.11278,0.148164,0.0323845,4.75918e-06,rs35009243,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+10,105108553,G,A,0.120386,0.149109,0.0311377,1.67865e-06,rs60520527,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+13,99462109,A,G,0.201634,0.115998,0.0253648,4.8037e-06,rs17610347,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+14,33684036,C,T,0.674055,-0.100965,0.0219598,4.27183e-06,rs1958556,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+17,45629062,G,A,0.0145579,0.405411,0.0835275,1.21228e-06,rs142822273,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4
+18,70606871,T,G,0.191997,-0.127945,0.0262974,1.14281e-06,rs200297946,4698,Catechol glucuronide levels,TRUE,reported,O2L1o4

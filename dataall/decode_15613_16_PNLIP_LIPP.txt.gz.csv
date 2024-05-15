@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,116422059,rs78206436,T,G,-0.1791,1.91e-11,0.026681,35378,0.02369,PNLIP_LIPP,TRUE,reported,PNLIP_LIPP
+10,116639325,rs147414236,C,A,-0.3002,4.933e-16,0.037002,35377,0.01222,PNLIP_LIPP,TRUE,reported,PNLIP_LIPP
+10,117175598,rs142847612,G,C,-0.2261,3.161e-11,0.034057,35381,0.01485,PNLIP_LIPP,TRUE,reported,PNLIP_LIPP

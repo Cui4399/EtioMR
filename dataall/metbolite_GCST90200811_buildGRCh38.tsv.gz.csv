@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,64529200,G,C,0.0136095,-0.389755,0.0695339,2.07958e-08,rs113867701,7625,Choline to taurocholate ratio,TRUE,reported,89qHzK
+17,10808360,A,C,0.0805337,0.173969,0.0303202,9.5957e-09,rs76149982,7625,Choline to taurocholate ratio,TRUE,reported,89qHzK
+20,56717423,G,A,0.478218,0.0886531,0.0161648,4.15048e-08,rs2426643,7625,Choline to taurocholate ratio,TRUE,reported,89qHzK

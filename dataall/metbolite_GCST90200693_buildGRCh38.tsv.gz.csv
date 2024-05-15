@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+10,99643566,C,T,0.0543439,-0.303796,0.0330569,3.92486e-20,rs185979634,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+10,100027707,T,C,0.0148207,0.353403,0.0630027,2.03119e-08,rs146931915,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+12,20801149,G,A,0.0339699,-0.26956,0.0417894,1.11515e-10,rs139619388,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+12,20979253,G,A,0.0527467,0.493934,0.0331514,3.32793e-50,rs7306128,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+12,20979640,G,A,0.0527467,0.493934,0.0331514,3.32793e-50,rs11829410,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+12,21204797,T,C,0.189643,0.739612,0.0174866,1e-200,rs56165099,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+12,21293298,G,A,0.134873,-0.41531,0.0215505,9.32064e-83,rs10770795,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr
+17,50679576,T,C,0.349222,-0.142035,0.015955,5.47357e-19,rs3785912,8236,Glycochenodeoxycholate glucuronide (1) levels,TRUE,reported,09qVnr

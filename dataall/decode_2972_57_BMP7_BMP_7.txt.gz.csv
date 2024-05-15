@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+20,57260984,rs6123685,A,G,0.0628,7.204e-11,0.009637,35388,0.23171,BMP7_BMP_7,TRUE,reported,BMP7_BMP_7

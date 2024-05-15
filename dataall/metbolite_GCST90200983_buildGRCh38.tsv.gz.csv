@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,61822009,G,A,0.301237,0.275463,0.0170658,1.30997e-58,rs28456,7624,Cholesterol to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Lrnxy0
+19,19551411,T,C,0.0779937,0.181812,0.0298218,1.08341e-09,rs17216525,7624,Cholesterol to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Lrnxy0
+19,44915533,C,T,0.224199,-0.173394,0.0190009,7.13375e-20,rs5117,7624,Cholesterol to linoleoyl-arachidonoyl-glycerol (18:2 to 20:4) [1] ratio,TRUE,reported,Lrnxy0

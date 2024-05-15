@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,75534593,rs186202413,G,A,-0.1331,1.113e-08,0.0233,35361,0.03103,SERPINH1_Collagen_binding_protein,TRUE,reported,SERPINH1_Collagen_binding_protein
+11,75566583,rs584961,G,A,-0.1004,1.381e-15,0.01257,35360,0.11294,SERPINH1_Collagen_binding_protein,TRUE,reported,SERPINH1_Collagen_binding_protein
+11,75581004,rs514887,A,G,0.1232,1.072e-52,0.008064,35360,0.44086,SERPINH1_Collagen_binding_protein,TRUE,reported,SERPINH1_Collagen_binding_protein
+11,75715554,rs648618,C,G,0.0784,6.024e-20,0.008574,35361,0.32679,SERPINH1_Collagen_binding_protein,TRUE,reported,SERPINH1_Collagen_binding_protein

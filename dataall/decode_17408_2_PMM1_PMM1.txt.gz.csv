@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+22,41599331,rs8139993,C,T,-0.0604,1.375e-08,0.01064,35372,0.15402,PMM1_PMM1,TRUE,reported,PMM1_PMM1

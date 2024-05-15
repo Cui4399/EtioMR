@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+9,33161833,rs78611512,C,G,0.2857,4.136e-18,0.032934,35349,0.01514,SPINK4_ISK4,TRUE,reported,SPINK4_ISK4
+9,33202415,rs147969234,A,T,0.2208,2.948e-15,0.027974,35349,0.02171,SPINK4_ISK4,TRUE,reported,SPINK4_ISK4
+9,33234041,rs1630171,G,A,0.2788,6.624e-139,0.011113,35348,0.15268,SPINK4_ISK4,TRUE,reported,SPINK4_ISK4
+9,33762137,rs10758227,T,C,-0.0535,6.55e-10,0.008662,35350,0.31512,SPINK4_ISK4,TRUE,reported,SPINK4_ISK4

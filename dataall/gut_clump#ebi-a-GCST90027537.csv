@@ -1,0 +1,3 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+7,18636561,0.0965996,0.0198604,1.1508e-06,7738,ebi-a-GCST90027537,rs2239926,C,G,0.276888,PWY.5022..4.aminobutanoate.degradation.V,TRUE,reported,igd
+14,56515574,-0.174867,0.0362802,1.43625e-06,7738,ebi-a-GCST90027537,rs117829634,G,A,0.0747059,PWY.5022..4.aminobutanoate.degradation.V,TRUE,reported,igd

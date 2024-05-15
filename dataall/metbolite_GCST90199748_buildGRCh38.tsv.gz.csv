@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,151572020,A,G,0.916688,-0.133532,0.027037,7.857e-07,rs10888422,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+4,30032608,C,T,0.779116,-0.089604,0.0185774,1.41224e-06,rs12504891,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+4,156785921,A,G,0.0502668,-0.159145,0.0338625,2.60512e-06,rs116530753,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+7,10226349,A,G,0.710401,-0.0752503,0.0162363,3.57456e-06,rs7803343,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+7,109493474,G,T,0.0159326,0.278199,0.0588566,2.28168e-06,rs116049246,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+8,81655670,A,G,0.0297018,-0.223627,0.0434269,2.61156e-07,rs117966847,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+10,128246343,C,T,0.235741,-0.0847086,0.0176497,1.59105e-06,rs58797085,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+16,86153053,A,G,0.0225142,-0.242749,0.049661,1.01801e-06,rs117428363,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+20,14105291,A,G,0.0432393,-0.169713,0.035727,2.0315e-06,rs75168972,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ
+21,39201944,A,G,0.0209091,-0.235332,0.0511061,4.12911e-06,rs80053496,8257,Linolenate [alpha or gamma; (18:3n3 or 6)] levels,TRUE,reported,0g9mOQ

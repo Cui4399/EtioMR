@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,2000345,rs3743846,G,A,-0.0661,4.445e-11,0.010033,35317,0.20389,GFER_HERV1,TRUE,reported,GFER_HERV1

@@ -1,0 +1,6 @@
+"beta.exposure","se.exposure","pval.exposure","pos.exposure","chr.exposure","samplesize.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+-0.00246355,0.0002903,2.09991e-17,56111309,"2",462933,"ukb-b-20332","rs3791675","T","C",0.234426,"Operation code: inguinal hernia repair || id:ukb-b-20332",TRUE,"reported","igd"
+0.00180645,0.000271013,2.60016e-11,64370718,"5",462933,"ukb-b-20332","rs264746","C","T",0.708976,"Operation code: inguinal hernia repair || id:ukb-b-20332",TRUE,"reported","igd"
+0.00252667,0.000250554,6.4998e-24,25718059,"8",462933,"ukb-b-20332","rs6988186","C","T",0.408772,"Operation code: inguinal hernia repair || id:ukb-b-20332",TRUE,"reported","igd"
+0.00162461,0.000274075,3.09999e-09,25387841,"8",462933,"ukb-b-20332","rs7825102","C","T",0.279303,"Operation code: inguinal hernia repair || id:ukb-b-20332",TRUE,"reported","igd"
+-0.00199302,0.000357589,2.5e-08,76128279,"14",462933,"ukb-b-20332","rs6574250","T","C",0.862154,"Operation code: inguinal hernia repair || id:ukb-b-20332",TRUE,"reported","igd"

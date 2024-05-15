@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+5,56626273,T,A,0.0148287,0.357575,0.0638554,2.14659e-08,rs116522067,8299,N-methylproline levels,TRUE,reported,25vQcY
+5,79070503,G,T,0.789531,-0.0954805,0.0189082,4.4252e-07,rs670220,8299,N-methylproline levels,TRUE,reported,25vQcY
+9,7489047,C,T,0.503019,0.0719868,0.0153505,2.73833e-06,rs10815617,8299,N-methylproline levels,TRUE,reported,25vQcY
+11,8591998,TA,T,0.0558111,-0.154009,0.033544,4.40568e-06,rs367966540,8299,N-methylproline levels,TRUE,reported,25vQcY
+11,45946955,T,C,0.0137726,-0.303954,0.0662657,4.49886e-06,rs118097121,8299,N-methylproline levels,TRUE,reported,25vQcY
+12,30039298,A,G,0.0131515,0.312188,0.0675513,3.80992e-06,rs7964353,8299,N-methylproline levels,TRUE,reported,25vQcY
+12,39929022,G,A,0.0374351,-0.193808,0.0407027,1.92109e-06,rs17127277,8299,N-methylproline levels,TRUE,reported,25vQcY
+12,76708285,A,C,0.306064,-0.0777105,0.0168595,4.04007e-06,rs34630226,8299,N-methylproline levels,TRUE,reported,25vQcY
+14,69907405,A,G,0.897204,-0.117282,0.0256687,4.89934e-06,rs1275842,8299,N-methylproline levels,TRUE,reported,25vQcY
+15,34709893,A,G,0.0888755,0.13124,0.0270869,1.26513e-06,rs28501211,8299,N-methylproline levels,TRUE,reported,25vQcY

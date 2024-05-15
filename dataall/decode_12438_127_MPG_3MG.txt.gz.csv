@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+16,74696,rs2562156,A,C,0.281,1.948e-22,0.028837,35307,0.01971,MPG_3MG,TRUE,reported,MPG_3MG

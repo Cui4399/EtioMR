@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"8",593041,"rs3735933","G","A",1.2304463443e-10,0.848905166038,0.131909166117156,89,"TREG_NAIVE#ERICH1",TRUE,"reported","IanD1B",NA

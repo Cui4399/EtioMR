@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,176643894,C,G,0.340008,0.0983106,0.0167833,4.69453e-09,rs2594950,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6
+5,35967898,A,C,0.147178,0.159672,0.0221564,5.73677e-13,rs10491431,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6
+11,63146300,G,C,0.060254,0.40501,0.0327994,4.98852e-35,rs80237154,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6
+12,21161802,A,G,0.185107,-0.125491,0.0201461,4.69281e-10,rs11045806,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6
+12,21178615,C,T,0.157362,0.253066,0.0213692,2.3518e-32,rs4149056,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6
+17,50675239,T,C,0.355231,-0.102332,0.016413,4.52426e-10,rs4148415,7905,Pregnanediol-3-glucuronide levels,TRUE,reported,JqQwb6

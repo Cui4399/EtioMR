@@ -1,0 +1,4 @@
+"samplesize.exposure","se.exposure","chr.exposure","pos.exposure","beta.exposure","pval.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+461894,0.000939716,"6",31363026,0.0064659,6.00067e-12,"ukb-b-15784","rs2523466","T","G",0.228331,"Main speciality of consultant (recoded): General medicine || id:ukb-b-15784",TRUE,"reported","igd"
+461894,0.00145906,"6",161005610,0.00825617,1.5e-08,"ukb-b-15784","rs55730499","T","C",0.079715,"Main speciality of consultant (recoded): General medicine || id:ukb-b-15784",TRUE,"reported","igd"
+461894,0.0024572,"12",68206219,0.0142611,6.49995e-09,"ukb-b-15784","rs12813285","A","G",0.026526,"Main speciality of consultant (recoded): General medicine || id:ukb-b-15784",TRUE,"reported","igd"

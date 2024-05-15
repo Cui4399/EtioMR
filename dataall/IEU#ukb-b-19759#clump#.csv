@@ -1,0 +1,3 @@
+"pos.exposure","se.exposure","samplesize.exposure","beta.exposure","pval.exposure","chr.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+3467505,0.000250876,462933,0.002164,6.4003e-18,"4","ukb-b-19759","rs6815437","A","G",0.132234,"Treatment/medication code: quinine || id:ukb-b-19759",TRUE,"reported","igd"
+47441356,0.000246729,462933,0.00136012,3.50002e-08,"11","ukb-b-19759","rs3781628","T","G",0.13762,"Treatment/medication code: quinine || id:ukb-b-19759",TRUE,"reported","igd"

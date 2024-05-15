@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,68496583,G,T,0.63825,-0.190591,0.014452,1.03104e-39,rs2278921,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+4,68501356,C,T,0.667605,0.103004,0.0143246,6.44461e-13,rs2603152,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+7,99477415,C,T,0.0331823,-0.839892,0.0366854,5.27483e-116,rs148982377,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+8,125469835,G,A,0.509404,-0.0747337,0.0136104,3.99881e-08,rs2954021,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+10,95080278,T,C,0.120518,-0.213333,0.0208908,1.75478e-24,rs182566136,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+12,21164857,T,C,0.339428,-0.0840943,0.0141294,2.65344e-09,rs4149032,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+12,21208114,TTTC,T,0.1563,0.179915,0.0184744,2.06373e-22,rs151231052,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos
+19,47871693,A,C,0.16026,-0.334322,0.0181173,4.92117e-76,rs62129966,8192,"Androstenediol (3alpha, 17alpha) monosulfate (3) levels",TRUE,reported,R51Uos

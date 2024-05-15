@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62494579,C,T,0.670239,0.158664,0.0159623,2.79023e-23,rs1168041,8113,1-stearoyl-2-linoleoyl-GPI (18:0/18:2) levels,TRUE,reported,rinObl
+2,57988691,A,G,0.0489057,0.195456,0.0344636,1.41665e-08,rs78603490,8113,1-stearoyl-2-linoleoyl-GPI (18:0/18:2) levels,TRUE,reported,rinObl
+11,61825533,G,A,0.346448,0.207588,0.0154731,4.86869e-41,rs174567,8113,1-stearoyl-2-linoleoyl-GPI (18:0/18:2) levels,TRUE,reported,rinObl
+19,54173495,C,T,0.564235,-0.209748,0.0151526,1.41325e-43,rs8736,8113,1-stearoyl-2-linoleoyl-GPI (18:0/18:2) levels,TRUE,reported,rinObl

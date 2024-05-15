@@ -1,0 +1,2 @@
+"chr.exposure","pos.exposure","SNP","other_allele.exposure","effect_allele.exposure","pval.exposure","beta.exposure","se.exposure","samplesize.exposure","exposure","mr_keep.exposure","pval_origin.exposure","id.exposure","eaf.exposure"
+"3",124513644,"rs57126302","C","CAAGA",1.43341663048e-06,0.880801943921,0.182727575339949,89,"CD4_NAIVE#UMPS",TRUE,"reported","PkjOzo",NA

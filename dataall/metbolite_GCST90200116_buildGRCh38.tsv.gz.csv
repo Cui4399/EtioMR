@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+14,63765502,A,G,0.168905,0.258143,0.021654,9.16897e-33,rs7160525,7270,"Ceramide (d18:1/14:0, d16:1/16:0) levels",TRUE,reported,LOUOCi

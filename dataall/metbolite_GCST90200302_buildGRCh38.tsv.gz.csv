@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,62436136,A,C,0.336291,-0.0956491,0.0162684,4.11696e-09,rs631106,8192,Alpha-tocopherol levels,TRUE,reported,1EsxGV

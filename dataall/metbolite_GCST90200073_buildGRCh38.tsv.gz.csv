@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+6,11089296,T,G,0.228787,0.111781,0.0179331,4.56847e-10,rs111676697,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA
+8,125487789,G,C,0.423106,-0.0928799,0.0152936,1.25449e-09,rs28601761,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA
+11,61814292,C,T,0.305884,-0.314042,0.0160757,5.51808e-85,rs174560,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA
+15,89127273,T,C,0.39142,-0.0986494,0.0158029,4.3062e-10,rs4932474,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA
+16,56960616,T,C,0.325729,0.0968277,0.0160793,1.7238e-09,rs17231506,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA
+19,19268740,T,C,0.0758912,-0.268266,0.0287406,1.01915e-20,rs58542926,8063,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) levels,TRUE,reported,7I9UvA

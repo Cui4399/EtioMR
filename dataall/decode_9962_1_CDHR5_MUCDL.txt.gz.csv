@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,620927,rs12360820,C,A,0.0702,2.566e-11,0.010525,35357,0.17775,CDHR5_MUCDL,TRUE,reported,CDHR5_MUCDL

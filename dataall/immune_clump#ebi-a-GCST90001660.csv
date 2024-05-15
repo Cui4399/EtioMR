@@ -1,0 +1,8 @@
+samplesize.exposure,pval.exposure,pos.exposure,chr.exposure,se.exposure,beta.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+3408,3.85301e-59,97741071,10,0.0249,-0.4118,ebi-a-GCST90001660,rs10882701,C,A,0.5139,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,1.06611e-27,97016742,10,0.04545,0.5001,ebi-a-GCST90001660,rs202211780,G,A,0.088,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,1.11789e-18,97294154,10,0.05056,0.4486,ebi-a-GCST90001660,rs72809762,T,C,0.0675,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,1.17706e-11,98794615,10,0.02711,-0.1846,ebi-a-GCST90001660,rs12268044,T,C,0.3446,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,1e-200,97605057,10,0.01927,1.015,ebi-a-GCST90001660,rs7074403,G,C,0.4688,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,1.13501e-20,98169221,10,0.05593,0.5248,ebi-a-GCST90001660,rs141018090,T,G,0.0524,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd
+3408,3.14268e-14,97069472,10,0.02869,-0.2188,ebi-a-GCST90001660,rs10786199,A,G,0.2895,CD39+ CD4+ T cell Absolute Count || id:ebi-a-GCST90001660,TRUE,reported,igd

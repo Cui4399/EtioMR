@@ -1,0 +1,6 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,27519736,C,T,0.597767,-0.103893,0.015698,3.63464e-11,rs780093,8248,Alanine to asparagine ratio,TRUE,reported,R05Bwy
+11,62344818,T,A,0.878026,-0.133226,0.0236159,1.68684e-08,rs2463820,8248,Alanine to asparagine ratio,TRUE,reported,R05Bwy
+14,103530911,A,C,0.72772,-0.100229,0.0172435,6.15155e-09,rs2021965,8248,Alanine to asparagine ratio,TRUE,reported,R05Bwy
+14,104105483,G,C,0.129928,-0.483398,0.0222685,1.73454e-104,rs2282377,8248,Alanine to asparagine ratio,TRUE,reported,R05Bwy
+15,52403871,C,T,0.11006,0.13844,0.0250703,3.35041e-08,rs2693467,8248,Alanine to asparagine ratio,TRUE,reported,R05Bwy

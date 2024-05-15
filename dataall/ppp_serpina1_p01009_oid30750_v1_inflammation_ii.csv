@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure,chr_prot,tss,cis_trans
+14,94000577,rs7156448,G,A,-0.0543125,8.01678063387679e-12,0.00794245,33348,0.379379,serpina1_p01009_oid30750_v1_inflammation_ii,TRUE,reported,serpina1_p01009_oid30750_v1_inflammation_ii,chr14,94390692,cis
+14,94375487,rs1884546,T,C,0.106796,1.82725853869978e-21,0.0112247,33348,0.137612,serpina1_p01009_oid30750_v1_inflammation_ii,TRUE,reported,serpina1_p01009_oid30750_v1_inflammation_ii,chr14,94390692,cis
+14,94378610,rs28929474,T,C,-0.498366,5.95936519255935e-77,0.0268417,33348,0.0208258,serpina1_p01009_oid30750_v1_inflammation_ii,TRUE,reported,serpina1_p01009_oid30750_v1_inflammation_ii,chr14,94390692,cis
+14,94380925,rs17580,A,T,-0.374366,3.70680721782578e-100,0.0176218,33348,0.0495982,serpina1_p01009_oid30750_v1_inflammation_ii,TRUE,reported,serpina1_p01009_oid30750_v1_inflammation_ii,chr14,94390692,cis

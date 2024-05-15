@@ -1,0 +1,9 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,42984240,A,G,0.0401528,0.217575,0.0416046,1.69896e-07,rs744701,6958,3-methyladipate levels,TRUE,reported,guRUDi
+2,43853903,C,T,0.563553,0.073504,0.0160987,4.97529e-06,rs4077440,6958,3-methyladipate levels,TRUE,reported,guRUDi
+3,193748577,G,A,0.0367625,-0.201074,0.0434015,3.60593e-06,rs114174630,6958,3-methyladipate levels,TRUE,reported,guRUDi
+6,24484953,G,A,0.111634,-0.131005,0.0257917,3.7871e-07,rs7765441,6958,3-methyladipate levels,TRUE,reported,guRUDi
+6,25799448,A,G,0.545664,-0.082389,0.01622,3.78491e-07,rs1165213,6958,3-methyladipate levels,TRUE,reported,guRUDi
+10,101697373,A,G,0.0366277,-0.216796,0.042785,4.03914e-07,rs181282951,6958,3-methyladipate levels,TRUE,reported,guRUDi
+12,107509424,G,A,0.415551,-0.0750105,0.0162233,3.77092e-06,rs12312679,6958,3-methyladipate levels,TRUE,reported,guRUDi
+21,28064550,A,C,0.568425,0.0813716,0.0164568,7.63147e-07,rs735862,6958,3-methyladipate levels,TRUE,reported,guRUDi

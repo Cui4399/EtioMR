@@ -1,0 +1,11 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,53206356,G,A,0.225549,-0.143505,0.0175619,3.04808e-16,rs11581518,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+2,210675783,A,C,0.308908,0.312082,0.015444,8.43861e-91,rs1047891,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+2,216012540,C,CCT,0.096973,-0.226423,0.0244766,2.23253e-20,rs35807695,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+3,67375857,C,T,0.118816,0.158208,0.0223605,1.49129e-12,rs35494829,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+6,160122116,T,C,0.069276,0.27557,0.0283243,2.26597e-22,rs12208357,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+6,160154334,A,G,0.164183,0.165952,0.0195212,1.87768e-17,rs11753995,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+9,6540540,C,T,0.291032,-0.106111,0.0158781,2.34315e-11,rs2297442,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+9,6664708,T,G,0.142552,-0.356915,0.0207775,3.88555e-66,rs1755618,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+10,59709780,C,T,0.770351,0.0996742,0.0176693,1.68982e-08,rs1171614,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78
+20,46616207,C,T,0.177131,-0.114767,0.0191199,1.94313e-09,rs3092098,8220,3-methylglutarylcarnitine (2) levels,TRUE,reported,EQzJ78

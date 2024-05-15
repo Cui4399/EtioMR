@@ -1,0 +1,5 @@
+"pos.exposure","samplesize.exposure","chr.exposure","pval.exposure","beta.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+104064726,364465,"2",5.00035e-12,-0.00914408,0.00132429,"ukb-b-6811","rs1368549","T","G",0.509744,"Time spent outdoors in winter || id:ukb-b-6811",TRUE,"reported","igd"
+98322872,364465,"6",2.09991e-18,-0.0116151,0.001327,"ukb-b-6811","rs4580876","A","G",0.475307,"Time spent outdoors in winter || id:ukb-b-6811",TRUE,"reported","igd"
+103831598,364465,"10",1.2e-09,0.0105455,0.00173287,"ukb-b-6811","rs11191205","A","G",0.180599,"Time spent outdoors in winter || id:ukb-b-6811",TRUE,"reported","igd"
+53175966,364465,"18",8e-10,0.00843515,0.0013725,"ukb-b-6811","rs12956276","A","G",0.355619,"Time spent outdoors in winter || id:ukb-b-6811",TRUE,"reported","igd"

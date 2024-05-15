@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,112144879,G,A,0.586112,0.0718035,0.0153555,2.92438e-06,rs155647,8252,Leucine levels,TRUE,reported,vVBhon
+2,45289473,T,C,0.0506613,0.155813,0.0338945,4.28617e-06,rs17033387,8252,Leucine levels,TRUE,reported,vVBhon
+2,64245979,G,C,0.264586,0.082946,0.017084,1.20267e-06,rs1529101,8252,Leucine levels,TRUE,reported,vVBhon
+2,120440832,A,G,0.0469167,0.168193,0.0352359,1.81204e-06,rs115369842,8252,Leucine levels,TRUE,reported,vVBhon
+5,102535423,T,A,0.18078,0.0937442,0.0194422,1.42339e-06,rs12654931,8252,Leucine levels,TRUE,reported,vVBhon
+5,142621588,T,C,0.0519481,0.164922,0.0339176,1.15949e-06,rs17223514,8252,Leucine levels,TRUE,reported,vVBhon
+6,168952193,C,G,0.100462,-0.120881,0.0248745,1.17613e-06,rs28743006,8252,Leucine levels,TRUE,reported,vVBhon
+9,32254860,G,A,0.0292582,-0.20604,0.0446223,3.8854e-06,rs147785826,8252,Leucine levels,TRUE,reported,vVBhon
+10,88911993,T,G,0.0816426,0.127328,0.027447,3.4999e-06,rs10887866,8252,Leucine levels,TRUE,reported,vVBhon
+11,117624230,C,A,0.0946858,-0.128212,0.0257255,6.23341e-07,rs7946890,8252,Leucine levels,TRUE,reported,vVBhon
+12,32407821,T,C,0.0153397,0.283169,0.0606122,2.9854e-06,rs140114695,8252,Leucine levels,TRUE,reported,vVBhon
+12,122410389,T,G,0.254439,0.0775614,0.0169707,4.86968e-06,rs11058034,8252,Leucine levels,TRUE,reported,vVBhon
+13,69504553,C,T,0.0183364,0.260485,0.0554595,2.64195e-06,rs145150132,8252,Leucine levels,TRUE,reported,vVBhon
+18,11079468,C,T,0.0167653,0.282225,0.0582548,1.26825e-06,rs76255768,8252,Leucine levels,TRUE,reported,vVBhon

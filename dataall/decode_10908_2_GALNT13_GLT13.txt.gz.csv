@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,153873982,rs16834610,T,C,0.1275,1.258e-11,0.018824,35338,0.04952,GALNT13_GLT13,TRUE,reported,GALNT13_GLT13

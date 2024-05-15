@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,119724280,G,C,0.673698,-0.141162,0.016456,9.64155e-18,rs662602,8206,Glycine to serine ratio,TRUE,reported,aDPuXE
+2,210675783,A,C,0.306588,0.453848,0.0158854,1.57833e-179,rs1047891,8206,Glycine to serine ratio,TRUE,reported,aDPuXE
+3,126190826,C,T,0.423507,0.123217,0.0156499,3.45297e-15,rs1992855,8206,Glycine to serine ratio,TRUE,reported,aDPuXE

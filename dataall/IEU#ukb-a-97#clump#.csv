@@ -1,0 +1,6 @@
+"beta.exposure","pval.exposure","samplesize.exposure","chr.exposure","pos.exposure","se.exposure","id.exposure","SNP","effect_allele.exposure","other_allele.exposure","eaf.exposure","exposure","mr_keep.exposure","pval_origin.exposure","data_source.exposure"
+0.00103034,7.12787e-09,337159,"2",233794821,0.000178012,"ukb-a-97","rs2944591","T","C",0.293054,"Non-cancer illness code  self-reported: nasal polyps || id:ukb-a-97",TRUE,"reported","igd"
+0.00107894,4.64269e-09,337159,"5",110401872,0.00018413,"ukb-a-97","rs1837253","C","T",0.739738,"Non-cancer illness code  self-reported: nasal polyps || id:ukb-a-97",TRUE,"reported","igd"
+0.0015426,1.40767e-14,337159,"6",32603798,0.000200442,"ukb-a-97","rs1391371","T","A",0.2065,"Non-cancer illness code  self-reported: nasal polyps || id:ukb-a-97",TRUE,"reported","igd"
+-0.00126813,9.53894e-12,337159,"9",6210099,0.00018612,"ukb-a-97","rs3939286","C","T",0.746844,"Non-cancer illness code  self-reported: nasal polyps || id:ukb-a-97",TRUE,"reported","igd"
+-0.00108436,3.40487e-11,337159,"10",9053132,0.0001636,"ukb-a-97","rs962993","T","C",0.423505,"Non-cancer illness code  self-reported: nasal polyps || id:ukb-a-97",TRUE,"reported","igd"

@@ -1,0 +1,15 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,64740940,T,C,0.0938613,0.117958,0.024888,2.14197e-06,rs12023256,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+2,14917610,T,C,0.216373,0.0889206,0.0176749,4.88219e-07,rs76937285,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+2,85731522,C,T,0.0766159,-0.129699,0.0272048,1.8653e-06,rs62163128,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+4,40659886,C,T,0.439095,0.07416,0.0150897,8.89591e-07,rs34991203,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+5,151567219,A,C,0.0792727,-0.127074,0.0268072,2.13424e-06,rs35225143,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+7,16352832,C,T,0.0398639,-0.168824,0.0366363,4.06322e-06,rs78435611,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+8,28150431,A,C,0.0409936,-0.168754,0.0368281,4.60123e-06,rs117698037,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+9,36749336,T,G,0.453728,-0.068592,0.0146221,2.71882e-06,rs4880005,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+10,114009013,A,C,0.34763,0.0739774,0.0154584,1.70507e-06,rs2480790,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+11,26647548,A,G,0.673464,-0.0742377,0.0153344,1.29022e-06,rs10734380,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+14,89682705,A,G,0.195991,-0.0855042,0.0184576,3.61339e-06,rs732912,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+17,17632331,C,G,0.0578442,-0.152965,0.0309178,7.51811e-07,rs7223804,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+17,46766285,G,A,0.0167757,-0.28008,0.0559961,5.68009e-07,rs146748702,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV
+20,18599724,C,T,0.0719049,-0.134022,0.0277659,1.38707e-06,rs78350689,8274,Alpha-ketoglutarate to glutamate ratio,TRUE,reported,f419yV

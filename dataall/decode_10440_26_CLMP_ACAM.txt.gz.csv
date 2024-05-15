@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+11,123100750,rs11218981,A,G,-0.0687,2.018e-08,0.012245,35361,0.12791,CLMP_ACAM,TRUE,reported,CLMP_ACAM
+11,123142563,rs6589969,C,T,0.0819,3.198e-23,0.008251,35358,0.46453,CLMP_ACAM,TRUE,reported,CLMP_ACAM
+11,123197533,rs7946718,G,A,0.2113,3.116e-142,0.008322,35355,0.4079,CLMP_ACAM,TRUE,reported,CLMP_ACAM
+11,123282289,rs7947203,G,A,0.0587,1.163e-12,0.008256,35350,0.45766,CLMP_ACAM,TRUE,reported,CLMP_ACAM

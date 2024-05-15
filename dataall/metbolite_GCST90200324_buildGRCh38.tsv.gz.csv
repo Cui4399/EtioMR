@@ -1,0 +1,13 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+1,234195047,T,A,0.0985891,0.149769,0.0303703,8.16377e-07,rs638155,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+1,234473943,T,A,0.30225,-0.0921491,0.0197977,3.2472e-06,rs850239,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+2,47841508,T,C,0.174996,-0.115706,0.023936,1.33828e-06,rs77503991,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+2,133020416,G,A,0.73839,-0.097994,0.021183,3.72664e-06,rs4954022,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+2,178362880,A,G,0.0312067,-0.238442,0.0521192,4.76359e-06,rs72951392,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+3,31021306,T,C,0.0100087,0.427085,0.0917816,3.26703e-06,rs114045554,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+5,67824887,T,C,0.149484,0.120733,0.0255037,2.20228e-06,rs12188472,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+8,20709989,G,A,0.0113102,0.441218,0.085731,2.65334e-07,rs138134798,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+8,83667747,C,T,0.0994442,0.150668,0.0304517,7.50772e-07,rs4613992,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+12,106703108,T,C,0.0145833,-0.372426,0.076279,1.04791e-06,rs117759348,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+16,74934346,G,T,0.0869526,-0.151738,0.0327754,3.66311e-06,rs72798651,5773,Anthranilate levels,TRUE,reported,Y5RuVn
+17,56534136,G,A,0.280525,0.100571,0.020376,7.98394e-07,rs894502,5773,Anthranilate levels,TRUE,reported,Y5RuVn

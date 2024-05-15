@@ -1,0 +1,4 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+2,233764663,T,C,0.326831,0.114335,0.0173086,3.95601e-11,rs4148325,7518,Histidine betaine (hercynine) levels,TRUE,reported,CGfn6B
+5,132295159,C,A,0.433266,0.110493,0.0166348,3.08869e-11,rs35260072,7518,Histidine betaine (hercynine) levels,TRUE,reported,CGfn6B
+6,110438805,G,A,0.241269,0.112893,0.0188928,2.29476e-09,rs12210538,7518,Histidine betaine (hercynine) levels,TRUE,reported,CGfn6B

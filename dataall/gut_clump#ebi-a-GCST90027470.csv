@@ -1,0 +1,7 @@
+chr.exposure,pos.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,id.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+6,124153278,0.0832945,0.0180977,4.17484e-06,7738,ebi-a-GCST90027470,rs12191883,C,T,0.476724,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd
+6,96078826,0.0973552,0.0212612,4.67175e-06,7738,ebi-a-GCST90027470,rs4472353,C,T,0.822923,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd
+10,103076252,-0.0898982,0.0183857,1.01056e-06,7738,ebi-a-GCST90027470,rs12415307,G,A,0.289443,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd
+15,98902733,-0.0855231,0.0182795,2.88809e-06,7738,ebi-a-GCST90027470,rs7182175,T,A,0.73131,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd
+17,59552338,0.0876717,0.0187876,3.06408e-06,7738,ebi-a-GCST90027470,rs8080416,C,T,0.255869,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd
+19,49744995,0.0929155,0.0200474,3.57306e-06,7738,ebi-a-GCST90027470,rs1716276,T,A,0.791532,GALACTUROCAT.PWY..D.galacturonate.degradation.I,TRUE,reported,igd

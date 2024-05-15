@@ -1,0 +1,2 @@
+chr.exposure,pos.exposure,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,SNP,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+4,22815619,G,A,0.851206,-0.517415,0.0213548,1.08834e-129,rs181558,8152,Ethyl beta-glucopyranoside levels,TRUE,reported,x2Vlvn

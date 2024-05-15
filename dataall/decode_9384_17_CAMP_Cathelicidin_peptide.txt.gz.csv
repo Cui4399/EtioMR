@@ -1,0 +1,5 @@
+chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,beta.exposure,pval.exposure,se.exposure,samplesize.exposure,eaf.exposure,exposure,mr_keep.exposure,pval_origin.exposure,id.exposure
+3,47305227,rs55771110,A,G,0.1017,1.155e-18,0.011532,35343,0.14938,CAMP_Cathelicidin_peptide,TRUE,reported,CAMP_Cathelicidin_peptide
+3,48081225,rs192030629,C,G,-0.3097,7.135e-20,0.033938,35344,0.01598,CAMP_Cathelicidin_peptide,TRUE,reported,CAMP_Cathelicidin_peptide
+3,48162266,rs35591959,TTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGAGA,TTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGAGA,-0.5199,3.619e-31,0.044776,35343,0.00851,CAMP_Cathelicidin_peptide,TRUE,reported,CAMP_Cathelicidin_peptide
+3,48943591,rs73082325,G,C,-0.1398,4.777e-10,0.022453,35344,0.03494,CAMP_Cathelicidin_peptide,TRUE,reported,CAMP_Cathelicidin_peptide
